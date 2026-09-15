@@ -37,7 +37,7 @@ def normlink(s):
     u=urllib.parse.urlsplit(html.unescape(s)); host=u.netloc.lower().removeprefix('www.')
     m=re.search(r'/item/(?:[^/]+/)?(\d+)\.html',u.path)
     if m and 'aliexpress' in host: return 'aliexpress:item:'+m[1]
-    return host+u.path.rstrip('/')+('?' +u.query if not any(x in host for x in ['aliexpress','ali.pub','alii.pub','ali.ski','aliclick']) else '')
+    return host+u.path.rstrip('/')+('?' +u.query if not any(x in host for x in ['aliexpress','ali.pub','alli.pub','alii.pub','ali.ski','aliclick']) else '')
 
 def category(t):
     rules=[
@@ -85,7 +85,9 @@ for post in posts:
             if host: domains[host]+=1
             if not label or not host or any(x in host for x in ['exler.','youtube','youtu.be','wikipedia','t.me']): continue
             if not re.search(r'ali|alli\.pub|banggood|gearbest|amazon|ozon|wildberries|jd\.com|joom|temu|cafago|geekbuying|dhgate|tomtop',host): continue
-            if re.search(r'распродаж|промокод|к[эе]шб[эе]к|страниц.*акци',label,re.I): continue
+            if re.search(r'распродаж|промокод|купон|к[эе]шб[эе]к|backit|страниц.*акци|горящие товары|бестселлеры|быстрая доставка|максимальные скидки|суперпредложения|лучшие предложения|фирменный магазин|официальный магазин|большой выбор',label,re.I): continue
+            if re.fullmatch(r'(?:первая|вторая|третья) ссылка',label,re.I): continue
+            if re.search(r'ссылк[аи].*(?:рф|росси)|для (?:рф|росси)|купить в рф', label, re.I): continue
             key=normlink(href)
             if key in seen: continue
             seen.add(key)
@@ -93,7 +95,7 @@ for post in posts:
             while p.parent and p.tag not in ('p','li'): p=p.parent
             context=clean(p.text())
             if len(context)>2500: context=st[:1500]
-            row=dict(post_id=int(post['id']),date=post['published_at'],post_url=post['url'],section=si,label=label,link=href,link_key=key,context=context,category=category(context[:220]),personal_marker=bool(re.search(r'я (?:себе |это |его |её |ее )?(?:купил|заказал|использую|пользуюсь)|у меня|себе купил|заказал себе|пользуюсь|использую|мне подарили',st,re.I)))
+            row=dict(post_id=int(post['id']),date=post['published_at'],post_url=post['url'],section=si,label=label,link=href,link_key=key,context=context,section_text=st,category=category(label if len(label)>15 else context[:150]),personal_marker=bool(re.search(r'я (?:себе |это |его |её |ее )?(?:купил|заказал|использую|пользуюсь)|у меня|себе купил|заказал себе|пользуюсь|использую|мне подарили',st,re.I)))
             rows.append(row);postrows.append(row)
     editions.append(dict(id=int(post['id']),date=post['published_at'],url=post['url'],placements=len(postrows)))
     seen_comments=set()
