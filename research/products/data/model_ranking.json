@@ -12,6 +12,54 @@
     "caveat": "Физический экземпляр и версия корпуса не устанавливаются по рассказу о семействе X3."
   },
   {
+    "model": "Xiaomi Mijia S700",
+    "key": "mijia-s700",
+    "all_named_mentions": 8,
+    "recommendation_editions": 6,
+    "primary": 3,
+    "secondary": 3,
+    "background": 2,
+    "different_variant": 0,
+    "self_reported_use_editions": 7,
+    "caveat": "Основных предложений 3, дополнительных положительных оценок 3. S700 не объединена с головкой. В истории предшественника расходятся S500/S300 и даты покупки."
+  },
+  {
+    "model": "Xiaomi Pad 7",
+    "key": "xiaomi-pad7",
+    "all_named_mentions": 5,
+    "recommendation_editions": 4,
+    "primary": 4,
+    "secondary": 0,
+    "background": 1,
+    "different_variant": 0,
+    "self_reported_use_editions": 5,
+    "caveat": "Pad 7 Pro исключён. Комплектации памяти могут различаться; опыт обзора не доказывает покупку."
+  },
+  {
+    "model": "Amazfit GTS 2 mini",
+    "key": "amazfit-gts2mini",
+    "all_named_mentions": 4,
+    "recommendation_editions": 4,
+    "primary": 4,
+    "secondary": 0,
+    "background": 0,
+    "different_variant": 0,
+    "self_reported_use_editions": 0,
+    "caveat": "Повторы модельного имени; ревизии не отождествлены. Обзоры GTS 2/GTS 2e не доказывают испытание mini."
+  },
+  {
+    "model": "Xiaomi Mijia S500",
+    "key": "mijia-s500",
+    "all_named_mentions": 4,
+    "recommendation_editions": 3,
+    "primary": 3,
+    "secondary": 0,
+    "background": 1,
+    "different_variant": 0,
+    "self_reported_use_editions": 1,
+    "caveat": "Отрицательная история 2023 года сохранена; позднее проблемный предшественник называется S300. Не исправляем название за автора."
+  },
+  {
     "model": "Xiaomi Mijia T700",
     "key": "mijia-t700",
     "all_named_mentions": 3,
@@ -70,6 +118,54 @@
     "different_variant": 0,
     "self_reported_use_editions": 0,
     "caveat": ""
+  },
+  {
+    "model": "Xiaomi Mijia S100",
+    "key": "mijia-s100",
+    "all_named_mentions": 2,
+    "recommendation_editions": 2,
+    "primary": 2,
+    "secondary": 0,
+    "background": 0,
+    "different_variant": 0,
+    "self_reported_use_editions": 2,
+    "caveat": ""
+  },
+  {
+    "model": "Xiaomi Mijia Bedside Lamp 2",
+    "key": "mijia-bedside2",
+    "all_named_mentions": 2,
+    "recommendation_editions": 2,
+    "primary": 2,
+    "secondary": 0,
+    "background": 0,
+    "different_variant": 0,
+    "self_reported_use_editions": 1,
+    "caveat": "В 2023 году своей названа первая версия, в 2025 — именно Lamp 2; непрерывность владения одной моделью не установлена."
+  },
+  {
+    "model": "ILIFE A30 PRO",
+    "key": "ilife-a30pro",
+    "all_named_mentions": 2,
+    "recommendation_editions": 2,
+    "primary": 2,
+    "secondary": 0,
+    "background": 0,
+    "different_variant": 0,
+    "self_reported_use_editions": 0,
+    "caveat": ""
+  },
+  {
+    "model": "HONOR Pad X9a",
+    "key": "honor-padx9a",
+    "all_named_mentions": 2,
+    "recommendation_editions": 2,
+    "primary": 2,
+    "secondary": 0,
+    "background": 0,
+    "different_variant": 0,
+    "self_reported_use_editions": 0,
+    "caveat": "Одна модельная линейка, две разные комплектации памяти; разрешение экрана в текстах расходится."
   },
   {
     "model": "MOVESPEED E20",

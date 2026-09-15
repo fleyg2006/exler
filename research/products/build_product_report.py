@@ -59,6 +59,49 @@ models = [
  ('qoovi-20000-45', 'QOOVI 20000 мАч PD 45 Вт', r'QOOVI.{0,25}45', {1894:('recommendation',True,'Куплен и проверен: ноутбук с 8 до 68%.'),1555:('background',True,'Опыт во время блэкаута; новая покупка в блоке — MOVESPEED для сына.'),1436:('secondary_recommendation',True,'Прямо советует для ноутбука вместо QOOVI 60000/22,5.')}, 'Идентичность по марке, ёмкости, мощности и авторской отсылке к тесту, без артикула.'),
  ('movespeed-e20', 'MOVESPEED E20', r'\bE20\b', {2282:('recommendation',False,''),1157:('background',True,'Уже есть и проверял; рекомендуемая новинка в блоке — M25 Pro.')}, 'В июльском тексте E20 имеет 2000 мАч, в декабрьском — 20000. Сохраняем расхождение; возможная опечатка.'),
 ]
+models.extend([
+ ('mijia-s700','Xiaomi Mijia S700',r'\bS700\b',{
+  4324:('recommendation',False,'Заказана; доставка ещё не подтверждена.'),
+  4284:('recommendation',True,'Приехала; первое бритьё и положительный вердикт.'),
+  3372:('recommendation',True,'Повторная рекомендация со снижением цены.'),
+  2811:('secondary_recommendation',True,'Сильная похвала внутри рассказа о замене скрежещущей головки.'),
+  2411:('secondary_recommendation',True,'Названа классной и долговечной при рекомендации S500.'),
+  1715:('background',True,'Собственная S700 — фон для S302.'),
+  586:('secondary_recommendation',True,'Повторная похвала долговечности в блоке S500.'),
+  337:('background',True,'Только владение и цена при рекомендации S500.')},
+  'Основных предложений 3, дополнительных положительных оценок 3. S700 не объединена с головкой. В истории предшественника расходятся S500/S300 и даты покупки.'),
+ ('mijia-s500','Xiaomi Mijia S500',r'\bS500\b',{
+  4324:('background',True,'Ретроспектива: нравилась, но быстро выходила из строя; не новая рекомендация.'),
+  2411:('recommendation',False,'Предлагается более дешёвая модель.'),
+  586:('recommendation',False,'Повторное предложение со скидкой.'),
+  337:('recommendation',False,'Положительная рекомендация по сниженной цене.')},
+  'Отрицательная история 2023 года сохранена; позднее проблемный предшественник называется S300. Не исправляем название за автора.'),
+ ('mijia-s100','Xiaomi Mijia S100',r'\bS100\b',{
+  5859:('recommendation',True,'Сообщает о трёх годах использования в поездках.'),
+  1195:('recommendation',True,'Сообщает о пяти годах использования.')},''),
+ ('xiaomi-pad7','Xiaomi Pad 7',r'\bXiaomi\s+Pad\s+7\b(?!\s+Pro)',{
+  543:('background',True,'Сравнение с рекомендуемым Pad 7 Pro; ссылка на свой обзор.'),
+  457:('recommendation',True,'Стартовая комплектация; ссылка на свой обзор.'),
+  136:('recommendation',True,'Повторная рекомендация; ссылка на свой обзор.'),
+  10655:('recommendation',True,'Рекомендация; 8/128 или больше.'),
+  10445:('recommendation',True,'Предыдущее поколение выгоднее Pad 8.')},
+  'Pad 7 Pro исключён. Комплектации памяти могут различаться; опыт обзора не доказывает покупку.'),
+ ('amazfit-gts2mini','Amazfit GTS 2 mini',r'\bGTS\s+2\s+mini\b',{
+  7414:('recommendation',False,''),7230:('recommendation',False,'Названа новой версией.'),
+  7043:('recommendation',False,'Названа новой версией; собственный обзор относится к GTS 2e.'),
+  6104:('recommendation',False,'Собственный обзор относится к GTS 2e.')},
+  'Повторы модельного имени; ревизии не отождествлены. Обзоры GTS 2/GTS 2e не доказывают испытание mini.'),
+ ('mijia-bedside2','Xiaomi Mijia Bedside Lamp 2',r'\bBedside\s+Lamp\s+2\b',{
+  6032:('recommendation',False,'Владение относится к первой версии.'),
+  629:('recommendation',True,'Сообщает о четырёх годах использования именно этой лампы.')},
+  'В 2023 году своей названа первая версия, в 2025 — именно Lamp 2; непрерывность владения одной моделью не установлена.'),
+ ('ilife-a30pro','ILIFE A30 PRO',r'\bILIFE\s+A30\s*PRO\b',{
+  90:('recommendation',False,'Сравнивает с лично обозревавшимся TP-Link, не смешивать опыт.'),
+  10655:('recommendation',False,'Повторная рекомендация; авторство упомянутого обзора не установлено.')},''),
+ ('honor-padx9a','HONOR Pad X9a',r'\bHONOR\s+Pad\s+X9a\b',{
+  18:('recommendation',False,'6/128 ГБ.'),10841:('recommendation',False,'8/256 ГБ.')},
+  'Одна модельная линейка, две разные комплектации памяти; разрешение экрана в текстах расходится.')
+])
 events = []
 ranking = []
 for key, title, pattern, labels, caveat in models:
@@ -69,6 +112,8 @@ for key, title, pattern, labels, caveat in models:
         match = re.search(pattern, p['body'], re.I)
         events.append({'model_key':key,'model':title,'post_id':pid,'date':p['published_at'],
                        'url':p['url'],'role':role,'self_reported_use':owned,'note':note,
+                       'recommendation_origin':'author' if role in ('recommendation','secondary_recommendation') else 'not_counted',
+                       'review_basis':'saved_author_post; no merchant page opened',
                        'excerpt':p['body'][max(0,match.start()-170):match.end()+330]})
     count = collections.Counter(v[0] for v in labels.values())
     rec = count['recommendation'] + count['secondary_recommendation']
