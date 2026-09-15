@@ -1,0 +1,57 @@
+# Биографии покупок: щётки, аккумуляторы, декантеры
+
+Срез 2026-09-15. Это хронология авторских сообщений. Дата поста — дата сообщения, не обязательно день покупки. Отсутствие продолжения не означает поломку, отказ от вещи или обман. Сатирическая оптика — [Неолурк](../../sources/neolurk-summary.md); готовые сцены — [SATIRE_CARDS.md](SATIRE_CARDS.md).
+
+## Щётка: верность семейству переживает отдельные экземпляры
+
+| Дата | Сообщение автора | Источник |
+|---|---|---|
+| 06.06.2021 | Несколько лет пользуется X3, представляет X3U | [№42](https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-42.htm) |
+| 20.06.2021 | X3U приехала, нравится больше, хотя прежняя X3 ещё рабочая; отмечает зарядку Type-C вместо крэдла | [№44](https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-44.htm) |
+| 19.12.2021 | Пользуется X3U, рекомендует повторно со скидкой | [№68](https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-68.htm) |
+| 08.05.2022 | X3U почти год у него и у сына | [№83](https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-83.htm) |
+| 26.02.2023 | Хвалит X3U выше двух присланных топовых Philips | [№119](https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-119.htm) |
+| 09.06.2024 | Говорит о пятом годе пользования X3 и нежелании менять модель | [№181](https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-181.htm) |
+| 07.07.2024 | Оторвал держатель крышки зарядного порта; сама щётка ещё работает. Выбирает X3S заранее, комплект с футляром и десятью насадками за €69 | [№185](https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-185.htm) |
+| 06.10.2024 | Рекомендует дизайнерскую X3U Van Gogh; говорит о пяти годах использования X3 и модификаций | [№196](https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-196.htm) |
+| 09.02.2025 | Называет своей используемой щёткой X3U; бюджетная рекомендация — T100 | [№209](https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-209.htm) |
+
+**Комический материал:** торжественная верность марке, несколько поколений устройства, запасной экземпляр и парк насадок. Между «не собираюсь менять» и поиском замены — 28 дней, но автор прямо объясняет повреждение. История не доказывает, что X3S приехала или стала основной. Обозначение X3 иногда используется как имя семейства: не изображать эти рассказы как достоверную биографию одного физического экземпляра.
+
+## Большие аккумуляторы: QOOVI → MOVESPEED → UGREEN
+
+| Дата | Сообщение автора | Источник |
+|---|---|---|
+| 22.12.2024 | Рекомендован MOVESPEED E20 20000/65; собственного владения в этом блоке не заявляет | [№203](https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-203.htm) |
+| 23.02.2025 | Купил QOOVI 20000/45 и проверил: ноутбук зарядился с 8 до 68% | [№211](https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-211.htm) |
+| 04.05.2025 | QOOVI пригодился при блэкауте. Заказал MOVESPEED 20000/65 для ноутбука сына: быстрее и дешевле | [№220](https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-220.htm) |
+| 11.05.2025 | MOVESPEED приехал, испытан; ноутбук зарядился на 65% | [№221](https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-221.htm) |
+| 25.05.2025 | Снова советует QOOVI 20000/45 для ноутбука вместо большого, но маломощного QOOVI 60000/22,5 | [№223](https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-223.htm) |
+| 13.07.2025 | Ugreen 20000/100 за €103 считает перебором, Baseus за €67 дороговатым. Предлагает M25 Pro 25000/140 за €38; E20 уже есть, новый тоже намерен купить — дома три ноутбука | [№229](https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-229.htm) |
+| 05.10.2025 | Разоблачает аккумулятор «типа Xiaomi» с завышенными параметрами; рекомендует M25Pro, своим называет прежний 20000/65 | [№240](https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-240.htm) |
+| 30.11.2025 | Приехала серия устройств UGREEN. Nexode 20000/165 испытан на ноутбуке; высокая цена оправдана качеством, UGREEN назван номером один в сегменте | [№248](https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-248.htm) |
+| 01.03.2026 | У сына UGREEN Nexode 20000/45; сам пользуется более мощным UGREEN, ссылается на прежний выпуск | [№259](https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-259.htm) |
+
+Это последовательность сообщений о нескольких устройствах в семье, а не доказанная цепочка выбрасывания старых батарей. Безымянный MOVESPEED 20000/65 из майских постов не слит автоматически с E20, хотя параметры похожи. Не установлено, что UGREEN подарен или обзор оплачен: «приехало» этого не доказывает. Июльский и ноябрьский UGREEN имеют разную мощность.
+
+**Комический материал:** гибкость обоснований. Дешевле — победа разумного выбора; дороже — достойное качество; ещё один — потому что ноутбуков несколько. Для пародии годится смена аргумента при сохранении уверенного тона, без выдуманного обвинения в подкупе.
+
+## Маленькие аккумуляторы: коллекция названа коллекцией самим автором
+
+- [16.06.2024, №182](https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-182.htm): испытал компактный MOVESPEED 5000; заказывает ещё пару жене и сыну. Использует батареи в наплечной и велосипедной сумках.
+- [05.01.2025, №204](https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-204.htm): сообщает о пополнении коллекции компактных аккумуляторов, описывает 5000 мАч с кабелем и дисплеем.
+- [19.01.2025, №206](https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-206.htm): QOOVI 5000 куплен и проверен; назван даже лучше компактного MOVESPEED, который исчез из продажи.
+- [21.09.2025, №239](https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-239.htm): для поездки выбирает MOVESPEED MagSafe 10000 — надоело возиться с кабелями, а 5000 уже есть.
+- [14.06.2026, №273](https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-273.htm): очередное пополнение коллекции — Vention 5000/20 со встроенным кабелем.
+
+**Комический материал:** у маленькой вещи появляется большая организационная жизнь — отдельные сумки, родственники, сценарии и преемники. Два безымянных устройства не объявляем одинаковыми только по ёмкости.
+
+## Декантер: сначала необязателен, затем необходим для нескучной жизни
+
+- [28.08.2022, №96](https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-96.htm): предпочитает удобный аэратор; пишет, что с ним можно обходиться без декантеров.
+- [26.03.2023, №123](https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-123.htm): заказывает необычный декантер-аэратор — нравится вид, произведёт впечатление на гостей.
+- [11.08.2024, №189](https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-189.htm): заказывает вариант с айсбергом; старому около семи лет, он скучный.
+- [27.04.2025, №219](https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-219.htm): необычную форму обосновывает уже практичностью узкого сливного горлышка и сравнением €70/€10.
+- [14.09.2025, №238](https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-238.htm) и [01.02.2026, №255](https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-255.htm): новые предложения декантеров, без подтверждённой личной покупки в этих блоках.
+
+**Комический материал:** техническая необходимость отпала, эстетическая осталась. Старый декантер мог продолжать служить наряду с новым; дальнейшая судьба заказа 2023 года не прослежена. История «семилетнего декантера» не доказывает ложь о предыдущем заказе.

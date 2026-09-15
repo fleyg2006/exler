@@ -1,0 +1,16 @@
+{
+  "editions": 237,
+  "period": [
+    "2021-05-23 09:01:00",
+    "2026-06-14 09:00:00"
+  ],
+  "link_candidates": 2712,
+  "distinct_link_keys": 2660,
+  "extracted_sections_with_links": 2308,
+  "reviewed_model_names": 9,
+  "reviewed_model_edition_events": 26,
+  "verified_recommendation_events_in_reviewed_set": 21,
+  "all_corpus_exact_recommendations": null,
+  "all_corpus_unique_products": null,
+  "limitations": "Reviewed model set is purposive, not a global top. Keyword themes include comparisons and accessories. Link extraction can miss links; source article names independently checked for reviewed models."
+}

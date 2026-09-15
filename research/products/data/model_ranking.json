@@ -1,0 +1,110 @@
+[
+  {
+    "model": "Soocas X3U, обычная версия",
+    "key": "soocas-x3u",
+    "all_named_mentions": 9,
+    "recommendation_editions": 6,
+    "primary": 4,
+    "secondary": 2,
+    "background": 2,
+    "different_variant": 1,
+    "self_reported_use_editions": 6,
+    "caveat": "Физический экземпляр и версия корпуса не устанавливаются по рассказу о семействе X3."
+  },
+  {
+    "model": "Xiaomi Mijia T700",
+    "key": "mijia-t700",
+    "all_named_mentions": 3,
+    "recommendation_editions": 3,
+    "primary": 3,
+    "secondary": 0,
+    "background": 0,
+    "different_variant": 0,
+    "self_reported_use_editions": 0,
+    "caveat": "Одинаковое модельное имя; аппаратные ревизии не проверены."
+  },
+  {
+    "model": "MOVESPEED M25 Pro",
+    "key": "movespeed-m25pro",
+    "all_named_mentions": 3,
+    "recommendation_editions": 3,
+    "primary": 3,
+    "secondary": 0,
+    "background": 0,
+    "different_variant": 0,
+    "self_reported_use_editions": 0,
+    "caveat": "Одно название, но разные описания мощностей. Три публикации о модельном имени, не доказательство одной аппаратной версии."
+  },
+  {
+    "model": "QOOVI 20000 мАч PD 45 Вт",
+    "key": "qoovi-20000-45",
+    "all_named_mentions": 3,
+    "recommendation_editions": 2,
+    "primary": 1,
+    "secondary": 1,
+    "background": 1,
+    "different_variant": 0,
+    "self_reported_use_editions": 3,
+    "caveat": "Идентичность по марке, ёмкости, мощности и авторской отсылке к тесту, без артикула."
+  },
+  {
+    "model": "Xiaomi Mijia T100",
+    "key": "mijia-t100",
+    "all_named_mentions": 2,
+    "recommendation_editions": 2,
+    "primary": 2,
+    "secondary": 0,
+    "background": 0,
+    "different_variant": 0,
+    "self_reported_use_editions": 0,
+    "caveat": ""
+  },
+  {
+    "model": "MOVESPEED MSP17",
+    "key": "movespeed-msp17",
+    "all_named_mentions": 2,
+    "recommendation_editions": 2,
+    "primary": 2,
+    "secondary": 0,
+    "background": 0,
+    "different_variant": 0,
+    "self_reported_use_editions": 0,
+    "caveat": ""
+  },
+  {
+    "model": "MOVESPEED E20",
+    "key": "movespeed-e20",
+    "all_named_mentions": 2,
+    "recommendation_editions": 1,
+    "primary": 1,
+    "secondary": 0,
+    "background": 1,
+    "different_variant": 0,
+    "self_reported_use_editions": 1,
+    "caveat": "В июльском тексте E20 имеет 2000 мАч, в декабрьском — 20000. Сохраняем расхождение; возможная опечатка."
+  },
+  {
+    "model": "Soocas X3S",
+    "key": "soocas-x3s",
+    "all_named_mentions": 1,
+    "recommendation_editions": 1,
+    "primary": 1,
+    "secondary": 0,
+    "background": 0,
+    "different_variant": 0,
+    "self_reported_use_editions": 0,
+    "caveat": ""
+  },
+  {
+    "model": "Soocas D3",
+    "key": "soocas-d3",
+    "all_named_mentions": 1,
+    "recommendation_editions": 1,
+    "primary": 1,
+    "secondary": 0,
+    "background": 0,
+    "different_variant": 0,
+    "self_reported_use_editions": 0,
+    "caveat": ""
+  }
+]
