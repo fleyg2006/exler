@@ -1,0 +1,734 @@
+{
+  "checked_at": "2026-09-18",
+  "urls": [
+    {
+      "url": "https://exler.es/blog/novosti-ventilyatornogo-zavoda-2.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-001",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/blog/plany-po-obzoram-11.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-002",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/blog/izdaniye-el-pais-redkostnyye-zhloby.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-003",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/blog/ya-ne-tormoz.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-004",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1567883.html?thread=109747339#t109747339",
+      "uses": [
+        {
+          "case_id": "FAIL-004",
+          "role": "cult_lead"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/expromt/obzor-novogo-topovogo-plansheta-xiaomi-pad-6.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-005",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/blog/kulernyye-stradaniya.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-006",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/blog/chayniki-i-termopoty.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-007",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/blog/comments/chayniki-i-termopoty.htm#1g0b8",
+      "uses": [
+        {
+          "case_id": "FAIL-007",
+          "role": "author_reply"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/blog/vozvrat-tovara-na-aliexpress.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-008",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/blog/zolotaya-dynya.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-009",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/blog/bystraya-fleshka-2.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-010",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/blog/novyye-krossovki-asics.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-011",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/blog/vozvrat-k-monitoru.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-012",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/blog/kak-nepravilno-ya-zhil-vse-vremya-do-etogo.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-013",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/blog/strannyy-oblom.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-014",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/blog/apartamenty-ryadom-s-plyazhem.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-015",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/blog/prokatnaya-khonda-dzhaz.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-016",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/blog/nu-ya-vchera-vydal.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-017",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/blog/blokirovka-scheta-v-ispanii.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-018",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/blog/kak-ya-vchera-popal-s-noutbukom.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-019",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1563707.html?thread=106085435#t106085435",
+      "uses": [
+        {
+          "case_id": "FAIL-019",
+          "role": "cult_lead"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/blog/chut-ne-kupilsya.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-020",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/blog/strannyye-spisaniya-s-karty.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-021",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-200.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-022",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/blog/soobshcheniye-ob-oshibke-na-sayte-so-smartfona.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-023",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/blog/uvedomleniya-vosstanovili.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-024",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1567883.html?thread=109628811#t109628811",
+      "uses": [
+        {
+          "case_id": "FAIL-024",
+          "role": "cult_lead"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/likbez/kak-nastroit-avtoposting-rss-v-telegram-kanal.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-025",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/blog/ya-vernulsya-8.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-026",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1565796.html?thread=108063332#t108063332",
+      "uses": [
+        {
+          "case_id": "FAIL-026",
+          "role": "cult_lead"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/blog/bolshaya-pobeda.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-027",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/blog/bolgarskoye-radio.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-027",
+          "role": "supporting_primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1566858.html?thread=108830858#t108830858",
+      "uses": [
+        {
+          "case_id": "FAIL-027",
+          "role": "cult_lead"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/blog/razvod-na-dengi-pytayus-ponyat.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-028",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://support.google.com/accounts/answer/7026266?co=GENIE.Platform%3DAndroid&hl=en",
+      "uses": [
+        {
+          "case_id": "FAIL-028",
+          "role": "supporting_primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/blog/klaviatura-ot-btc-realno-ubivaet.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-029",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/blog/menya-podstavili.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-030",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.livejournal.com/1524772.html",
+      "uses": [
+        {
+          "case_id": "FAIL-031",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://neolurk.org/wiki/Алекс_Экслер",
+      "uses": [
+        {
+          "case_id": "FAIL-031",
+          "role": "satirical_wiki_context"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/blog/poyezdka-na-teyde.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-032",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1565796.html?thread=108006244#t108006244",
+      "uses": [
+        {
+          "case_id": "FAIL-032",
+          "role": "cult_lead"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-260.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-033",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1566858.html?thread=108682634#t108682634",
+      "uses": [
+        {
+          "case_id": "FAIL-033",
+          "role": "cult_lead"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/blog/termopot-2.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-034",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/blog/smes-spetsiy-dlya-kuritsy.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-035",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/blog/its-a-vegetable-c.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-036",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/expromt/obzor-robota-pylesosa-tp-link-tapo-rv30-max-plus.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-037",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/blog/planshet-redmi-pad-pro.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-038",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/blog/otkryl-dlya-sebya-karcher.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-039",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-185.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-040",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/expromt/obzor-novogo-topovogo-plansheta-xiaomi-pad-7.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-041",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/expromt/comments/obzor-novogo-topovogo-plansheta-xiaomi-pad-7.htm#1h5gi",
+      "uses": [
+        {
+          "case_id": "FAIL-041",
+          "role": "author_reply"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/expromt/obzor-flagmanskogo-smartfona-google-pixel-10-pro-xl.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-042",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/expromt/comments/obzor-flagmanskogo-smartfona-google-pixel-10-pro-xl.htm#1jv4g",
+      "uses": [
+        {
+          "case_id": "FAIL-042",
+          "role": "author_reply"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/expromt/obzor-byudzhetnogo-smartfona-freeyond-m6.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-043",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/expromt/comments/obzor-byudzhetnogo-smartfona-freeyond-m6.htm#1a8n3",
+      "uses": [
+        {
+          "case_id": "FAIL-043",
+          "role": "author_reply"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/expromt/comments/obzor-byudzhetnogo-smartfona-freeyond-m6.htm#1a8nc",
+      "uses": [
+        {
+          "case_id": "FAIL-043",
+          "role": "author_reply"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/expromt/obzor-tws-naushnikov-apple-airpods-pro-magsafe.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-044",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/expromt/comments/obzor-tws-naushnikov-apple-airpods-pro-magsafe.htm#ywit",
+      "uses": [
+        {
+          "case_id": "FAIL-044",
+          "role": "author_reply"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/expromt/obzor-smartfona-xiaomi-12x-kto-hotel-kompaktnyj-i-moshnyj.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-045",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-xiaomi-12x-kto-hotel-kompaktnyj-i-moshnyj.htm#11s4k",
+      "uses": [
+        {
+          "case_id": "FAIL-045",
+          "role": "author_reply"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/blog/smartfon-realme-neo-7.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-046",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/blog/comments/smartfon-realme-neo-7.htm#1fs7y",
+      "uses": [
+        {
+          "case_id": "FAIL-046",
+          "role": "author_reply"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/blog/a-vot-komu-pentkhaus-s-vidom-na-tsentralnyy-park.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-047",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/blog/comments/a-vot-komu-pentkhaus-s-vidom-na-tsentralnyy-park.htm#1h82h",
+      "uses": [
+        {
+          "case_id": "FAIL-047",
+          "role": "author_reply"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/blog/komu-naturalnyye-produkty.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-048",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/blog/comments/komu-naturalnyye-produkty.htm#1f0rg",
+      "uses": [
+        {
+          "case_id": "FAIL-048",
+          "role": "author_reply"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/blog/v-ispanii-mozhno-kupit-krutuyu-mashinu.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-049",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/blog/comments/v-ispanii-mozhno-kupit-krutuyu-mashinu.htm#18iai",
+      "uses": [
+        {
+          "case_id": "FAIL-049",
+          "role": "author_reply"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/films/chyornyj-chemodan-dvojnaya-igra.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-050",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/films/comments/chyornyj-chemodan-dvojnaya-igra.htm#1hy1v",
+      "uses": [
+        {
+          "case_id": "FAIL-050",
+          "role": "author_reply"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/films/glavnaya-rol.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-051",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/films/comments/glavnaya-rol.htm#11e31",
+      "uses": [
+        {
+          "case_id": "FAIL-051",
+          "role": "author_reply"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/films/soperniki.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-052",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/films/comments/soperniki.htm#1cnfc",
+      "uses": [
+        {
+          "case_id": "FAIL-052",
+          "role": "author_reply"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/blog/dva-mira-dva-pis-dila.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-053",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/blog/comments/dva-mira-dva-pis-dila.htm#1hq63",
+      "uses": [
+        {
+          "case_id": "FAIL-053",
+          "role": "author_reply"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/films/aferisty-1.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-054",
+          "role": "primary"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/films/comments/aferisty-1.htm#1ati3",
+      "uses": [
+        {
+          "case_id": "FAIL-054",
+          "role": "author_reply"
+        }
+      ]
+    },
+    {
+      "url": "https://exler.es/blog/dlya-uluchsheniya-kachestva-obsluzhivaniya.htm",
+      "uses": [
+        {
+          "case_id": "FAIL-055",
+          "role": "primary"
+        }
+      ]
+    }
+  ]
+}
