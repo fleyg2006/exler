@@ -1,0 +1,366 @@
+{
+  "checked_at": "2026-09-18",
+  "scope": "Public biography; sources are not independent verification of every self-report.",
+  "sources": [
+    {
+      "id": "B01",
+      "title": "Интервью Сергею Сладкову, Jewish.ru",
+      "published_at": "2001-07-27",
+      "type": "interview",
+      "url": "https://jewish.ru/ru/interviews/articles/1082/",
+      "note": "Раннее интервью с биографической справкой."
+    },
+    {
+      "id": "B02",
+      "title": "Онлайн-интервью читателям E1",
+      "published_at": "2003-04-22",
+      "type": "interview",
+      "url": "https://www.e1.ru/text/gorod/2003/04/22/69797432/",
+      "note": "Учёба и техническая карьера; конкретные проекты описывает сам собеседник."
+    },
+    {
+      "id": "B03",
+      "title": "Авторская страница издательства МИФ",
+      "published_at": null,
+      "type": "publisher_profile",
+      "url": "https://www.mann-ivanov-ferber.ru/authors/exler/",
+      "note": "Историческая справка о книгах и радио. Дата публикации отсутствует; количественные показатели не считать текущими."
+    },
+    {
+      "id": "B04",
+      "title": "Музей сайта",
+      "published_at": null,
+      "type": "author_retrospective",
+      "url": "https://exler.es/info/museum.htm",
+      "note": "Ранние версии сайта, участники и даты. Это воспоминания владельца."
+    },
+    {
+      "id": "B05",
+      "title": "Сайту Exler.ru — 10 лет!",
+      "published_at": "2009-01-14",
+      "type": "author_retrospective",
+      "url": "https://exler.es/archive/sajtu-exler-ru-10-let.htm",
+      "note": "Авторская ретроспектива развития проекта."
+    },
+    {
+      "id": "B06",
+      "title": "Письмо Леонида Каганова о пяти Экслерах",
+      "published_at": "1997-04",
+      "type": "satirical_primary",
+      "url": "https://www.exler.es/archive/lleo.htm",
+      "note": "Розыгрыш. В теле письма апрель 1997-го; дата архивной страницы 2000-го вводит в заблуждение."
+    },
+    {
+      "id": "B07",
+      "title": "Фидошный концерт 1997 года",
+      "published_at": "2019-03-12",
+      "type": "author_post",
+      "url": "https://exler.es/blog/fidoshnyy-kontsert-1997-goda.htm",
+      "note": "Прочитан анонс с авторским комментарием; видеозапись отдельно не анализировалась."
+    },
+    {
+      "id": "B08",
+      "title": "FFAD: большое интервью, часть 1",
+      "published_at": "2019-04",
+      "type": "interview_archive",
+      "url": "https://web.archive.org/web/20220606233001/https://ffad.ru/blog/ogromnoe-intervyu-s-aleksom-ekslerom-o-0304190836",
+      "note": "Архивная копия; интервьюер — коммерческий партнёр автора."
+    },
+    {
+      "id": "B09",
+      "title": "FFAD: большое интервью, часть 2",
+      "published_at": "2019-04",
+      "type": "interview_archive",
+      "url": "https://web.archive.org/web/20220514115058/https://ffad.ru/blog/ogromnoe-intervyu-s-aleksom-ekslerom-ch-0504191411",
+      "note": "Монетизация, тиражи и аудитория со слов владельца; не бухгалтерская отчётность."
+    },
+    {
+      "id": "B10",
+      "title": "FFAD: большое интервью, часть 3",
+      "published_at": "2019-04",
+      "type": "interview_archive",
+      "url": "https://web.archive.org/web/20220818010717/https://ffad.ru/blog/ogromnoe-intervyu-c-aleksom-ekslerom-cha-1104191824",
+      "note": "Испания, режим работы, публичные роли. Относительная хронология переезда неоднозначна."
+    },
+    {
+      "id": "B11",
+      "title": "Как сделать себя в Интернете: советы от Алекса Экслера",
+      "published_at": "2011-04-25",
+      "type": "interview",
+      "url": "https://www.golosameriki.com/a/internet-bloger-alex-ekler-2011-04-25-120645839/233595.html",
+      "note": "Разговор Виктории Купчинецкой: издательский путь, развлекательная проза, политические суждения."
+    },
+    {
+      "id": "B12",
+      "title": "Интервью ЛитРес",
+      "published_at": null,
+      "type": "interview",
+      "url": "https://www.litres.ru/cms/intervju/aleks-eksler/",
+      "note": "Чтение, электронные книги, издательская самостоятельность. Дата интервью не установлена."
+    },
+    {
+      "id": "B13",
+      "title": "Моя радиопередача «ЭКС-файлы»",
+      "published_at": "2005-06-07",
+      "type": "author_post",
+      "url": "https://exler.es/blog/moya-radioperedacha-eks-fajly.htm",
+      "note": "Ежедневная программа и список станций-покупателей на дату записи."
+    },
+    {
+      "id": "B14",
+      "title": "Мои передачи на «Радио России»",
+      "published_at": "2007-06-07",
+      "type": "author_post",
+      "url": "https://exler.es/blog/moi-peredachi-na-quot-radio-rossii-quot.htm",
+      "note": "Анонс прекращения программы с июля, связь передачи с «Ликбезом»."
+    },
+    {
+      "id": "B15",
+      "title": "В воскресенье буду на «Радио России»",
+      "published_at": "2007-11-16",
+      "type": "author_post",
+      "url": "https://exler.es/blog/v-voskresene-budu-na-quot-radio-rossii-quot.htm",
+      "note": "Анонс гостевого эфира 18 ноября; не доказательство возобновления постоянной передачи."
+    },
+    {
+      "id": "B16",
+      "title": "Книжечки",
+      "published_at": "2005-12-19",
+      "type": "author_post",
+      "url": "https://exler.es/blog/knizhechki.htm",
+      "note": "Продажи «Арии князя Игоря» и завершение рукописи «Лелика»."
+    },
+    {
+      "id": "B17",
+      "title": "Вышел «Лелик»",
+      "published_at": "2006-03-20",
+      "type": "author_post",
+      "url": "https://exler.es/blog/vyshel-lelik.htm",
+      "note": "Сообщение о получении книги из типографии и начале продаж."
+    },
+    {
+      "id": "B18",
+      "title": "Книжки",
+      "published_at": "2007-07-14",
+      "type": "author_post",
+      "url": "https://exler.es/blog/knizhki.htm",
+      "note": "Число 48 относится к изданиям; названия всех томов по фотографии не восстанавливались."
+    },
+    {
+      "id": "B19",
+      "title": "Издательские новости",
+      "published_at": "2008-06-09",
+      "type": "author_post",
+      "url": "https://exler.es/blog/izdatelskie-novosti-1.htm",
+      "note": "«ЭКСпромт» и АСТ, новые учебники; отправка в типографию и выход в продажу различаются."
+    },
+    {
+      "id": "B20",
+      "title": "1000-я рецензия на сайте",
+      "published_at": "2011-02-17",
+      "type": "author_post",
+      "url": "https://exler.es/blog/1000-ya-recenziya-na-sajte.htm",
+      "note": "Приблизительный юбилей с оговоркой самого автора о составе счётчика."
+    },
+    {
+      "id": "B21",
+      "title": "Моя новая повесть",
+      "published_at": "2018-03-19",
+      "type": "author_post",
+      "url": "https://exler.es/blog/moya-novaya-povest.htm",
+      "note": "Публикация «Кеши», описание замысла и отношения к редактированию."
+    },
+    {
+      "id": "B22",
+      "title": "Моя книга «Похудеть — это просто»",
+      "published_at": "2018-09-11",
+      "type": "author_post",
+      "url": "https://exler.es/blog/moya-kniga-pokhudet-eto-prosto.htm",
+      "note": "Электронная книга из цикла статей. Поздние дополнения страницы не датированы отдельно."
+    },
+    {
+      "id": "B23",
+      "title": "Ответы на ЧАВО",
+      "published_at": "2012-09-22",
+      "type": "author_policy",
+      "url": "https://exler.es/info/faq.htm",
+      "note": "На странице указано обновление, не дата рождения всех правил и рассказанных эпизодов."
+    },
+    {
+      "id": "B24",
+      "title": "Я здесь впервые",
+      "published_at": null,
+      "type": "author_presentation",
+      "url": "https://exler.es/info/firsttime.htm",
+      "note": "Самоописание проекта и авторской роли; динамическая страница без установленной даты редакции."
+    },
+    {
+      "id": "B25",
+      "title": "По поводу этого дневника",
+      "published_at": "2005-11-28",
+      "type": "author_post",
+      "url": "https://exler.es/blog/po-povodu-etogo-dnevnika.htm",
+      "note": "Самостоятельный блог, импорт архива ЖЖ, RSS."
+    },
+    {
+      "id": "B26",
+      "title": "По поводу нового движка сайта",
+      "published_at": "2018-04-09",
+      "type": "author_post",
+      "url": "https://exler.es/blog/po-povodu-novogo-dvizka-sajta.htm",
+      "note": "Работа новой версии сайта; дата записи не тождественна дате запуска."
+    },
+    {
+      "id": "B27",
+      "title": "Калейя",
+      "published_at": "2012-05-25",
+      "type": "author_post",
+      "url": "https://exler.es/blog/kalejya.htm",
+      "note": "Наблюдение из Испании; постоянное переселение этим не доказано."
+    },
+    {
+      "id": "B28",
+      "title": "Вести с дачи",
+      "published_at": "2013-01-15",
+      "type": "author_post",
+      "url": "https://exler.es/blog/vesti-s-dachi.htm",
+      "note": "Планы очередной поездки; не документ об эмиграции."
+    },
+    {
+      "id": "B29",
+      "title": "Mommy I'm home!",
+      "published_at": "2013-02-26",
+      "type": "author_post",
+      "url": "https://exler.es/blog/mommy-i-039-m-home-1.htm",
+      "note": "Сообщение о возвращении в Каталонию."
+    },
+    {
+      "id": "B30",
+      "title": "Сергей Вильянов: в гостях у Алекса Экслера",
+      "published_at": "2015-03-06",
+      "type": "third_party_observation",
+      "url": "https://vilianov.com/world/v-gostyah-u-aleksa-ekslera-calella-rent-a-house/",
+      "note": "Личный визит подтверждает проживание в Калейе к этой дате, не год переезда."
+    },
+    {
+      "id": "B31",
+      "title": "Сайт Exler.ru — 23 года в прямом эфире!",
+      "published_at": "2022-01-14",
+      "type": "author_retrospective",
+      "url": "https://exler.es/blog/sayt-exlerru-23-goda-v-pryamom-efire.htm",
+      "note": "Автор сообщает о восстановившейся монетизации; оглядывается на кризис 2017-го."
+    },
+    {
+      "id": "B32",
+      "title": "Сайт www.exler.es",
+      "published_at": "2022-03-08",
+      "type": "author_post",
+      "url": "https://exler.es/blog/sayt-wwwexleres.htm",
+      "note": "Предложение использовать .es; не сообщение о прекращении делегирования .ru."
+    },
+    {
+      "id": "B33",
+      "title": "The Insider: сообщения о блокировках сайтов",
+      "published_at": "2022-05-24",
+      "type": "news_report",
+      "url": "https://theins.ru/news/251552",
+      "note": "Новостная публикация о блокировке, со ссылкой на Роскомсвободу."
+    },
+    {
+      "id": "B34",
+      "title": "Вопрос по поводу доменов Exler.ru",
+      "published_at": "2023-03-20",
+      "type": "author_post",
+      "url": "https://exler.es/blog/vopros-po-povodu-domenov-exlerru.htm",
+      "note": "Автор по-прежнему называет .ru основным адресом вне России; обсуждает зеркала."
+    },
+    {
+      "id": "B35",
+      "title": "ОВД-Инфо: пополнение реестра «иноагентов»",
+      "published_at": "2025-05-30",
+      "type": "news_report",
+      "url": "https://ovd.info/express-news/2025/05/30/minyust-priznal-inoagentom-soosnovatelya-ovd-info-grigoriya-okhotina",
+      "note": "Среди перечисленных лиц — Алекс Экслер. Страница Минюста по ссылке недоступна для прочтения."
+    },
+    {
+      "id": "B36",
+      "title": "Пришло признание",
+      "published_at": "2025-05-30",
+      "type": "author_post",
+      "url": "https://exler.es/blog/prishlo-priznaniye.htm",
+      "note": "Публичная реакция автора на включение в реестр."
+    },
+    {
+      "id": "B37",
+      "title": "Сайту Exler.ru очень нужна ваша помощь!",
+      "published_at": "2025-12-06",
+      "type": "author_post",
+      "url": "https://exler.es/blog/saytu-exlerru-ochen-nuzhna-vasha-pomoshch.htm",
+      "note": "Заявленная потеря аудитории, просьба о поддержке, клуб с дополнительным контентом."
+    },
+    {
+      "id": "B38",
+      "title": "Exler.ru теперь становится Exler.es",
+      "published_at": "2025-12-15",
+      "type": "author_post",
+      "url": "https://exler.es/blog/exlerru-teper-stanovitsya-exleres.htm",
+      "note": "Сообщение о разделегировании .ru с опубликованным текстом письма. Независимой проверки письма нет."
+    },
+    {
+      "id": "B39",
+      "title": "Отряхнули прах с ног",
+      "published_at": "2026-01-05",
+      "type": "author_post",
+      "url": "https://exler.es/blog/otrinuli-prakh-s-nog.htm",
+      "note": "Смена обозначения сайта; отдельно отмечены исправления мобильной версии."
+    },
+    {
+      "id": "B40",
+      "title": "+60",
+      "published_at": "2026-01-28",
+      "type": "author_post",
+      "url": "https://exler.es/blog/60.htm",
+      "note": "Шестидесятилетие и публичное самоописание здоровья. Не медицинский документ."
+    },
+    {
+      "id": "B41",
+      "title": "Домен Exler.me",
+      "published_at": "2026-04-03",
+      "type": "author_post",
+      "url": "https://exler.es/blog/domen-exlerme.htm",
+      "note": "Просьба сменить закладки на .es; намерение перенаправлять .me."
+    },
+    {
+      "id": "B42",
+      "title": "Обсуждение системы платной подписки",
+      "published_at": null,
+      "type": "author_post_backdated",
+      "url": "https://exler.es/blog/obsuzhdeniye-sistemy-platnoy-podpiski.htm",
+      "note": "Автор прямо предупреждает о постановке задним числом. Заголовочная дата 2005-04-09 не датирует запуск подписки."
+    },
+    {
+      "id": "B43",
+      "title": "Николаю Александрову не понравилось",
+      "published_at": "2006-03-17",
+      "type": "author_post",
+      "url": "https://exler.es/blog/nikolayu-aleksandrovu-ne-ponravilos.htm",
+      "note": "Прочитана реакция Экслера, а не сама рецензия Александрова."
+    },
+    {
+      "id": "B44",
+      "title": "Какое радио я слушаю",
+      "published_at": "2007-10-23",
+      "type": "author_post",
+      "url": "https://exler.es/blog/kakoe-radio-ya-slushayu.htm",
+      "note": "Предпочтения слушателя на конкретную дату, не собственный список передач ведущего."
+    },
+    {
+      "id": "B45",
+      "title": "Подписка на сайте",
+      "published_at": null,
+      "type": "author_policy",
+      "url": "https://exler.es/info/subscribe_m.htm",
+      "note": "Доступность основного сайта и условия поддержки; отличать от отдельного Patreon-клуба."
+    }
+  ]
+}
