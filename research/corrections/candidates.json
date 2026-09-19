@@ -1,0 +1,5496 @@
+{
+  "selection_note": "Поиск выполнялся по текстам строк БД, затем цитаты читателей отделены по DOM. Совпадение строки не равно факту ошибки.",
+  "rows": [
+    {
+      "comment_id": 1232235,
+      "post_id": 22,
+      "commented_at": "2026-01-24 17:56:00",
+      "anchor": "1lr5s",
+      "url": "https://exler.es/blog/comments/diskoburbulyator.htm#1lr5s",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 13966,
+      "post_id": 94,
+      "commented_at": "2026-01-10 18:58:00",
+      "anchor": "1ljpr",
+      "url": "https://exler.es/blog/comments/vladimir-milov-o-leonide-volkove.htm#1ljpr",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 15972,
+      "post_id": 108,
+      "commented_at": "2026-01-08 12:27:00",
+      "anchor": "1li0p",
+      "url": "https://exler.es/films/comments/grabitel-s-kryshi.htm#1li0p",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 18983,
+      "post_id": 131,
+      "commented_at": "2026-01-05 19:04:00",
+      "anchor": "1lg1a",
+      "url": "https://exler.es/films/comments/odna-iz-mnogih.htm#1lg1a",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 19011,
+      "post_id": 131,
+      "commented_at": "2026-01-05 13:04:00",
+      "anchor": "1lfs7",
+      "url": "https://exler.es/films/comments/odna-iz-mnogih.htm#1lfs7",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 22922,
+      "post_id": 162,
+      "commented_at": "2025-12-30 11:51:00",
+      "anchor": "1lcmc",
+      "url": "https://exler.es/blog/comments/teplaya-lampovaya-rozhdestvenskaya-reklama.htm#1lcmc",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 23598,
+      "post_id": 171,
+      "commented_at": "2025-12-29 22:31:00",
+      "anchor": "1lcgc",
+      "url": "https://exler.es/films/comments/avatar-plamya-i-pepel.htm#1lcgc",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 23559,
+      "post_id": 171,
+      "commented_at": "2025-12-29 17:49:00",
+      "anchor": "1lcac",
+      "url": "https://exler.es/films/comments/avatar-plamya-i-pepel.htm#1lcac",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 25722,
+      "post_id": 194,
+      "commented_at": "2025-12-25 10:43:00",
+      "anchor": "1lajh",
+      "url": "https://exler.es/blog/comments/s-rozhdestvom-3.htm#1lajh",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 26027,
+      "post_id": 196,
+      "commented_at": "2025-12-24 18:03:00",
+      "anchor": "1ladf",
+      "url": "https://exler.es/blog/comments/rasstrelyali-menya-synok-s.htm#1ladf",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 26125,
+      "post_id": 197,
+      "commented_at": "2025-12-24 12:23:00",
+      "anchor": "1la7i",
+      "url": "https://exler.es/blog/comments/pryam-po-staromu-anekdotu.htm#1la7i",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 30067,
+      "post_id": 234,
+      "commented_at": "2025-12-17 22:37:00",
+      "anchor": "1l735",
+      "url": "https://exler.es/blog/comments/razdelegirovaniye-domenov-v-zone-ru.htm#1l735",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 32121,
+      "post_id": 251,
+      "commented_at": "2025-12-15 14:15:00",
+      "anchor": "1l5j2",
+      "url": "https://exler.es/blog/comments/exlerru-teper-stanovitsya-exleres.htm#1l5j2",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 32164,
+      "post_id": 251,
+      "commented_at": "2025-12-15 12:27:00",
+      "anchor": "1l5fk",
+      "url": "https://exler.es/blog/comments/exlerru-teper-stanovitsya-exleres.htm#1l5fk",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 35288,
+      "post_id": 276,
+      "commented_at": "2025-12-11 11:20:00",
+      "anchor": "1l35c",
+      "url": "https://exler.es/films/comments/dzhej-kelli.htm#1l35c",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 35858,
+      "post_id": 282,
+      "commented_at": "2025-12-10 09:34:00",
+      "anchor": "1l2kx",
+      "url": "https://exler.es/blog/comments/interesnaya-statistika-5.htm#1l2kx",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 39707,
+      "post_id": 315,
+      "commented_at": "2025-12-04 12:06:00",
+      "anchor": "1kzfd",
+      "url": "https://exler.es/blog/comments/krizis-avtomobilnogo-podrazdeleniya-bosh.htm#1kzfd",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 40846,
+      "post_id": 326,
+      "commented_at": "2025-12-02 12:58:00",
+      "anchor": "1kyh8",
+      "url": "https://exler.es/blog/comments/tvorcheskoye-razvitiye.htm#1kyh8",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 44203,
+      "post_id": 360,
+      "commented_at": "2025-11-27 08:46:00",
+      "anchor": "1kwbk",
+      "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-gt-6.htm#1kwbk",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-007"
+    },
+    {
+      "comment_id": 53004,
+      "post_id": 436,
+      "commented_at": "2025-11-13 09:10:00",
+      "anchor": "1kp3r",
+      "url": "https://exler.es/films/comments/bolshoe-smeloe-krasivoe-puteshestvie.htm#1kp3r",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 58429,
+      "post_id": 488,
+      "commented_at": "2025-11-04 12:12:00",
+      "anchor": "1kkni",
+      "url": "https://exler.es/blog/comments/foto-na-dokument.htm#1kkni",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 62167,
+      "post_id": 519,
+      "commented_at": "2025-10-30 12:02:00",
+      "anchor": "1khq7",
+      "url": "https://exler.es/films/comments/suprugi-rouz.htm#1khq7",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 62905,
+      "post_id": 527,
+      "commented_at": "2025-10-29 12:34:00",
+      "anchor": "1kh80",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-iphone-17-pro-max.htm#1kh80",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-021"
+    },
+    {
+      "comment_id": 62827,
+      "post_id": 527,
+      "commented_at": "2025-10-31 12:51:00",
+      "anchor": "1kif0",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-iphone-17-pro-max.htm#1kif0",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 67149,
+      "post_id": 566,
+      "commented_at": "2025-10-22 10:55:00",
+      "anchor": "1kdpm",
+      "url": "https://exler.es/blog/comments/vek-zhivi-vek-uchis-4.htm#1kdpm",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-049"
+    },
+    {
+      "comment_id": 67535,
+      "post_id": 572,
+      "commented_at": "2025-10-21 18:19:00",
+      "anchor": "1kdf4",
+      "url": "https://exler.es/blog/comments/iphone-17-pro-max.htm#1kdf4",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 67802,
+      "post_id": 575,
+      "commented_at": "2025-10-21 16:23:00",
+      "anchor": "1kdc2",
+      "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-samsung-galaxy-watch-ultra.htm#1kdc2",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-020"
+    },
+    {
+      "comment_id": 68136,
+      "post_id": 578,
+      "commented_at": "2025-10-21 10:38:00",
+      "anchor": "1kd39",
+      "url": "https://exler.es/blog/comments/smartfony-vivo-x300-i-x300-pro.htm#1kd39",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 71570,
+      "post_id": 614,
+      "commented_at": "2025-10-15 12:01:00",
+      "anchor": "1kacg",
+      "url": "https://exler.es/likbez/comments/chto-nuzhno-znat-o-vneshnih-akkumulyatorah.htm#1kacg",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-026"
+    },
+    {
+      "comment_id": 71572,
+      "post_id": 614,
+      "commented_at": "2025-10-15 12:41:00",
+      "anchor": "1kadf",
+      "url": "https://exler.es/likbez/comments/chto-nuzhno-znat-o-vneshnih-akkumulyatorah.htm#1kadf",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-026"
+    },
+    {
+      "comment_id": 72083,
+      "post_id": 620,
+      "commented_at": "2025-10-14 09:31:00",
+      "anchor": "1k9w6",
+      "url": "https://exler.es/blog/comments/mayetsya-prilepin.htm#1k9w6",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 75337,
+      "post_id": 653,
+      "commented_at": "2025-10-09 11:30:00",
+      "anchor": "1k7ck",
+      "url": "https://exler.es/films/comments/kod-3.htm#1k7ck",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 75343,
+      "post_id": 653,
+      "commented_at": "2025-10-09 10:02:00",
+      "anchor": "1k7bg",
+      "url": "https://exler.es/films/comments/kod-3.htm#1k7bg",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 75356,
+      "post_id": 653,
+      "commented_at": "2025-10-09 09:59:00",
+      "anchor": "1k7bd",
+      "url": "https://exler.es/films/comments/kod-3.htm#1k7bd",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 90035,
+      "post_id": 784,
+      "commented_at": "2025-09-16 10:42:00",
+      "anchor": "1jv4g",
+      "url": "https://exler.es/expromt/comments/obzor-flagmanskogo-smartfona-google-pixel-10-pro-xl.htm#1jv4g",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-011"
+    },
+    {
+      "comment_id": 90044,
+      "post_id": 784,
+      "commented_at": "2025-09-16 10:35:00",
+      "anchor": "1jv47",
+      "url": "https://exler.es/expromt/comments/obzor-flagmanskogo-smartfona-google-pixel-10-pro-xl.htm#1jv47",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-011"
+    },
+    {
+      "comment_id": 94432,
+      "post_id": 819,
+      "commented_at": "2025-09-10 12:44:00",
+      "anchor": "1jrdq",
+      "url": "https://exler.es/blog/comments/samyy-malenkiy-akkumulyator-na-10000-mach.htm#1jrdq",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 95715,
+      "post_id": 829,
+      "commented_at": "2025-09-09 16:53:00",
+      "anchor": "1jqrm",
+      "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-fit-4-pro.htm#1jqrm",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-006"
+    },
+    {
+      "comment_id": 95717,
+      "post_id": 829,
+      "commented_at": "2025-09-09 13:46:00",
+      "anchor": "1jql6",
+      "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-fit-4-pro.htm#1jql6",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 103170,
+      "post_id": 895,
+      "commented_at": "2025-08-29 15:32:00",
+      "anchor": "1jka7",
+      "url": "https://exler.es/blog/comments/pravovaya-osnova-otkrytiya-granits-germanii-v-2015-godu.htm#1jka7",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 103451,
+      "post_id": 897,
+      "commented_at": "2025-08-29 12:40:00",
+      "anchor": "1jk6m",
+      "url": "https://exler.es/blog/comments/smartfon-google-pixel-10-pro-xl.htm#1jk6m",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 103798,
+      "post_id": 900,
+      "commented_at": "2025-08-28 12:23:00",
+      "anchor": "1jjox",
+      "url": "https://exler.es/blog/comments/sravneniye-ploshchadey-stran-yes.htm#1jjox",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 105940,
+      "post_id": 920,
+      "commented_at": "2025-08-25 09:47:00",
+      "anchor": "1ji5p",
+      "url": "https://exler.es/films/comments/missiya-nevypolnima-finalnaya-rasplata.htm#1ji5p",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 106026,
+      "post_id": 921,
+      "commented_at": "2025-08-24 17:57:00",
+      "anchor": "1ji0a",
+      "url": "https://exler.es/blog/comments/obedennoye-5.htm#1ji0a",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-038"
+    },
+    {
+      "comment_id": 109992,
+      "post_id": 952,
+      "commented_at": "2025-08-18 10:23:00",
+      "anchor": "1jesx",
+      "url": "https://exler.es/films/comments/eddington.htm#1jesx",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 114394,
+      "post_id": 989,
+      "commented_at": "2025-08-13 08:12:00",
+      "anchor": "1jbmt",
+      "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-oneplus-watch-3.htm#1jbmt",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 116720,
+      "post_id": 1006,
+      "commented_at": "2025-08-09 11:48:00",
+      "anchor": "1j94p",
+      "url": "https://exler.es/blog/comments/ispanskiye-nazvaniya-produktov-i-vin.htm#1j94p",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-037"
+    },
+    {
+      "comment_id": 118665,
+      "post_id": 1024,
+      "commented_at": "2025-08-07 14:14:00",
+      "anchor": "1j7xw",
+      "url": "https://exler.es/films/comments/schastlivchik-gilmor-2.htm#1j7xw",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-044"
+    },
+    {
+      "comment_id": 120294,
+      "post_id": 1037,
+      "commented_at": "2025-08-04 10:03:00",
+      "anchor": "1j6bo",
+      "url": "https://exler.es/films/comments/edem.htm#1j6bo",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 123289,
+      "post_id": 1067,
+      "commented_at": "2025-07-30 11:12:00",
+      "anchor": "1j40m",
+      "url": "https://exler.es/blog/comments/kitaytsy-takiye-zateyniki-2.htm#1j40m",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 126389,
+      "post_id": 1102,
+      "commented_at": "2025-07-24 18:09:00",
+      "anchor": "1j1kc",
+      "url": "https://exler.es/films/comments/greshniki-1.htm#1j1kc",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-046"
+    },
+    {
+      "comment_id": 129549,
+      "post_id": 1130,
+      "commented_at": "2025-07-19 11:52:00",
+      "anchor": "1iz0b",
+      "url": "https://exler.es/blog/comments/smes-spetsiy.htm#1iz0b",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 135485,
+      "post_id": 1177,
+      "commented_at": "2025-07-09 11:50:00",
+      "anchor": "1iu3q",
+      "url": "https://exler.es/blog/comments/yevropa-vozvrashchayetsya-k-syemnym-batareyam.htm#1iu3q",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 137169,
+      "post_id": 1191,
+      "commented_at": "2025-07-07 12:12:00",
+      "anchor": "1isw3",
+      "url": "https://exler.es/films/comments/gromoverzhcy.htm#1isw3",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 137175,
+      "post_id": 1191,
+      "commented_at": "2025-07-07 12:15:00",
+      "anchor": "1isw7",
+      "url": "https://exler.es/films/comments/gromoverzhcy.htm#1isw7",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 137192,
+      "post_id": 1191,
+      "commented_at": "2025-07-07 10:30:00",
+      "anchor": "1istm",
+      "url": "https://exler.es/films/comments/gromoverzhcy.htm#1istm",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 140173,
+      "post_id": 1216,
+      "commented_at": "2025-07-03 10:42:00",
+      "anchor": "1iqbv",
+      "url": "https://exler.es/films/comments/kompanon-1.htm#1iqbv",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 140192,
+      "post_id": 1216,
+      "commented_at": "2025-07-03 10:40:00",
+      "anchor": "1iqbs",
+      "url": "https://exler.es/films/comments/kompanon-1.htm#1iqbs",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-048"
+    },
+    {
+      "comment_id": 140201,
+      "post_id": 1216,
+      "commented_at": "2025-07-03 10:13:00",
+      "anchor": "1iqaj",
+      "url": "https://exler.es/films/comments/kompanon-1.htm#1iqaj",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-048"
+    },
+    {
+      "comment_id": 142435,
+      "post_id": 1234,
+      "commented_at": "2025-06-30 11:18:00",
+      "anchor": "1ioge",
+      "url": "https://exler.es/films/comments/finikijskaya-shema.htm#1ioge",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 150332,
+      "post_id": 1303,
+      "commented_at": "2025-06-16 11:05:00",
+      "anchor": "1ii18",
+      "url": "https://exler.es/films/comments/novichok.htm#1ii18",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 152521,
+      "post_id": 1328,
+      "commented_at": "2025-06-13 07:40:00",
+      "anchor": "1igbj",
+      "url": "https://exler.es/blog/comments/kak-stimulirovat-perekhod-rossiyan-na-messendzher-max.htm#1igbj",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 153095,
+      "post_id": 1332,
+      "commented_at": "2025-06-12 09:32:00",
+      "anchor": "1ifsz",
+      "url": "https://exler.es/films/comments/kinostudiya.htm#1ifsz",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-052"
+    },
+    {
+      "comment_id": 155271,
+      "post_id": 1352,
+      "commented_at": "2025-06-09 15:07:00",
+      "anchor": "1ie2m",
+      "url": "https://exler.es/films/comments/gangsterlend.htm#1ie2m",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 155287,
+      "post_id": 1352,
+      "commented_at": "2025-06-09 11:27:00",
+      "anchor": "1idyw",
+      "url": "https://exler.es/films/comments/gangsterlend.htm#1idyw",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 155305,
+      "post_id": 1352,
+      "commented_at": "2025-06-09 10:24:00",
+      "anchor": "1idxj",
+      "url": "https://exler.es/films/comments/gangsterlend.htm#1idxj",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-045"
+    },
+    {
+      "comment_id": 157387,
+      "post_id": 1374,
+      "commented_at": "2025-06-05 18:11:00",
+      "anchor": "1ic2b",
+      "url": "https://exler.es/films/comments/istochnik-vechnoj-molodosti.htm#1ic2b",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 158694,
+      "post_id": 1389,
+      "commented_at": "2025-06-03 10:30:00",
+      "anchor": "1iaug",
+      "url": "https://exler.es/blog/comments/a-vy-zametili.htm#1iaug",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 158789,
+      "post_id": 1390,
+      "commented_at": "2025-06-03 10:47:00",
+      "anchor": "1iav1",
+      "url": "https://exler.es/expromt/comments/telesin-fun-shot-magnetic-grip-prevratit-lyuboj-smartfon-v-fotokameru.htm#1iav1",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 163813,
+      "post_id": 1431,
+      "commented_at": "2025-05-27 11:46:00",
+      "anchor": "1i6pe",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-realme-14-pro-interesnyj-subflagman.htm#1i6pe",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 164013,
+      "post_id": 1433,
+      "commented_at": "2025-05-26 11:23:00",
+      "anchor": "1i6b7",
+      "url": "https://exler.es/films/comments/bolnica-pitt.htm#1i6b7",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 164028,
+      "post_id": 1433,
+      "commented_at": "2025-05-26 10:48:00",
+      "anchor": "1i6aa",
+      "url": "https://exler.es/films/comments/bolnica-pitt.htm#1i6aa",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-047"
+    },
+    {
+      "comment_id": 164088,
+      "post_id": 1433,
+      "commented_at": "2025-05-26 09:36:00",
+      "anchor": "1i694",
+      "url": "https://exler.es/films/comments/bolnica-pitt.htm#1i694",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 165317,
+      "post_id": 1441,
+      "commented_at": "2025-05-24 11:52:00",
+      "anchor": "1i5ce",
+      "url": "https://exler.es/blog/comments/yeye-dostala-italiya.htm#1i5ce",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 166518,
+      "post_id": 1451,
+      "commented_at": "2025-05-22 16:31:00",
+      "anchor": "1i498",
+      "url": "https://exler.es/films/comments/babuli.htm#1i498",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 168852,
+      "post_id": 1467,
+      "commented_at": "2025-05-19 12:34:00",
+      "anchor": "1i2bk",
+      "url": "https://exler.es/films/comments/ballada-ob-ostrove-uollis.htm#1i2bk",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 171646,
+      "post_id": 1494,
+      "commented_at": "2025-05-15 09:24:00",
+      "anchor": "1hzr7",
+      "url": "https://exler.es/films/comments/rejs-navylet.htm#1hzr7",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 171652,
+      "post_id": 1494,
+      "commented_at": "2025-05-15 09:24:00",
+      "anchor": "1hzrb",
+      "url": "https://exler.es/films/comments/rejs-navylet.htm#1hzrb",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-056"
+    },
+    {
+      "comment_id": 173118,
+      "post_id": 1508,
+      "commented_at": "2025-05-13 11:29:00",
+      "anchor": "1hyo3",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-xiaomi-14t.htm#1hyo3",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 173690,
+      "post_id": 1512,
+      "commented_at": "2025-05-12 09:29:00",
+      "anchor": "1hy1v",
+      "url": "https://exler.es/films/comments/chyornyj-chemodan-dvojnaya-igra.htm#1hy1v",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-061"
+    },
+    {
+      "comment_id": 176767,
+      "post_id": 1543,
+      "commented_at": "2025-05-06 19:06:00",
+      "anchor": "1hvks",
+      "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-nothing-cmf-watch-pro-2.htm#1hvks",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 179207,
+      "post_id": 1566,
+      "commented_at": "2025-05-02 10:41:00",
+      "anchor": "1hti4",
+      "url": "https://exler.es/blog/comments/tusheniye-i-slow-coocking.htm#1hti4",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 181913,
+      "post_id": 1591,
+      "commented_at": "2025-04-28 08:23:00",
+      "anchor": "1hrbi",
+      "url": "https://exler.es/blog/comments/velikaya-pobeda.htm#1hrbi",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 182114,
+      "post_id": 1593,
+      "commented_at": "2025-04-29 08:42:00",
+      "anchor": "1hrrw",
+      "url": "https://exler.es/aliexpress/comments/delimsya-nahodkami-iz-kitajskih-magazinov-219.htm#1hrrw",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 183275,
+      "post_id": 1599,
+      "commented_at": "2025-04-26 08:39:00",
+      "anchor": "1hq63",
+      "url": "https://exler.es/blog/comments/dva-mira-dva-pis-dila.htm#1hq63",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-062"
+    },
+    {
+      "comment_id": 184757,
+      "post_id": 1610,
+      "commented_at": "2025-04-24 10:14:00",
+      "anchor": "1hoxv",
+      "url": "https://exler.es/films/comments/ubejte-zhokeya.htm#1hoxv",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 186202,
+      "post_id": 1622,
+      "commented_at": "2025-04-22 18:18:00",
+      "anchor": "1hnz9",
+      "url": "https://exler.es/expromt/comments/moj-spisok-rekomendovannyh-smartfonov-4.htm#1hnz9",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 198965,
+      "post_id": 1704,
+      "commented_at": "2025-04-02 08:39:00",
+      "anchor": "1hdqy",
+      "url": "https://exler.es/dieta/comments/diabet-pitanie.htm#1hdqy",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 202951,
+      "post_id": 1735,
+      "commented_at": "2025-03-26 08:51:00",
+      "anchor": "1ha5z",
+      "url": "https://exler.es/blog/comments/spayk-dzhonz-reklamiruyet-airpods-4.htm#1ha5z",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-032"
+    },
+    {
+      "comment_id": 203514,
+      "post_id": 1738,
+      "commented_at": "2025-03-25 13:20:00",
+      "anchor": "1h9p7",
+      "url": "https://exler.es/expromt/comments/obzor-superflagmana-xiaomi-15-ultra.htm#1h9p7",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 205510,
+      "post_id": 1750,
+      "commented_at": "2025-03-22 15:15:00",
+      "anchor": "1h82h",
+      "url": "https://exler.es/blog/comments/a-vot-komu-pentkhaus-s-vidom-na-tsentralnyy-park.htm#1h82h",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-033"
+    },
+    {
+      "comment_id": 208949,
+      "post_id": 1776,
+      "commented_at": "2025-03-18 11:57:00",
+      "anchor": "1h5gi",
+      "url": "https://exler.es/expromt/comments/obzor-novogo-topovogo-plansheta-xiaomi-pad-7.htm#1h5gi",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-059"
+    },
+    {
+      "comment_id": 212960,
+      "post_id": 1805,
+      "commented_at": "2025-03-12 22:22:00",
+      "anchor": "1h2s8",
+      "url": "https://exler.es/dieta/comments/gastroskopiya-i-kolonoskopiya-davajte-pogovorim.htm#1h2s8",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 213905,
+      "post_id": 1812,
+      "commented_at": "2025-03-10 11:32:00",
+      "anchor": "1h1f2",
+      "url": "https://exler.es/blog/comments/vnezapnaya-kalsotada.htm#1h1f2",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 247584,
+      "post_id": 2047,
+      "commented_at": "2025-01-28 19:19:00",
+      "anchor": "1g8ef",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-poco-x7-pro.htm#1g8ef",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 247635,
+      "post_id": 2047,
+      "commented_at": "2025-01-28 16:09:00",
+      "anchor": "1g88j",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-poco-x7-pro.htm#1g88j",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 254173,
+      "post_id": 2091,
+      "commented_at": "2025-01-22 17:21:00",
+      "anchor": "1g3cd",
+      "url": "https://exler.es/blog/comments/nuzhno-provesti-rassledovaniye.htm#1g3cd",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 263208,
+      "post_id": 2160,
+      "commented_at": "2025-01-11 09:10:00",
+      "anchor": "1fvl7",
+      "url": "https://exler.es/blog/comments/dzhud-lou-sygrayet-putina-v-molodyye-gody.htm#1fvl7",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 267178,
+      "post_id": 2193,
+      "commented_at": "2025-01-06 19:51:00",
+      "anchor": "1fs7y",
+      "url": "https://exler.es/blog/comments/smartfon-realme-neo-7.htm#1fs7y",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": "FIX-060"
+    },
+    {
+      "comment_id": 267651,
+      "post_id": 2195,
+      "commented_at": "2025-01-06 12:19:00",
+      "anchor": "1frvm",
+      "url": "https://exler.es/blog/comments/banalnaya-rusofobiya.htm#1frvm",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 267672,
+      "post_id": 2196,
+      "commented_at": "2025-01-06 22:25:00",
+      "anchor": "1fsaa",
+      "url": "https://exler.es/films/comments/uolles-i-gromit-samaya-dikaya-mest.htm#1fsaa",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 267721,
+      "post_id": 2196,
+      "commented_at": "2025-01-06 12:13:00",
+      "anchor": "1frva",
+      "url": "https://exler.es/films/comments/uolles-i-gromit-samaya-dikaya-mest.htm#1frva",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 269203,
+      "post_id": 2214,
+      "commented_at": "2025-01-02 18:05:00",
+      "anchor": "1fqgb",
+      "url": "https://exler.es/films/comments/missiya-krasnyj.htm#1fqgb",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 270175,
+      "post_id": 2229,
+      "commented_at": "2025-01-10 22:53:00",
+      "anchor": "1fvfn",
+      "url": "https://exler.es/blog/comments/obedennoye-4.htm#1fvfn",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 270840,
+      "post_id": 2239,
+      "commented_at": "2024-12-30 10:15:00",
+      "anchor": "1fozz",
+      "url": "https://exler.es/films/comments/anora.htm#1fozz",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 274846,
+      "post_id": 2273,
+      "commented_at": "2024-12-24 13:00:00",
+      "anchor": "1flet",
+      "url": "https://exler.es/expromt/comments/obzor-topovogo-noutbuka-xiaomi-redmibook-16-pro-2024.htm#1flet",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 280263,
+      "post_id": 2314,
+      "commented_at": "2024-12-16 17:52:00",
+      "anchor": "1fgvc",
+      "url": "https://exler.es/blog/comments/chetverg-rybnyy-den.htm#1fgvc",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-053"
+    },
+    {
+      "comment_id": 294798,
+      "post_id": 2438,
+      "commented_at": "2024-11-27 10:51:00",
+      "anchor": "1f4va",
+      "url": "https://exler.es/expromt/comments/obzor-polnoformatyh-naushnikov-s-shumodavom-filwans-h-zero.htm#1f4va",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 294799,
+      "post_id": 2438,
+      "commented_at": "2024-11-27 10:52:00",
+      "anchor": "1f4vb",
+      "url": "https://exler.es/expromt/comments/obzor-polnoformatyh-naushnikov-s-shumodavom-filwans-h-zero.htm#1f4vb",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 296830,
+      "post_id": 2454,
+      "commented_at": "2024-11-23 11:43:00",
+      "anchor": "1f2zh",
+      "url": "https://exler.es/blog/comments/okean.htm#1f2zh",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 299429,
+      "post_id": 2468,
+      "commented_at": "2024-11-19 17:05:00",
+      "anchor": "1f0rg",
+      "url": "https://exler.es/blog/comments/komu-naturalnyye-produkty.htm#1f0rg",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-034"
+    },
+    {
+      "comment_id": 309102,
+      "post_id": 2533,
+      "commented_at": "2024-11-07 22:18:00",
+      "anchor": "1et6n",
+      "url": "https://exler.es/films/comments/spyashie-psy.htm#1et6n",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 309108,
+      "post_id": 2533,
+      "commented_at": "2024-11-07 22:20:00",
+      "anchor": "1et6p",
+      "url": "https://exler.es/films/comments/spyashie-psy.htm#1et6p",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 313285,
+      "post_id": 2560,
+      "commented_at": "2024-11-02 11:23:00",
+      "anchor": "1epad",
+      "url": "https://exler.es/blog/comments/genialnoye-resheniye-2.htm#1epad",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 324262,
+      "post_id": 2647,
+      "commented_at": "2024-10-18 09:39:00",
+      "anchor": "1egb6",
+      "url": "https://exler.es/blog/comments/zubets-chuvstvuyet-sebya-na-fronte.htm#1egb6",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 330445,
+      "post_id": 2692,
+      "commented_at": "2024-10-07 10:39:00",
+      "anchor": "1eaqt",
+      "url": "https://exler.es/films/comments/odinokie-volki.htm#1eaqt",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 331910,
+      "post_id": 2705,
+      "commented_at": "2024-10-04 21:10:00",
+      "anchor": "1e9t0",
+      "url": "https://exler.es/blog/comments/novyy-adres-exlerru-dlya-rf-2.htm#1e9t0",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 332846,
+      "post_id": 2713,
+      "commented_at": "2024-10-03 14:03:00",
+      "anchor": "1e8yy",
+      "url": "https://exler.es/blog/comments/kandidaty-na-nobelevku.htm#1e8yy",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 334105,
+      "post_id": 2725,
+      "commented_at": "2024-10-02 10:56:00",
+      "anchor": "1e83v",
+      "url": "https://exler.es/ezhe/comments/sakra-di-san-mikele-sacra-di-san-michele-simvol-pemonta.htm#1e83v",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 335173,
+      "post_id": 2733,
+      "commented_at": "2024-10-01 10:55:00",
+      "anchor": "1e7b9",
+      "url": "https://exler.es/films/comments/vlasteliny-vozduha.htm#1e7b9",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 335184,
+      "post_id": 2733,
+      "commented_at": "2024-10-01 09:19:00",
+      "anchor": "1e78v",
+      "url": "https://exler.es/films/comments/vlasteliny-vozduha.htm#1e78v",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 351061,
+      "post_id": 2857,
+      "commented_at": "2024-09-07 10:53:00",
+      "anchor": "1dtil",
+      "url": "https://exler.es/blog/comments/putinskiye-orki-poluchili-svoy-shans.htm#1dtil",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 351247,
+      "post_id": 2861,
+      "commented_at": "2024-09-06 23:35:00",
+      "anchor": "1dtfg",
+      "url": "https://exler.es/blog/comments/odna-zakladochka-dlya-rf.htm#1dtfg",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 351253,
+      "post_id": 2861,
+      "commented_at": "2024-09-06 20:55:00",
+      "anchor": "1dtdx",
+      "url": "https://exler.es/blog/comments/odna-zakladochka-dlya-rf.htm#1dtdx",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 353511,
+      "post_id": 2878,
+      "commented_at": "2024-09-04 10:51:00",
+      "anchor": "1drcc",
+      "url": "https://exler.es/blog/comments/luchshiye-ssd-v-2024-godu.htm#1drcc",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 354304,
+      "post_id": 2886,
+      "commented_at": "2024-09-03 14:09:00",
+      "anchor": "1dqsq",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-honor-x8b-tak-li-on-horosh.htm#1dqsq",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 354519,
+      "post_id": 2887,
+      "commented_at": "2024-09-03 09:43:00",
+      "anchor": "1dqjg",
+      "url": "https://exler.es/blog/comments/zapret-sdelok-s-nedvizhimostyu-dlya-rossiyan.htm#1dqjg",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 362148,
+      "post_id": 2956,
+      "commented_at": "2024-11-06 22:44:00",
+      "anchor": "1esgw",
+      "url": "https://exler.es/films/comments/hitmen-poslednee-delo.htm#1esgw",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 362910,
+      "post_id": 2966,
+      "commented_at": "2024-08-20 22:51:00",
+      "anchor": "1djhi",
+      "url": "https://exler.es/blog/comments/godovshchina-kurska-i-beslan.htm#1djhi",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 363764,
+      "post_id": 2974,
+      "commented_at": "2024-08-20 07:57:00",
+      "anchor": "1ditp",
+      "url": "https://exler.es/blog/comments/vot-ono-chto-s-kurskom-to.htm#1ditp",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 364229,
+      "post_id": 2979,
+      "commented_at": "2024-08-19 10:35:00",
+      "anchor": "1dic4",
+      "url": "https://exler.es/films/comments/soyuz-1.htm#1dic4",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 365020,
+      "post_id": 2986,
+      "commented_at": "2024-08-18 23:07:00",
+      "anchor": "1di5r",
+      "url": "https://exler.es/blog/comments/alen-delon-umer.htm#1di5r",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 365446,
+      "post_id": 2992,
+      "commented_at": "2024-08-17 11:04:00",
+      "anchor": "1dha7",
+      "url": "https://exler.es/blog/comments/ono-zhe-konchenoye.htm#1dha7",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 376889,
+      "post_id": 3075,
+      "commented_at": "2024-07-30 10:59:00",
+      "anchor": "1d7gg",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-google-pixel-8a.htm#1d7gg",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-012"
+    },
+    {
+      "comment_id": 376891,
+      "post_id": 3075,
+      "commented_at": "2024-07-30 10:37:00",
+      "anchor": "1d7ft",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-google-pixel-8a.htm#1d7ft",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-012"
+    },
+    {
+      "comment_id": 377480,
+      "post_id": 3080,
+      "commented_at": "2024-07-29 13:43:00",
+      "anchor": "1d71w",
+      "url": "https://exler.es/films/comments/plohie-parni-do-konca.htm#1d71w",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 378829,
+      "post_id": 3091,
+      "commented_at": "2024-07-26 10:56:00",
+      "anchor": "1d5th",
+      "url": "https://exler.es/blog/comments/mayk-duglas-i-prazdnik-80-letnikh.htm#1d5th",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 379108,
+      "post_id": 3095,
+      "commented_at": "2024-07-25 19:24:00",
+      "anchor": "1d5no",
+      "url": "https://exler.es/blog/comments/vpervyye-ispanskoye-igristoye-poluchilo-100-ballov-po-parkeru.htm#1d5no",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 379563,
+      "post_id": 3098,
+      "commented_at": "2024-07-24 21:25:00",
+      "anchor": "1d566",
+      "url": "https://exler.es/blog/comments/odnazhdy-v-sochi.htm#1d566",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 383141,
+      "post_id": 3125,
+      "commented_at": "2024-07-19 20:52:00",
+      "anchor": "1d2du",
+      "url": "https://exler.es/blog/comments/kontsert-dayyany-kroll-v-barselone-prosto-pozorishche.htm#1d2du",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 384083,
+      "post_id": 3133,
+      "commented_at": "2024-07-18 12:01:00",
+      "anchor": "1d1iv",
+      "url": "https://exler.es/films/comments/territoriya-zla.htm#1d1iv",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 384052,
+      "post_id": 3133,
+      "commented_at": "2024-07-19 09:16:00",
+      "anchor": "1d1yc",
+      "url": "https://exler.es/films/comments/territoriya-zla.htm#1d1yc",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 386084,
+      "post_id": 3148,
+      "commented_at": "2024-07-15 10:51:00",
+      "anchor": "1czxn",
+      "url": "https://exler.es/blog/comments/skorostnoy-terabayt-v-breloke.htm#1czxn",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 389614,
+      "post_id": 3174,
+      "commented_at": "2024-07-09 16:27:00",
+      "anchor": "1cx2f",
+      "url": "https://exler.es/dieta/comments/kak-zhit-s-diabetom-vtorogo-tipa-ii.htm#1cx2f",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 389576,
+      "post_id": 3174,
+      "commented_at": "2024-07-09 20:43:00",
+      "anchor": "1cx6m",
+      "url": "https://exler.es/dieta/comments/kak-zhit-s-diabetom-vtorogo-tipa-ii.htm#1cx6m",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 390764,
+      "post_id": 3179,
+      "commented_at": "2024-07-08 11:26:00",
+      "anchor": "1cw6m",
+      "url": "https://exler.es/films/comments/artur-ty-korol.htm#1cw6m",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 390762,
+      "post_id": 3179,
+      "commented_at": "2024-07-08 11:25:00",
+      "anchor": "1cw6i",
+      "url": "https://exler.es/films/comments/artur-ty-korol.htm#1cw6i",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 392771,
+      "post_id": 3198,
+      "commented_at": "2024-07-04 15:00:00",
+      "anchor": "1cuct",
+      "url": "https://exler.es/films/comments/policejskij-iz-beverli-hillz-aksel-fouli.htm#1cuct",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 395337,
+      "post_id": 3217,
+      "commented_at": "2024-07-01 09:20:00",
+      "anchor": "1csi3",
+      "url": "https://exler.es/blog/comments/v-moskve-neobychaynyy-azhiotazh.htm#1csi3",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 399794,
+      "post_id": 3255,
+      "commented_at": "2024-06-24 14:07:00",
+      "anchor": "1cozg",
+      "url": "https://exler.es/blog/comments/nemnozhko-poyeli-myaska.htm#1cozg",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 401602,
+      "post_id": 3276,
+      "commented_at": "2024-06-20 11:58:00",
+      "anchor": "1cnfc",
+      "url": "https://exler.es/films/comments/soperniki.htm#1cnfc",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 402152,
+      "post_id": 3282,
+      "commented_at": "2024-06-19 18:51:00",
+      "anchor": "1cn68",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-samsung-galaxy-a55-5g.htm#1cn68",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 402209,
+      "post_id": 3282,
+      "commented_at": "2024-06-19 11:41:00",
+      "anchor": "1cmw5",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-samsung-galaxy-a55-5g.htm#1cmw5",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 407931,
+      "post_id": 3323,
+      "commented_at": "2024-06-11 13:50:00",
+      "anchor": "1ci6t",
+      "url": "https://exler.es/dieta/comments/kak-zhit-s-diabetom-vtorogo-tipa.htm#1ci6t",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 412305,
+      "post_id": 3355,
+      "commented_at": "2024-06-05 10:51:00",
+      "anchor": "1cew8",
+      "url": "https://exler.es/blog/comments/vsemirnyy-den-velosipeda-2.htm#1cew8",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 413253,
+      "post_id": 3364,
+      "commented_at": "2024-06-03 09:38:00",
+      "anchor": "1cdvr",
+      "url": "https://exler.es/films/comments/shugar.htm#1cdvr",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 417575,
+      "post_id": 3396,
+      "commented_at": "2024-05-29 06:43:00",
+      "anchor": "1cb2t",
+      "url": "https://exler.es/expromt/comments/obzor-flagmanskogo-smartfona-xiaomi-14-ultra.htm#1cb2t",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 418401,
+      "post_id": 3401,
+      "commented_at": "2024-05-27 11:36:00",
+      "anchor": "1c9wf",
+      "url": "https://exler.es/blog/comments/london-prodolzhayet-platit-za-nedvizhimost.htm#1c9wf",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 422997,
+      "post_id": 3434,
+      "commented_at": "2024-05-21 11:48:00",
+      "anchor": "1c6ah",
+      "url": "https://exler.es/expromt/comments/obzor-plansheta-redmi-pad-se-nedorogo-i-horosho.htm#1c6ah",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-027"
+    },
+    {
+      "comment_id": 423024,
+      "post_id": 3434,
+      "commented_at": "2024-05-21 11:48:00",
+      "anchor": "1c6ag",
+      "url": "https://exler.es/expromt/comments/obzor-plansheta-redmi-pad-se-nedorogo-i-horosho.htm#1c6ag",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-027"
+    },
+    {
+      "comment_id": 427753,
+      "post_id": 3475,
+      "commented_at": "2024-05-14 12:53:00",
+      "anchor": "1c2cn",
+      "url": "https://exler.es/dieta/comments/moj-opyt-intervalnogo-golodaniya.htm#1c2cn",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 428433,
+      "post_id": 3482,
+      "commented_at": "2024-05-13 11:30:00",
+      "anchor": "1c1v6",
+      "url": "https://exler.es/blog/comments/udar-po-zhilomu-domu-v-belgorode.htm#1c1v6",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 430284,
+      "post_id": 3501,
+      "commented_at": "2024-05-10 11:20:00",
+      "anchor": "1c06e",
+      "url": "https://exler.es/blog/comments/kak-mozhno-byt-takim-idiotom.htm#1c06e",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 431349,
+      "post_id": 3512,
+      "commented_at": "2024-05-08 18:13:00",
+      "anchor": "1bzca",
+      "url": "https://exler.es/blog/comments/xiaomi-mijia-electrical-precision-screwdriver-kit-2.htm#1bzca",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 439316,
+      "post_id": 3594,
+      "commented_at": "2024-04-26 10:06:00",
+      "anchor": "1bszf",
+      "url": "https://exler.es/blog/comments/miss-vselennaya-buenos-ayresa.htm#1bszf",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 454052,
+      "post_id": 3701,
+      "commented_at": "2024-03-31 19:12:00",
+      "anchor": "1bh7x",
+      "url": "https://exler.es/blog/comments/pochemu-vinnyy-tur-imenno-v-pyemonte.htm#1bh7x",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-001"
+    },
+    {
+      "comment_id": 454640,
+      "post_id": 3707,
+      "commented_at": "2024-03-30 17:28:00",
+      "anchor": "1bgt7",
+      "url": "https://exler.es/blog/comments/bystraya-fleshka.htm#1bgt7",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 456820,
+      "post_id": 3724,
+      "commented_at": "2024-03-26 17:57:00",
+      "anchor": "1bexq",
+      "url": "https://exler.es/expromt/comments/obzor-flagmanskogo-smartfona-samsung-galaxy-s24-ultra.htm#1bexq",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-003"
+    },
+    {
+      "comment_id": 456837,
+      "post_id": 3724,
+      "commented_at": "2024-03-26 17:14:00",
+      "anchor": "1bewx",
+      "url": "https://exler.es/expromt/comments/obzor-flagmanskogo-smartfona-samsung-galaxy-s24-ultra.htm#1bewx",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 456835,
+      "post_id": 3724,
+      "commented_at": "2024-03-26 17:15:00",
+      "anchor": "1bewz",
+      "url": "https://exler.es/expromt/comments/obzor-flagmanskogo-smartfona-samsung-galaxy-s24-ultra.htm#1bewz",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 466875,
+      "post_id": 3793,
+      "commented_at": "2024-03-12 10:05:00",
+      "anchor": "1b6ry",
+      "url": "https://exler.es/expromt/comments/obzor-skorovarki-aerogrilya-ninja-foodi-smartlid-eshe-bolee-volshebnyj-gorshochek.htm#1b6ry",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 467573,
+      "post_id": 3798,
+      "commented_at": "2024-03-11 08:28:00",
+      "anchor": "1b63z",
+      "url": "https://exler.es/blog/comments/oskar-2024-pobediteli.htm#1b63z",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 475048,
+      "post_id": 3862,
+      "commented_at": "2024-02-29 10:47:00",
+      "anchor": "1b028",
+      "url": "https://exler.es/blog/comments/kak-ne-nado-razvodit-strakhovuyu.htm#1b028",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 475253,
+      "post_id": 3863,
+      "commented_at": "2024-02-29 10:21:00",
+      "anchor": "1b018",
+      "url": "https://exler.es/blog/comments/chto-etot-karlson-voobshche-sebe-pozvolyayet.htm#1b018",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 477931,
+      "post_id": 3885,
+      "commented_at": "2024-02-25 09:52:00",
+      "anchor": "1axqv",
+      "url": "https://exler.es/blog/comments/po-povodu-razdela-po-aliexpress.htm#1axqv",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 483115,
+      "post_id": 3929,
+      "commented_at": "2024-02-19 10:35:00",
+      "anchor": "1ati3",
+      "url": "https://exler.es/films/comments/aferisty-1.htm#1ati3",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 485652,
+      "post_id": 3948,
+      "commented_at": "2024-02-15 10:35:00",
+      "anchor": "1arbb",
+      "url": "https://exler.es/films/comments/maestro.htm#1arbb",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 486966,
+      "post_id": 3958,
+      "commented_at": "2024-02-13 20:02:00",
+      "anchor": "1aqad",
+      "url": "https://exler.es/blog/comments/goyya-2024-pobediteli-obyavleny.htm#1aqad",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 487432,
+      "post_id": 3961,
+      "commented_at": "2024-02-13 13:44:00",
+      "anchor": "1apzi",
+      "url": "https://exler.es/likbez/comments/kak-zashitit-svoj-akkaunt-ot-vzloma.htm#1apzi",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 488542,
+      "post_id": 3967,
+      "commented_at": "2024-02-12 17:23:00",
+      "anchor": "1apcg",
+      "url": "https://exler.es/films/comments/dvorec.htm#1apcg",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 488569,
+      "post_id": 3967,
+      "commented_at": "2024-02-12 11:43:00",
+      "anchor": "1ap29",
+      "url": "https://exler.es/films/comments/dvorec.htm#1ap29",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 488523,
+      "post_id": 3967,
+      "commented_at": "2024-02-12 17:20:00",
+      "anchor": "1apcd",
+      "url": "https://exler.es/films/comments/dvorec.htm#1apcd",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 492499,
+      "post_id": 3992,
+      "commented_at": "2024-02-08 08:52:00",
+      "anchor": "1am1m",
+      "url": "https://exler.es/films/comments/pchelovod.htm#1am1m",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 492424,
+      "post_id": 3992,
+      "commented_at": "2024-02-08 10:36:00",
+      "anchor": "1am5o",
+      "url": "https://exler.es/films/comments/pchelovod.htm#1am5o",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 492501,
+      "post_id": 3992,
+      "commented_at": "2024-02-08 09:16:00",
+      "anchor": "1am2m",
+      "url": "https://exler.es/films/comments/pchelovod.htm#1am2m",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 493775,
+      "post_id": 4001,
+      "commented_at": "2024-02-07 16:54:00",
+      "anchor": "1altg",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-poco-x6.htm#1altg",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-013"
+    },
+    {
+      "comment_id": 493858,
+      "post_id": 4001,
+      "commented_at": "2024-02-06 11:13:00",
+      "anchor": "1akup",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-poco-x6.htm#1akup",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-013"
+    },
+    {
+      "comment_id": 495252,
+      "post_id": 4008,
+      "commented_at": "2024-02-04 22:45:00",
+      "anchor": "1ajs7",
+      "url": "https://exler.es/blog/comments/pozharili-nemnozhko-myaska.htm#1ajs7",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 495266,
+      "post_id": 4008,
+      "commented_at": "2024-02-04 17:15:00",
+      "anchor": "1ajnv",
+      "url": "https://exler.es/blog/comments/pozharili-nemnozhko-myaska.htm#1ajnv",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 495858,
+      "post_id": 4014,
+      "commented_at": "2024-02-03 17:30:00",
+      "anchor": "1ajb2",
+      "url": "https://exler.es/blog/comments/bikovicha-vystavili-iz-seriala-belyy-lotos.htm#1ajb2",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 498787,
+      "post_id": 4039,
+      "commented_at": "2024-01-30 12:11:00",
+      "anchor": "1agtf",
+      "url": "https://exler.es/blog/comments/a-vot-takoy-vopros-po-photoshop.htm#1agtf",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 503307,
+      "post_id": 4070,
+      "commented_at": "2024-01-23 22:54:00",
+      "anchor": "1ad9z",
+      "url": "https://exler.es/expromt/comments/obzor-umnyh-ochkov-ray-ban-meta.htm#1ad9z",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-019"
+    },
+    {
+      "comment_id": 504582,
+      "post_id": 4078,
+      "commented_at": "2024-01-23 21:06:00",
+      "anchor": "1ad86",
+      "url": "https://exler.es/films/comments/obshestvo-snega.htm#1ad86",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 505232,
+      "post_id": 4085,
+      "commented_at": "2024-01-21 07:52:00",
+      "anchor": "1abms",
+      "url": "https://exler.es/blog/comments/i-need-more-cowbell.htm#1abms",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-050"
+    },
+    {
+      "comment_id": 508970,
+      "post_id": 4111,
+      "commented_at": "2024-01-16 12:42:00",
+      "anchor": "1a8n3",
+      "url": "https://exler.es/expromt/comments/obzor-byudzhetnogo-smartfona-freeyond-m6.htm#1a8n3",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-010"
+    },
+    {
+      "comment_id": 508985,
+      "post_id": 4111,
+      "commented_at": "2024-01-16 12:48:00",
+      "anchor": "1a8nc",
+      "url": "https://exler.es/expromt/comments/obzor-byudzhetnogo-smartfona-freeyond-m6.htm#1a8nc",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-010"
+    },
+    {
+      "comment_id": 509558,
+      "post_id": 4117,
+      "commented_at": "2024-01-15 12:14:00",
+      "anchor": "1a863",
+      "url": "https://exler.es/blog/comments/ispanskiye-gorkiye-apelsiny.htm#1a863",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 510533,
+      "post_id": 4129,
+      "commented_at": "2024-01-13 10:22:00",
+      "anchor": "1a7fs",
+      "url": "https://exler.es/blog/comments/lyubopytnyy-razvod.htm#1a7fs",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 514321,
+      "post_id": 4170,
+      "commented_at": "2024-01-06 11:31:00",
+      "anchor": "1a440",
+      "url": "https://exler.es/blog/comments/solnechnaya-energiya-v-yevrope.htm#1a440",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 515493,
+      "post_id": 4183,
+      "commented_at": "2024-01-04 10:55:00",
+      "anchor": "1a3b9",
+      "url": "https://exler.es/blog/comments/po-povodu-chto-pochitat.htm#1a3b9",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 515496,
+      "post_id": 4183,
+      "commented_at": "2024-01-05 18:19:00",
+      "anchor": "1a3wl",
+      "url": "https://exler.es/blog/comments/po-povodu-chto-pochitat.htm#1a3wl",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 516335,
+      "post_id": 4191,
+      "commented_at": "2024-01-02 20:52:00",
+      "anchor": "1a2ld",
+      "url": "https://exler.es/blog/comments/ogrableniye-v-pryamom-efire.htm#1a2ld",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 516402,
+      "post_id": 4193,
+      "commented_at": "2024-01-03 07:39:00",
+      "anchor": "1a2oi",
+      "url": "https://exler.es/blog/comments/ispanskoye-igristoye.htm#1a2oi",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-002"
+    },
+    {
+      "comment_id": 516404,
+      "post_id": 4193,
+      "commented_at": "2024-01-03 11:40:00",
+      "anchor": "1a2tp",
+      "url": "https://exler.es/blog/comments/ispanskoye-igristoye.htm#1a2tp",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": "FIX-002"
+    },
+    {
+      "comment_id": 518130,
+      "post_id": 4212,
+      "commented_at": "2023-12-30 14:42:00",
+      "anchor": "1a180",
+      "url": "https://exler.es/blog/comments/regulirovka-urovnya-gromkosti-na-pk.htm#1a180",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 519581,
+      "post_id": 4227,
+      "commented_at": "2023-12-28 09:45:00",
+      "anchor": "1a01r",
+      "url": "https://exler.es/films/comments/pobeg-iz-kuryatnika-2.htm#1a01r",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 529630,
+      "post_id": 4316,
+      "commented_at": "2023-12-12 08:47:00",
+      "anchor": "19rw9",
+      "url": "https://exler.es/blog/comments/otkrylas-strashnaya-tayna.htm#19rw9",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 532538,
+      "post_id": 4341,
+      "commented_at": "2023-12-07 23:08:00",
+      "anchor": "19pua",
+      "url": "https://exler.es/films/comments/oni-klonirovali-tajrona.htm#19pua",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 533801,
+      "post_id": 4350,
+      "commented_at": "2023-12-05 13:26:00",
+      "anchor": "19ogz",
+      "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-gt-4.htm#19ogz",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-005"
+    },
+    {
+      "comment_id": 533802,
+      "post_id": 4350,
+      "commented_at": "2023-12-05 13:27:00",
+      "anchor": "19oh1",
+      "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-gt-4.htm#19oh1",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-005"
+    },
+    {
+      "comment_id": 533759,
+      "post_id": 4350,
+      "commented_at": "2023-12-05 19:58:00",
+      "anchor": "19osp",
+      "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-gt-4.htm#19osp",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": "FIX-005"
+    },
+    {
+      "comment_id": 533794,
+      "post_id": 4350,
+      "commented_at": "2023-12-05 13:13:00",
+      "anchor": "19ogh",
+      "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-gt-4.htm#19ogh",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": "FIX-005"
+    },
+    {
+      "comment_id": 536833,
+      "post_id": 4375,
+      "commented_at": "2023-12-01 09:07:00",
+      "anchor": "19mc1",
+      "url": "https://exler.es/films/comments/chudesnaya-istoriya-genri-shugara.htm#19mc1",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 537494,
+      "post_id": 4381,
+      "commented_at": "2023-11-30 09:34:00",
+      "anchor": "19lsd",
+      "url": "https://exler.es/expromt/comments/obzor-srednebyudzhetnogo-smartfona-samsung-galaxy-a54-5g.htm#19lsd",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-014"
+    },
+    {
+      "comment_id": 537517,
+      "post_id": 4381,
+      "commented_at": "2023-11-29 10:34:00",
+      "anchor": "19lcg",
+      "url": "https://exler.es/expromt/comments/obzor-srednebyudzhetnogo-smartfona-samsung-galaxy-a54-5g.htm#19lcg",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": "FIX-014"
+    },
+    {
+      "comment_id": 539918,
+      "post_id": 4400,
+      "commented_at": "2023-11-25 20:50:00",
+      "anchor": "19jk0",
+      "url": "https://exler.es/blog/comments/rodushka-rodila-svyatosiyu.htm#19jk0",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 539923,
+      "post_id": 4400,
+      "commented_at": "2023-11-25 22:30:00",
+      "anchor": "19jlg",
+      "url": "https://exler.es/blog/comments/rodushka-rodila-svyatosiyu.htm#19jlg",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 561632,
+      "post_id": 4571,
+      "commented_at": "2023-10-26 12:40:00",
+      "anchor": "191k1",
+      "url": "https://exler.es/films/comments/velikij-uravnitel-3.htm#191k1",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 570627,
+      "post_id": 4629,
+      "commented_at": "2023-10-16 10:09:00",
+      "anchor": "18vas",
+      "url": "https://exler.es/blog/comments/pyatnishnaya-pesenka-334.htm#18vas",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 570915,
+      "post_id": 4632,
+      "commented_at": "2023-10-13 11:36:00",
+      "anchor": "18tyb",
+      "url": "https://exler.es/blog/comments/tanle-i-burgundskiy-kanal.htm#18tyb",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 571649,
+      "post_id": 4637,
+      "commented_at": "2023-10-13 09:49:00",
+      "anchor": "18tuo",
+      "url": "https://exler.es/blog/comments/prazdnik-sbora-vinograda-v-shampani.htm#18tuo",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 572739,
+      "post_id": 4645,
+      "commented_at": "2023-10-12 20:55:00",
+      "anchor": "18tpd",
+      "url": "https://exler.es/blog/comments/zamok-rise-ba.htm#18tpd",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 580971,
+      "post_id": 4697,
+      "commented_at": "2023-09-29 11:09:00",
+      "anchor": "18lvy",
+      "url": "https://exler.es/blog/comments/kak-proshel-nash-tur-po-pyemontu.htm#18lvy",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 585298,
+      "post_id": 4723,
+      "commented_at": "2023-09-22 08:46:00",
+      "anchor": "18iai",
+      "url": "https://exler.es/blog/comments/v-ispanii-mozhno-kupit-krutuyu-mashinu.htm#18iai",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-040"
+    },
+    {
+      "comment_id": 587722,
+      "post_id": 4738,
+      "commented_at": "2023-09-19 12:52:00",
+      "anchor": "18gat",
+      "url": "https://exler.es/expromt/comments/obzor-naushnikov-oneodio-openrock-s.htm#18gat",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-031"
+    },
+    {
+      "comment_id": 587721,
+      "post_id": 4738,
+      "commented_at": "2023-09-19 12:46:00",
+      "anchor": "18gah",
+      "url": "https://exler.es/expromt/comments/obzor-naushnikov-oneodio-openrock-s.htm#18gah",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": "FIX-031"
+    },
+    {
+      "comment_id": 590594,
+      "post_id": 4756,
+      "commented_at": "2023-09-15 12:03:00",
+      "anchor": "18dxf",
+      "url": "https://exler.es/blog/comments/chyaasy-huawei-watch-gt-4.htm#18dxf",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 591386,
+      "post_id": 4761,
+      "commented_at": "2023-09-14 14:01:00",
+      "anchor": "18dd8",
+      "url": "https://exler.es/films/comments/v-ozhidanii-dali.htm#18dd8",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 594323,
+      "post_id": 4778,
+      "commented_at": "2023-09-11 10:51:00",
+      "anchor": "18aux",
+      "url": "https://exler.es/films/comments/zahvachennyj-rejs.htm#18aux",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 597097,
+      "post_id": 4795,
+      "commented_at": "2023-09-07 10:51:00",
+      "anchor": "188hx",
+      "url": "https://exler.es/films/comments/indiana-dzhons-i-koleso-sudby.htm#188hx",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 599093,
+      "post_id": 4807,
+      "commented_at": "2023-09-04 14:42:00",
+      "anchor": "186wp",
+      "url": "https://exler.es/ezhe/comments/istoriya-paeli-recept-prigotovleniya.htm#186wp",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 599147,
+      "post_id": 4807,
+      "commented_at": "2023-09-04 13:28:00",
+      "anchor": "186tg",
+      "url": "https://exler.es/ezhe/comments/istoriya-paeli-recept-prigotovleniya.htm#186tg",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 599103,
+      "post_id": 4807,
+      "commented_at": "2023-09-04 13:36:00",
+      "anchor": "186tv",
+      "url": "https://exler.es/ezhe/comments/istoriya-paeli-recept-prigotovleniya.htm#186tv",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 602545,
+      "post_id": 4828,
+      "commented_at": "2023-08-30 10:47:00",
+      "anchor": "18454",
+      "url": "https://exler.es/blog/comments/gastroli-lenkoma-v-izraile.htm#18454",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 602648,
+      "post_id": 4829,
+      "commented_at": "2023-08-30 08:40:00",
+      "anchor": "183zr",
+      "url": "https://exler.es/blog/comments/mer-saksonskogo-gorodka-nastroyen-optimistichno.htm#183zr",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 602981,
+      "post_id": 4833,
+      "commented_at": "2023-08-30 10:21:00",
+      "anchor": "1843i",
+      "url": "https://exler.es/expromt/comments/obzor-shestogo-pokoleniya-umnyh-chasov-samsung-galaxy-watch6.htm#1843i",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 610228,
+      "post_id": 4882,
+      "commented_at": "2023-08-21 11:34:00",
+      "anchor": "17xi1",
+      "url": "https://exler.es/films/comments/vsevidyashee-oko.htm#17xi1",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 614847,
+      "post_id": 4917,
+      "commented_at": "2023-08-15 17:06:00",
+      "anchor": "17u3m",
+      "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-amazfit-bip-5.htm#17u3m",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 615672,
+      "post_id": 4923,
+      "commented_at": "2023-08-14 10:59:00",
+      "anchor": "17tal",
+      "url": "https://exler.es/films/comments/ted-lasso-tretij-sezon.htm#17tal",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 619963,
+      "post_id": 4959,
+      "commented_at": "2023-08-07 12:19:00",
+      "anchor": "17pjo",
+      "url": "https://exler.es/films/comments/tri-mushketera-d-artanyan.htm#17pjo",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 630414,
+      "post_id": 5023,
+      "commented_at": "2023-07-25 11:12:00",
+      "anchor": "17h35",
+      "url": "https://exler.es/ezhe/comments/lyubopytnaya-istoriya-gaskonskogo-kadillaka.htm#17h35",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 630419,
+      "post_id": 5023,
+      "commented_at": "2023-07-25 09:40:00",
+      "anchor": "17h1c",
+      "url": "https://exler.es/ezhe/comments/lyubopytnaya-istoriya-gaskonskogo-kadillaka.htm#17h1c",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 630425,
+      "post_id": 5023,
+      "commented_at": "2023-07-25 09:37:00",
+      "anchor": "17h1a",
+      "url": "https://exler.es/ezhe/comments/lyubopytnaya-istoriya-gaskonskogo-kadillaka.htm#17h1a",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 630943,
+      "post_id": 5030,
+      "commented_at": "2023-07-24 10:17:00",
+      "anchor": "17glk",
+      "url": "https://exler.es/films/comments/moe-prestuplenie.htm#17glk",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 642894,
+      "post_id": 5113,
+      "commented_at": "2023-07-09 13:11:00",
+      "anchor": "176s2",
+      "url": "https://exler.es/blog/comments/ne-zatykat-fontan.htm#176s2",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-036"
+    },
+    {
+      "comment_id": 651718,
+      "post_id": 5188,
+      "commented_at": "2023-06-26 11:45:00",
+      "anchor": "16zps",
+      "url": "https://exler.es/films/comments/horoshij-chelovek.htm#16zps",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 651721,
+      "post_id": 5188,
+      "commented_at": "2023-06-26 09:52:00",
+      "anchor": "16zne",
+      "url": "https://exler.es/films/comments/horoshij-chelovek.htm#16zne",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 655884,
+      "post_id": 5215,
+      "commented_at": "2023-06-22 10:24:00",
+      "anchor": "16wcl",
+      "url": "https://exler.es/films/comments/tajler-rejk-operaciya-po-spaseniyu-2.htm#16wcl",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 656796,
+      "post_id": 5224,
+      "commented_at": "2023-06-20 21:58:00",
+      "anchor": "16vms",
+      "url": "https://exler.es/expromt/comments/obzor-flagmanskogo-smartfona-xiaomi-13-pro.htm#16vms",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-017"
+    },
+    {
+      "comment_id": 662635,
+      "post_id": 5269,
+      "commented_at": "2023-06-12 10:25:00",
+      "anchor": "16qno",
+      "url": "https://exler.es/films/comments/argentina-1985.htm#16qno",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 668158,
+      "post_id": 5309,
+      "commented_at": "2023-06-05 11:32:00",
+      "anchor": "16m32",
+      "url": "https://exler.es/films/comments/air-bolshoj-pryzhok.htm#16m32",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 671187,
+      "post_id": 5336,
+      "commented_at": "2023-06-01 09:46:00",
+      "anchor": "16jmx",
+      "url": "https://exler.es/blog/comments/s-burundi-kak-to-ne-slozhilos.htm#16jmx",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 673086,
+      "post_id": 5351,
+      "commented_at": "2023-05-31 22:43:00",
+      "anchor": "16jg9",
+      "url": "https://exler.es/blog/comments/v-moskvu-priletelo.htm#16jg9",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 673878,
+      "post_id": 5356,
+      "commented_at": "2023-05-29 09:09:00",
+      "anchor": "16hho",
+      "url": "https://exler.es/blog/comments/smetlivyy-chinovnik.htm#16hho",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 676910,
+      "post_id": 5383,
+      "commented_at": "2023-05-25 10:38:00",
+      "anchor": "16f1a",
+      "url": "https://exler.es/films/comments/shramy-parizha.htm#16f1a",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 679694,
+      "post_id": 5406,
+      "commented_at": "2023-05-22 14:00:00",
+      "anchor": "16cxz",
+      "url": "https://exler.es/blog/comments/govoryat-berlin-vzyali.htm#16cxz",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 681850,
+      "post_id": 5430,
+      "commented_at": "2023-05-18 19:59:00",
+      "anchor": "16b0q",
+      "url": "https://exler.es/films/comments/diplomatka.htm#16b0q",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 681932,
+      "post_id": 5430,
+      "commented_at": "2023-05-18 11:53:00",
+      "anchor": "16ap2",
+      "url": "https://exler.es/films/comments/diplomatka.htm#16ap2",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 684133,
+      "post_id": 5444,
+      "commented_at": "2023-05-16 09:37:00",
+      "anchor": "1696e",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-redmi-note-12-pro-5g.htm#1696e",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 685060,
+      "post_id": 5450,
+      "commented_at": "2023-05-15 11:51:00",
+      "anchor": "168in",
+      "url": "https://exler.es/films/comments/o-tele-i-o-dushe.htm#168in",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 687057,
+      "post_id": 5471,
+      "commented_at": "2023-05-12 22:39:00",
+      "anchor": "166wx",
+      "url": "https://exler.es/blog/comments/konvent.htm#166wx",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 688704,
+      "post_id": 5480,
+      "commented_at": "2023-05-11 08:53:00",
+      "anchor": "165l2",
+      "url": "https://exler.es/films/comments/podzemelya-i-drakony-chest-sredi-vorov.htm#165l2",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 688612,
+      "post_id": 5480,
+      "commented_at": "2023-05-11 09:37:00",
+      "anchor": "165lr",
+      "url": "https://exler.es/films/comments/podzemelya-i-drakony-chest-sredi-vorov.htm#165lr",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 689334,
+      "post_id": 5486,
+      "commented_at": "2023-05-10 09:48:00",
+      "anchor": "16517",
+      "url": "https://exler.es/blog/comments/istoriya-s-linor-goralik-i-tartusskim-universitetom.htm#16517",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 689986,
+      "post_id": 5492,
+      "commented_at": "2023-05-09 10:07:00",
+      "anchor": "164gc",
+      "url": "https://exler.es/ezhe/comments/starinnyj-gorodok-vezle-i-vinodelcheskie-kooperativy.htm#164gc",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 692703,
+      "post_id": 5517,
+      "commented_at": "2023-05-05 10:18:00",
+      "anchor": "16231",
+      "url": "https://exler.es/blog/comments/podgotovka-k-koronatsii-charlza-iii.htm#16231",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-041"
+    },
+    {
+      "comment_id": 694472,
+      "post_id": 5529,
+      "commented_at": "2023-05-03 17:00:00",
+      "anchor": "160u5",
+      "url": "https://exler.es/expromt/comments/obzor-tws-naushnikov-redmi-buds-4-pro.htm#160u5",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-008"
+    },
+    {
+      "comment_id": 695801,
+      "post_id": 5538,
+      "commented_at": "2023-05-02 11:57:00",
+      "anchor": "15zua",
+      "url": "https://exler.es/films/comments/napadenie-na-rio-bravo.htm#15zua",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 697469,
+      "post_id": 5550,
+      "commented_at": "2023-04-30 10:37:00",
+      "anchor": "15ye9",
+      "url": "https://exler.es/blog/comments/delo-blinovskoy.htm#15ye9",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 700902,
+      "post_id": 5573,
+      "commented_at": "2023-04-27 09:06:00",
+      "anchor": "15w78",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-google-pixel-7-pro.htm#15w78",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-018"
+    },
+    {
+      "comment_id": 701054,
+      "post_id": 5573,
+      "commented_at": "2023-04-26 10:43:00",
+      "anchor": "15vig",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-google-pixel-7-pro.htm#15vig",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": "FIX-018"
+    },
+    {
+      "comment_id": 701060,
+      "post_id": 5573,
+      "commented_at": "2023-04-26 10:00:00",
+      "anchor": "15vgn",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-google-pixel-7-pro.htm#15vgn",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 709380,
+      "post_id": 5627,
+      "commented_at": "2023-04-14 07:48:00",
+      "anchor": "15ors",
+      "url": "https://exler.es/blog/comments/eto-konechno-porazitelnaya-istoriya.htm#15ors",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-042"
+    },
+    {
+      "comment_id": 709430,
+      "post_id": 5627,
+      "commented_at": "2023-04-14 07:47:00",
+      "anchor": "15orr",
+      "url": "https://exler.es/blog/comments/eto-konechno-porazitelnaya-istoriya.htm#15orr",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": "FIX-042"
+    },
+    {
+      "comment_id": 711948,
+      "post_id": 5646,
+      "commented_at": "2023-04-11 18:05:00",
+      "anchor": "15mu7",
+      "url": "https://exler.es/ezhe/comments/vse-chto-nuzhno-znat-o-reuse-stolice-vermuta-ispanii.htm#15mu7",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 711955,
+      "post_id": 5646,
+      "commented_at": "2023-04-11 18:07:00",
+      "anchor": "15mub",
+      "url": "https://exler.es/ezhe/comments/vse-chto-nuzhno-znat-o-reuse-stolice-vermuta-ispanii.htm#15mub",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 713406,
+      "post_id": 5653,
+      "commented_at": "2023-04-10 19:00:00",
+      "anchor": "15m59",
+      "url": "https://exler.es/films/comments/moj-uzhasnyj-sosed.htm#15m59",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 717719,
+      "post_id": 5682,
+      "commented_at": "2023-04-04 11:55:00",
+      "anchor": "15hwg",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-nothing-phone-1-originalno-i-neobychno.htm#15hwg",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 718405,
+      "post_id": 5688,
+      "commented_at": "2023-04-06 05:03:00",
+      "anchor": "15jbd",
+      "url": "https://exler.es/films/comments/operaciya-fortuna-iskusstvo-pobezhdat.htm#15jbd",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 719437,
+      "post_id": 5696,
+      "commented_at": "2023-04-02 11:30:00",
+      "anchor": "15gcg",
+      "url": "https://exler.es/blog/comments/uznayete-aktera-2.htm#15gcg",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 721463,
+      "post_id": 5713,
+      "commented_at": "2023-03-30 19:59:00",
+      "anchor": "15f1k",
+      "url": "https://exler.es/blog/comments/travushki-muravushki.htm#15f1k",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 721982,
+      "post_id": 5721,
+      "commented_at": "2023-03-30 11:33:00",
+      "anchor": "15esm",
+      "url": "https://exler.es/films/comments/chernaya-ptica.htm#15esm",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 721988,
+      "post_id": 5721,
+      "commented_at": "2023-03-30 11:32:00",
+      "anchor": "15esk",
+      "url": "https://exler.es/films/comments/chernaya-ptica.htm#15esk",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 723867,
+      "post_id": 5736,
+      "commented_at": "2023-03-28 09:15:00",
+      "anchor": "15d82",
+      "url": "https://exler.es/blog/comments/samyy-perevodimyy-ispanoyazychnyy-pisatel.htm#15d82",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 724465,
+      "post_id": 5741,
+      "commented_at": "2023-03-27 15:18:00",
+      "anchor": "15cqe",
+      "url": "https://exler.es/films/comments/mest-1.htm#15cqe",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 725088,
+      "post_id": 5744,
+      "commented_at": "2023-03-26 11:33:00",
+      "anchor": "15c2a",
+      "url": "https://exler.es/blog/comments/sovmestnoye-zayavleniye.htm#15c2a",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 748533,
+      "post_id": 5931,
+      "commented_at": "2023-02-22 08:58:00",
+      "anchor": "14t0b",
+      "url": "https://exler.es/likbez/comments/poleznye-hitrosti-pri-ispolzovanii-whatsapp-ii.htm#14t0b",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-023"
+    },
+    {
+      "comment_id": 748527,
+      "post_id": 5931,
+      "commented_at": "2023-02-22 08:56:00",
+      "anchor": "14t0a",
+      "url": "https://exler.es/likbez/comments/poleznye-hitrosti-pri-ispolzovanii-whatsapp-ii.htm#14t0a",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": "FIX-023"
+    },
+    {
+      "comment_id": 749453,
+      "post_id": 5935,
+      "commented_at": "2023-02-21 17:05:00",
+      "anchor": "14sq8",
+      "url": "https://exler.es/expromt/comments/kak-bystro-i-effektivno-moderirovat-chat-kommenty-telegram-kanala.htm#14sq8",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-024"
+    },
+    {
+      "comment_id": 756393,
+      "post_id": 5985,
+      "commented_at": "2023-02-13 09:07:00",
+      "anchor": "14mma",
+      "url": "https://exler.es/blog/comments/ranshe-on-byl-masterom-po-metallu.htm#14mma",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 756878,
+      "post_id": 5992,
+      "commented_at": "2023-02-12 09:58:00",
+      "anchor": "14m4r",
+      "url": "https://exler.es/blog/comments/zavorazhivayushchiye-mikrofoto-lek-oko.htm#14m4r",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 757355,
+      "post_id": 5996,
+      "commented_at": "2023-02-11 16:04:00",
+      "anchor": "14luq",
+      "url": "https://exler.es/blog/comments/kulernyye-stradaniya.htm#14luq",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 758573,
+      "post_id": 6008,
+      "commented_at": "2023-02-09 23:17:00",
+      "anchor": "14kt9",
+      "url": "https://exler.es/films/comments/vavilon-1.htm#14kt9",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 759136,
+      "post_id": 6011,
+      "commented_at": "2023-02-10 08:06:00",
+      "anchor": "14kwd",
+      "url": "https://exler.es/blog/comments/kak-ubrat-gruppirovku-v-paneli-zadach-windows-11.htm#14kwd",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 761248,
+      "post_id": 6026,
+      "commented_at": "2023-02-06 23:14:00",
+      "anchor": "14iw2",
+      "url": "https://exler.es/films/comments/fabelmany.htm#14iw2",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 765416,
+      "post_id": 6055,
+      "commented_at": "2023-02-02 07:05:00",
+      "anchor": "14foq",
+      "url": "https://exler.es/blog/comments/istoriya-georgiya-millyara-baby-yagi-sovetskogo-kino.htm#14foq",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-054"
+    },
+    {
+      "comment_id": 768607,
+      "post_id": 6083,
+      "commented_at": "2023-01-26 13:36:00",
+      "anchor": "14cc3",
+      "url": "https://exler.es/blog/comments/retsenziya-zritelnitsy-na-cheburashku.htm#14cc3",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-043"
+    },
+    {
+      "comment_id": 768665,
+      "post_id": 6083,
+      "commented_at": "2023-01-26 13:38:00",
+      "anchor": "14cc5",
+      "url": "https://exler.es/blog/comments/retsenziya-zritelnitsy-na-cheburashku.htm#14cc5",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-043"
+    },
+    {
+      "comment_id": 769914,
+      "post_id": 6093,
+      "commented_at": "2023-01-24 11:49:00",
+      "anchor": "14amc",
+      "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-garmin-fenix-7.htm#14amc",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-004"
+    },
+    {
+      "comment_id": 771798,
+      "post_id": 6106,
+      "commented_at": "2023-01-22 10:19:00",
+      "anchor": "149fr",
+      "url": "https://exler.es/blog/comments/bychiy-khvost-delikates-takoy.htm#149fr",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 774406,
+      "post_id": 6128,
+      "commented_at": "2023-01-18 12:12:00",
+      "anchor": "1471a",
+      "url": "https://exler.es/blog/comments/podbor-komplektuyushchikh-dlya-pk-versiya-3.htm#1471a",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 783414,
+      "post_id": 6206,
+      "commented_at": "2023-01-06 09:39:00",
+      "anchor": "13zs6",
+      "url": "https://exler.es/blog/comments/kogda-garri-vstretil-uilli.htm#13zs6",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 788343,
+      "post_id": 6257,
+      "commented_at": "2022-12-30 10:17:00",
+      "anchor": "13vrf",
+      "url": "https://exler.es/blog/comments/opozdavshiy-chempion-vse-ravno-ne-proigryvayet.htm#13vrf",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 790372,
+      "post_id": 6279,
+      "commented_at": "2022-12-27 10:54:00",
+      "anchor": "13ua4",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-poco-m5s-novyj-byudzhetnik.htm#13ua4",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 793223,
+      "post_id": 6303,
+      "commented_at": "2022-12-22 10:58:00",
+      "anchor": "13rwi",
+      "url": "https://exler.es/films/comments/belyj-lotos.htm#13rwi",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 794094,
+      "post_id": 6314,
+      "commented_at": "2022-12-21 12:03:00",
+      "anchor": "13rb5",
+      "url": "https://exler.es/expromt/comments/obzor-13-dyujmovogo-plansheta-blackview-tab-13.htm#13rb5",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 796260,
+      "post_id": 6334,
+      "commented_at": "2022-12-18 19:15:00",
+      "anchor": "13pjl",
+      "url": "https://exler.es/blog/comments/kakoy-match.htm#13pjl",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 797639,
+      "post_id": 6350,
+      "commented_at": "2022-12-16 19:14:00",
+      "anchor": "13on2",
+      "url": "https://exler.es/blog/comments/predstavleny-smartfony-xiaomi-13-13-pro.htm#13on2",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-051"
+    },
+    {
+      "comment_id": 797641,
+      "post_id": 6350,
+      "commented_at": "2022-12-16 20:43:00",
+      "anchor": "13oor",
+      "url": "https://exler.es/blog/comments/predstavleny-smartfony-xiaomi-13-13-pro.htm#13oor",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-051"
+    },
+    {
+      "comment_id": 800432,
+      "post_id": 6372,
+      "commented_at": "2022-12-13 09:30:00",
+      "anchor": "13m8a",
+      "url": "https://exler.es/expromt/comments/obzor-tws-naushnikov-samsung-galaxy-buds-live.htm#13m8a",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 805031,
+      "post_id": 6406,
+      "commented_at": "2022-12-07 08:24:00",
+      "anchor": "13ie6",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-xiaomi-12t.htm#13ie6",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-058"
+    },
+    {
+      "comment_id": 812984,
+      "post_id": 6472,
+      "commented_at": "2022-11-25 10:13:00",
+      "anchor": "13bxw",
+      "url": "https://exler.es/bannizm/comments/molodoj-rossijskij-slavnyj-syr.htm#13bxw",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 816660,
+      "post_id": 6499,
+      "commented_at": "2022-11-20 09:24:00",
+      "anchor": "13924",
+      "url": "https://exler.es/aliexpress/comments/delimsya-nahodkami-iz-kitajskih-magazinov-106.htm#13924",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 818545,
+      "post_id": 6518,
+      "commented_at": "2022-11-17 14:50:00",
+      "anchor": "137ka",
+      "url": "https://exler.es/films/comments/tam-gde-raki-poyut.htm#137ka",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 818582,
+      "post_id": 6518,
+      "commented_at": "2022-11-17 09:27:00",
+      "anchor": "137dh",
+      "url": "https://exler.es/films/comments/tam-gde-raki-poyut.htm#137dh",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 820456,
+      "post_id": 6529,
+      "commented_at": "2022-11-15 11:33:00",
+      "anchor": "135uo",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-iphone-14-pro-max.htm#135uo",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 821182,
+      "post_id": 6536,
+      "commented_at": "2022-11-14 10:57:00",
+      "anchor": "1356o",
+      "url": "https://exler.es/blog/comments/paninskiye-strasti.htm#1356o",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 821222,
+      "post_id": 6537,
+      "commented_at": "2022-11-14 13:09:00",
+      "anchor": "135b3",
+      "url": "https://exler.es/films/comments/smotrite-kak-oni-begut.htm#135b3",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 821219,
+      "post_id": 6537,
+      "commented_at": "2022-11-14 11:28:00",
+      "anchor": "1357w",
+      "url": "https://exler.es/films/comments/smotrite-kak-oni-begut.htm#1357w",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 826002,
+      "post_id": 6580,
+      "commented_at": "2022-11-08 19:27:00",
+      "anchor": "13209",
+      "url": "https://exler.es/blog/comments/film-zheleznyy-kogot.htm#13209",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 826102,
+      "post_id": 6581,
+      "commented_at": "2022-11-08 08:44:00",
+      "anchor": "131c9",
+      "url": "https://exler.es/films/comments/pianino.htm#131c9",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 834573,
+      "post_id": 6655,
+      "commented_at": "2022-10-27 13:08:00",
+      "anchor": "12u73",
+      "url": "https://exler.es/films/comments/predlozhenie.htm#12u73",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 836003,
+      "post_id": 6665,
+      "commented_at": "2022-10-26 22:52:00",
+      "anchor": "12tug",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-google-pixel-6a.htm#12tug",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 836049,
+      "post_id": 6665,
+      "commented_at": "2022-10-26 12:45:00",
+      "anchor": "12thf",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-google-pixel-6a.htm#12thf",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-022"
+    },
+    {
+      "comment_id": 836086,
+      "post_id": 6665,
+      "commented_at": "2022-10-26 10:22:00",
+      "anchor": "12tek",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-google-pixel-6a.htm#12tek",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": "FIX-022"
+    },
+    {
+      "comment_id": 845628,
+      "post_id": 6736,
+      "commented_at": "2022-10-13 19:18:00",
+      "anchor": "12lnv",
+      "url": "https://exler.es/films/comments/za-pivom.htm#12lnv",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 849034,
+      "post_id": 6759,
+      "commented_at": "2022-10-11 12:11:00",
+      "anchor": "12jm2",
+      "url": "https://exler.es/ezhe/comments/park-labirint-orta-v-barselone.htm#12jm2",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 858237,
+      "post_id": 6833,
+      "commented_at": "2022-09-29 10:24:00",
+      "anchor": "12bo5",
+      "url": "https://exler.es/films/comments/ostrov-bergmana.htm#12bo5",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 858248,
+      "post_id": 6834,
+      "commented_at": "2022-09-28 19:19:00",
+      "anchor": "12bif",
+      "url": "https://exler.es/blog/comments/konkurs-na-luchshuyu-paelyu.htm#12bif",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 859609,
+      "post_id": 6842,
+      "commented_at": "2022-09-27 21:55:00",
+      "anchor": "12atv",
+      "url": "https://exler.es/expromt/comments/obzor-kompaktnogo-mediapleera-dune-hd-magic-4k-plus.htm#12atv",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-029"
+    },
+    {
+      "comment_id": 861172,
+      "post_id": 6851,
+      "commented_at": "2022-09-26 09:55:00",
+      "anchor": "1296n",
+      "url": "https://exler.es/blog/comments/novyy-mirovoy-rekord-po-marafonu.htm#1296n",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-055"
+    },
+    {
+      "comment_id": 866696,
+      "post_id": 6897,
+      "commented_at": "2022-09-19 14:19:00",
+      "anchor": "124ri",
+      "url": "https://exler.es/blog/comments/barselona-s-vysoty-30-go-etazha.htm#124ri",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 867021,
+      "post_id": 6901,
+      "commented_at": "2022-09-19 10:18:00",
+      "anchor": "124lf",
+      "url": "https://exler.es/films/comments/poezdka-1.htm#124lf",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 871837,
+      "post_id": 6941,
+      "commented_at": "2022-09-12 10:53:00",
+      "anchor": "120no",
+      "url": "https://exler.es/films/comments/elvis.htm#120no",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 882501,
+      "post_id": 7033,
+      "commented_at": "2022-08-31 11:12:00",
+      "anchor": "11smn",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-xiaomi-12x-kto-hotel-kompaktnyj-i-moshnyj.htm#11smn",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 882536,
+      "post_id": 7033,
+      "commented_at": "2022-08-30 13:53:00",
+      "anchor": "11s4k",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-xiaomi-12x-kto-hotel-kompaktnyj-i-moshnyj.htm#11s4k",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-009"
+    },
+    {
+      "comment_id": 882567,
+      "post_id": 7033,
+      "commented_at": "2022-08-30 12:14:00",
+      "anchor": "11s1h",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-xiaomi-12x-kto-hotel-kompaktnyj-i-moshnyj.htm#11s1h",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 882525,
+      "post_id": 7033,
+      "commented_at": "2022-08-30 21:56:00",
+      "anchor": "11sc7",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-xiaomi-12x-kto-hotel-kompaktnyj-i-moshnyj.htm#11sc7",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": "FIX-009"
+    },
+    {
+      "comment_id": 882542,
+      "post_id": 7033,
+      "commented_at": "2022-08-30 13:18:00",
+      "anchor": "11s3l",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-xiaomi-12x-kto-hotel-kompaktnyj-i-moshnyj.htm#11s3l",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": "FIX-009"
+    },
+    {
+      "comment_id": 884647,
+      "post_id": 7047,
+      "commented_at": "2022-08-28 08:57:00",
+      "anchor": "11qq6",
+      "url": "https://exler.es/blog/comments/tur-po-burgundii-s-ekslerom.htm#11qq6",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 896084,
+      "post_id": 7141,
+      "commented_at": "2022-08-15 17:25:00",
+      "anchor": "11hpa",
+      "url": "https://exler.es/films/comments/agent-117-iz-afriki-s-lyubovyu.htm#11hpa",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 896089,
+      "post_id": 7141,
+      "commented_at": "2022-08-15 10:46:00",
+      "anchor": "11h86",
+      "url": "https://exler.es/films/comments/agent-117-iz-afriki-s-lyubovyu.htm#11h86",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 899639,
+      "post_id": 7170,
+      "commented_at": "2022-08-11 10:50:00",
+      "anchor": "11e31",
+      "url": "https://exler.es/films/comments/glavnaya-rol.htm#11e31",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 900083,
+      "post_id": 7172,
+      "commented_at": "2022-08-10 19:43:00",
+      "anchor": "11dsw",
+      "url": "https://exler.es/blog/comments/ispaniya-vo-mrake.htm#11dsw",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 900960,
+      "post_id": 7176,
+      "commented_at": "2022-08-10 09:33:00",
+      "anchor": "11d32",
+      "url": "https://exler.es/blog/comments/dve-novosti-podryad.htm#11d32",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 901630,
+      "post_id": 7180,
+      "commented_at": "2022-08-09 16:18:00",
+      "anchor": "11co1",
+      "url": "https://exler.es/ezhe/comments/rioha-vinodelcheskij-centr-ispanii.htm#11co1",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 901642,
+      "post_id": 7180,
+      "commented_at": "2022-08-09 13:38:00",
+      "anchor": "11cdk",
+      "url": "https://exler.es/ezhe/comments/rioha-vinodelcheskij-centr-ispanii.htm#11cdk",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 908744,
+      "post_id": 7224,
+      "commented_at": "2022-08-01 12:37:00",
+      "anchor": "116t3",
+      "url": "https://exler.es/films/comments/pacany-tretij-sezon.htm#116t3",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 912779,
+      "post_id": 7264,
+      "commented_at": "2022-08-10 16:48:00",
+      "anchor": "11dmt",
+      "url": "https://exler.es/expromt/comments/obzor-srednebyudzhetnogo-smartfona-samsung-galaxy-a53-5g.htm#11dmt",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 915009,
+      "post_id": 7286,
+      "commented_at": "2022-07-22 11:16:00",
+      "anchor": "111rz",
+      "url": "https://exler.es/blog/comments/territoriya-svobodnaya-ot-gugla.htm#111rz",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 916572,
+      "post_id": 7302,
+      "commented_at": "2022-07-26 11:37:00",
+      "anchor": "113ns",
+      "url": "https://exler.es/expromt/comments/obzor-byudzhetnyh-umnyh-chasov-amazfit-bip-3-deshevo-i-horosho.htm#113ns",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 921455,
+      "post_id": 7344,
+      "commented_at": "2022-07-14 13:20:00",
+      "anchor": "10wwv",
+      "url": "https://exler.es/films/comments/kostyum.htm#10wwv",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 921447,
+      "post_id": 7344,
+      "commented_at": "2022-07-14 11:44:00",
+      "anchor": "10wsr",
+      "url": "https://exler.es/films/comments/kostyum.htm#10wsr",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 924033,
+      "post_id": 7362,
+      "commented_at": "2022-07-11 12:13:00",
+      "anchor": "10ury",
+      "url": "https://exler.es/films/comments/doktor-strendzh-v-multivselennoj-bezumiya.htm#10ury",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 926138,
+      "post_id": 7382,
+      "commented_at": "2022-07-08 11:39:00",
+      "anchor": "10syn",
+      "url": "https://exler.es/blog/comments/vy-budete-smeyatsya-2.htm#10syn",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 927112,
+      "post_id": 7390,
+      "commented_at": "2022-07-07 11:02:00",
+      "anchor": "10s57",
+      "url": "https://exler.es/films/comments/lyupen.htm#10s57",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 938929,
+      "post_id": 7490,
+      "commented_at": "2022-06-23 11:02:00",
+      "anchor": "10ij0",
+      "url": "https://exler.es/films/comments/semejnyj-brak.htm#10ij0",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 939193,
+      "post_id": 7493,
+      "commented_at": "2022-06-22 16:54:00",
+      "anchor": "10i80",
+      "url": "https://exler.es/blog/comments/seks-ovoshchnoye-ragu-eklektika.htm#10i80",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 940593,
+      "post_id": 7505,
+      "commented_at": "2022-06-21 10:29:00",
+      "anchor": "10h81",
+      "url": "https://exler.es/likbez/comments/kak-skachat-installyator-windows-10-11-iz-rossii.htm#10h81",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 943827,
+      "post_id": 7539,
+      "commented_at": "2022-06-16 10:35:00",
+      "anchor": "10enz",
+      "url": "https://exler.es/films/comments/policiya-tokio.htm#10enz",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 945984,
+      "post_id": 7556,
+      "commented_at": "2022-06-13 11:56:00",
+      "anchor": "10cux",
+      "url": "https://exler.es/films/comments/nevynosimaya-tyazhest-ogromnogo-talanta.htm#10cux",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 946925,
+      "post_id": 7568,
+      "commented_at": "2022-06-11 14:39:00",
+      "anchor": "10bur",
+      "url": "https://exler.es/blog/comments/seks-pertsy-ched-smit.htm#10bur",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-039"
+    },
+    {
+      "comment_id": 948708,
+      "post_id": 7584,
+      "commented_at": "2022-06-09 13:50:00",
+      "anchor": "10aij",
+      "url": "https://exler.es/blog/comments/lesnoy-pazhar-v-malage.htm#10aij",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-035"
+    },
+    {
+      "comment_id": 949185,
+      "post_id": 7588,
+      "commented_at": "2022-06-09 12:14:00",
+      "anchor": "10ad4",
+      "url": "https://exler.es/films/comments/po-versii-barni.htm#10ad4",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 949203,
+      "post_id": 7588,
+      "commented_at": "2022-06-09 09:54:00",
+      "anchor": "10a7u",
+      "url": "https://exler.es/films/comments/po-versii-barni.htm#10a7u",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 950564,
+      "post_id": 7600,
+      "commented_at": "2022-06-08 10:33:00",
+      "anchor": "109hm",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-xiaomi-redmi-note-11-pro.htm#109hm",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 954388,
+      "post_id": 7637,
+      "commented_at": "2022-06-02 13:46:00",
+      "anchor": "105px",
+      "url": "https://exler.es/films/comments/razdelenie.htm#105px",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 957429,
+      "post_id": 7666,
+      "commented_at": "2022-05-30 10:22:00",
+      "anchor": "1039w",
+      "url": "https://exler.es/films/comments/vsyo-vezde-i-srazu.htm#1039w",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 959940,
+      "post_id": 7691,
+      "commented_at": "2022-05-26 10:35:00",
+      "anchor": "1015c",
+      "url": "https://exler.es/blog/comments/kukuruz-izdevayetsya-nad-kordenom.htm#1015c",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 962914,
+      "post_id": 7714,
+      "commented_at": "2022-05-23 09:47:00",
+      "anchor": "zyx5",
+      "url": "https://exler.es/films/comments/medlennye-loshadi.htm#zyx5",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 965824,
+      "post_id": 7744,
+      "commented_at": "2022-05-19 11:03:00",
+      "anchor": "zwle",
+      "url": "https://exler.es/films/comments/vlast-psa.htm#zwle",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 965840,
+      "post_id": 7744,
+      "commented_at": "2022-05-19 11:03:00",
+      "anchor": "zwlc",
+      "url": "https://exler.es/films/comments/vlast-psa.htm#zwlc",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 969545,
+      "post_id": 7769,
+      "commented_at": "2022-05-16 10:30:00",
+      "anchor": "ztk6",
+      "url": "https://exler.es/blog/comments/press-konferentsiya-popugayam-i-martyshkam.htm#ztk6",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 973615,
+      "post_id": 7806,
+      "commented_at": "2022-05-11 10:03:00",
+      "anchor": "zqcl",
+      "url": "https://exler.es/blog/comments/istoricheskaya-rech.htm#zqcl",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 980804,
+      "post_id": 7880,
+      "commented_at": "2022-05-02 10:51:00",
+      "anchor": "zkm3",
+      "url": "https://exler.es/films/comments/zaslanec-iz-kosmosa-vtoroj-sezon.htm#zkm3",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 992223,
+      "post_id": 7992,
+      "commented_at": "2022-04-19 12:41:00",
+      "anchor": "zbal",
+      "url": "https://exler.es/expromt/comments/osobennosti-obolochki-miui-13-dlya-smartfonov-xiaomi.htm#zbal",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 997098,
+      "post_id": 8042,
+      "commented_at": "2022-04-13 12:47:00",
+      "anchor": "z720",
+      "url": "https://exler.es/blog/comments/chasy-garmin-c-bezgranichnoy-avtonomnostyu.htm#z720",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 998416,
+      "post_id": 8055,
+      "commented_at": "2022-04-12 23:13:00",
+      "anchor": "z6qp",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-realme-8-horosho-sbalansirovannyj-byudzhetnik.htm#z6qp",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-030"
+    },
+    {
+      "comment_id": 1008596,
+      "post_id": 8131,
+      "commented_at": "2022-03-31 10:54:00",
+      "anchor": "yxgd",
+      "url": "https://exler.es/blog/comments/dolgo-dumala-vzveshivala.htm#yxgd",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1009849,
+      "post_id": 8142,
+      "commented_at": "2022-03-30 14:12:00",
+      "anchor": "ywuc",
+      "url": "https://exler.es/expromt/comments/obzor-tws-naushnikov-apple-airpods-pro-magsafe.htm#ywuc",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-025"
+    },
+    {
+      "comment_id": 1009887,
+      "post_id": 8142,
+      "commented_at": "2022-03-30 10:24:00",
+      "anchor": "ywit",
+      "url": "https://exler.es/expromt/comments/obzor-tws-naushnikov-apple-airpods-pro-magsafe.htm#ywit",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": "FIX-025"
+    },
+    {
+      "comment_id": 1015989,
+      "post_id": 8189,
+      "commented_at": "2022-03-24 12:20:00",
+      "anchor": "yrhd",
+      "url": "https://exler.es/films/comments/ancharted-na-kartah-ne-znachitsya.htm#yrhd",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1017615,
+      "post_id": 8200,
+      "commented_at": "2022-03-23 12:48:00",
+      "anchor": "yqpd",
+      "url": "https://exler.es/expromt/comments/obzor-chasov-samsung-galaxy-watch4.htm#yqpd",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1017617,
+      "post_id": 8200,
+      "commented_at": "2022-03-23 12:03:00",
+      "anchor": "yqm1",
+      "url": "https://exler.es/expromt/comments/obzor-chasov-samsung-galaxy-watch4.htm#yqm1",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1031759,
+      "post_id": 8331,
+      "commented_at": "2022-03-08 13:07:00",
+      "anchor": "yeh1",
+      "url": "https://exler.es/films/comments/staryj-genri.htm#yeh1",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1040086,
+      "post_id": 8421,
+      "commented_at": "2022-02-28 09:12:00",
+      "anchor": "y63f",
+      "url": "https://exler.es/blog/comments/malenkaya-pobedonosnaya-voyna.htm#y63f",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1047032,
+      "post_id": 8501,
+      "commented_at": "2022-02-23 13:15:00",
+      "anchor": "xz0h",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-iphone-13-pro.htm#xz0h",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1046790,
+      "post_id": 8501,
+      "commented_at": "2022-02-23 23:01:00",
+      "anchor": "xzh2",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-iphone-13-pro.htm#xzh2",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1047056,
+      "post_id": 8501,
+      "commented_at": "2022-02-23 13:14:00",
+      "anchor": "xz09",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-iphone-13-pro.htm#xz09",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1048403,
+      "post_id": 8508,
+      "commented_at": "2022-02-22 12:55:00",
+      "anchor": "xy03",
+      "url": "https://exler.es/expromt/comments/obzor-flagmanskih-gibridnyh-tws-naushnikov-soundcore-liberty-3-pro.htm#xy03",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1050509,
+      "post_id": 8520,
+      "commented_at": "2022-02-19 14:00:00",
+      "anchor": "xvkw",
+      "url": "https://exler.es/blog/comments/grozdiru-izdaniye-o-vine.htm#xvkw",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1053764,
+      "post_id": 8548,
+      "commented_at": "2022-02-15 13:55:00",
+      "anchor": "xsh6",
+      "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-amazfit-gtr-3-pro-vse-luchshe-i-luchshe.htm#xsh6",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": "FIX-074"
+    },
+    {
+      "comment_id": 1055026,
+      "post_id": 8558,
+      "commented_at": "2022-02-14 12:42:00",
+      "anchor": "xrfu",
+      "url": "https://exler.es/films/comments/king-s-man-nachalo.htm#xrfu",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1058344,
+      "post_id": 8581,
+      "commented_at": "2022-02-10 11:45:00",
+      "anchor": "xolv",
+      "url": "https://exler.es/films/comments/coda-rebenok-glukhikh-roditeley.htm#xolv",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1058347,
+      "post_id": 8581,
+      "commented_at": "2022-02-10 11:38:00",
+      "anchor": "xolo",
+      "url": "https://exler.es/films/comments/coda-rebenok-glukhikh-roditeley.htm#xolo",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1058354,
+      "post_id": 8581,
+      "commented_at": "2022-02-10 11:40:00",
+      "anchor": "xolq",
+      "url": "https://exler.es/films/comments/coda-rebenok-glukhikh-roditeley.htm#xolq",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1058358,
+      "post_id": 8581,
+      "commented_at": "2022-02-10 11:42:00",
+      "anchor": "xolt",
+      "url": "https://exler.es/films/comments/coda-rebenok-glukhikh-roditeley.htm#xolt",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1059084,
+      "post_id": 8586,
+      "commented_at": "2022-02-09 14:21:00",
+      "anchor": "xo2y",
+      "url": "https://exler.es/expromt/comments/obzor-novogo-byudzhetnika-poco-m4-pro-5g.htm#xo2y",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1062193,
+      "post_id": 8610,
+      "commented_at": "2022-02-04 12:50:00",
+      "anchor": "xkze",
+      "url": "https://exler.es/bannizm/comments/validatornye-tiktokery-muzykalnyh-sabostyanov.htm#xkze",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1062856,
+      "post_id": 8615,
+      "commented_at": "2022-02-03 12:16:00",
+      "anchor": "xk8b",
+      "url": "https://exler.es/blog/comments/kafe.htm#xk8b",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1063903,
+      "post_id": 8621,
+      "commented_at": "2022-02-02 12:33:00",
+      "anchor": "xjhh",
+      "url": "https://exler.es/expromt/comments/obzor-mediapristavki-realme-4k-google-tv-nbsp-stick.htm#xjhh",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1063987,
+      "post_id": 8621,
+      "commented_at": "2022-02-02 10:10:00",
+      "anchor": "xjci",
+      "url": "https://exler.es/expromt/comments/obzor-mediapristavki-realme-4k-google-tv-nbsp-stick.htm#xjci",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1063998,
+      "post_id": 8621,
+      "commented_at": "2022-02-02 10:32:00",
+      "anchor": "xjcz",
+      "url": "https://exler.es/expromt/comments/obzor-mediapristavki-realme-4k-google-tv-nbsp-stick.htm#xjcz",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": "FIX-075"
+    },
+    {
+      "comment_id": 1065474,
+      "post_id": 8632,
+      "commented_at": "2022-01-31 12:13:00",
+      "anchor": "xhyw",
+      "url": "https://exler.es/blog/comments/godovshchina-2.htm#xhyw",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1070331,
+      "post_id": 8666,
+      "commented_at": "2022-01-25 12:24:00",
+      "anchor": "xdzg",
+      "url": "https://exler.es/films/comments/sadovody.htm#xdzg",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1070346,
+      "post_id": 8666,
+      "commented_at": "2022-01-25 10:52:00",
+      "anchor": "xdvl",
+      "url": "https://exler.es/films/comments/sadovody.htm#xdvl",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1070359,
+      "post_id": 8666,
+      "commented_at": "2022-01-25 10:51:00",
+      "anchor": "xdvj",
+      "url": "https://exler.es/films/comments/sadovody.htm#xdvj",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1074705,
+      "post_id": 8697,
+      "commented_at": "2022-01-19 14:57:00",
+      "anchor": "x9mz",
+      "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-gt-3.htm#x9mz",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-015"
+    },
+    {
+      "comment_id": 1074646,
+      "post_id": 8697,
+      "commented_at": "2022-01-19 20:52:00",
+      "anchor": "x9xb",
+      "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-gt-3.htm#x9xb",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": "FIX-015"
+    },
+    {
+      "comment_id": 1075866,
+      "post_id": 8704,
+      "commented_at": "2022-01-18 10:52:00",
+      "anchor": "x8op",
+      "url": "https://exler.es/blog/comments/svyshe-64-mlrd-na-fuflomitsiny.htm#x8op",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1077772,
+      "post_id": 8719,
+      "commented_at": "2022-01-16 10:43:00",
+      "anchor": "x75n",
+      "url": "https://exler.es/expromt/comments/obzor-nedorogih-tws-naushnikov-s-shumopodavleniem-ugreen-hitune-t3.htm#x75n",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1079000,
+      "post_id": 8731,
+      "commented_at": "2022-01-13 13:02:00",
+      "anchor": "x5p0",
+      "url": "https://exler.es/films/comments/neproshennaya.htm#x5p0",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1080460,
+      "post_id": 8738,
+      "commented_at": "2022-01-12 12:23:00",
+      "anchor": "x4qw",
+      "url": "https://exler.es/expromt/comments/obzor-moshnogo-11-dyujmovogo-plansheta-xiaomi-pad-5.htm#x4qw",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-028"
+    },
+    {
+      "comment_id": 1082781,
+      "post_id": 8754,
+      "commented_at": "2022-01-08 11:53:00",
+      "anchor": "x2gg",
+      "url": "https://exler.es/blog/comments/mobilnaya-kamera-hasselblad-vtorogo-pokoleniya-v-smartfone-oneplus-10-pro.htm#x2gg",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1082784,
+      "post_id": 8754,
+      "commented_at": "2022-01-08 11:10:00",
+      "anchor": "x2fh",
+      "url": "https://exler.es/blog/comments/mobilnaya-kamera-hasselblad-vtorogo-pokoleniya-v-smartfone-oneplus-10-pro.htm#x2fh",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1082786,
+      "post_id": 8754,
+      "commented_at": "2022-01-08 11:07:00",
+      "anchor": "x2ff",
+      "url": "https://exler.es/blog/comments/mobilnaya-kamera-hasselblad-vtorogo-pokoleniya-v-smartfone-oneplus-10-pro.htm#x2ff",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1083599,
+      "post_id": 8761,
+      "commented_at": "2022-01-07 12:48:00",
+      "anchor": "x1x7",
+      "url": "https://exler.es/blog/comments/kogda-poyavitsya-neinvazivnyy-glyukometr.htm#x1x7",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1083802,
+      "post_id": 8764,
+      "commented_at": "2022-01-06 13:33:00",
+      "anchor": "x1at",
+      "url": "https://exler.es/blog/comments/samsung-galaxy-s21-fe-khaltura.htm#x1at",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1084969,
+      "post_id": 8770,
+      "commented_at": "2022-01-05 14:20:00",
+      "anchor": "x0ij",
+      "url": "https://exler.es/blog/comments/zaputannoye-delo.htm#x0ij",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1085198,
+      "post_id": 8773,
+      "commented_at": "2022-01-05 11:14:00",
+      "anchor": "x0e5",
+      "url": "https://exler.es/blog/comments/pokritikuyte-monitorchik.htm#x0e5",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1085574,
+      "post_id": 8777,
+      "commented_at": "2022-01-04 21:51:00",
+      "anchor": "x09v",
+      "url": "https://exler.es/films/comments/nasledniki-tretij-sezon.htm#x09v",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1089138,
+      "post_id": 8823,
+      "commented_at": "2021-12-28 21:03:00",
+      "anchor": "wwsb",
+      "url": "https://exler.es/blog/comments/tonometr-withings-bpm-connect.htm#wwsb",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1089460,
+      "post_id": 8827,
+      "commented_at": "2021-12-28 18:48:00",
+      "anchor": "wwpk",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-oneplus-nord-2-5g-srednebyudzhetnik-s-opticheskim-stabom.htm#wwpk",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": "FIX-063"
+    },
+    {
+      "comment_id": 1089913,
+      "post_id": 8829,
+      "commented_at": "2021-12-27 12:15:00",
+      "anchor": "ww4b",
+      "url": "https://exler.es/films/comments/matrica-voskreshenie.htm#ww4b",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1090984,
+      "post_id": 8840,
+      "commented_at": "2021-12-25 13:04:00",
+      "anchor": "wv3u",
+      "url": "https://exler.es/blog/comments/s-rozhdestvom-2.htm#wv3u",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1091380,
+      "post_id": 8844,
+      "commented_at": "2021-12-24 15:52:00",
+      "anchor": "wuq8",
+      "url": "https://exler.es/bannizm/comments/propusknye-razvaly-vkusnyh-pipidastrov.htm#wuq8",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1091956,
+      "post_id": 8848,
+      "commented_at": "2021-12-24 10:23:00",
+      "anchor": "wudk",
+      "url": "https://exler.es/blog/comments/pesnya-pozvola-v-dorogu.htm#wudk",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1096048,
+      "post_id": 8873,
+      "commented_at": "2021-12-18 12:20:00",
+      "anchor": "wqoj",
+      "url": "https://exler.es/blog/comments/pogovorim-o-domashnikh-setevykh-nakopitelyakh-nas.htm#wqoj",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1097391,
+      "post_id": 8885,
+      "commented_at": "2021-12-16 14:30:00",
+      "anchor": "wpi9",
+      "url": "https://exler.es/blog/comments/obedenno-osetrovoye.htm#wpi9",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": "FIX-079"
+    },
+    {
+      "comment_id": 1097740,
+      "post_id": 8888,
+      "commented_at": "2021-12-16 12:54:00",
+      "anchor": "wpem",
+      "url": "https://exler.es/films/comments/utrennee-shou-vtoroj-sezon.htm#wpem",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1097918,
+      "post_id": 8890,
+      "commented_at": "2021-12-15 11:48:00",
+      "anchor": "wozu",
+      "url": "https://exler.es/blog/comments/plany-po-obzoram-8.htm#wozu",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1100372,
+      "post_id": 8914,
+      "commented_at": "2021-12-10 14:52:00",
+      "anchor": "wmty",
+      "url": "https://exler.es/blog/comments/tsvetnyye-snimki-rossiyskikh-gorodov-1930-goda.htm#wmty",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1100376,
+      "post_id": 8914,
+      "commented_at": "2021-12-10 14:52:00",
+      "anchor": "wmtw",
+      "url": "https://exler.es/blog/comments/tsvetnyye-snimki-rossiyskikh-gorodov-1930-goda.htm#wmtw",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-076"
+    },
+    {
+      "comment_id": 1102174,
+      "post_id": 8930,
+      "commented_at": "2021-12-08 14:22:00",
+      "anchor": "wl5s",
+      "url": "https://exler.es/blog/comments/gruzinskiy-restoran-v-barselone.htm#wl5s",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1103937,
+      "post_id": 8940,
+      "commented_at": "2021-12-06 13:31:00",
+      "anchor": "wjiv",
+      "url": "https://exler.es/blog/comments/kaga-tio.htm#wjiv",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1104254,
+      "post_id": 8943,
+      "commented_at": "2021-12-06 10:55:00",
+      "anchor": "wjdl",
+      "url": "https://exler.es/blog/comments/v-kakikh-stranakh-bolshe-vsego-pyut.htm#wjdl",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1104404,
+      "post_id": 8945,
+      "commented_at": "2021-12-05 16:23:00",
+      "anchor": "wj40",
+      "url": "https://exler.es/blog/comments/peredacha-dolina-o-ridli-skotte.htm#wj40",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1107367,
+      "post_id": 8963,
+      "commented_at": "2021-12-01 16:20:00",
+      "anchor": "wgql",
+      "url": "https://exler.es/blog/comments/kupila-baba-porosya.htm#wgql",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1109395,
+      "post_id": 8978,
+      "commented_at": "2021-11-29 19:07:00",
+      "anchor": "wfg4",
+      "url": "https://exler.es/films/comments/krovavaya-mari.htm#wfg4",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1109397,
+      "post_id": 8978,
+      "commented_at": "2021-11-29 21:55:00",
+      "anchor": "wfl5",
+      "url": "https://exler.es/films/comments/krovavaya-mari.htm#wfl5",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1112358,
+      "post_id": 8998,
+      "commented_at": "2021-11-25 11:52:00",
+      "anchor": "wc8f",
+      "url": "https://exler.es/films/comments/koshachi-miry-luisa-uejna.htm#wc8f",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1113306,
+      "post_id": 9004,
+      "commented_at": "2021-11-24 15:12:00",
+      "anchor": "wbiz",
+      "url": "https://exler.es/blog/comments/elizabet-kholms-i-kompaniya-teranos.htm#wbiz",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1113435,
+      "post_id": 9007,
+      "commented_at": "2021-11-24 11:51:00",
+      "anchor": "wbf9",
+      "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-redmi-watch-2-lite.htm#wbf9",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-057"
+    },
+    {
+      "comment_id": 1116653,
+      "post_id": 9035,
+      "commented_at": "2021-11-18 16:52:00",
+      "anchor": "w8dv",
+      "url": "https://exler.es/blog/comments/seks-salat-iz-pecheni-treski-treskuchiy.htm#w8dv",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1118294,
+      "post_id": 9049,
+      "commented_at": "2021-11-16 09:36:00",
+      "anchor": "w6wv",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-xiaomi-11t-pochti-flagman.htm#w6wv",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1118286,
+      "post_id": 9049,
+      "commented_at": "2021-11-16 12:04:00",
+      "anchor": "w6yv",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-xiaomi-11t-pochti-flagman.htm#w6yv",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1119517,
+      "post_id": 9058,
+      "commented_at": "2021-11-14 14:06:00",
+      "anchor": "w5sx",
+      "url": "https://exler.es/blog/comments/whatsapp-sluchilos-chudo.htm#w5sx",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1121362,
+      "post_id": 9077,
+      "commented_at": "2021-11-11 13:30:00",
+      "anchor": "w4bg",
+      "url": "https://exler.es/blog/comments/itogi-starta-pervoy-nedeli-servisa-cinezen.htm#w4bg",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1122716,
+      "post_id": 9090,
+      "commented_at": "2021-11-09 11:29:00",
+      "anchor": "w30u",
+      "url": "https://exler.es/expromt/comments/obzor-nedorogogo-robota-pylesosa-xiaomi-mijia-sweeping-vacuum-cleaner-1c.htm#w30u",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1126486,
+      "post_id": 9128,
+      "commented_at": "2021-11-02 15:20:00",
+      "anchor": "vzff",
+      "url": "https://exler.es/blog/comments/ispaniya-ostalas-bez-gaza.htm#vzff",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1126488,
+      "post_id": 9128,
+      "commented_at": "2021-11-02 15:09:00",
+      "anchor": "vzev",
+      "url": "https://exler.es/blog/comments/ispaniya-ostalas-bez-gaza.htm#vzev",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1126837,
+      "post_id": 9132,
+      "commented_at": "2021-11-02 10:09:00",
+      "anchor": "vz6e",
+      "url": "https://exler.es/blog/comments/raskryt-sekret-eplovskoy-produktsii.htm#vz6e",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1127752,
+      "post_id": 9139,
+      "commented_at": "2021-10-31 15:25:00",
+      "anchor": "vy6y",
+      "url": "https://exler.es/blog/comments/mer-v-stile-flamenko.htm#vy6y",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-078"
+    },
+    {
+      "comment_id": 1127850,
+      "post_id": 9140,
+      "commented_at": "2021-10-31 14:01:00",
+      "anchor": "vy3z",
+      "url": "https://exler.es/blog/comments/subbotneye-barbekyu.htm#vy3z",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1129397,
+      "post_id": 9154,
+      "commented_at": "2021-10-29 09:58:00",
+      "anchor": "vww9",
+      "url": "https://exler.es/blog/comments/skandal-vo-frantsii.htm#vww9",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1130097,
+      "post_id": 9159,
+      "commented_at": "2021-10-28 20:39:00",
+      "anchor": "vwp0",
+      "url": "https://exler.es/films/comments/sceny-iz-supruzheskoj-zhizni.htm#vwp0",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1130555,
+      "post_id": 9163,
+      "commented_at": "2021-10-27 11:40:00",
+      "anchor": "vvp1",
+      "url": "https://exler.es/blog/comments/dokumentalka-o-filme-bratya-blyuz.htm#vvp1",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1130568,
+      "post_id": 9163,
+      "commented_at": "2021-10-27 11:19:00",
+      "anchor": "vvoi",
+      "url": "https://exler.es/blog/comments/dokumentalka-o-filme-bratya-blyuz.htm#vvoi",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1130596,
+      "post_id": 9164,
+      "commented_at": "2021-10-27 11:39:00",
+      "anchor": "vvp0",
+      "url": "https://exler.es/blog/comments/podkasty-i-kanal-v-youtube.htm#vvp0",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1130575,
+      "post_id": 9164,
+      "commented_at": "2021-10-27 11:17:00",
+      "anchor": "vvog",
+      "url": "https://exler.es/blog/comments/podkasty-i-kanal-v-youtube.htm#vvog",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1130595,
+      "post_id": 9164,
+      "commented_at": "2021-10-27 11:16:00",
+      "anchor": "vvod",
+      "url": "https://exler.es/blog/comments/podkasty-i-kanal-v-youtube.htm#vvod",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1131035,
+      "post_id": 9168,
+      "commented_at": "2021-10-26 17:02:00",
+      "anchor": "vvc1",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-xiaomi-redmi-10-novyj-byudzhetnik.htm#vvc1",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1131073,
+      "post_id": 9168,
+      "commented_at": "2021-10-26 11:27:00",
+      "anchor": "vuy7",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-xiaomi-redmi-10-novyj-byudzhetnik.htm#vuy7",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1132983,
+      "post_id": 9179,
+      "commented_at": "2021-10-24 12:32:00",
+      "anchor": "vtk6",
+      "url": "https://exler.es/aliexpress/comments/delimsya-nahodkami-iz-kitajskih-magazinov-61.htm#vtk6",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1137150,
+      "post_id": 9211,
+      "commented_at": "2021-10-18 10:32:00",
+      "anchor": "vppn",
+      "url": "https://exler.es/blog/comments/priblizhayetsya-khellouin.htm#vppn",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1140051,
+      "post_id": 9228,
+      "commented_at": "2021-10-14 09:26:00",
+      "anchor": "vn57",
+      "url": "https://exler.es/films/comments/ledyanoj-drajv.htm#vn57",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1140053,
+      "post_id": 9228,
+      "commented_at": "2021-10-14 09:26:00",
+      "anchor": "vn56",
+      "url": "https://exler.es/films/comments/ledyanoj-drajv.htm#vn56",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1144109,
+      "post_id": 9258,
+      "commented_at": "2021-10-05 14:28:00",
+      "anchor": "viuj",
+      "url": "https://exler.es/films/comments/ya-sozdan-dlya-tebya.htm#viuj",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1145891,
+      "post_id": 9274,
+      "commented_at": "2021-09-30 18:10:00",
+      "anchor": "vgz7",
+      "url": "https://exler.es/blog/comments/gadzhety-na-prodazhu-v-moskve-2.htm#vgz7",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1145895,
+      "post_id": 9274,
+      "commented_at": "2021-09-30 16:51:00",
+      "anchor": "vgxs",
+      "url": "https://exler.es/blog/comments/gadzhety-na-prodazhu-v-moskve-2.htm#vgxs",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1146214,
+      "post_id": 9278,
+      "commented_at": "2021-09-29 13:43:00",
+      "anchor": "vg9g",
+      "url": "https://exler.es/blog/comments/vysokoye-iskustvo.htm#vg9g",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1149761,
+      "post_id": 9307,
+      "commented_at": "2021-09-27 00:27:00",
+      "anchor": "vefi",
+      "url": "https://exler.es/films/comments/bolshaya-sekunda.htm#vefi",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1149737,
+      "post_id": 9307,
+      "commented_at": "2021-09-27 00:23:00",
+      "anchor": "vefd",
+      "url": "https://exler.es/films/comments/bolshaya-sekunda.htm#vefd",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1150899,
+      "post_id": 9312,
+      "commented_at": "2021-09-21 13:19:00",
+      "anchor": "vbhe",
+      "url": "https://exler.es/blog/comments/vot-eto-povorot-3.htm#vbhe",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1151171,
+      "post_id": 9314,
+      "commented_at": "2021-09-21 09:31:00",
+      "anchor": "vbaa",
+      "url": "https://exler.es/expromt/comments/obzor-byudzhetnogo-noutbuka-s-ekranom-15-6-dere-r9-pro.htm#vbaa",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-016"
+    },
+    {
+      "comment_id": 1151129,
+      "post_id": 9314,
+      "commented_at": "2021-09-21 12:05:00",
+      "anchor": "vbe4",
+      "url": "https://exler.es/expromt/comments/obzor-byudzhetnogo-noutbuka-s-ekranom-15-6-dere-r9-pro.htm#vbe4",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": "FIX-016"
+    },
+    {
+      "comment_id": 1154011,
+      "post_id": 9337,
+      "commented_at": "2021-09-16 16:43:00",
+      "anchor": "v80a",
+      "url": "https://exler.es/blog/comments/italyanskiye-buterbrody.htm#v80a",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1154606,
+      "post_id": 9341,
+      "commented_at": "2021-09-16 10:44:00",
+      "anchor": "v7nf",
+      "url": "https://exler.es/films/comments/telohranitel-zheny-killera.htm#v7nf",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1155939,
+      "post_id": 9351,
+      "commented_at": "2021-09-14 23:48:00",
+      "anchor": "v6sk",
+      "url": "https://exler.es/expromt/comments/obzor-flagmanskogo-smartfona-motorola-edge-20-pro.htm#v6sk",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-064"
+    },
+    {
+      "comment_id": 1155943,
+      "post_id": 9351,
+      "commented_at": "2021-09-14 23:36:00",
+      "anchor": "v6sd",
+      "url": "https://exler.es/expromt/comments/obzor-flagmanskogo-smartfona-motorola-edge-20-pro.htm#v6sd",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1155977,
+      "post_id": 9351,
+      "commented_at": "2021-09-14 11:08:00",
+      "anchor": "v61i",
+      "url": "https://exler.es/expromt/comments/obzor-flagmanskogo-smartfona-motorola-edge-20-pro.htm#v61i",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1156284,
+      "post_id": 9353,
+      "commented_at": "2021-09-13 19:01:00",
+      "anchor": "v5vl",
+      "url": "https://exler.es/films/comments/bumazhnyy-dom-pyatyy-sezon-pervaya-chast.htm#v5vl",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1156286,
+      "post_id": 9353,
+      "commented_at": "2021-09-13 19:12:00",
+      "anchor": "v5vt",
+      "url": "https://exler.es/films/comments/bumazhnyy-dom-pyatyy-sezon-pervaya-chast.htm#v5vt",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1157713,
+      "post_id": 9367,
+      "commented_at": "2021-09-09 23:54:00",
+      "anchor": "v423",
+      "url": "https://exler.es/blog/comments/frantsiya-proshchayetsya-s-belmondo.htm#v423",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1159582,
+      "post_id": 9385,
+      "commented_at": "2021-09-07 16:30:00",
+      "anchor": "v2gr",
+      "url": "https://exler.es/ezhe/comments/barselonskij-zoopark.htm#v2gr",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1159794,
+      "post_id": 9387,
+      "commented_at": "2021-09-06 11:27:00",
+      "anchor": "v1ow",
+      "url": "https://exler.es/films/comments/svet-vokrug.htm#v1ow",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1159743,
+      "post_id": 9387,
+      "commented_at": "2021-09-06 18:04:00",
+      "anchor": "v1wt",
+      "url": "https://exler.es/films/comments/svet-vokrug.htm#v1wt",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1159792,
+      "post_id": 9387,
+      "commented_at": "2021-09-06 11:27:00",
+      "anchor": "v1oy",
+      "url": "https://exler.es/films/comments/svet-vokrug.htm#v1oy",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1162439,
+      "post_id": 9409,
+      "commented_at": "2021-09-02 11:47:00",
+      "anchor": "uz9l",
+      "url": "https://exler.es/films/comments/sovremennaya-lyubov.htm#uz9l",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1162457,
+      "post_id": 9409,
+      "commented_at": "2021-09-02 10:37:00",
+      "anchor": "uz71",
+      "url": "https://exler.es/films/comments/sovremennaya-lyubov.htm#uz71",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1163286,
+      "post_id": 9416,
+      "commented_at": "2021-08-31 11:32:00",
+      "anchor": "uxw5",
+      "url": "https://exler.es/blog/comments/zvezdnyy-pary-nakhodyashchiyesya-vmeste-mnogo-let.htm#uxw5",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1163256,
+      "post_id": 9416,
+      "commented_at": "2021-08-31 11:29:00",
+      "anchor": "uxvz",
+      "url": "https://exler.es/blog/comments/zvezdnyy-pary-nakhodyashchiyesya-vmeste-mnogo-let.htm#uxvz",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": "FIX-077"
+    },
+    {
+      "comment_id": 1163422,
+      "post_id": 9417,
+      "commented_at": "2021-08-31 11:34:00",
+      "anchor": "uxw9",
+      "url": "https://exler.es/blog/comments/razdel-pokhudeniye-na-sayte.htm#uxw9",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1168127,
+      "post_id": 9451,
+      "commented_at": "2021-08-24 09:32:00",
+      "anchor": "usuh",
+      "url": "https://exler.es/expromt/comments/obzor-fitnes-brasleta-huawei-band-6.htm#usuh",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1170096,
+      "post_id": 9466,
+      "commented_at": "2021-08-20 16:37:00",
+      "anchor": "uqne",
+      "url": "https://exler.es/blog/comments/poluchil-piston.htm#uqne",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1171031,
+      "post_id": 9474,
+      "commented_at": "2021-08-19 09:14:00",
+      "anchor": "upjb",
+      "url": "https://exler.es/films/comments/kruella.htm#upjb",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1174763,
+      "post_id": 9503,
+      "commented_at": "2021-08-13 12:47:00",
+      "anchor": "uliz",
+      "url": "https://exler.es/blog/comments/u-honor-poyavilis-servisy-google.htm#uliz",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1175690,
+      "post_id": 9510,
+      "commented_at": "2021-08-12 09:46:00",
+      "anchor": "uke0",
+      "url": "https://exler.es/films/comments/zdes-i-sejchas.htm#uke0",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1176117,
+      "post_id": 9513,
+      "commented_at": "2021-08-11 17:39:00",
+      "anchor": "uk67",
+      "url": "https://exler.es/expromt/comments/obzor-tws-naushnikov-ugreen-hitune-x5.htm#uk67",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1178694,
+      "post_id": 9530,
+      "commented_at": "2021-08-08 11:52:00",
+      "anchor": "uhqq",
+      "url": "https://exler.es/blog/comments/chtoby-ne-razderbanili-stranu.htm#uhqq",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1178818,
+      "post_id": 9531,
+      "commented_at": "2021-08-07 13:40:00",
+      "anchor": "uh6r",
+      "url": "https://exler.es/blog/comments/i-snova-o-barse-i-messi.htm#uh6r",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1179027,
+      "post_id": 9533,
+      "commented_at": "2021-08-07 12:24:00",
+      "anchor": "uh4u",
+      "url": "https://exler.es/blog/comments/zapaslivyy-pensioner.htm#uh4u",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1180511,
+      "post_id": 9550,
+      "commented_at": "2021-08-05 10:16:00",
+      "anchor": "ufo5",
+      "url": "https://exler.es/films/comments/kruiz-po-dzhunglyam.htm#ufo5",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1183258,
+      "post_id": 9572,
+      "commented_at": "2021-07-31 13:44:00",
+      "anchor": "ucj3",
+      "url": "https://exler.es/blog/comments/v-nazvanii-net-bukvy-zyu.htm#ucj3",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1183310,
+      "post_id": 9572,
+      "commented_at": "2021-07-31 12:28:00",
+      "anchor": "uchp",
+      "url": "https://exler.es/blog/comments/v-nazvanii-net-bukvy-zyu.htm#uchp",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1184248,
+      "post_id": 9586,
+      "commented_at": "2021-07-29 12:34:00",
+      "anchor": "ubia",
+      "url": "https://exler.es/blog/comments/kitayskiye-pechenyushki-s-predskazaniyami.htm#ubia",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1184336,
+      "post_id": 9588,
+      "commented_at": "2021-07-29 13:23:00",
+      "anchor": "ubjc",
+      "url": "https://exler.es/films/comments/para-iz-budushego.htm#ubjc",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1184667,
+      "post_id": 9593,
+      "commented_at": "2021-07-28 20:16:00",
+      "anchor": "ubd2",
+      "url": "https://exler.es/expromt/comments/obzor-huawei-watch-3-nbsp-umnye-chasy-na-harmony-os.htm#ubd2",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1184677,
+      "post_id": 9593,
+      "commented_at": "2021-07-28 16:36:00",
+      "anchor": "ub9n",
+      "url": "https://exler.es/expromt/comments/obzor-huawei-watch-3-nbsp-umnye-chasy-na-harmony-os.htm#ub9n",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1184725,
+      "post_id": 9593,
+      "commented_at": "2021-07-28 11:41:00",
+      "anchor": "ub2g",
+      "url": "https://exler.es/expromt/comments/obzor-huawei-watch-3-nbsp-umnye-chasy-na-harmony-os.htm#ub2g",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1185023,
+      "post_id": 9595,
+      "commented_at": "2021-07-27 15:43:00",
+      "anchor": "uap1",
+      "url": "https://exler.es/blog/comments/akkumulyator-magsafe-dlya-12-kh-ayfonov.htm#uap1",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1185183,
+      "post_id": 9597,
+      "commented_at": "2021-07-27 17:38:00",
+      "anchor": "uaro",
+      "url": "https://exler.es/films/comments/loki.htm#uaro",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1186898,
+      "post_id": 9608,
+      "commented_at": "2021-07-26 10:44:00",
+      "anchor": "u9ei",
+      "url": "https://exler.es/blog/comments/yekaterina-shulman-o-teorii-pokoleniy.htm#u9ei",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1188598,
+      "post_id": 9624,
+      "commented_at": "2021-07-22 10:58:00",
+      "anchor": "u7as",
+      "url": "https://exler.es/films/comments/chernaya-vdova.htm#u7as",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1188604,
+      "post_id": 9624,
+      "commented_at": "2021-07-22 10:23:00",
+      "anchor": "u7a6",
+      "url": "https://exler.es/films/comments/chernaya-vdova.htm#u7a6",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1189139,
+      "post_id": 9629,
+      "commented_at": "2021-07-21 13:04:00",
+      "anchor": "u6q0",
+      "url": "https://exler.es/expromt/comments/obzor-tws-naushnikov-redmi-buds-3-pro-s-aktivnym-shumodavom.htm#u6q0",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-072"
+    },
+    {
+      "comment_id": 1189143,
+      "post_id": 9629,
+      "commented_at": "2021-07-21 12:58:00",
+      "anchor": "u6pv",
+      "url": "https://exler.es/expromt/comments/obzor-tws-naushnikov-redmi-buds-3-pro-s-aktivnym-shumodavom.htm#u6pv",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1189146,
+      "post_id": 9629,
+      "commented_at": "2021-07-21 12:36:00",
+      "anchor": "u6oy",
+      "url": "https://exler.es/expromt/comments/obzor-tws-naushnikov-redmi-buds-3-pro-s-aktivnym-shumodavom.htm#u6oy",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": "FIX-072"
+    },
+    {
+      "comment_id": 1189642,
+      "post_id": 9636,
+      "commented_at": "2021-07-21 10:28:00",
+      "anchor": "u6m0",
+      "url": "https://exler.es/expromt/comments/obzor-byudzhetnogo-10-dyujmovogo-plansheta-teclast-m40.htm#u6m0",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-073"
+    },
+    {
+      "comment_id": 1190297,
+      "post_id": 9642,
+      "commented_at": "2021-07-19 12:33:00",
+      "anchor": "u5ke",
+      "url": "https://exler.es/films/comments/ogon.htm#u5ke",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1190322,
+      "post_id": 9642,
+      "commented_at": "2021-07-19 12:34:00",
+      "anchor": "u5kg",
+      "url": "https://exler.es/films/comments/ogon.htm#u5kg",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1190272,
+      "post_id": 9642,
+      "commented_at": "2021-07-19 15:31:00",
+      "anchor": "u5q5",
+      "url": "https://exler.es/films/comments/ogon.htm#u5q5",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1190310,
+      "post_id": 9642,
+      "commented_at": "2021-07-19 12:29:00",
+      "anchor": "u5kc",
+      "url": "https://exler.es/films/comments/ogon.htm#u5kc",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1192609,
+      "post_id": 9663,
+      "commented_at": "2021-07-15 13:56:00",
+      "anchor": "u2r8",
+      "url": "https://exler.es/blog/comments/velosipednaya-mayka.htm#u2r8",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1192709,
+      "post_id": 9664,
+      "commented_at": "2021-07-15 12:32:00",
+      "anchor": "u2ne",
+      "url": "https://exler.es/blog/comments/vneshniy-akkumulyator-ot-apple-dlya-12-kh-ayfonov.htm#u2ne",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1193107,
+      "post_id": 9666,
+      "commented_at": "2021-07-15 09:18:00",
+      "anchor": "u2hw",
+      "url": "https://exler.es/films/comments/dorogie-tovarishi.htm#u2hw",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1193099,
+      "post_id": 9666,
+      "commented_at": "2021-07-15 09:45:00",
+      "anchor": "u2io",
+      "url": "https://exler.es/films/comments/dorogie-tovarishi.htm#u2io",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1194166,
+      "post_id": 9680,
+      "commented_at": "2021-07-14 12:15:00",
+      "anchor": "u20o",
+      "url": "https://exler.es/expromt/comments/obzor-zashishennyh-umnyh-chasov-amazfit-t-rex-pro.htm#u20o",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": "FIX-065"
+    },
+    {
+      "comment_id": 1194240,
+      "post_id": 9680,
+      "commented_at": "2021-07-13 11:05:00",
+      "anchor": "u13k",
+      "url": "https://exler.es/expromt/comments/obzor-zashishennyh-umnyh-chasov-amazfit-t-rex-pro.htm#u13k",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1194974,
+      "post_id": 9685,
+      "commented_at": "2021-07-12 12:11:00",
+      "anchor": "u0fu",
+      "url": "https://exler.es/films/comments/igry-shpionov.htm#u0fu",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1196409,
+      "post_id": 9694,
+      "commented_at": "2021-07-10 10:47:00",
+      "anchor": "tyyh",
+      "url": "https://exler.es/blog/comments/tribyut-bogemskoy-rapsodii.htm#tyyh",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1197253,
+      "post_id": 9706,
+      "commented_at": "2021-07-08 14:54:00",
+      "anchor": "txr5",
+      "url": "https://exler.es/blog/comments/obzor-sony-xperia-1-iii-ot-dxomark.htm#txr5",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1197367,
+      "post_id": 9708,
+      "commented_at": "2021-07-07 09:38:00",
+      "anchor": "twqx",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-xiaomi-mi-11-lite.htm#twqx",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1198654,
+      "post_id": 9717,
+      "commented_at": "2021-07-07 11:52:00",
+      "anchor": "twtw",
+      "url": "https://exler.es/blog/comments/aykyu-kotikov.htm#twtw",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1199535,
+      "post_id": 9726,
+      "commented_at": "2021-07-05 22:43:00",
+      "anchor": "tw0t",
+      "url": "https://exler.es/blog/comments/kinorezhisser-vladimir-menshov-umer.htm#tw0t",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1199848,
+      "post_id": 9729,
+      "commented_at": "2021-07-05 11:26:00",
+      "anchor": "tvlc",
+      "url": "https://exler.es/films/comments/hitrosti-1.htm#tvlc",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1202657,
+      "post_id": 9762,
+      "commented_at": "2021-07-01 16:49:00",
+      "anchor": "tsy6",
+      "url": "https://exler.es/films/comments/kosmicheskie-sily.htm#tsy6",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1202661,
+      "post_id": 9762,
+      "commented_at": "2021-07-01 16:44:00",
+      "anchor": "tsxw",
+      "url": "https://exler.es/films/comments/kosmicheskie-sily.htm#tsxw",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1202715,
+      "post_id": 9762,
+      "commented_at": "2021-07-01 09:45:00",
+      "anchor": "tsma",
+      "url": "https://exler.es/films/comments/kosmicheskie-sily.htm#tsma",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1202668,
+      "post_id": 9762,
+      "commented_at": "2021-07-01 13:12:00",
+      "anchor": "tss1",
+      "url": "https://exler.es/films/comments/kosmicheskie-sily.htm#tss1",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1202706,
+      "post_id": 9762,
+      "commented_at": "2021-07-01 09:50:00",
+      "anchor": "tsmk",
+      "url": "https://exler.es/films/comments/kosmicheskie-sily.htm#tsmk",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1203819,
+      "post_id": 9770,
+      "commented_at": "2021-06-30 10:17:00",
+      "anchor": "trlx",
+      "url": "https://exler.es/blog/comments/posledniy-den-pesety-v-ispanii.htm#trlx",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1203842,
+      "post_id": 9771,
+      "commented_at": "2021-06-30 09:35:00",
+      "anchor": "trl7",
+      "url": "https://exler.es/blog/comments/prikvel-klana-soprano.htm#trl7",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1204249,
+      "post_id": 9774,
+      "commented_at": "2021-06-29 12:14:00",
+      "anchor": "tr38",
+      "url": "https://exler.es/blog/comments/ostorozhno-amoled-ekran.htm#tr38",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1204327,
+      "post_id": 9776,
+      "commented_at": "2021-06-29 12:49:00",
+      "anchor": "tr45",
+      "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-amazfit-bip-u-pro.htm#tr45",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1205203,
+      "post_id": 9781,
+      "commented_at": "2021-06-28 11:51:00",
+      "anchor": "tq9y",
+      "url": "https://exler.es/films/comments/luka.htm#tq9y",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1205789,
+      "post_id": 9785,
+      "commented_at": "2021-06-27 11:25:00",
+      "anchor": "tpoo",
+      "url": "https://exler.es/aliexpress/comments/delimsya-nahodkami-iz-kitajskih-magazinov-45.htm#tpoo",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1208824,
+      "post_id": 9810,
+      "commented_at": "2021-06-23 10:05:00",
+      "anchor": "tmgp",
+      "url": "https://exler.es/expromt/comments/smartfon-poco-m3-pro-5g-nfc-moshnee-luchshe-i-vse-ravno-deshevo.htm#tmgp",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1208797,
+      "post_id": 9810,
+      "commented_at": "2021-06-23 11:19:00",
+      "anchor": "tmix",
+      "url": "https://exler.es/expromt/comments/smartfon-poco-m3-pro-5g-nfc-moshnee-luchshe-i-vse-ravno-deshevo.htm#tmix",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1208822,
+      "post_id": 9810,
+      "commented_at": "2021-06-23 09:55:00",
+      "anchor": "tmgg",
+      "url": "https://exler.es/expromt/comments/smartfon-poco-m3-pro-5g-nfc-moshnee-luchshe-i-vse-ravno-deshevo.htm#tmgg",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1210494,
+      "post_id": 9823,
+      "commented_at": "2021-06-21 12:51:00",
+      "anchor": "tkxj",
+      "url": "https://exler.es/films/comments/major-grom-chumnoj-doktor.htm#tkxj",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1212139,
+      "post_id": 9841,
+      "commented_at": "2021-06-18 12:51:00",
+      "anchor": "tjd6",
+      "url": "https://exler.es/blog/comments/ay-leica-ay-molodtsy.htm#tjd6",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1212425,
+      "post_id": 9844,
+      "commented_at": "2021-06-17 15:25:00",
+      "anchor": "tj2e",
+      "url": "https://exler.es/films/comments/krovnye-uzy.htm#tj2e",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1213965,
+      "post_id": 9857,
+      "commented_at": "2021-06-15 12:39:00",
+      "anchor": "thl0",
+      "url": "https://exler.es/blog/comments/royalti-fri-audiotreki-i-zvukovyye-effekty.htm#thl0",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1214096,
+      "post_id": 9859,
+      "commented_at": "2021-06-15 10:59:00",
+      "anchor": "thjj",
+      "url": "https://exler.es/likbez/comments/kak-vdvoem-smotret-televizor-v-besprovodnyh-naushnikah.htm#thjj",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": "FIX-066"
+    },
+    {
+      "comment_id": 1214522,
+      "post_id": 9864,
+      "commented_at": "2021-06-14 15:58:00",
+      "anchor": "th7t",
+      "url": "https://exler.es/films/comments/rycari-spravedlivosti.htm#th7t",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1214536,
+      "post_id": 9864,
+      "commented_at": "2021-06-14 13:21:00",
+      "anchor": "th3j",
+      "url": "https://exler.es/films/comments/rycari-spravedlivosti.htm#th3j",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1215023,
+      "post_id": 9870,
+      "commented_at": "2021-06-13 09:53:00",
+      "anchor": "tgqj",
+      "url": "https://exler.es/blog/comments/nemnogo-bika.htm#tgqj",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1215856,
+      "post_id": 9883,
+      "commented_at": "2021-06-10 11:43:00",
+      "anchor": "tfsr",
+      "url": "https://exler.es/blog/comments/eto-my-udachno-zayekhali.htm#tfsr",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1216915,
+      "post_id": 9891,
+      "commented_at": "2021-06-08 12:34:00",
+      "anchor": "teq1",
+      "url": "https://exler.es/expromt/comments/obzor-miniatyurnogo-cap-usilitelya-dlya-cmartfona-pk-ibasso-audio-dc03.htm#teq1",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": "FIX-067"
+    },
+    {
+      "comment_id": 1217433,
+      "post_id": 9897,
+      "commented_at": "2021-06-07 16:28:00",
+      "anchor": "te8h",
+      "url": "https://exler.es/films/comments/priklyuchenie-pikasso.htm#te8h",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1217457,
+      "post_id": 9897,
+      "commented_at": "2021-06-07 10:42:00",
+      "anchor": "te1f",
+      "url": "https://exler.es/films/comments/priklyuchenie-pikasso.htm#te1f",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1217803,
+      "post_id": 9901,
+      "commented_at": "2021-06-06 19:14:00",
+      "anchor": "tdrq",
+      "url": "https://exler.es/aliexpress/comments/delimsya-nahodkami-iz-kitajskih-magazinov-42.htm#tdrq",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1221211,
+      "post_id": 9934,
+      "commented_at": "2021-05-31 11:31:00",
+      "anchor": "tadt",
+      "url": "https://exler.es/films/comments/gnev-chelovecheskij.htm#tadt",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1221256,
+      "post_id": 9935,
+      "commented_at": "2021-05-31 14:51:00",
+      "anchor": "taks",
+      "url": "https://exler.es/blog/comments/opyat-sigal-vo-chto-to-vstupil.htm#taks",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1223658,
+      "post_id": 9955,
+      "commented_at": "2021-05-27 11:27:00",
+      "anchor": "t7vh",
+      "url": "https://exler.es/expromt/comments/obzor-flagmanskogo-smartfona-poco-f3-5g.htm#t7vh",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1226123,
+      "post_id": 9970,
+      "commented_at": "2021-05-23 16:35:00",
+      "anchor": "t51e",
+      "url": "https://exler.es/blog/comments/nichego-sebe-2.htm#t51e",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1226498,
+      "post_id": 9972,
+      "commented_at": "2021-05-23 10:15:00",
+      "anchor": "t4s2",
+      "url": "https://exler.es/aliexpress/comments/delimsya-nahodkami-iz-kitajskih-magazinov-40.htm#t4s2",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1226550,
+      "post_id": 9972,
+      "commented_at": "2021-05-23 11:42:00",
+      "anchor": "t4u6",
+      "url": "https://exler.es/aliexpress/comments/delimsya-nahodkami-iz-kitajskih-magazinov-40.htm#t4u6",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1226943,
+      "post_id": 9977,
+      "commented_at": "2021-05-22 15:00:00",
+      "anchor": "t4g0",
+      "url": "https://exler.es/blog/comments/konstantin-raykin-u-nikolaya-solodnikova.htm#t4g0",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1228303,
+      "post_id": 9990,
+      "commented_at": "2021-05-20 11:27:00",
+      "anchor": "t2yd",
+      "url": "https://exler.es/blog/comments/mirovaya-premyera-poco-m5-pro-5g.htm#t2yd",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1241174,
+      "post_id": 10001,
+      "commented_at": "2026-06-17 13:43:00",
+      "anchor": "1ns7v",
+      "url": "https://exler.es/blog/comments/luchshiye-smartfony-2026-goda.htm#1ns7v",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1241595,
+      "post_id": 10007,
+      "commented_at": "2026-06-16 13:00:00",
+      "anchor": "1nrp4",
+      "url": "https://exler.es/expromt/comments/smartfony-xiaomi-17t-i-17t-pro.htm#1nrp4",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-068"
+    },
+    {
+      "comment_id": 1243698,
+      "post_id": 10026,
+      "commented_at": "2026-06-12 22:53:00",
+      "anchor": "1nq6f",
+      "url": "https://exler.es/blog/comments/vsemirnaya-istoriya-chast-1.htm#1nq6f",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1244555,
+      "post_id": 10033,
+      "commented_at": "2026-06-12 09:12:00",
+      "anchor": "1npkj",
+      "url": "https://exler.es/blog/comments/sdelka-uzhe-vot-vot.htm#1npkj",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1245134,
+      "post_id": 10038,
+      "commented_at": "2026-06-11 09:56:00",
+      "anchor": "1np0f",
+      "url": "https://exler.es/blog/comments/otkrytiye-bashnyu-iisusa-baziliki-la-sagrada-familia.htm#1np0f",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1245159,
+      "post_id": 10039,
+      "commented_at": "2026-06-11 10:27:00",
+      "anchor": "1np0x",
+      "url": "https://exler.es/films/comments/proshaj-dzhun.htm#1np0x",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1247029,
+      "post_id": 10057,
+      "commented_at": "2026-06-08 11:49:00",
+      "anchor": "1nnln",
+      "url": "https://exler.es/films/comments/ograblenie-londona.htm#1nnln",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1252393,
+      "post_id": 10119,
+      "commented_at": "2026-05-30 11:32:00",
+      "anchor": "1njd6",
+      "url": "https://exler.es/blog/comments/prilozheniye-dlya-otslezhivaniya-khrapa.htm#1njd6",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1254348,
+      "post_id": 10143,
+      "commented_at": "2026-05-27 11:39:00",
+      "anchor": "1nhss",
+      "url": "https://exler.es/blog/comments/ispanskiy-bashmachnik.htm#1nhss",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1254365,
+      "post_id": 10143,
+      "commented_at": "2026-05-27 11:38:00",
+      "anchor": "1nhsr",
+      "url": "https://exler.es/blog/comments/ispanskiy-bashmachnik.htm#1nhsr",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1254478,
+      "post_id": 10145,
+      "commented_at": "2026-05-27 12:01:00",
+      "anchor": "1nhtc",
+      "url": "https://exler.es/blog/comments/trebuyutsya-it-spetsialisty.htm#1nhtc",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1255698,
+      "post_id": 10158,
+      "commented_at": "2026-05-25 12:42:00",
+      "anchor": "1ngn4",
+      "url": "https://exler.es/blog/comments/ne-khotela-stoyat-v-probke.htm#1ngn4",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1258855,
+      "post_id": 10195,
+      "commented_at": "2026-05-20 09:28:00",
+      "anchor": "1nehi",
+      "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-fit-5.htm#1nehi",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": "FIX-069"
+    },
+    {
+      "comment_id": 1261594,
+      "post_id": 10223,
+      "commented_at": "2026-05-15 10:47:00",
+      "anchor": "1nc3i",
+      "url": "https://exler.es/blog/comments/sony-umeyet-udivit.htm#1nc3i",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1264338,
+      "post_id": 10247,
+      "commented_at": "2026-05-12 22:58:00",
+      "anchor": "1nasy",
+      "url": "https://exler.es/films/comments/vot-eto-drama.htm#1nasy",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1264350,
+      "post_id": 10247,
+      "commented_at": "2026-05-12 22:59:00",
+      "anchor": "1nat0",
+      "url": "https://exler.es/films/comments/vot-eto-drama.htm#1nat0",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1269437,
+      "post_id": 10296,
+      "commented_at": "2026-05-04 12:04:00",
+      "anchor": "1n5x6",
+      "url": "https://exler.es/blog/comments/bez-vashey-podderzhki-etot-sayt-ne-vyzhivet.htm#1n5x6",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1281211,
+      "post_id": 10419,
+      "commented_at": "2026-04-16 10:27:00",
+      "anchor": "1mws0",
+      "url": "https://exler.es/films/comments/molodoj-sherlok.htm#1mws0",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1282421,
+      "post_id": 10430,
+      "commented_at": "2026-04-14 12:07:00",
+      "anchor": "1mvta",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-realme-14-5g.htm#1mvta",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-071"
+    },
+    {
+      "comment_id": 1283665,
+      "post_id": 10447,
+      "commented_at": "2026-04-11 19:09:00",
+      "anchor": "1mus3",
+      "url": "https://exler.es/blog/comments/quando-quando-quando.htm#1mus3",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1285338,
+      "post_id": 10468,
+      "commented_at": "2026-04-09 09:42:00",
+      "anchor": "1mthn",
+      "url": "https://exler.es/films/comments/ograblenie-v-los-andzhelese.htm#1mthn",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1286897,
+      "post_id": 10482,
+      "commented_at": "2026-04-08 10:17:00",
+      "anchor": "1mstt",
+      "url": "https://exler.es/expromt/comments/smartfony-poco-x8-pro-i-poco-x8-pro-max.htm#1mstt",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1287562,
+      "post_id": 10493,
+      "commented_at": "2026-04-06 16:37:00",
+      "anchor": "1mrnm",
+      "url": "https://exler.es/films/comments/ohota-za-tenyu.htm#1mrnm",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1288377,
+      "post_id": 10500,
+      "commented_at": "2026-04-05 11:38:00",
+      "anchor": "1mqwo",
+      "url": "https://exler.es/blog/comments/el-shkandal-sredi-khamasolyubov.htm#1mqwo",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1289942,
+      "post_id": 10518,
+      "commented_at": "2026-04-03 10:36:00",
+      "anchor": "1mprr",
+      "url": "https://exler.es/blog/comments/s-balami-mozhet-ne-slozhitsya.htm#1mprr",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1292241,
+      "post_id": 10544,
+      "commented_at": "2026-03-30 10:07:00",
+      "anchor": "1mntd",
+      "url": "https://exler.es/films/comments/ostrye-kozyrki-bessmertnyj-chelovek.htm#1mntd",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1299694,
+      "post_id": 10606,
+      "commented_at": "2026-03-17 22:20:00",
+      "anchor": "1mi80",
+      "url": "https://exler.es/expromt/comments/obzor-premialnyh-umnyh-chasov-huawei-watch-5.htm#1mi80",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1299719,
+      "post_id": 10606,
+      "commented_at": "2026-03-17 12:30:00",
+      "anchor": "1mhvh",
+      "url": "https://exler.es/expromt/comments/obzor-premialnyh-umnyh-chasov-huawei-watch-5.htm#1mhvh",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1300165,
+      "post_id": 10612,
+      "commented_at": "2026-03-16 11:35:00",
+      "anchor": "1mhdb",
+      "url": "https://exler.es/films/comments/golubaya-luna.htm#1mhdb",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1300361,
+      "post_id": 10613,
+      "commented_at": "2026-03-16 09:32:00",
+      "anchor": "1mhae",
+      "url": "https://exler.es/blog/comments/98-ya-premiya-oskar.htm#1mhae",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1304159,
+      "post_id": 10648,
+      "commented_at": "2026-03-09 15:18:00",
+      "anchor": "1mebh",
+      "url": "https://exler.es/films/comments/druzya-i-sosedi.htm#1mebh",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1304180,
+      "post_id": 10648,
+      "commented_at": "2026-03-09 11:08:00",
+      "anchor": "1me6d",
+      "url": "https://exler.es/films/comments/druzya-i-sosedi.htm#1me6d",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1306304,
+      "post_id": 10671,
+      "commented_at": "2026-03-05 18:18:00",
+      "anchor": "1mcjh",
+      "url": "https://exler.es/blog/comments/chego-oni-zlyye-takiye.htm#1mcjh",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1316109,
+      "post_id": 10769,
+      "commented_at": "2026-02-19 18:13:00",
+      "anchor": "1m4xx",
+      "url": "https://exler.es/films/comments/opasnyj-duet.htm#1m4xx",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1316878,
+      "post_id": 10778,
+      "commented_at": "2026-02-17 16:32:00",
+      "anchor": "1m3um",
+      "url": "https://exler.es/expromt/comments/obzor-tws-naushnikov-ugreen-lightbuds-magic.htm#1m3um",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": "FIX-070"
+    },
+    {
+      "comment_id": 1318439,
+      "post_id": 10798,
+      "commented_at": "2026-02-14 15:23:00",
+      "anchor": "1m2hi",
+      "url": "https://exler.es/blog/comments/seks-guakamole-shmuakamole.htm#1m2hi",
+      "own_body_contains_edit_marker": false,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1319565,
+      "post_id": 10810,
+      "commented_at": "2026-02-13 12:29:00",
+      "anchor": "1m1r5",
+      "url": "https://exler.es/blog/comments/narusheniye-avtorskikh-prav.htm#1m1r5",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1320096,
+      "post_id": 10815,
+      "commented_at": "2026-02-13 11:32:00",
+      "anchor": "1m1pg",
+      "url": "https://exler.es/films/comments/marti-velikolepnyj.htm#1m1pg",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    },
+    {
+      "comment_id": 1324454,
+      "post_id": 10850,
+      "commented_at": "2026-02-06 09:59:00",
+      "anchor": "1lxsp",
+      "url": "https://exler.es/blog/comments/viktor-shenderovich-tozhe-otmetilsya.htm#1lxsp",
+      "own_body_contains_edit_marker": true,
+      "included_case_id": null
+    }
+  ],
+  "not_included_meaning": "Пустой included_case_id означает, что строка не включена в эту ручную подборку; это не доказывает отсутствие ошибки."
+}

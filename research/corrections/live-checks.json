@@ -1,0 +1,385 @@
+{
+  "checked_at": "2026-09-19",
+  "checks": [
+    {
+      "case_id": "FIX-001",
+      "requested_url": "https://exler.es/blog/comments/pochemu-vinnyy-tur-imenno-v-pyemonte.htm",
+      "final_url": "https://exler.es/blog/pochemu-vinnyy-tur-imenno-v-pyemonte.htm",
+      "http_status": 200,
+      "html_sha256": "77a1e48012c37ff6d570313fee7fdd47ec19a18739a6a31f6fafbcbf5496e46a",
+      "checked_at": "2026-09-19",
+      "replies": [
+        {
+          "anchor": "1bh7x",
+          "found": true,
+          "author_matches": true,
+          "own_body_matches_db": true
+        }
+      ]
+    },
+    {
+      "case_id": "FIX-002",
+      "requested_url": "https://exler.es/blog/comments/ispanskoye-igristoye.htm",
+      "final_url": "https://exler.es/blog/ispanskoye-igristoye.htm",
+      "http_status": 200,
+      "html_sha256": "ffaf046826cb1b8c4c6fcefc739bdb5e2fd95a69fc1468af363fbe5b50e225f2",
+      "checked_at": "2026-09-19",
+      "replies": [
+        {
+          "anchor": "1a2oi",
+          "found": true,
+          "author_matches": true,
+          "own_body_matches_db": true
+        },
+        {
+          "anchor": "1a2tp",
+          "found": true,
+          "author_matches": true,
+          "own_body_matches_db": true
+        }
+      ]
+    },
+    {
+      "case_id": "FIX-003",
+      "requested_url": "https://exler.es/expromt/comments/obzor-flagmanskogo-smartfona-samsung-galaxy-s24-ultra.htm",
+      "final_url": "https://exler.es/expromt/obzor-flagmanskogo-smartfona-samsung-galaxy-s24-ultra.htm",
+      "http_status": 200,
+      "html_sha256": "1d98a9aeb0fd176ea2b628fd4f38fe220714e2e503091027533b6e0903d16cbc",
+      "checked_at": "2026-09-19",
+      "replies": [
+        {
+          "anchor": "1bexq",
+          "found": true,
+          "author_matches": true,
+          "own_body_matches_db": true
+        }
+      ]
+    },
+    {
+      "case_id": "FIX-004",
+      "requested_url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-garmin-fenix-7.htm",
+      "final_url": "https://exler.es/expromt/obzor-umnyh-chasov-garmin-fenix-7.htm",
+      "http_status": 200,
+      "html_sha256": "6659ff003e996e479f6d3dc041122e0ff462d52d03f2314b76d6966a9e40345e",
+      "checked_at": "2026-09-19",
+      "replies": [
+        {
+          "anchor": "14amc",
+          "found": true,
+          "author_matches": true,
+          "own_body_matches_db": true
+        }
+      ]
+    },
+    {
+      "case_id": "FIX-005",
+      "requested_url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-gt-4.htm",
+      "final_url": "https://exler.es/expromt/obzor-umnyh-chasov-huawei-watch-gt-4.htm",
+      "http_status": 200,
+      "html_sha256": "a6951299e6921af3bf03c311ae0efdbd9286b2b2d8cbac6d3d913007c28d8b5b",
+      "checked_at": "2026-09-19",
+      "replies": [
+        {
+          "anchor": "19osp",
+          "found": true,
+          "author_matches": true,
+          "own_body_matches_db": true
+        },
+        {
+          "anchor": "19ogz",
+          "found": true,
+          "author_matches": true,
+          "own_body_matches_db": true
+        },
+        {
+          "anchor": "19oh1",
+          "found": true,
+          "author_matches": true,
+          "own_body_matches_db": true
+        },
+        {
+          "anchor": "19ogh",
+          "found": true,
+          "author_matches": true,
+          "own_body_matches_db": true
+        }
+      ]
+    },
+    {
+      "case_id": "FIX-006",
+      "requested_url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-fit-4-pro.htm",
+      "final_url": "https://exler.es/expromt/obzor-umnyh-chasov-huawei-watch-fit-4-pro.htm",
+      "http_status": 200,
+      "html_sha256": "f81eecc259ebc6414f42c08b57db2925702a45738377c3b5e54bad97888f0348",
+      "checked_at": "2026-09-19",
+      "replies": [
+        {
+          "anchor": "1jqrm",
+          "found": true,
+          "author_matches": true,
+          "own_body_matches_db": true
+        }
+      ]
+    },
+    {
+      "case_id": "FIX-007",
+      "requested_url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-gt-6.htm",
+      "final_url": "https://exler.es/expromt/obzor-umnyh-chasov-huawei-watch-gt-6.htm",
+      "http_status": 200,
+      "html_sha256": "3194623a5b9858f8d3fc9dc6d08ea000c64303983286f0607dbc52042b72f090",
+      "checked_at": "2026-09-19",
+      "replies": [
+        {
+          "anchor": "1kwbk",
+          "found": true,
+          "author_matches": true,
+          "own_body_matches_db": true
+        }
+      ]
+    },
+    {
+      "case_id": "FIX-008",
+      "requested_url": "https://exler.es/expromt/comments/obzor-tws-naushnikov-redmi-buds-4-pro.htm",
+      "final_url": "https://exler.es/expromt/obzor-tws-naushnikov-redmi-buds-4-pro.htm",
+      "http_status": 200,
+      "html_sha256": "05256fabcdb92fb375f2b132f3fa43c3fddf949ad188c32d08df59d63865ed3b",
+      "checked_at": "2026-09-19",
+      "replies": [
+        {
+          "anchor": "160u5",
+          "found": true,
+          "author_matches": true,
+          "own_body_matches_db": true
+        }
+      ]
+    },
+    {
+      "case_id": "FIX-009",
+      "requested_url": "https://exler.es/expromt/comments/obzor-smartfona-xiaomi-12x-kto-hotel-kompaktnyj-i-moshnyj.htm",
+      "final_url": "https://exler.es/expromt/obzor-smartfona-xiaomi-12x-kto-hotel-kompaktnyj-i-moshnyj.htm",
+      "http_status": 200,
+      "html_sha256": "403e40b82fbe22166b3a104673b62eb3136acc384978565f4c4db43cbb935d09",
+      "checked_at": "2026-09-19",
+      "replies": [
+        {
+          "anchor": "11s4k",
+          "found": true,
+          "author_matches": true,
+          "own_body_matches_db": true
+        },
+        {
+          "anchor": "11sc7",
+          "found": true,
+          "author_matches": true,
+          "own_body_matches_db": true
+        },
+        {
+          "anchor": "11s3l",
+          "found": true,
+          "author_matches": true,
+          "own_body_matches_db": true
+        }
+      ]
+    },
+    {
+      "case_id": "FIX-010",
+      "requested_url": "https://exler.es/expromt/comments/obzor-byudzhetnogo-smartfona-freeyond-m6.htm",
+      "final_url": "https://exler.es/expromt/obzor-byudzhetnogo-smartfona-freeyond-m6.htm",
+      "http_status": 200,
+      "html_sha256": "6b3e7e03b476f103ffeeb35ddc79a3a65d8c8d73f929b04ea46882b80ea149f2",
+      "checked_at": "2026-09-19",
+      "replies": [
+        {
+          "anchor": "1a8n3",
+          "found": true,
+          "author_matches": true,
+          "own_body_matches_db": true
+        },
+        {
+          "anchor": "1a8nc",
+          "found": true,
+          "author_matches": true,
+          "own_body_matches_db": true
+        }
+      ]
+    },
+    {
+      "case_id": "FIX-015",
+      "requested_url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-gt-3.htm",
+      "final_url": "https://exler.es/expromt/obzor-umnyh-chasov-huawei-watch-gt-3.htm",
+      "http_status": 200,
+      "html_sha256": "7cd92641f6c3fc072e191cc8f6fbe715ab335781661ec242450d10c874d09d1d",
+      "checked_at": "2026-09-19",
+      "replies": [
+        {
+          "anchor": "x9mz",
+          "found": true,
+          "author_matches": true,
+          "own_body_matches_db": true
+        },
+        {
+          "anchor": "x9xb",
+          "found": true,
+          "author_matches": true,
+          "own_body_matches_db": true
+        }
+      ]
+    },
+    {
+      "case_id": "FIX-016",
+      "requested_url": "https://exler.es/expromt/comments/obzor-byudzhetnogo-noutbuka-s-ekranom-15-6-dere-r9-pro.htm",
+      "final_url": "https://exler.es/expromt/obzor-byudzhetnogo-noutbuka-s-ekranom-15-6-dere-r9-pro.htm",
+      "http_status": 200,
+      "html_sha256": "d75113de6ea7174b84338102a7b3f68c7f835085f15179055295a101a9b32892",
+      "checked_at": "2026-09-19",
+      "replies": [
+        {
+          "anchor": "vbe4",
+          "found": true,
+          "author_matches": true,
+          "own_body_matches_db": true
+        },
+        {
+          "anchor": "vbaa",
+          "found": true,
+          "author_matches": true,
+          "own_body_matches_db": true
+        }
+      ]
+    },
+    {
+      "case_id": "FIX-025",
+      "requested_url": "https://exler.es/expromt/comments/obzor-tws-naushnikov-apple-airpods-pro-magsafe.htm",
+      "final_url": "https://exler.es/expromt/obzor-tws-naushnikov-apple-airpods-pro-magsafe.htm",
+      "http_status": 200,
+      "html_sha256": "619a18dcde8996a6e6aa03666b8f82178e90a3b8c83c3ba5b759e7913db807a5",
+      "checked_at": "2026-09-19",
+      "replies": [
+        {
+          "anchor": "ywit",
+          "found": true,
+          "author_matches": true,
+          "own_body_matches_db": true
+        },
+        {
+          "anchor": "ywuc",
+          "found": true,
+          "author_matches": true,
+          "own_body_matches_db": true
+        }
+      ]
+    },
+    {
+      "case_id": "FIX-035",
+      "requested_url": "https://exler.es/blog/comments/lesnoy-pazhar-v-malage.htm",
+      "final_url": "https://exler.es/blog/lesnoy-pazhar-v-malage.htm",
+      "http_status": 200,
+      "html_sha256": "31f3ccc4bd5e9670e6e28abe2e5b9e363642ee6a910be856faf97be391c74790",
+      "checked_at": "2026-09-19",
+      "replies": [
+        {
+          "anchor": "10aij",
+          "found": true,
+          "author_matches": true,
+          "own_body_matches_db": true
+        }
+      ]
+    },
+    {
+      "case_id": "FIX-063",
+      "requested_url": "https://exler.es/expromt/comments/obzor-smartfona-oneplus-nord-2-5g-srednebyudzhetnik-s-opticheskim-stabom.htm",
+      "final_url": "https://exler.es/expromt/obzor-smartfona-oneplus-nord-2-5g-srednebyudzhetnik-s-opticheskim-stabom.htm",
+      "http_status": 200,
+      "html_sha256": "37457975c9cf62739a6ac76599812935d0c556907e36683f4e5a9db5600cd17a",
+      "checked_at": "2026-09-19",
+      "replies": [
+        {
+          "anchor": "wwpk",
+          "found": true,
+          "author_matches": true,
+          "own_body_matches_db": true
+        }
+      ]
+    },
+    {
+      "case_id": "FIX-064",
+      "requested_url": "https://exler.es/expromt/comments/obzor-flagmanskogo-smartfona-motorola-edge-20-pro.htm",
+      "final_url": "https://exler.es/expromt/obzor-flagmanskogo-smartfona-motorola-edge-20-pro.htm",
+      "http_status": 200,
+      "html_sha256": "e5c387cbcc0b8bb84859ccb4d0edca5ac0f51e26597d3631dab73681c6008333",
+      "checked_at": "2026-09-19",
+      "replies": [
+        {
+          "anchor": "v6sk",
+          "found": true,
+          "author_matches": true,
+          "own_body_matches_db": true
+        }
+      ]
+    },
+    {
+      "case_id": "FIX-066",
+      "requested_url": "https://exler.es/likbez/comments/kak-vdvoem-smotret-televizor-v-besprovodnyh-naushnikah.htm",
+      "final_url": "https://exler.es/likbez/kak-vdvoem-smotret-televizor-v-besprovodnyh-naushnikah.htm",
+      "http_status": 200,
+      "html_sha256": "e0b36ea25f52aa936ea9332ac2fcfd41cd49d29bbb0de240a98604a2f8755c34",
+      "checked_at": "2026-09-19",
+      "replies": [
+        {
+          "anchor": "thjj",
+          "found": true,
+          "author_matches": true,
+          "own_body_matches_db": true
+        }
+      ]
+    },
+    {
+      "case_id": "FIX-067",
+      "requested_url": "https://exler.es/expromt/comments/obzor-miniatyurnogo-cap-usilitelya-dlya-cmartfona-pk-ibasso-audio-dc03.htm",
+      "final_url": "https://exler.es/expromt/obzor-miniatyurnogo-cap-usilitelya-dlya-cmartfona-pk-ibasso-audio-dc03.htm",
+      "http_status": 200,
+      "html_sha256": "c4ef951e9a58d6867045ad2aa27bcff3927f3387c891ca1a1725deac7fb1244c",
+      "checked_at": "2026-09-19",
+      "replies": [
+        {
+          "anchor": "teq1",
+          "found": true,
+          "author_matches": true,
+          "own_body_matches_db": true
+        }
+      ]
+    },
+    {
+      "case_id": "FIX-068",
+      "requested_url": "https://exler.es/expromt/comments/smartfony-xiaomi-17t-i-17t-pro.htm",
+      "final_url": "https://exler.es/expromt/smartfony-xiaomi-17t-i-17t-pro.htm",
+      "http_status": 200,
+      "html_sha256": "29b0f1e88719b73e98155bfcde90420638491cd969bb6f357c21921145278440",
+      "checked_at": "2026-09-19",
+      "replies": [
+        {
+          "anchor": "1nrp4",
+          "found": true,
+          "author_matches": true,
+          "own_body_matches_db": true
+        }
+      ]
+    },
+    {
+      "case_id": "FIX-069",
+      "requested_url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-fit-5.htm",
+      "final_url": "https://exler.es/expromt/obzor-umnyh-chasov-huawei-watch-fit-5.htm",
+      "http_status": 200,
+      "html_sha256": "0a24ab2bfabc1058dccb049ffe40c3e165f607e574e568f20d54023013862626",
+      "checked_at": "2026-09-19",
+      "replies": [
+        {
+          "anchor": "1nehi",
+          "found": true,
+          "author_matches": true,
+          "own_body_matches_db": true
+        }
+      ]
+    }
+  ]
+}

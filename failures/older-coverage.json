@@ -283,10 +283,15 @@
     "all_discovered_posts_manually_read": false
   },
   "restoration": {
-    "basis": "Сохранённые выводы завершённого обхода и проверки в разговоре. Итоговые конспекты восстановлены после отключения рабочей среды.",
-    "raw_html_available_in_current_environment": false,
-    "page_sha256_manifest_available": false,
-    "limitation": "Исходный подробный новый журнал с SHA-256 не удалось перенести. Контрольные суммы не восстанавливались по догадке; эта сводка не заменяет утраченный манифест."
+    "basis": "Итоговые конспекты сначала восстановлены по сохранённым выводам разговора после сбоя среды. 19.09.2026 исходный подробный журнал и HTML снова доступны.",
+    "raw_html_available_in_current_environment": true,
+    "page_sha256_manifest_available": true,
+    "page_manifest_path": "older-pages.json",
+    "recovered_at": "2026-09-19",
+    "available_page_hashes_verified": 1263,
+    "hash_mismatches": 0,
+    "originally_unavailable_pages": 3,
+    "limitation": "Это сверка восстановленного исходного журнала, не новый сетевой обход. Три исходно недоступные страницы остаются недоступными; журнал не означает ручное прочтение всех обсуждений."
   },
   "constraints": {
     "aliexpress_visited": false,

@@ -1,0 +1,4869 @@
+{
+  "checked_at": "2026-09-19",
+  "title": "Спасибо, поправил",
+  "cases": [
+    {
+      "title": "Gavi: сначала отдельный сорт, затем извинение",
+      "before": "Назвал Cortese и Gavi разными автохтонными сортами; в споре предложил читателю проверять тщательнее.",
+      "turn": "После повторного возражения признал: Gavi — местность и название вина из Cortese. Извинился и сообщил об исправлении.",
+      "kind": "wine_food",
+      "limit": "",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Эксперт успевает вывести новый сорт винограда прямо в комментариях."
+      },
+      "reaction": "defends_then_accepts",
+      "id": "FIX-001",
+      "post_id": 3701,
+      "published_at": "2024-03-31 12:44:00",
+      "correction_dates": [
+        "2024-03-31 19:12:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 454052,
+          "anchor": "1bh7x",
+          "commented_at": "2024-03-31 19:12:00",
+          "url": "https://exler.es/blog/comments/pochemu-vinnyy-tur-imenno-v-pyemonte.htm#1bh7x",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "1bh7e",
+            "1bh45",
+            "1bh1m"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/blog/pochemu-vinnyy-tur-imenno-v-pyemonte.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/blog/comments/pochemu-vinnyy-tur-imenno-v-pyemonte.htm#1bh7x"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/blog/comments/pochemu-vinnyy-tur-imenno-v-pyemonte.htm#1bh7e"
+        },
+        {
+          "role": "author_context",
+          "url": "https://exler.es/blog/comments/pochemu-vinnyy-tur-imenno-v-pyemonte.htm#1bh45"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/blog/comments/pochemu-vinnyy-tur-imenno-v-pyemonte.htm#1bh1m"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "c6e1406cb0c471deeaa12276c29c19960acee7b8ce1c36335363d78839472609",
+      "live_reply_check": {
+        "case_id": "FIX-001",
+        "requested_url": "https://exler.es/blog/comments/pochemu-vinnyy-tur-imenno-v-pyemonte.htm",
+        "final_url": "https://exler.es/blog/pochemu-vinnyy-tur-imenno-v-pyemonte.htm",
+        "http_status": 200,
+        "html_sha256": "77a1e48012c37ff6d570313fee7fdd47ec19a18739a6a31f6fafbcbf5496e46a",
+        "checked_at": "2026-09-19",
+        "replies": [
+          {
+            "anchor": "1bh7x",
+            "found": true,
+            "author_matches": true,
+            "own_body_matches_db": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "CORPINNAT: торговая марка и аппелласьон",
+      "before": "Описал CORPINNAT как аппелласьон; после первой поправки продолжал ссылаться на слова владельцев хозяйств.",
+      "turn": "Затем согласился, что употребил термин некорректно, и пообещал исправление.",
+      "kind": "wine_food",
+      "limit": "Фиксируем спор и признание автора в январе 2024 года, не современный юридический статус объединения.",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Название сохраняет экспертную интонацию, пока меняет категорию."
+      },
+      "reaction": "defends_then_accepts",
+      "id": "FIX-002",
+      "post_id": 4193,
+      "published_at": "2024-01-02 13:00:00",
+      "correction_dates": [
+        "2024-01-03 07:39:00",
+        "2024-01-03 11:40:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 516402,
+          "anchor": "1a2oi",
+          "commented_at": "2024-01-03 07:39:00",
+          "url": "https://exler.es/blog/comments/ispanskoye-igristoye.htm#1a2oi",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "1a2nf"
+          ]
+        },
+        {
+          "comment_id": 516404,
+          "anchor": "1a2tp",
+          "commented_at": "2024-01-03 11:40:00",
+          "url": "https://exler.es/blog/comments/ispanskoye-igristoye.htm#1a2tp",
+          "edit_status": "promised_edit",
+          "parent_anchors": [
+            "1a2t7",
+            "1a2oi",
+            "1a2nf"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/blog/ispanskoye-igristoye.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/blog/comments/ispanskoye-igristoye.htm#1a2oi"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/blog/comments/ispanskoye-igristoye.htm#1a2nf"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/blog/comments/ispanskoye-igristoye.htm#1a2tp"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/blog/comments/ispanskoye-igristoye.htm#1a2t7"
+        },
+        {
+          "role": "author_context",
+          "url": "https://exler.es/blog/comments/ispanskoye-igristoye.htm#1a2oi"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "ea1e193cbce2f5c226d12e0efdd0b4798790e254d134a4054726b2fb2eede9c1",
+      "live_reply_check": {
+        "case_id": "FIX-002",
+        "requested_url": "https://exler.es/blog/comments/ispanskoye-igristoye.htm",
+        "final_url": "https://exler.es/blog/ispanskoye-igristoye.htm",
+        "http_status": 200,
+        "html_sha256": "ffaf046826cb1b8c4c6fcefc739bdb5e2fd95a69fc1468af363fbe5b50e225f2",
+        "checked_at": "2026-09-19",
+        "replies": [
+          {
+            "anchor": "1a2oi",
+            "found": true,
+            "author_matches": true,
+            "own_body_matches_db": true
+          },
+          {
+            "anchor": "1a2tp",
+            "found": true,
+            "author_matches": true,
+            "own_body_matches_db": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "Samsung DeX: обычный монитор всё-таки подходит",
+      "before": "Утверждал, что без компьютера подключиться к обычному монитору не получится.",
+      "turn": "После возражения читателя признал работу по кабелю, сообщил об исправлении и показал подключение в видео.",
+      "kind": "technical",
+      "limit": "",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Монитор получает разрешение работать только после читательской апелляции."
+      },
+      "reaction": "defends_then_tests",
+      "id": "FIX-003",
+      "post_id": 3724,
+      "published_at": "2024-03-26 13:09:00",
+      "correction_dates": [
+        "2024-03-26 17:57:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 456820,
+          "anchor": "1bexq",
+          "commented_at": "2024-03-26 17:57:00",
+          "url": "https://exler.es/expromt/comments/obzor-flagmanskogo-smartfona-samsung-galaxy-s24-ultra.htm#1bexq",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "1bexi",
+            "1bex3",
+            "1bevt"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/expromt/obzor-flagmanskogo-smartfona-samsung-galaxy-s24-ultra.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-flagmanskogo-smartfona-samsung-galaxy-s24-ultra.htm#1bexq"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-flagmanskogo-smartfona-samsung-galaxy-s24-ultra.htm#1bexi"
+        },
+        {
+          "role": "author_context",
+          "url": "https://exler.es/expromt/comments/obzor-flagmanskogo-smartfona-samsung-galaxy-s24-ultra.htm#1bex3"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-flagmanskogo-smartfona-samsung-galaxy-s24-ultra.htm#1bevt"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "eaf2b0f712b555a370a1dfd54b7f5cc891ba398bd51a6196b42a0b165532c732",
+      "live_reply_check": {
+        "case_id": "FIX-003",
+        "requested_url": "https://exler.es/expromt/comments/obzor-flagmanskogo-smartfona-samsung-galaxy-s24-ultra.htm",
+        "final_url": "https://exler.es/expromt/obzor-flagmanskogo-smartfona-samsung-galaxy-s24-ultra.htm",
+        "http_status": 200,
+        "html_sha256": "1d98a9aeb0fd176ea2b628fd4f38fe220714e2e503091027533b6e0903d16cbc",
+        "checked_at": "2026-09-19",
+        "replies": [
+          {
+            "anchor": "1bexq",
+            "found": true,
+            "author_matches": true,
+            "own_body_matches_db": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "Garmin Fenix 7: отвёртка для быстросъёмного ремешка",
+      "before": "Для снятия ремешка предлагал откручивать болтики специальной отвёрткой.",
+      "turn": "Читатель указал на ползунки QuickFit. Автор подтвердил исправление.",
+      "kind": "technical",
+      "limit": "",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Быстросъёмность требует сначала долгого обсуждения инструмента."
+      },
+      "reaction": "accepts",
+      "id": "FIX-004",
+      "post_id": 6093,
+      "published_at": "2023-01-24 11:06:00",
+      "correction_dates": [
+        "2023-01-24 11:49:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 769914,
+          "anchor": "14amc",
+          "commented_at": "2023-01-24 11:49:00",
+          "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-garmin-fenix-7.htm#14amc",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "14alu"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/expromt/obzor-umnyh-chasov-garmin-fenix-7.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-garmin-fenix-7.htm#14amc"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-garmin-fenix-7.htm#14alu"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "512c2eaebdcbce9bfd4f8aae40482b826ed35d7ae1f53b550243b22aa9d92ee9",
+      "live_reply_check": {
+        "case_id": "FIX-004",
+        "requested_url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-garmin-fenix-7.htm",
+        "final_url": "https://exler.es/expromt/obzor-umnyh-chasov-garmin-fenix-7.htm",
+        "http_status": 200,
+        "html_sha256": "6659ff003e996e479f6d3dc041122e0ff462d52d03f2314b76d6966a9e40345e",
+        "checked_at": "2026-09-19",
+        "replies": [
+          {
+            "anchor": "14amc",
+            "found": true,
+            "author_matches": true,
+            "own_body_matches_db": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "Huawei GT 4: пропущенная функция и история системы",
+      "before": "Не нашёл выход из тренировки в другие приложения; связывал изменения с якобы новым переходом серии GT на Harmony OS.",
+      "turn": "Признал уже состоявшееся переименование системы. После подсказки двойного нажатия обнаружил выход и обещал правку; принял замечание о различиях серий Watch и GT.",
+      "kind": "technical",
+      "limit": "Разные замечания к одному обзору объединены. Обещание правки не равно отдельному доказательству её публикации.",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Кнопка дважды нажата, и целый абзац ограничений уходит на пересмотр."
+      },
+      "reaction": "checks_then_accepts",
+      "id": "FIX-005",
+      "post_id": 4350,
+      "published_at": "2023-12-05 11:37:00",
+      "correction_dates": [
+        "2023-12-05 13:13:00",
+        "2023-12-05 13:26:00",
+        "2023-12-05 13:27:00",
+        "2023-12-05 19:58:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 533759,
+          "anchor": "19osp",
+          "commented_at": "2023-12-05 19:58:00",
+          "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-gt-4.htm#19osp",
+          "edit_status": "promised_edit",
+          "parent_anchors": [
+            "19or1"
+          ]
+        },
+        {
+          "comment_id": 533801,
+          "anchor": "19ogz",
+          "commented_at": "2023-12-05 13:26:00",
+          "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-gt-4.htm#19ogz",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "19oek"
+          ]
+        },
+        {
+          "comment_id": 533802,
+          "anchor": "19oh1",
+          "commented_at": "2023-12-05 13:27:00",
+          "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-gt-4.htm#19oh1",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "19ogp",
+            "19ogd",
+            "19oek"
+          ]
+        },
+        {
+          "comment_id": 533794,
+          "anchor": "19ogh",
+          "commented_at": "2023-12-05 13:13:00",
+          "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-gt-4.htm#19ogh",
+          "edit_status": "promised_edit",
+          "parent_anchors": [
+            "19oet"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/expromt/obzor-umnyh-chasov-huawei-watch-gt-4.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-gt-4.htm#19osp"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-gt-4.htm#19or1"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-gt-4.htm#19ogz"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-gt-4.htm#19oek"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-gt-4.htm#19oh1"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-gt-4.htm#19ogp"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-gt-4.htm#19ogd"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-gt-4.htm#19ogh"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-gt-4.htm#19oet"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "3c0ddfe8c432ef4205e907449390e32fd49e16ef58276eb2069def5df9277a8f",
+      "live_reply_check": {
+        "case_id": "FIX-005",
+        "requested_url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-gt-4.htm",
+        "final_url": "https://exler.es/expromt/obzor-umnyh-chasov-huawei-watch-gt-4.htm",
+        "http_status": 200,
+        "html_sha256": "a6951299e6921af3bf03c311ae0efdbd9286b2b2d8cbac6d3d913007c28d8b5b",
+        "checked_at": "2026-09-19",
+        "replies": [
+          {
+            "anchor": "19osp",
+            "found": true,
+            "author_matches": true,
+            "own_body_matches_db": true
+          },
+          {
+            "anchor": "19ogz",
+            "found": true,
+            "author_matches": true,
+            "own_body_matches_db": true
+          },
+          {
+            "anchor": "19oh1",
+            "found": true,
+            "author_matches": true,
+            "own_body_matches_db": true
+          },
+          {
+            "anchor": "19ogh",
+            "found": true,
+            "author_matches": true,
+            "own_body_matches_db": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "Huawei FIT 4 Pro: снова выход из тренировки",
+      "before": "В обзоре утверждалось, что до завершения тренировки переходить к другим приложениям нельзя.",
+      "turn": "Читатель показал двойное нажатие на заводную головку. Автор сообщил, что уже получил подсказку и исправил текст.",
+      "kind": "technical",
+      "limit": "",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Старая читательская инструкция возвращается на новом поколении часов."
+      },
+      "reaction": "accepts",
+      "id": "FIX-006",
+      "post_id": 829,
+      "published_at": "2025-09-09 10:43:00",
+      "correction_dates": [
+        "2025-09-09 16:53:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 95715,
+          "anchor": "1jqrm",
+          "commented_at": "2025-09-09 16:53:00",
+          "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-fit-4-pro.htm#1jqrm",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "1jqit"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/expromt/obzor-umnyh-chasov-huawei-watch-fit-4-pro.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-fit-4-pro.htm#1jqrm"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-fit-4-pro.htm#1jqit"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "ed9813a68f6648395ffb68c3eb7071d415cba4cae4fac821c0e1fe09425cdcb9",
+      "live_reply_check": {
+        "case_id": "FIX-006",
+        "requested_url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-fit-4-pro.htm",
+        "final_url": "https://exler.es/expromt/obzor-umnyh-chasov-huawei-watch-fit-4-pro.htm",
+        "http_status": 200,
+        "html_sha256": "f81eecc259ebc6414f42c08b57db2925702a45738377c3b5e54bad97888f0348",
+        "checked_at": "2026-09-19",
+        "replies": [
+          {
+            "anchor": "1jqrm",
+            "found": true,
+            "author_matches": true,
+            "own_body_matches_db": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "Huawei GT 6: десять избранных контактов",
+      "before": "Ограничил исходящие звонки десятью избранными номерами.",
+      "turn": "Читатель сообщил, что доступны контакты смартфона. Автор признал правоту и подтвердил исправление.",
+      "kind": "technical",
+      "limit": "Замечание о музыкальных треках в той же реплике не превращено в отдельную карточку.",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Адресная книга расширяется после вмешательства читателя."
+      },
+      "reaction": "accepts",
+      "id": "FIX-007",
+      "post_id": 360,
+      "published_at": "2025-11-26 11:55:00",
+      "correction_dates": [
+        "2025-11-27 08:46:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 44203,
+          "anchor": "1kwbk",
+          "commented_at": "2025-11-27 08:46:00",
+          "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-gt-6.htm#1kwbk",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "1kw11"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/expromt/obzor-umnyh-chasov-huawei-watch-gt-6.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-gt-6.htm#1kwbk"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-gt-6.htm#1kw11"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "dfb4a3dcf06b4edace9a0eb4fb1986a4e663ffc645aff5188a74514be9161f14",
+      "live_reply_check": {
+        "case_id": "FIX-007",
+        "requested_url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-gt-6.htm",
+        "final_url": "https://exler.es/expromt/obzor-umnyh-chasov-huawei-watch-gt-6.htm",
+        "http_status": 200,
+        "html_sha256": "3194623a5b9858f8d3fc9dc6d08ea000c64303983286f0607dbc52042b72f090",
+        "checked_at": "2026-09-19",
+        "replies": [
+          {
+            "anchor": "1kwbk",
+            "found": true,
+            "author_matches": true,
+            "own_body_matches_db": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "Redmi Buds 4 Pro: беспроводная зарядка исчезла из характеристик",
+      "before": "В характеристиках была указана беспроводная зарядка кейса.",
+      "turn": "На вопрос читателя ответил, что проверил отсутствие поддержки и исправил собственную ошибку.",
+      "kind": "technical",
+      "limit": "",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Зарядка лучше всего работала в таблице характеристик."
+      },
+      "reaction": "checks_then_accepts",
+      "id": "FIX-008",
+      "post_id": 5529,
+      "published_at": "2023-05-03 12:56:00",
+      "correction_dates": [
+        "2023-05-03 17:00:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 694472,
+          "anchor": "160u5",
+          "commented_at": "2023-05-03 17:00:00",
+          "url": "https://exler.es/expromt/comments/obzor-tws-naushnikov-redmi-buds-4-pro.htm#160u5",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "160qz"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/expromt/obzor-tws-naushnikov-redmi-buds-4-pro.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-tws-naushnikov-redmi-buds-4-pro.htm#160u5"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-tws-naushnikov-redmi-buds-4-pro.htm#160qz"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "939f970257d24283f807edefc13f0a4f1e649ac7467c03c047d4e39d02824a9f",
+      "live_reply_check": {
+        "case_id": "FIX-008",
+        "requested_url": "https://exler.es/expromt/comments/obzor-tws-naushnikov-redmi-buds-4-pro.htm",
+        "final_url": "https://exler.es/expromt/obzor-tws-naushnikov-redmi-buds-4-pro.htm",
+        "http_status": 200,
+        "html_sha256": "05256fabcdb92fb375f2b132f3fa43c3fddf949ad188c32d08df59d63865ed3b",
+        "checked_at": "2026-09-19",
+        "replies": [
+          {
+            "anchor": "160u5",
+            "found": true,
+            "author_matches": true,
+            "own_body_matches_db": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "Xiaomi 12X: Bluetooth, камера и обобщение про USB-аудио",
+      "before": "В тексте фигурировали Bluetooth 5.2 и режим 108 Мп; обобщение об USB-аудио вызвало отдельный вопрос.",
+      "turn": "Подтвердил исправление Bluetooth на 5.1, обещал поправить камеру. Проверив Mi Max 3, признал работу USB-аудио и обещал уточнить обзор.",
+      "kind": "technical",
+      "limit": "Проверка Mi Max 3 не доказывает совместимость всех ЦАП со всеми смартфонами.",
+      "related_failure_ids": [
+        "FAIL-045"
+      ],
+      "satire": {
+        "type": "satire",
+        "scene": "В компактный смартфон попало несколько характеристик от соседей."
+      },
+      "reaction": "accepts",
+      "id": "FIX-009",
+      "post_id": 7033,
+      "published_at": "2022-08-30 11:26:00",
+      "correction_dates": [
+        "2022-08-30 13:18:00",
+        "2022-08-30 13:53:00",
+        "2022-08-30 21:56:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 882536,
+          "anchor": "11s4k",
+          "commented_at": "2022-08-30 13:53:00",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-xiaomi-12x-kto-hotel-kompaktnyj-i-moshnyj.htm#11s4k",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "11s42"
+          ]
+        },
+        {
+          "comment_id": 882525,
+          "anchor": "11sc7",
+          "commented_at": "2022-08-30 21:56:00",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-xiaomi-12x-kto-hotel-kompaktnyj-i-moshnyj.htm#11sc7",
+          "edit_status": "promised_edit",
+          "parent_anchors": [
+            "11s60"
+          ]
+        },
+        {
+          "comment_id": 882542,
+          "anchor": "11s3l",
+          "commented_at": "2022-08-30 13:18:00",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-xiaomi-12x-kto-hotel-kompaktnyj-i-moshnyj.htm#11s3l",
+          "edit_status": "promised_edit",
+          "parent_anchors": [
+            "11s2u"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/expromt/obzor-smartfona-xiaomi-12x-kto-hotel-kompaktnyj-i-moshnyj.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-xiaomi-12x-kto-hotel-kompaktnyj-i-moshnyj.htm#11s4k"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-xiaomi-12x-kto-hotel-kompaktnyj-i-moshnyj.htm#11s42"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-xiaomi-12x-kto-hotel-kompaktnyj-i-moshnyj.htm#11sc7"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-xiaomi-12x-kto-hotel-kompaktnyj-i-moshnyj.htm#11s60"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-xiaomi-12x-kto-hotel-kompaktnyj-i-moshnyj.htm#11s3l"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-xiaomi-12x-kto-hotel-kompaktnyj-i-moshnyj.htm#11s2u"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "80ce6fd8058dc3b397ffeb2e5ca7df279148620e2534914ea4a14d2a7921b39c",
+      "live_reply_check": {
+        "case_id": "FIX-009",
+        "requested_url": "https://exler.es/expromt/comments/obzor-smartfona-xiaomi-12x-kto-hotel-kompaktnyj-i-moshnyj.htm",
+        "final_url": "https://exler.es/expromt/obzor-smartfona-xiaomi-12x-kto-hotel-kompaktnyj-i-moshnyj.htm",
+        "http_status": 200,
+        "html_sha256": "403e40b82fbe22166b3a104673b62eb3136acc384978565f4c4db43cbb935d09",
+        "checked_at": "2026-09-19",
+        "replies": [
+          {
+            "anchor": "11s4k",
+            "found": true,
+            "author_matches": true,
+            "own_body_matches_db": true
+          },
+          {
+            "anchor": "11sc7",
+            "found": true,
+            "author_matches": true,
+            "own_body_matches_db": true
+          },
+          {
+            "anchor": "11s3l",
+            "found": true,
+            "author_matches": true,
+            "own_body_matches_db": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "FreeYond M6: виртуальная память и частота тачскрина",
+      "before": "Описание смешивало физическую и виртуальную память, а также частоту экрана и опроса сенсора.",
+      "turn": "После читательских замечаний уточнил память и признал, что 60 Гц были указаны производителем, а ошибка была его.",
+      "kind": "technical",
+      "limit": "",
+      "related_failure_ids": [
+        "FAIL-043"
+      ],
+      "satire": {
+        "type": "satire",
+        "scene": "Смартфон теряет лишние характеристики, не проходя аппаратного ремонта."
+      },
+      "reaction": "accepts",
+      "id": "FIX-010",
+      "post_id": 4111,
+      "published_at": "2024-01-16 11:08:00",
+      "correction_dates": [
+        "2024-01-16 12:42:00",
+        "2024-01-16 12:48:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 508970,
+          "anchor": "1a8n3",
+          "commented_at": "2024-01-16 12:42:00",
+          "url": "https://exler.es/expromt/comments/obzor-byudzhetnogo-smartfona-freeyond-m6.htm#1a8n3",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "1a8md"
+          ]
+        },
+        {
+          "comment_id": 508985,
+          "anchor": "1a8nc",
+          "commented_at": "2024-01-16 12:48:00",
+          "url": "https://exler.es/expromt/comments/obzor-byudzhetnogo-smartfona-freeyond-m6.htm#1a8nc",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "1a8lj"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/expromt/obzor-byudzhetnogo-smartfona-freeyond-m6.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-byudzhetnogo-smartfona-freeyond-m6.htm#1a8n3"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-byudzhetnogo-smartfona-freeyond-m6.htm#1a8md"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-byudzhetnogo-smartfona-freeyond-m6.htm#1a8nc"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-byudzhetnogo-smartfona-freeyond-m6.htm#1a8lj"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "75e073b02b6fa93ebb30eba25707ead880088095a078e580ec279676e8e4b01c",
+      "live_reply_check": {
+        "case_id": "FIX-010",
+        "requested_url": "https://exler.es/expromt/comments/obzor-byudzhetnogo-smartfona-freeyond-m6.htm",
+        "final_url": "https://exler.es/expromt/obzor-byudzhetnogo-smartfona-freeyond-m6.htm",
+        "http_status": 200,
+        "html_sha256": "6b3e7e03b476f103ffeeb35ddc79a3a65d8c8d73f929b04ea46882b80ea149f2",
+        "checked_at": "2026-09-19",
+        "replies": [
+          {
+            "anchor": "1a8n3",
+            "found": true,
+            "author_matches": true,
+            "own_body_matches_db": true
+          },
+          {
+            "anchor": "1a8nc",
+            "found": true,
+            "author_matches": true,
+            "own_body_matches_db": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "Pixel 10 Pro XL: лишняя SIM и переставленные возможности",
+      "before": "В спецификации появились две физические SIM; читатель также заметил сочетание наличия ИК и отсутствия NFC.",
+      "turn": "Автор признал одну физическую SIM и сообщил об исправлении второй описки.",
+      "kind": "technical",
+      "limit": "Число профилей eSIM он точно не установил; догадка не включена в исправленный факт.",
+      "related_failure_ids": [
+        "FAIL-042"
+      ],
+      "satire": {
+        "type": "satire",
+        "scene": "Список разъёмов смартфона проходит сокращение штата."
+      },
+      "reaction": "accepts",
+      "id": "FIX-011",
+      "post_id": 784,
+      "published_at": "2025-09-16 10:14:00",
+      "correction_dates": [
+        "2025-09-16 10:35:00",
+        "2025-09-16 10:42:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 90035,
+          "anchor": "1jv4g",
+          "commented_at": "2025-09-16 10:42:00",
+          "url": "https://exler.es/expromt/comments/obzor-flagmanskogo-smartfona-google-pixel-10-pro-xl.htm#1jv4g",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "1jv48"
+          ]
+        },
+        {
+          "comment_id": 90044,
+          "anchor": "1jv47",
+          "commented_at": "2025-09-16 10:35:00",
+          "url": "https://exler.es/expromt/comments/obzor-flagmanskogo-smartfona-google-pixel-10-pro-xl.htm#1jv47",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "1jv3w"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/expromt/obzor-flagmanskogo-smartfona-google-pixel-10-pro-xl.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-flagmanskogo-smartfona-google-pixel-10-pro-xl.htm#1jv4g"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-flagmanskogo-smartfona-google-pixel-10-pro-xl.htm#1jv48"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-flagmanskogo-smartfona-google-pixel-10-pro-xl.htm#1jv47"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-flagmanskogo-smartfona-google-pixel-10-pro-xl.htm#1jv3w"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "52c9797efe73fad9c3db512b000b9869ecab6d483a4f2b888c21ba1f957636a9",
+      "live_reply_check": null
+    },
+    {
+      "title": "Pixel 8a сравнивался с самим собой",
+      "before": "В нескольких сравнениях с прежним флагманом было подставлено имя обозреваемого Pixel 8a вместо Pixel 8 Pro.",
+      "turn": "После замечаний признал путаницу в трёх местах и сообщил об исправлении.",
+      "kind": "technical",
+      "limit": "",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Бюджетник выходит на сравнительный тест против самого себя."
+      },
+      "reaction": "accepts",
+      "id": "FIX-012",
+      "post_id": 3075,
+      "published_at": "2024-07-30 09:31:00",
+      "correction_dates": [
+        "2024-07-30 10:37:00",
+        "2024-07-30 10:59:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 376889,
+          "anchor": "1d7gg",
+          "commented_at": "2024-07-30 10:59:00",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-google-pixel-8a.htm#1d7gg",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "1d7fe"
+          ]
+        },
+        {
+          "comment_id": 376891,
+          "anchor": "1d7ft",
+          "commented_at": "2024-07-30 10:37:00",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-google-pixel-8a.htm#1d7ft",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "1d7fd"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/expromt/obzor-smartfona-google-pixel-8a.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-google-pixel-8a.htm#1d7gg"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-google-pixel-8a.htm#1d7fe"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-google-pixel-8a.htm#1d7ft"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-google-pixel-8a.htm#1d7fd"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "410951f35e79eb30b7b7f5937f30a78d983a8dec88ae48acc17e8be84a716758",
+      "live_reply_check": null
+    },
+    {
+      "title": "POCO X6: датчик и вариант памяти",
+      "before": "Читатель оспорил наличие датчика по скриншоту и заметил вариант на 128 ГБ при перечисленных 256/512.",
+      "turn": "Автор подтвердил правки и уточнил, что в строке с ценой должно было быть 256 ГБ.",
+      "kind": "technical",
+      "limit": "Не выводим из реплики о датчике отсутствие любой программной функции определения приближения.",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Скриншот внутри обзора помогает отредактировать его же характеристики."
+      },
+      "reaction": "accepts",
+      "id": "FIX-013",
+      "post_id": 4001,
+      "published_at": "2024-02-06 10:00:00",
+      "correction_dates": [
+        "2024-02-06 11:13:00",
+        "2024-02-07 16:54:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 493775,
+          "anchor": "1altg",
+          "commented_at": "2024-02-07 16:54:00",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-poco-x6.htm#1altg",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "1alsm"
+          ]
+        },
+        {
+          "comment_id": 493858,
+          "anchor": "1akup",
+          "commented_at": "2024-02-06 11:13:00",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-poco-x6.htm#1akup",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "1akuk"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/expromt/obzor-smartfona-poco-x6.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-poco-x6.htm#1altg"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-poco-x6.htm#1alsm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-poco-x6.htm#1akup"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-poco-x6.htm#1akuk"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "86cce719ade0777303f0e45447b979c55c98759f3af1be983199b4f22f7fa877",
+      "live_reply_check": null
+    },
+    {
+      "title": "Samsung A54: eSIM и версия Android",
+      "before": "Не указал поддержку eSIM; в одном разделе остались Android 12 и OneUI 4.1.",
+      "turn": "Признал eSIM с оговоркой о модификациях. На несоответствие версии системы ответил обещанием правки.",
+      "kind": "technical",
+      "limit": "Поддержка eSIM не распространяется здесь на все региональные варианты.",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Бюджетная модель получает функции после прочтения собственных спецификаций."
+      },
+      "reaction": "accepts",
+      "id": "FIX-014",
+      "post_id": 4381,
+      "published_at": "2023-11-29 09:00:00",
+      "correction_dates": [
+        "2023-11-29 10:34:00",
+        "2023-11-30 09:34:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 537494,
+          "anchor": "19lsd",
+          "commented_at": "2023-11-30 09:34:00",
+          "url": "https://exler.es/expromt/comments/obzor-srednebyudzhetnogo-smartfona-samsung-galaxy-a54-5g.htm#19lsd",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "19lgs"
+          ]
+        },
+        {
+          "comment_id": 537517,
+          "anchor": "19lcg",
+          "commented_at": "2023-11-29 10:34:00",
+          "url": "https://exler.es/expromt/comments/obzor-srednebyudzhetnogo-smartfona-samsung-galaxy-a54-5g.htm#19lcg",
+          "edit_status": "promised_edit",
+          "parent_anchors": [
+            "19lbt"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/expromt/obzor-srednebyudzhetnogo-smartfona-samsung-galaxy-a54-5g.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-srednebyudzhetnogo-smartfona-samsung-galaxy-a54-5g.htm#19lsd"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-srednebyudzhetnogo-smartfona-samsung-galaxy-a54-5g.htm#19lgs"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-srednebyudzhetnogo-smartfona-samsung-galaxy-a54-5g.htm#19lcg"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-srednebyudzhetnogo-smartfona-samsung-galaxy-a54-5g.htm#19lbt"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "5478d1cb729c4892c765cdd17cedbbcb981c1f6eba244ae900c97da6f34243fb",
+      "live_reply_check": null
+    },
+    {
+      "title": "Huawei GT 3: четверть вместо трети",
+      "before": "Повышение цены с 15 до 20 тысяч назвал четвертью; музыку из памяти часов описал как музыку из памяти смартфона.",
+      "turn": "Принял арифметическую поправку и сообщил об исправлении; источник музыкальных файлов обещал уточнить.",
+      "kind": "technical",
+      "limit": "",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Рост цены зависит от того, с какой стороны на него посмотреть."
+      },
+      "reaction": "accepts",
+      "id": "FIX-015",
+      "post_id": 8697,
+      "published_at": "2022-01-19 13:53:00",
+      "correction_dates": [
+        "2022-01-19 14:57:00",
+        "2022-01-19 20:52:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 1074705,
+          "anchor": "x9mz",
+          "commented_at": "2022-01-19 14:57:00",
+          "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-gt-3.htm#x9mz",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "x9m7"
+          ]
+        },
+        {
+          "comment_id": 1074646,
+          "anchor": "x9xb",
+          "commented_at": "2022-01-19 20:52:00",
+          "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-gt-3.htm#x9xb",
+          "edit_status": "promised_edit",
+          "parent_anchors": [
+            "x9w0"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/expromt/obzor-umnyh-chasov-huawei-watch-gt-3.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-gt-3.htm#x9mz"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-gt-3.htm#x9m7"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-gt-3.htm#x9xb"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-gt-3.htm#x9w0"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "18c83477daa3469c72e3831c7c42abc8edb32f0120d14feb16a1c0e7ee36b019",
+      "live_reply_check": {
+        "case_id": "FIX-015",
+        "requested_url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-gt-3.htm",
+        "final_url": "https://exler.es/expromt/obzor-umnyh-chasov-huawei-watch-gt-3.htm",
+        "http_status": 200,
+        "html_sha256": "7cd92641f6c3fc072e191cc8f6fbe715ab335781661ec242450d10c874d09d1d",
+        "checked_at": "2026-09-19",
+        "replies": [
+          {
+            "anchor": "x9mz",
+            "found": true,
+            "author_matches": true,
+            "own_body_matches_db": true
+          },
+          {
+            "anchor": "x9xb",
+            "found": true,
+            "author_matches": true,
+            "own_body_matches_db": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "Dere R9 Pro: процессор на скриншоте и в таблице",
+      "before": "Указал J4115, хотя система показывала J4125. Читатель также сообщил о ссылке на другой ноутбук.",
+      "turn": "Объяснил выбор данными спецификаций, признал показание системы и обещал правку. Исправление ссылки подтвердил отдельно.",
+      "kind": "technical",
+      "limit": "Магазинная ссылка не открывалась; её исправление установлено по диалогу.",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Собственный скриншот проходит независимую читательскую экспертизу."
+      },
+      "reaction": "checks_then_accepts",
+      "id": "FIX-016",
+      "post_id": 9314,
+      "published_at": "2021-09-21 09:01:00",
+      "correction_dates": [
+        "2021-09-21 09:31:00",
+        "2021-09-21 12:05:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 1151129,
+          "anchor": "vbe4",
+          "commented_at": "2021-09-21 12:05:00",
+          "url": "https://exler.es/expromt/comments/obzor-byudzhetnogo-noutbuka-s-ekranom-15-6-dere-r9-pro.htm#vbe4",
+          "edit_status": "promised_edit",
+          "parent_anchors": [
+            "vbds",
+            "vbch",
+            "vbc4",
+            "vbbe",
+            "vbau"
+          ]
+        },
+        {
+          "comment_id": 1151171,
+          "anchor": "vbaa",
+          "commented_at": "2021-09-21 09:31:00",
+          "url": "https://exler.es/expromt/comments/obzor-byudzhetnogo-noutbuka-s-ekranom-15-6-dere-r9-pro.htm#vbaa",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "vba3"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/expromt/obzor-byudzhetnogo-noutbuka-s-ekranom-15-6-dere-r9-pro.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-byudzhetnogo-noutbuka-s-ekranom-15-6-dere-r9-pro.htm#vbe4"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-byudzhetnogo-noutbuka-s-ekranom-15-6-dere-r9-pro.htm#vbds"
+        },
+        {
+          "role": "author_context",
+          "url": "https://exler.es/expromt/comments/obzor-byudzhetnogo-noutbuka-s-ekranom-15-6-dere-r9-pro.htm#vbch"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-byudzhetnogo-noutbuka-s-ekranom-15-6-dere-r9-pro.htm#vbc4"
+        },
+        {
+          "role": "author_context",
+          "url": "https://exler.es/expromt/comments/obzor-byudzhetnogo-noutbuka-s-ekranom-15-6-dere-r9-pro.htm#vbbe"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-byudzhetnogo-noutbuka-s-ekranom-15-6-dere-r9-pro.htm#vbau"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-byudzhetnogo-noutbuka-s-ekranom-15-6-dere-r9-pro.htm#vbaa"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-byudzhetnogo-noutbuka-s-ekranom-15-6-dere-r9-pro.htm#vba3"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "39601d57050eec21d0d15e5487920637a9dcef4894647babe79e11fe795e5bb6",
+      "live_reply_check": {
+        "case_id": "FIX-016",
+        "requested_url": "https://exler.es/expromt/comments/obzor-byudzhetnogo-noutbuka-s-ekranom-15-6-dere-r9-pro.htm",
+        "final_url": "https://exler.es/expromt/obzor-byudzhetnogo-noutbuka-s-ekranom-15-6-dere-r9-pro.htm",
+        "http_status": 200,
+        "html_sha256": "d75113de6ea7174b84338102a7b3f68c7f835085f15179055295a101a9b32892",
+        "checked_at": "2026-09-19",
+        "replies": [
+          {
+            "anchor": "vbe4",
+            "found": true,
+            "author_matches": true,
+            "own_body_matches_db": true
+          },
+          {
+            "anchor": "vbaa",
+            "found": true,
+            "author_matches": true,
+            "own_body_matches_db": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "Xiaomi 13 Pro: миллион и миллиард цветов",
+      "before": "Число цветов было описано через миллион.",
+      "turn": "Читатель указал на миллиард; автор подтвердил исправление.",
+      "kind": "technical",
+      "limit": "Формально «более миллиона» не исключает миллиард; поправка повышает точность описания.",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "После редактуры дисплею выдают ещё три разряда."
+      },
+      "reaction": "accepts",
+      "id": "FIX-017",
+      "post_id": 5224,
+      "published_at": "2023-06-20 11:16:00",
+      "correction_dates": [
+        "2023-06-20 21:58:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 656796,
+          "anchor": "16vms",
+          "commented_at": "2023-06-20 21:58:00",
+          "url": "https://exler.es/expromt/comments/obzor-flagmanskogo-smartfona-xiaomi-13-pro.htm#16vms",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "16vj1"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/expromt/obzor-flagmanskogo-smartfona-xiaomi-13-pro.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-flagmanskogo-smartfona-xiaomi-13-pro.htm#16vms"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-flagmanskogo-smartfona-xiaomi-13-pro.htm#16vj1"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "99a786c3ae49cfc04d691f2d9537a3ad92ebcedb28ec0fc7fb9fdc856d9245cd",
+      "live_reply_check": null
+    },
+    {
+      "title": "Pixel 7 Pro: битрейт вместо частоты кадров",
+      "before": "Проседание кадров в игре назвал падением битрейта; порядок поколений Snapdragon в сравнении был перепутан.",
+      "turn": "Термин исправил, перестановку поколений пообещал поправить.",
+      "kind": "technical",
+      "limit": "",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Производительность измеряется сначала не той величиной, затем не тем поколением."
+      },
+      "reaction": "accepts",
+      "id": "FIX-018",
+      "post_id": 5573,
+      "published_at": "2023-04-26 09:20:00",
+      "correction_dates": [
+        "2023-04-26 10:43:00",
+        "2023-04-27 09:06:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 700902,
+          "anchor": "15w78",
+          "commented_at": "2023-04-27 09:06:00",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-google-pixel-7-pro.htm#15w78",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "15w3k"
+          ]
+        },
+        {
+          "comment_id": 701054,
+          "anchor": "15vig",
+          "commented_at": "2023-04-26 10:43:00",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-google-pixel-7-pro.htm#15vig",
+          "edit_status": "promised_edit",
+          "parent_anchors": [
+            "15vhh"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/expromt/obzor-smartfona-google-pixel-7-pro.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-google-pixel-7-pro.htm#15w78"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-google-pixel-7-pro.htm#15w3k"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-google-pixel-7-pro.htm#15vig"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-google-pixel-7-pro.htm#15vhh"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "4d0128797c952449a27248b60fe5c9b6aac5322541d6ff2da7eac5a79fcdb632",
+      "live_reply_check": null
+    },
+    {
+      "title": "Ray-Ban Meta: левая и правая стороны",
+      "before": "Описание размещения камеры и светодиода оказалось внутренне несогласованным.",
+      "turn": "На сопоставление двух фраз ответил признанием ошибки и подтверждением правки.",
+      "kind": "technical",
+      "limit": "",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Умные очки помогают обзору отличить лево от право."
+      },
+      "reaction": "accepts",
+      "id": "FIX-019",
+      "post_id": 4070,
+      "published_at": "2024-01-23 14:31:00",
+      "correction_dates": [
+        "2024-01-23 22:54:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 503307,
+          "anchor": "1ad9z",
+          "commented_at": "2024-01-23 22:54:00",
+          "url": "https://exler.es/expromt/comments/obzor-umnyh-ochkov-ray-ban-meta.htm#1ad9z",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "1ad98"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/expromt/obzor-umnyh-ochkov-ray-ban-meta.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-umnyh-ochkov-ray-ban-meta.htm#1ad9z"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-umnyh-ochkov-ray-ban-meta.htm#1ad98"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "6fcdf53cc9505a5dd2ffda1a39a25e47e2c58706cf3f5a6c6a1f471327ce92f5",
+      "live_reply_check": null
+    },
+    {
+      "title": "Galaxy Watch Ultra: лишний ноль в глубине",
+      "before": "В характеристиках фигурировали 1000 метров.",
+      "turn": "После вопроса о километре автор уточнил: 100 метров, и сообщил об исправлении.",
+      "kind": "technical",
+      "limit": "Это история правки текста, не разрешение погружаться с часами на указанную глубину.",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Часы возвращаются с километровой глубины без водолазных работ."
+      },
+      "reaction": "accepts",
+      "id": "FIX-020",
+      "post_id": 575,
+      "published_at": "2025-10-21 10:00:00",
+      "correction_dates": [
+        "2025-10-21 16:23:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 67802,
+          "anchor": "1kdc2",
+          "commented_at": "2025-10-21 16:23:00",
+          "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-samsung-galaxy-watch-ultra.htm#1kdc2",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "1kdbg"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/expromt/obzor-umnyh-chasov-samsung-galaxy-watch-ultra.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-samsung-galaxy-watch-ultra.htm#1kdc2"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-samsung-galaxy-watch-ultra.htm#1kdbg"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "f3e1525f47d4c179093dc3c79a74150e7126b002b9ba7d781f70e56c4e8e35a1",
+      "live_reply_check": null
+    },
+    {
+      "title": "iPhone 17 Pro Max: рейтинг камеры от другой модели",
+      "before": "В сравнении рейтинга камеры было подставлено место предыдущего iPhone 16 Pro Max.",
+      "turn": "После указания читателя автор подтвердил исправление.",
+      "kind": "technical",
+      "limit": "Фиксируется ошибка названия модели в обзоре, а не актуальный рейтинг камер.",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Новый флагман на минуту получает табель успеваемости предшественника."
+      },
+      "reaction": "accepts",
+      "id": "FIX-021",
+      "post_id": 527,
+      "published_at": "2025-10-29 09:00:00",
+      "correction_dates": [
+        "2025-10-29 12:34:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 62905,
+          "anchor": "1kh80",
+          "commented_at": "2025-10-29 12:34:00",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-iphone-17-pro-max.htm#1kh80",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "1kh5n"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/expromt/obzor-smartfona-iphone-17-pro-max.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-iphone-17-pro-max.htm#1kh80"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-iphone-17-pro-max.htm#1kh5n"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "576b80c8bf4f5c16843a17a0f6ac934c4a72a9919504de843a0880047a6b40cf",
+      "live_reply_check": null
+    },
+    {
+      "title": "Pixel 6a: цена и выступ камеры Pixel 7 Pro",
+      "before": "Читатель оспорил указанную цену Pixel 6a; другой поправил описание выступа камеры Pixel 7 Pro.",
+      "turn": "Исправление цены подтвердил. Про камеру объяснил, что судил по фотографиям, и обещал поправить.",
+      "kind": "technical",
+      "limit": "Старые цены не являются сегодняшним предложением; речь не о купленном им Pixel 7 Pro.",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Камера, оценённая по фотографиям, выступает с очным возражением."
+      },
+      "reaction": "accepts",
+      "id": "FIX-022",
+      "post_id": 6665,
+      "published_at": "2022-10-26 10:24:00",
+      "correction_dates": [
+        "2022-10-26 10:22:00",
+        "2022-10-26 12:45:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 836049,
+          "anchor": "12thf",
+          "commented_at": "2022-10-26 12:45:00",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-google-pixel-6a.htm#12thf",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "12tfj"
+          ]
+        },
+        {
+          "comment_id": 836086,
+          "anchor": "12tek",
+          "commented_at": "2022-10-26 10:22:00",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-google-pixel-6a.htm#12tek",
+          "edit_status": "promised_edit",
+          "parent_anchors": [
+            "12te5"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/expromt/obzor-smartfona-google-pixel-6a.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-google-pixel-6a.htm#12thf"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-google-pixel-6a.htm#12tfj"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-google-pixel-6a.htm#12tek"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-google-pixel-6a.htm#12te5"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "2e8c93586882ab9320b651b321150e4a727a2ade7e3268056f3bc71634f354c4",
+      "live_reply_check": null
+    },
+    {
+      "title": "WhatsApp для Mac: версия существовала",
+      "before": "Инструкция создавала неверное представление о доступности настольного WhatsApp для Mac.",
+      "turn": "После ссылок читателей объяснил расхождение определением ОС на сайте и сообщил об исправлении.",
+      "kind": "technical",
+      "limit": "",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Сайт определил операционную систему посетителя, а посетитель — возможности всего сервиса."
+      },
+      "reaction": "accepts",
+      "id": "FIX-023",
+      "post_id": 5931,
+      "published_at": "2023-02-22 08:38:00",
+      "correction_dates": [
+        "2023-02-22 08:56:00",
+        "2023-02-22 08:58:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 748533,
+          "anchor": "14t0b",
+          "commented_at": "2023-02-22 08:58:00",
+          "url": "https://exler.es/likbez/comments/poleznye-hitrosti-pri-ispolzovanii-whatsapp-ii.htm#14t0b",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "14szy"
+          ]
+        },
+        {
+          "comment_id": 748527,
+          "anchor": "14t0a",
+          "commented_at": "2023-02-22 08:56:00",
+          "url": "https://exler.es/likbez/comments/poleznye-hitrosti-pri-ispolzovanii-whatsapp-ii.htm#14t0a",
+          "edit_status": "promised_edit",
+          "parent_anchors": [
+            "14t01"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/likbez/poleznye-hitrosti-pri-ispolzovanii-whatsapp-ii.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/likbez/comments/poleznye-hitrosti-pri-ispolzovanii-whatsapp-ii.htm#14t0b"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/likbez/comments/poleznye-hitrosti-pri-ispolzovanii-whatsapp-ii.htm#14szy"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/likbez/comments/poleznye-hitrosti-pri-ispolzovanii-whatsapp-ii.htm#14t0a"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/likbez/comments/poleznye-hitrosti-pri-ispolzovanii-whatsapp-ii.htm#14t01"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "313a8fc46c2f1acd343e1ab6e7083c759164021e72b125eb575d699c655be0d9",
+      "live_reply_check": null
+    },
+    {
+      "title": "Combot: бан, который сначала не считался баном",
+      "before": "Описание модерации расходилось с тем, что читатель видел в журнале действий администратора.",
+      "turn": "Автор проверил действие, признал, что сейчас оно срабатывает, и подтвердил исправление.",
+      "kind": "technical",
+      "limit": "Не переносим проверку конкретного действия на все режимы и версии бота.",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Бан становится баном после заглядывания в журнал."
+      },
+      "reaction": "checks_then_accepts",
+      "id": "FIX-024",
+      "post_id": 5935,
+      "published_at": "2023-02-21 09:00:00",
+      "correction_dates": [
+        "2023-02-21 17:05:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 749453,
+          "anchor": "14sq8",
+          "commented_at": "2023-02-21 17:05:00",
+          "url": "https://exler.es/expromt/comments/kak-bystro-i-effektivno-moderirovat-chat-kommenty-telegram-kanala.htm#14sq8",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "14spm",
+            "14spj",
+            "14spi"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/expromt/kak-bystro-i-effektivno-moderirovat-chat-kommenty-telegram-kanala.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/kak-bystro-i-effektivno-moderirovat-chat-kommenty-telegram-kanala.htm#14sq8"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/kak-bystro-i-effektivno-moderirovat-chat-kommenty-telegram-kanala.htm#14spm"
+        },
+        {
+          "role": "author_context",
+          "url": "https://exler.es/expromt/comments/kak-bystro-i-effektivno-moderirovat-chat-kommenty-telegram-kanala.htm#14spj"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/kak-bystro-i-effektivno-moderirovat-chat-kommenty-telegram-kanala.htm#14spi"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "96bf43b1287b30de58526241faab1693ee0cb412ff8aeddcfd9189eb501a967b",
+      "live_reply_check": null
+    },
+    {
+      "title": "AirPods Pro на Android: шумодав не пропал",
+      "before": "Обзор лишал наушники шумоподавления и прозрачности при подключении к Android.",
+      "turn": "Читатели объяснили переключение длинным нажатием; автор признал ошибку и затем подтвердил правку.",
+      "kind": "technical",
+      "limit": "",
+      "related_failure_ids": [
+        "FAIL-044"
+      ],
+      "satire": {
+        "type": "satire",
+        "scene": "Функция объявлена потерянной, пока палец не задержался на кнопке."
+      },
+      "reaction": "accepts",
+      "id": "FIX-025",
+      "post_id": 8142,
+      "published_at": "2022-03-30 09:00:00",
+      "correction_dates": [
+        "2022-03-30 10:24:00",
+        "2022-03-30 14:12:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 1009887,
+          "anchor": "ywit",
+          "commented_at": "2022-03-30 10:24:00",
+          "url": "https://exler.es/expromt/comments/obzor-tws-naushnikov-apple-airpods-pro-magsafe.htm#ywit",
+          "edit_status": "promised_edit",
+          "parent_anchors": [
+            "ywho"
+          ]
+        },
+        {
+          "comment_id": 1009849,
+          "anchor": "ywuc",
+          "commented_at": "2022-03-30 14:12:00",
+          "url": "https://exler.es/expromt/comments/obzor-tws-naushnikov-apple-airpods-pro-magsafe.htm#ywuc",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "ywqh"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/expromt/obzor-tws-naushnikov-apple-airpods-pro-magsafe.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-tws-naushnikov-apple-airpods-pro-magsafe.htm#ywit"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-tws-naushnikov-apple-airpods-pro-magsafe.htm#ywho"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-tws-naushnikov-apple-airpods-pro-magsafe.htm#ywuc"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-tws-naushnikov-apple-airpods-pro-magsafe.htm#ywqh"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "b14c598c308a116864f6d4579327c8b4dcb4e45888529c5a04bea6bec654ff55",
+      "live_reply_check": {
+        "case_id": "FIX-025",
+        "requested_url": "https://exler.es/expromt/comments/obzor-tws-naushnikov-apple-airpods-pro-magsafe.htm",
+        "final_url": "https://exler.es/expromt/obzor-tws-naushnikov-apple-airpods-pro-magsafe.htm",
+        "http_status": 200,
+        "html_sha256": "619a18dcde8996a6e6aa03666b8f82178e90a3b8c83c3ba5b759e7913db807a5",
+        "checked_at": "2026-09-19",
+        "replies": [
+          {
+            "anchor": "ywit",
+            "found": true,
+            "author_matches": true,
+            "own_body_matches_db": true
+          },
+          {
+            "anchor": "ywuc",
+            "found": true,
+            "author_matches": true,
+            "own_body_matches_db": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "Powerbank: заимствование и калька",
+      "before": "Русское «повербанк» было названо калькой.",
+      "turn": "Принял различие между заимствованием и буквальным переводом; сообщил, что исправил и статью, и отдельное начало на странице комментариев.",
+      "kind": "language",
+      "limit": "",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Заимствованное слово заставляет проверить сразу две версии текста."
+      },
+      "reaction": "accepts",
+      "id": "FIX-026",
+      "post_id": 614,
+      "published_at": "2025-10-15 10:03:00",
+      "correction_dates": [
+        "2025-10-15 12:01:00",
+        "2025-10-15 12:41:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 71570,
+          "anchor": "1kacg",
+          "commented_at": "2025-10-15 12:01:00",
+          "url": "https://exler.es/likbez/comments/chto-nuzhno-znat-o-vneshnih-akkumulyatorah.htm#1kacg",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "1kaaj"
+          ]
+        },
+        {
+          "comment_id": 71572,
+          "anchor": "1kadf",
+          "commented_at": "2025-10-15 12:41:00",
+          "url": "https://exler.es/likbez/comments/chto-nuzhno-znat-o-vneshnih-akkumulyatorah.htm#1kadf",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "1kad3",
+            "1kacg",
+            "1kaaj"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/likbez/chto-nuzhno-znat-o-vneshnih-akkumulyatorah.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/likbez/comments/chto-nuzhno-znat-o-vneshnih-akkumulyatorah.htm#1kacg"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/likbez/comments/chto-nuzhno-znat-o-vneshnih-akkumulyatorah.htm#1kaaj"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/likbez/comments/chto-nuzhno-znat-o-vneshnih-akkumulyatorah.htm#1kadf"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/likbez/comments/chto-nuzhno-znat-o-vneshnih-akkumulyatorah.htm#1kad3"
+        },
+        {
+          "role": "author_context",
+          "url": "https://exler.es/likbez/comments/chto-nuzhno-znat-o-vneshnih-akkumulyatorah.htm#1kacg"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "87f0feef33efd928eaf3cbeae6e983a46852f7ab7d282c5658ae7d50710502a2",
+      "live_reply_check": null
+    },
+    {
+      "title": "Redmi Pad SE: ссылка на Xiaomi Pad 6",
+      "before": "Два читателя сообщили, что ссылка из обзора ведёт на другую модель планшета.",
+      "turn": "Автор извинился и подтвердил исправление.",
+      "kind": "product_link",
+      "limit": "Магазин не посещался. Проверен диалог об ошибке, а не современное перенаправление.",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Рекомендация проходит в магазин под чужим именем."
+      },
+      "reaction": "accepts",
+      "id": "FIX-027",
+      "post_id": 3434,
+      "published_at": "2024-05-21 09:30:00",
+      "correction_dates": [
+        "2024-05-21 11:48:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 422997,
+          "anchor": "1c6ah",
+          "commented_at": "2024-05-21 11:48:00",
+          "url": "https://exler.es/expromt/comments/obzor-plansheta-redmi-pad-se-nedorogo-i-horosho.htm#1c6ah",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "1c67w"
+          ]
+        },
+        {
+          "comment_id": 423024,
+          "anchor": "1c6ag",
+          "commented_at": "2024-05-21 11:48:00",
+          "url": "https://exler.es/expromt/comments/obzor-plansheta-redmi-pad-se-nedorogo-i-horosho.htm#1c6ag",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "1c66o"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/expromt/obzor-plansheta-redmi-pad-se-nedorogo-i-horosho.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-plansheta-redmi-pad-se-nedorogo-i-horosho.htm#1c6ah"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-plansheta-redmi-pad-se-nedorogo-i-horosho.htm#1c67w"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-plansheta-redmi-pad-se-nedorogo-i-horosho.htm#1c6ag"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-plansheta-redmi-pad-se-nedorogo-i-horosho.htm#1c66o"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "3be90b166dc784c9016dca6834031f88228f2c8864ea46e188a50ca64781b87c",
+      "live_reply_check": null
+    },
+    {
+      "title": "Xiaomi Pad 5: ссылка на Samsung A7",
+      "before": "Читатель сообщил, что ссылка покупки приводит к планшету Samsung A7.",
+      "turn": "Автор поблагодарил и подтвердил правку.",
+      "kind": "product_link",
+      "limit": "Внешнюю карточку товара не открывали.",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "В обзоре Xiaomi неожиданно побеждает соседняя марка."
+      },
+      "reaction": "accepts",
+      "id": "FIX-028",
+      "post_id": 8738,
+      "published_at": "2022-01-12 10:07:00",
+      "correction_dates": [
+        "2022-01-12 12:23:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 1080460,
+          "anchor": "x4qw",
+          "commented_at": "2022-01-12 12:23:00",
+          "url": "https://exler.es/expromt/comments/obzor-moshnogo-11-dyujmovogo-plansheta-xiaomi-pad-5.htm#x4qw",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "x4pd"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/expromt/obzor-moshnogo-11-dyujmovogo-plansheta-xiaomi-pad-5.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-moshnogo-11-dyujmovogo-plansheta-xiaomi-pad-5.htm#x4qw"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-moshnogo-11-dyujmovogo-plansheta-xiaomi-pad-5.htm#x4pd"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "aeee3030dbb9de9ebf760e37a59970c5a5491df039ed19649d10aa48956386e8",
+      "live_reply_check": null
+    },
+    {
+      "title": "Dune Magic: ссылка на SmartBox",
+      "before": "Читатель указал, что ссылка ведёт на Dune SmartBox вместо обозреваемой модели.",
+      "turn": "Автор признал ошибку, связал её с ночной правкой и сообщил об исправлении.",
+      "kind": "product_link",
+      "limit": "Содержимое магазина независимо не проверялось.",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Ночная редактура меняет модель медиаплеера."
+      },
+      "reaction": "accepts",
+      "id": "FIX-029",
+      "post_id": 6842,
+      "published_at": "2022-09-27 12:14:00",
+      "correction_dates": [
+        "2022-09-27 21:55:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 859609,
+          "anchor": "12atv",
+          "commented_at": "2022-09-27 21:55:00",
+          "url": "https://exler.es/expromt/comments/obzor-kompaktnogo-mediapleera-dune-hd-magic-4k-plus.htm#12atv",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "12ac1"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/expromt/obzor-kompaktnogo-mediapleera-dune-hd-magic-4k-plus.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-kompaktnogo-mediapleera-dune-hd-magic-4k-plus.htm#12atv"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-kompaktnogo-mediapleera-dune-hd-magic-4k-plus.htm#12ac1"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "6b75dc332fe16d2099f57874a21651be20dfb870001b31f3f4301ee046747d8e",
+      "live_reply_check": null
+    },
+    {
+      "title": "Realme 8: ссылка на POCO",
+      "before": "Читатель сообщил о ссылке на POCO M4 Pro 5G из обзора Realme 8.",
+      "turn": "Автор подтвердил исправление.",
+      "kind": "product_link",
+      "limit": "Магазинные переходы не выполнялись.",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Обзор одной марки обслуживает кассу другой."
+      },
+      "reaction": "accepts",
+      "id": "FIX-030",
+      "post_id": 8055,
+      "published_at": "2022-04-12 11:00:00",
+      "correction_dates": [
+        "2022-04-12 23:13:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 998416,
+          "anchor": "z6qp",
+          "commented_at": "2022-04-12 23:13:00",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-realme-8-horosho-sbalansirovannyj-byudzhetnik.htm#z6qp",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "z6nq"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/expromt/obzor-smartfona-realme-8-horosho-sbalansirovannyj-byudzhetnik.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-realme-8-horosho-sbalansirovannyj-byudzhetnik.htm#z6qp"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-realme-8-horosho-sbalansirovannyj-byudzhetnik.htm#z6nq"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "d152ebf34c0d04266ac6f294db41665952bc17d037969e7c6be45c408527a060",
+      "live_reply_check": null
+    },
+    {
+      "title": "OpenRock S: международная ссылка на Pro",
+      "before": "Читатель сопоставил две ссылки: одна вела на S, другая, по его сообщению, на Pro.",
+      "turn": "Автор сначала обещал правку, затем подтвердил её.",
+      "kind": "product_link",
+      "limit": "Проверена последовательность ответов; на AliExpress не переходили.",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "У наушников появляется международная версия личности."
+      },
+      "reaction": "accepts",
+      "id": "FIX-031",
+      "post_id": 4738,
+      "published_at": "2023-09-19 11:00:00",
+      "correction_dates": [
+        "2023-09-19 12:46:00",
+        "2023-09-19 12:52:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 587722,
+          "anchor": "18gat",
+          "commented_at": "2023-09-19 12:52:00",
+          "url": "https://exler.es/expromt/comments/obzor-naushnikov-oneodio-openrock-s.htm#18gat",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "18g9l"
+          ]
+        },
+        {
+          "comment_id": 587721,
+          "anchor": "18gah",
+          "commented_at": "2023-09-19 12:46:00",
+          "url": "https://exler.es/expromt/comments/obzor-naushnikov-oneodio-openrock-s.htm#18gah",
+          "edit_status": "promised_edit",
+          "parent_anchors": [
+            "18g9l"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/expromt/obzor-naushnikov-oneodio-openrock-s.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-naushnikov-oneodio-openrock-s.htm#18gat"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-naushnikov-oneodio-openrock-s.htm#18g9l"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-naushnikov-oneodio-openrock-s.htm#18gah"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "07ac8bbba74d2d41ab51793b3c3e245ca831f0190d5b0079383c1e1e25870b37",
+      "live_reply_check": null
+    },
+    {
+      "title": "Просмотры рекламы превратились в людей",
+      "before": "Число просмотров ролика было представлено как число посмотревших людей.",
+      "turn": "Читатель объяснил различие; автор принял поправку.",
+      "kind": "numbers",
+      "limit": "Не пересчитываем уникальных зрителей: их число в ветке не установлено.",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Каждый повторный просмотр получает отдельный паспорт."
+      },
+      "reaction": "accepts",
+      "id": "FIX-032",
+      "post_id": 1735,
+      "published_at": "2025-03-26 08:00:00",
+      "correction_dates": [
+        "2025-03-26 08:51:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 202951,
+          "anchor": "1ha5z",
+          "commented_at": "2025-03-26 08:51:00",
+          "url": "https://exler.es/blog/comments/spayk-dzhonz-reklamiruyet-airpods-4.htm#1ha5z",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "1ha5t"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/blog/spayk-dzhonz-reklamiruyet-airpods-4.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/blog/comments/spayk-dzhonz-reklamiruyet-airpods-4.htm#1ha5z"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/blog/comments/spayk-dzhonz-reklamiruyet-airpods-4.htm#1ha5t"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "3036b10fc1534fe878d68242e52ee537444004e11ee3fedf91d761908fe30789",
+      "live_reply_check": null
+    },
+    {
+      "title": "Пентхаус: квадратные футы стали метрами",
+      "before": "Площадь 5500 квадратных футов была названа квадратными метрами.",
+      "turn": "После поправки с пересчётом примерно в 511 м² автор подтвердил исправление.",
+      "kind": "numbers",
+      "limit": "",
+      "related_failure_ids": [
+        "FAIL-047"
+      ],
+      "satire": {
+        "type": "satire",
+        "scene": "Квартира уменьшается после смены единиц измерения."
+      },
+      "reaction": "accepts",
+      "id": "FIX-033",
+      "post_id": 1750,
+      "published_at": "2025-03-22 14:00:00",
+      "correction_dates": [
+        "2025-03-22 15:15:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 205510,
+          "anchor": "1h82h",
+          "commented_at": "2025-03-22 15:15:00",
+          "url": "https://exler.es/blog/comments/a-vot-komu-pentkhaus-s-vidom-na-tsentralnyy-park.htm#1h82h",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "1h824"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/blog/a-vot-komu-pentkhaus-s-vidom-na-tsentralnyy-park.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/blog/comments/a-vot-komu-pentkhaus-s-vidom-na-tsentralnyy-park.htm#1h82h"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/blog/comments/a-vot-komu-pentkhaus-s-vidom-na-tsentralnyy-park.htm#1h824"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "8b11a535e725ba49fd658c56d1f0b9c1b9a9869f4ec00289ee693cbd49ff367e",
+      "live_reply_check": null
+    },
+    {
+      "title": "Вино за $780 прочитано как $78",
+      "before": "Автор занизил указанную цену вина в десять раз.",
+      "turn": "Читатель указал на $780; автор признал и исправил.",
+      "kind": "numbers",
+      "limit": "",
+      "related_failure_ids": [
+        "FAIL-048"
+      ],
+      "satire": {
+        "type": "satire",
+        "scene": "Доступность вина заканчивается на последнем нуле."
+      },
+      "reaction": "accepts",
+      "id": "FIX-034",
+      "post_id": 2468,
+      "published_at": "2024-11-19 16:37:00",
+      "correction_dates": [
+        "2024-11-19 17:05:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 299429,
+          "anchor": "1f0rg",
+          "commented_at": "2024-11-19 17:05:00",
+          "url": "https://exler.es/blog/comments/komu-naturalnyye-produkty.htm#1f0rg",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "1f0r7"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/blog/komu-naturalnyye-produkty.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/blog/comments/komu-naturalnyye-produkty.htm#1f0rg"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/blog/comments/komu-naturalnyye-produkty.htm#1f0r7"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "203d693fc2a173813aed805a263f7529432f1f2180bbc81f04a6d3af236aa1cd",
+      "live_reply_check": null
+    },
+    {
+      "title": "Пожар: метры в минуту стали метрами в секунду",
+      "before": "Скорость распространения огня из испанского текста передана как 30 метров в секунду.",
+      "turn": "Читатель привёл исходные 30 метров в минуту; автор признал ошибку и сообщил об исправлении.",
+      "kind": "numbers",
+      "limit": "",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Переводчик ускоряет пожар в шестьдесят раз."
+      },
+      "reaction": "accepts",
+      "id": "FIX-035",
+      "post_id": 7584,
+      "published_at": "2022-06-09 11:42:00",
+      "correction_dates": [
+        "2022-06-09 13:50:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 948708,
+          "anchor": "10aij",
+          "commented_at": "2022-06-09 13:50:00",
+          "url": "https://exler.es/blog/comments/lesnoy-pazhar-v-malage.htm#10aij",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "10acu",
+            "10acj"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/blog/lesnoy-pazhar-v-malage.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/blog/comments/lesnoy-pazhar-v-malage.htm#10aij"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/blog/comments/lesnoy-pazhar-v-malage.htm#10acu"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/blog/comments/lesnoy-pazhar-v-malage.htm#10acj"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "12749d4d8830e892180974fe00ca7f7f530eadefece6ebc954f5c76f5f9186aa",
+      "live_reply_check": {
+        "case_id": "FIX-035",
+        "requested_url": "https://exler.es/blog/comments/lesnoy-pazhar-v-malage.htm",
+        "final_url": "https://exler.es/blog/lesnoy-pazhar-v-malage.htm",
+        "http_status": 200,
+        "html_sha256": "31f3ccc4bd5e9670e6e28abe2e5b9e363642ee6a910be856faf97be391c74790",
+        "checked_at": "2026-09-19",
+        "replies": [
+          {
+            "anchor": "10aij",
+            "found": true,
+            "author_matches": true,
+            "own_body_matches_db": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "Река По переехала во Францию",
+      "before": "По была названа крупнейшей рекой Франции.",
+      "turn": "Читатель поправил страну на Италию; автор подтвердил исправление.",
+      "kind": "factual",
+      "limit": "",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Река пересекает границу без изменения русла."
+      },
+      "reaction": "accepts",
+      "id": "FIX-036",
+      "post_id": 5113,
+      "published_at": "2023-07-09 12:02:00",
+      "correction_dates": [
+        "2023-07-09 13:11:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 642894,
+          "anchor": "176s2",
+          "commented_at": "2023-07-09 13:11:00",
+          "url": "https://exler.es/blog/comments/ne-zatykat-fontan.htm#176s2",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "176rt"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/blog/ne-zatykat-fontan.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/blog/comments/ne-zatykat-fontan.htm#176s2"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/blog/comments/ne-zatykat-fontan.htm#176rt"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "2b7fe08bbf39846c51e87c59f4fbd3ca22e468aa322e2b0f46d212e9f9875e66",
+      "live_reply_check": null
+    },
+    {
+      "title": "Сорт сливы оказался виноградом",
+      "before": "Cojon De Fraile в рассказе о названиях продуктов был отнесён к винограду.",
+      "turn": "На вопрос читателя автор ответил, что это слива, и сообщил об исправлении.",
+      "kind": "wine_food",
+      "limit": "",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Названия изучены с увлечением, вид растения уточнён позднее."
+      },
+      "reaction": "accepts",
+      "id": "FIX-037",
+      "post_id": 1006,
+      "published_at": "2025-08-09 11:00:00",
+      "correction_dates": [
+        "2025-08-09 11:48:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 116720,
+          "anchor": "1j94p",
+          "commented_at": "2025-08-09 11:48:00",
+          "url": "https://exler.es/blog/comments/ispanskiye-nazvaniya-produktov-i-vin.htm#1j94p",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "1j93o"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/blog/ispanskiye-nazvaniya-produktov-i-vin.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/blog/comments/ispanskiye-nazvaniya-produktov-i-vin.htm#1j94p"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/blog/comments/ispanskiye-nazvaniya-produktov-i-vin.htm#1j93o"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "7b8ea59680dd5d46d70329b20ac67832ca1b86440b075988ab2b5205900d3584",
+      "live_reply_check": null
+    },
+    {
+      "title": "Татаки вместо тартара",
+      "before": "Блюдо из тунца было названо тартаром.",
+      "turn": "После замечания о нерубленом мясе автор принял название татаки и сообщил об исправлении.",
+      "kind": "wine_food",
+      "limit": "",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Блюдо меняет классификацию уже после обеда."
+      },
+      "reaction": "accepts",
+      "id": "FIX-038",
+      "post_id": 921,
+      "published_at": "2025-08-24 17:30:00",
+      "correction_dates": [
+        "2025-08-24 17:57:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 106026,
+          "anchor": "1ji0a",
+          "commented_at": "2025-08-24 17:57:00",
+          "url": "https://exler.es/blog/comments/obedennoye-5.htm#1ji0a",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "1ji04"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/blog/obedennoye-5.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/blog/comments/obedennoye-5.htm#1ji0a"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/blog/comments/obedennoye-5.htm#1ji04"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "4c94f8fd2c08c90942a1aca38605e92da96d33fe0e6d0c35a8ea48ff2fc4c608",
+      "live_reply_check": null
+    },
+    {
+      "title": "Две головки чеснока вместо двух зубчиков",
+      "before": "В одном рецепте количество чеснока переходило от пары зубчиков к паре головок.",
+      "turn": "Автор подтвердил зубчики и исправление.",
+      "kind": "wine_food",
+      "limit": "",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Редактор уменьшает чесночную нагрузку на читателя."
+      },
+      "reaction": "accepts",
+      "id": "FIX-039",
+      "post_id": 7568,
+      "published_at": "2022-06-11 13:34:00",
+      "correction_dates": [
+        "2022-06-11 14:39:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 946925,
+          "anchor": "10bur",
+          "commented_at": "2022-06-11 14:39:00",
+          "url": "https://exler.es/blog/comments/seks-pertsy-ched-smit.htm#10bur",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "10bu2"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/blog/seks-pertsy-ched-smit.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/blog/comments/seks-pertsy-ched-smit.htm#10bur"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/blog/comments/seks-pertsy-ched-smit.htm#10bu2"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "786c3dc4a25bf200aac3dd5154e920338841aece0f362d87180c5a5d5190d2cd",
+      "live_reply_check": null
+    },
+    {
+      "title": "Capota: крыша, а не капот",
+      "before": "Испанское capota в описании автомобиля было понято как капот.",
+      "turn": "Читатель объяснил, что речь о складной крыше; автор подтвердил правку.",
+      "kind": "language",
+      "limit": "",
+      "related_failure_ids": [
+        "FAIL-049"
+      ],
+      "satire": {
+        "type": "satire",
+        "scene": "Похожее слово переносит деталь на другой конец автомобиля."
+      },
+      "reaction": "accepts",
+      "id": "FIX-040",
+      "post_id": 4723,
+      "published_at": "2023-09-22 07:51:00",
+      "correction_dates": [
+        "2023-09-22 08:46:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 585298,
+          "anchor": "18iai",
+          "commented_at": "2023-09-22 08:46:00",
+          "url": "https://exler.es/blog/comments/v-ispanii-mozhno-kupit-krutuyu-mashinu.htm#18iai",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "18iab"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/blog/v-ispanii-mozhno-kupit-krutuyu-mashinu.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/blog/comments/v-ispanii-mozhno-kupit-krutuyu-mashinu.htm#18iai"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/blog/comments/v-ispanii-mozhno-kupit-krutuyu-mashinu.htm#18iab"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "35307a3818e260ff653f7c443e2fda4e8e20560e46fdae6a70a0dbb158e5d688",
+      "live_reply_check": null
+    },
+    {
+      "title": "Муниципалитет превратился в компанию",
+      "before": "Bath and North East Somerset Council был назван компанией.",
+      "turn": "На пояснение, что это муниципалитет, автор ответил подтверждением исправления.",
+      "kind": "language",
+      "limit": "",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Муниципалитет ненадолго проходит корпоративную реорганизацию."
+      },
+      "reaction": "accepts",
+      "id": "FIX-041",
+      "post_id": 5517,
+      "published_at": "2023-05-05 10:00:00",
+      "correction_dates": [
+        "2023-05-05 10:18:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 692703,
+          "anchor": "16231",
+          "commented_at": "2023-05-05 10:18:00",
+          "url": "https://exler.es/blog/comments/podgotovka-k-koronatsii-charlza-iii.htm#16231",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "1622j"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/blog/podgotovka-k-koronatsii-charlza-iii.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/blog/comments/podgotovka-k-koronatsii-charlza-iii.htm#16231"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/blog/comments/podgotovka-k-koronatsii-charlza-iii.htm#1622j"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "debc9446ecbb0e7a153a2ede665189801783c59bd00710ac162cfd6f5f8d21f6",
+      "live_reply_check": null
+    },
+    {
+      "title": "Airman: звание приняли за профессию лётчика",
+      "before": "Участник новости был представлен лётчиком по английскому слову Airman.",
+      "turn": "Читатели объяснили употребление слова как воинского звания; автор сначала обещал, затем подтвердил правку.",
+      "kind": "language",
+      "limit": "",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Перевод присваивает человеку пилотское кресло."
+      },
+      "reaction": "accepts",
+      "id": "FIX-042",
+      "post_id": 5627,
+      "published_at": "2023-04-14 07:20:00",
+      "correction_dates": [
+        "2023-04-14 07:47:00",
+        "2023-04-14 07:48:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 709380,
+          "anchor": "15ors",
+          "commented_at": "2023-04-14 07:48:00",
+          "url": "https://exler.es/blog/comments/eto-konechno-porazitelnaya-istoriya.htm#15ors",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "15orn"
+          ]
+        },
+        {
+          "comment_id": 709430,
+          "anchor": "15orr",
+          "commented_at": "2023-04-14 07:47:00",
+          "url": "https://exler.es/blog/comments/eto-konechno-porazitelnaya-istoriya.htm#15orr",
+          "edit_status": "promised_edit",
+          "parent_anchors": [
+            "15or4"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/blog/eto-konechno-porazitelnaya-istoriya.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/blog/comments/eto-konechno-porazitelnaya-istoriya.htm#15ors"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/blog/comments/eto-konechno-porazitelnaya-istoriya.htm#15orn"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/blog/comments/eto-konechno-porazitelnaya-istoriya.htm#15orr"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/blog/comments/eto-konechno-porazitelnaya-istoriya.htm#15or4"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "7fb463cb0cb353a2974ded24f679e5e851e056c1b437a6a0f7dd699dd2e278e3",
+      "live_reply_check": null
+    },
+    {
+      "title": "«Чебурашку» приняли за анимационный фильм",
+      "before": "Пересказывая чужую рецензию, автор исходил из того, что фильм анимационный.",
+      "turn": "После замечаний о живых актёрах признал ошибочное представление и сообщил об исправлении.",
+      "kind": "film",
+      "limit": "",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Жанр фильма устанавливается после обсуждения рецензии."
+      },
+      "reaction": "accepts",
+      "id": "FIX-043",
+      "post_id": 6083,
+      "published_at": "2023-01-26 12:00:00",
+      "correction_dates": [
+        "2023-01-26 13:36:00",
+        "2023-01-26 13:38:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 768607,
+          "anchor": "14cc3",
+          "commented_at": "2023-01-26 13:36:00",
+          "url": "https://exler.es/blog/comments/retsenziya-zritelnitsy-na-cheburashku.htm#14cc3",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "14cac"
+          ]
+        },
+        {
+          "comment_id": 768665,
+          "anchor": "14cc5",
+          "commented_at": "2023-01-26 13:38:00",
+          "url": "https://exler.es/blog/comments/retsenziya-zritelnitsy-na-cheburashku.htm#14cc5",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "14c9n"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/blog/retsenziya-zritelnitsy-na-cheburashku.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/blog/comments/retsenziya-zritelnitsy-na-cheburashku.htm#14cc3"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/blog/comments/retsenziya-zritelnitsy-na-cheburashku.htm#14cac"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/blog/comments/retsenziya-zritelnitsy-na-cheburashku.htm#14cc5"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/blog/comments/retsenziya-zritelnitsy-na-cheburashku.htm#14c9n"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "b9cc8201b7786c37837096559b0f1b32cef831834b78e74b3b6e199539fda5e6",
+      "live_reply_check": null
+    },
+    {
+      "title": "Сандлер: жена превратилась во вторую дочь",
+      "before": "Джеки Сандлер была включена в перечисление двух дочерей Адама.",
+      "turn": "Читатель различил жену Джеки и дочь Санни; автор подтвердил исправление.",
+      "kind": "film",
+      "limit": "",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Семейный состав актёров проходит послепремьерную сверку."
+      },
+      "reaction": "accepts",
+      "id": "FIX-044",
+      "post_id": 1024,
+      "published_at": "2025-08-07 08:00:00",
+      "correction_dates": [
+        "2025-08-07 14:14:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 118665,
+          "anchor": "1j7xw",
+          "commented_at": "2025-08-07 14:14:00",
+          "url": "https://exler.es/films/comments/schastlivchik-gilmor-2.htm#1j7xw",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "1j7xc"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/films/schastlivchik-gilmor-2.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/films/comments/schastlivchik-gilmor-2.htm#1j7xw"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/films/comments/schastlivchik-gilmor-2.htm#1j7xc"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "05540a95353a9dca2b854d041ca1f4345034878e68c1b56e0fc36f40bb725403",
+      "live_reply_check": null
+    },
+    {
+      "title": "«Гангстерленд»: жена Кевина стала дочерью Конрада",
+      "before": "В описании родственных связей Белла оказалась дочерью Конрада.",
+      "turn": "После замечания автор признал, что запутался, и сообщил об исправлении.",
+      "kind": "film",
+      "limit": "",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Детективная интрига возникает внутри родословной рецензии."
+      },
+      "reaction": "accepts",
+      "id": "FIX-045",
+      "post_id": 1352,
+      "published_at": "2025-06-09 10:00:00",
+      "correction_dates": [
+        "2025-06-09 10:24:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 155305,
+          "anchor": "1idxj",
+          "commented_at": "2025-06-09 10:24:00",
+          "url": "https://exler.es/films/comments/gangsterlend.htm#1idxj",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "1idx9"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/films/gangsterlend.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/films/comments/gangsterlend.htm#1idxj"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/films/comments/gangsterlend.htm#1idx9"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "3541d60187587ceefaf247b7fe2c59c3bba4b3ea1dc6236dac50e863704f19b5",
+      "live_reply_check": null
+    },
+    {
+      "title": "«Грешники»: HBO Max якобы заплатил своей студии",
+      "before": "Приписал HBO Max покупку прав примерно за $100 млн на фильм связанной с ним Warner Bros.",
+      "turn": "Читатель указал на связь компаний; автор сообщил об исправлении и оговорил недоступность точных стриминговых доходов.",
+      "kind": "film",
+      "limit": "Достоверную сумму дохода фильма эта ветка не устанавливает.",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Кинокомпания пересылает деньги сама себе в кассовом отчёте рецензента."
+      },
+      "reaction": "accepts",
+      "id": "FIX-046",
+      "post_id": 1102,
+      "published_at": "2025-07-24 13:11:00",
+      "correction_dates": [
+        "2025-07-24 18:09:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 126389,
+          "anchor": "1j1kc",
+          "commented_at": "2025-07-24 18:09:00",
+          "url": "https://exler.es/films/comments/greshniki-1.htm#1j1kc",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "1j1jx"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/films/greshniki-1.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/films/comments/greshniki-1.htm#1j1kc"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/films/comments/greshniki-1.htm#1j1jx"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "b869f0fe02453411a3d96297eeee316945c7e6662e871110d24d1c15ae40153d",
+      "live_reply_check": null
+    },
+    {
+      "title": "«Больница Питт»: ординарцы вместо ординаторов",
+      "before": "Врач в рецензии руководил ординарцами.",
+      "turn": "Читатель различил военное и медицинское слова; автор подтвердил правку.",
+      "kind": "language",
+      "limit": "",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Приёмное отделение на минуту получает армейский штат."
+      },
+      "reaction": "accepts",
+      "id": "FIX-047",
+      "post_id": 1433,
+      "published_at": "2025-05-26 09:01:00",
+      "correction_dates": [
+        "2025-05-26 10:48:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 164028,
+          "anchor": "1i6aa",
+          "commented_at": "2025-05-26 10:48:00",
+          "url": "https://exler.es/films/comments/bolnica-pitt.htm#1i6aa",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "1i6a5"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/films/bolnica-pitt.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/films/comments/bolnica-pitt.htm#1i6aa"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/films/comments/bolnica-pitt.htm#1i6a5"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "79173401358fc25ddad6d392fd4252dac00671610b9db90cebfac66b0f3c4df9",
+      "live_reply_check": null
+    },
+    {
+      "title": "«Компаньон»: исправление имени и спор о небрежности",
+      "before": "Имя Айрис заменилось на Айрин.",
+      "turn": "Имя исправил, объяснив ассоциацией с другим фильмом. На последующую критику ответил раздражённо и сослался на ночную вычитку.",
+      "kind": "film",
+      "limit": "Это конкретная реакция в конкретной ветке; спокойные благодарности в других ветках сохранены.",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Исправление занимает слово, обсуждение права ошибаться — несколько абзацев."
+      },
+      "reaction": "corrects_then_objects_to_tone",
+      "id": "FIX-048",
+      "post_id": 1216,
+      "published_at": "2025-07-03 08:00:00",
+      "correction_dates": [
+        "2025-07-03 10:13:00",
+        "2025-07-03 10:40:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 140201,
+          "anchor": "1iqaj",
+          "commented_at": "2025-07-03 10:13:00",
+          "url": "https://exler.es/films/comments/kompanon-1.htm#1iqaj",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "1iq7r"
+          ]
+        },
+        {
+          "comment_id": 140192,
+          "anchor": "1iqbs",
+          "commented_at": "2025-07-03 10:40:00",
+          "url": "https://exler.es/films/comments/kompanon-1.htm#1iqbs",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "1iqbl",
+            "1iqak",
+            "1iq7y"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/films/kompanon-1.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/films/comments/kompanon-1.htm#1iqaj"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/films/comments/kompanon-1.htm#1iq7r"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/films/comments/kompanon-1.htm#1iqbs"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/films/comments/kompanon-1.htm#1iqbl"
+        },
+        {
+          "role": "author_context",
+          "url": "https://exler.es/films/comments/kompanon-1.htm#1iqak"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/films/comments/kompanon-1.htm#1iq7y"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "3ce8b67263b8a7b076f2e381dd592a092278cb7da7bc69936605439a4e327860",
+      "live_reply_check": null
+    },
+    {
+      "title": "Запись храпа: смартфон вместо часов",
+      "before": "Функция записи была приписана часам.",
+      "turn": "В ветке признал, что у Samsung запись делает смартфон, и подтвердил исправление текста.",
+      "kind": "technical",
+      "limit": "",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Часы получают микрофон соседнего устройства по описанию."
+      },
+      "reaction": "accepts",
+      "id": "FIX-049",
+      "post_id": 566,
+      "published_at": "2025-10-22 10:10:00",
+      "correction_dates": [
+        "2025-10-22 10:55:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 67149,
+          "anchor": "1kdpm",
+          "commented_at": "2025-10-22 10:55:00",
+          "url": "https://exler.es/blog/comments/vek-zhivi-vek-uchis-4.htm#1kdpm",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "1kdpa",
+            "1kdp1",
+            "1kdon"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/blog/vek-zhivi-vek-uchis-4.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/blog/comments/vek-zhivi-vek-uchis-4.htm#1kdpm"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/blog/comments/vek-zhivi-vek-uchis-4.htm#1kdpa"
+        },
+        {
+          "role": "author_context",
+          "url": "https://exler.es/blog/comments/vek-zhivi-vek-uchis-4.htm#1kdp1"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/blog/comments/vek-zhivi-vek-uchis-4.htm#1kdon"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "0a7a892617692bde776dfb6895593a15b2d0627919489ab7a4973ca3fbbf6afc",
+      "live_reply_check": null
+    },
+    {
+      "title": "Modesto: город вместо музыкальной группы",
+      "before": "Подпись Modesto, CA была принята за название группы.",
+      "turn": "Читатель объяснил, что это город проведения свадьбы; автор сообщил об исправлении.",
+      "kind": "language",
+      "limit": "",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Город выходит на сцену в качестве музыкального коллектива."
+      },
+      "reaction": "accepts",
+      "id": "FIX-050",
+      "post_id": 4085,
+      "published_at": "2024-01-20 21:11:00",
+      "correction_dates": [
+        "2024-01-21 07:52:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 505232,
+          "anchor": "1abms",
+          "commented_at": "2024-01-21 07:52:00",
+          "url": "https://exler.es/blog/comments/i-need-more-cowbell.htm#1abms",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "1abkq"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/blog/i-need-more-cowbell.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/blog/comments/i-need-more-cowbell.htm#1abms"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/blog/comments/i-need-more-cowbell.htm#1abkq"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "2e27985ce8115f2784070a2aaece10535625bc12365d9f5539e225e74eaaa79e",
+      "live_reply_check": null
+    },
+    {
+      "title": "Xiaomi 13: диагональ, разрешение и плотность",
+      "before": "У двух экранов разной диагонали оказались одновременно одинаковые разрешение и плотность пикселей.",
+      "turn": "После первой правки читатель указал на оставшееся несоответствие; автор подтвердил ещё одну правку.",
+      "kind": "technical",
+      "limit": "",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Исправленная цифра немедленно вызывает на проверку соседнюю."
+      },
+      "reaction": "accepts",
+      "id": "FIX-051",
+      "post_id": 6350,
+      "published_at": "2022-12-16 10:00:00",
+      "correction_dates": [
+        "2022-12-16 19:14:00",
+        "2022-12-16 20:43:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 797639,
+          "anchor": "13on2",
+          "commented_at": "2022-12-16 19:14:00",
+          "url": "https://exler.es/blog/comments/predstavleny-smartfony-xiaomi-13-13-pro.htm#13on2",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "13oh5"
+          ]
+        },
+        {
+          "comment_id": 797641,
+          "anchor": "13oor",
+          "commented_at": "2022-12-16 20:43:00",
+          "url": "https://exler.es/blog/comments/predstavleny-smartfony-xiaomi-13-13-pro.htm#13oor",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "13oo3",
+            "13on2",
+            "13oh5"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/blog/predstavleny-smartfony-xiaomi-13-13-pro.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/blog/comments/predstavleny-smartfony-xiaomi-13-13-pro.htm#13on2"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/blog/comments/predstavleny-smartfony-xiaomi-13-13-pro.htm#13oh5"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/blog/comments/predstavleny-smartfony-xiaomi-13-13-pro.htm#13oor"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/blog/comments/predstavleny-smartfony-xiaomi-13-13-pro.htm#13oo3"
+        },
+        {
+          "role": "author_context",
+          "url": "https://exler.es/blog/comments/predstavleny-smartfony-xiaomi-13-13-pro.htm#13on2"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "9a9cbe4cb31e65e3759f818881a86d3c172805b00f4d27fab050eae428cc6522",
+      "live_reply_check": null
+    },
+    {
+      "title": "«Киностудия»: персонаж вместо реальной продюсерки",
+      "before": "В рассказе о карьере Рогена имя героини Пэтти Ли подменило Эми Паскаль.",
+      "turn": "На уточняющий вопрос автор ответил: Эми, и подтвердил исправление.",
+      "kind": "film",
+      "limit": "",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Персонаж сериала на минуту становится работодателем своего создателя."
+      },
+      "reaction": "accepts",
+      "id": "FIX-052",
+      "post_id": 1332,
+      "published_at": "2025-06-12 08:00:00",
+      "correction_dates": [
+        "2025-06-12 09:32:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 153095,
+          "anchor": "1ifsz",
+          "commented_at": "2025-06-12 09:32:00",
+          "url": "https://exler.es/films/comments/kinostudiya.htm#1ifsz",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "1ifs5"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/films/kinostudiya.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/films/comments/kinostudiya.htm#1ifsz"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/films/comments/kinostudiya.htm#1ifs5"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "ded05ddb9b54335f8fd66a446803efbcf2cfbd9bef747cb47f90744c72582068",
+      "live_reply_check": null
+    },
+    {
+      "title": "Цена рыбы: «дешевле» вместо «дороже»",
+      "before": "Сравнение греческой и испанской цены было записано в противоположную сторону.",
+      "turn": "После сопоставления пятнадцати и пяти евро автор назвал это опиской и исправил.",
+      "kind": "numbers",
+      "limit": "",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Цены в тексте верны, направление экономии — нет."
+      },
+      "reaction": "accepts",
+      "id": "FIX-053",
+      "post_id": 2314,
+      "published_at": "2024-12-16 16:10:00",
+      "correction_dates": [
+        "2024-12-16 17:52:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 280263,
+          "anchor": "1fgvc",
+          "commented_at": "2024-12-16 17:52:00",
+          "url": "https://exler.es/blog/comments/chetverg-rybnyy-den.htm#1fgvc",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "1fgv9",
+            "1fgv0",
+            "1fguw"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/blog/chetverg-rybnyy-den.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/blog/comments/chetverg-rybnyy-den.htm#1fgvc"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/blog/comments/chetverg-rybnyy-den.htm#1fgv9"
+        },
+        {
+          "role": "author_context",
+          "url": "https://exler.es/blog/comments/chetverg-rybnyy-den.htm#1fgv0"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/blog/comments/chetverg-rybnyy-den.htm#1fguw"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "80f7acf52456e30dc28f5953f127c472a9d10e0e776b8eef2b35552c6ff3720e",
+      "live_reply_check": null
+    },
+    {
+      "title": "Милляр: год рождения",
+      "before": "В биографическом пересказе фигурировал 1908 год рождения.",
+      "turn": "Читатель указал 1903; автор подтвердил правку.",
+      "kind": "factual",
+      "limit": "",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Биографический герой молодеет или стареет одним нажатием."
+      },
+      "reaction": "accepts",
+      "id": "FIX-054",
+      "post_id": 6055,
+      "published_at": "2023-02-01 11:00:00",
+      "correction_dates": [
+        "2023-02-02 07:05:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 765416,
+          "anchor": "14foq",
+          "commented_at": "2023-02-02 07:05:00",
+          "url": "https://exler.es/blog/comments/istoriya-georgiya-millyara-baby-yagi-sovetskogo-kino.htm#14foq",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "14fag"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/blog/istoriya-georgiya-millyara-baby-yagi-sovetskogo-kino.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/blog/comments/istoriya-georgiya-millyara-baby-yagi-sovetskogo-kino.htm#14foq"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/blog/comments/istoriya-georgiya-millyara-baby-yagi-sovetskogo-kino.htm#14fag"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "53c8618a6e9809b7111ea856835b0c0350cd87195056ff4482d103d05406c6c9",
+      "live_reply_check": null
+    },
+    {
+      "title": "Марафон: специальный забег вместо тренажёра",
+      "before": "Предыдущее достижение спортсмена было описано через тренажёр.",
+      "turn": "Читатель пояснил формат специально организованного забега со сменными пейсмейкерами; автор подтвердил правку.",
+      "kind": "factual",
+      "limit": "",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Спортсмена возвращают с тренажёра на реальную дистанцию."
+      },
+      "reaction": "accepts",
+      "id": "FIX-055",
+      "post_id": 6851,
+      "published_at": "2022-09-26 09:33:00",
+      "correction_dates": [
+        "2022-09-26 09:55:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 861172,
+          "anchor": "1296n",
+          "commented_at": "2022-09-26 09:55:00",
+          "url": "https://exler.es/blog/comments/novyy-mirovoy-rekord-po-marafonu.htm#1296n",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "1296f"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/blog/novyy-mirovoy-rekord-po-marafonu.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/blog/comments/novyy-mirovoy-rekord-po-marafonu.htm#1296n"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/blog/comments/novyy-mirovoy-rekord-po-marafonu.htm#1296f"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "06884814619135eee91c55a674bb43ed7eda45683f14256671a835d307bde2ab",
+      "live_reply_check": null
+    },
+    {
+      "title": "«Рейс навылет»: перевод Flight",
+      "before": "Объяснение названия не учитывало значение flight как бегства в сочетании fight or flight.",
+      "turn": "После читательского пояснения игры слов автор подтвердил исправление.",
+      "kind": "language",
+      "limit": "",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Название приземляется на смысл после второго прочтения."
+      },
+      "reaction": "accepts",
+      "id": "FIX-056",
+      "post_id": 1494,
+      "published_at": "2025-05-15 08:00:00",
+      "correction_dates": [
+        "2025-05-15 09:24:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 171652,
+          "anchor": "1hzrb",
+          "commented_at": "2025-05-15 09:24:00",
+          "url": "https://exler.es/films/comments/rejs-navylet.htm#1hzrb",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "1hzpx"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/films/rejs-navylet.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/films/comments/rejs-navylet.htm#1hzrb"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/films/comments/rejs-navylet.htm#1hzpx"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "34a35874c0aea32d5468e0a04a8068c3d233339c531a3f90f8da713b431cb8ec",
+      "live_reply_check": null
+    },
+    {
+      "title": "Redmi Watch 2 Lite: электронный «корпус»",
+      "before": "В перечне датчиков появился электронный корпус.",
+      "turn": "На вопрос читателя автор уточнил: компас, и подтвердил исправление.",
+      "kind": "typo",
+      "limit": "",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Корпус часов ненадолго становится отдельным датчиком."
+      },
+      "reaction": "accepts",
+      "id": "FIX-057",
+      "post_id": 9007,
+      "published_at": "2021-11-24 09:01:00",
+      "correction_dates": [
+        "2021-11-24 11:51:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 1113435,
+          "anchor": "wbf9",
+          "commented_at": "2021-11-24 11:51:00",
+          "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-redmi-watch-2-lite.htm#wbf9",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "wbdm"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/expromt/obzor-umnyh-chasov-redmi-watch-2-lite.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-redmi-watch-2-lite.htm#wbf9"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-redmi-watch-2-lite.htm#wbdm"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "2b8d9b6801a088a8e1e944f29cbabbb0c310a921da8f6b1dbbb6b42f1b5a5f17",
+      "live_reply_check": null
+    },
+    {
+      "title": "Xiaomi 12T: частота 69 Гц",
+      "before": "В описании выбора частоты фигурировали 69 Гц вместо 60.",
+      "turn": "Читатель сопоставил строку со скриншотами; автор признал опечатку и исправил.",
+      "kind": "typo",
+      "limit": "",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Скриншот отстаивает стандартную частоту перед авторским текстом."
+      },
+      "reaction": "accepts",
+      "id": "FIX-058",
+      "post_id": 6406,
+      "published_at": "2022-12-07 08:00:00",
+      "correction_dates": [
+        "2022-12-07 08:24:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 805031,
+          "anchor": "13ie6",
+          "commented_at": "2022-12-07 08:24:00",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-xiaomi-12t.htm#13ie6",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "13idz"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/expromt/obzor-smartfona-xiaomi-12t.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-xiaomi-12t.htm#13ie6"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-xiaomi-12t.htm#13idz"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "a563ed209b793fcba23adbe40fa75610a6f286d0ba0a3e69f41b4dc7480ea108",
+      "live_reply_check": null
+    },
+    {
+      "title": "Xiaomi Tab вместо Xiaomi Pad",
+      "before": "В обзоре Xiaomi Pad 7 соседние модели назывались Xiaomi Tab.",
+      "turn": "Автор признал отсутствие такого названия в описываемой линейке и сообщил об исправлении.",
+      "kind": "model_name",
+      "limit": "",
+      "related_failure_ids": [
+        "FAIL-041"
+      ],
+      "satire": {
+        "type": "satire",
+        "scene": "Планшеты одной линейки получают общее имя после читательской сверки."
+      },
+      "reaction": "accepts",
+      "id": "FIX-059",
+      "post_id": 1776,
+      "published_at": "2025-03-18 10:00:00",
+      "correction_dates": [
+        "2025-03-18 11:57:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 208949,
+          "anchor": "1h5gi",
+          "commented_at": "2025-03-18 11:57:00",
+          "url": "https://exler.es/expromt/comments/obzor-novogo-topovogo-plansheta-xiaomi-pad-7.htm#1h5gi",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "1h5f1"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/expromt/obzor-novogo-topovogo-plansheta-xiaomi-pad-7.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-novogo-topovogo-plansheta-xiaomi-pad-7.htm#1h5gi"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-novogo-topovogo-plansheta-xiaomi-pad-7.htm#1h5f1"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "e4d57d720162c7d0af9e99c91927996c56f82603948a949e4dc397261c333e3e",
+      "live_reply_check": null
+    },
+    {
+      "title": "Mi Note 10 и Redmi Note 10: модель и возраст",
+      "before": "В рассказе о старом смартфоне были перепутаны модель и срок использования.",
+      "turn": "Автор уточнил Xiaomi Mi Note 10 и шестой год вместо седьмого.",
+      "kind": "model_name",
+      "limit": "",
+      "related_failure_ids": [
+        "FAIL-046"
+      ],
+      "satire": {
+        "type": "satire",
+        "scene": "Старый смартфон получает правильное имя вместе с новым возрастом."
+      },
+      "reaction": "accepts",
+      "id": "FIX-060",
+      "post_id": 2193,
+      "published_at": "2025-01-06 12:53:00",
+      "correction_dates": [
+        "2025-01-06 19:51:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 267178,
+          "anchor": "1fs7y",
+          "commented_at": "2025-01-06 19:51:00",
+          "url": "https://exler.es/blog/comments/smartfon-realme-neo-7.htm#1fs7y",
+          "edit_status": "acknowledged_correction",
+          "parent_anchors": [
+            "1fs7s",
+            "1fs76",
+            "1fs6u"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/blog/smartfon-realme-neo-7.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/blog/comments/smartfon-realme-neo-7.htm#1fs7y"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/blog/comments/smartfon-realme-neo-7.htm#1fs7s"
+        },
+        {
+          "role": "author_context",
+          "url": "https://exler.es/blog/comments/smartfon-realme-neo-7.htm#1fs76"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/blog/comments/smartfon-realme-neo-7.htm#1fs6u"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "ff6df53ae60607549e6d59d54f8a027631994bd2017297315690b37ed647217f",
+      "live_reply_check": null
+    },
+    {
+      "title": "Викандер: перепутанный супруг",
+      "before": "В рецензии супругом актрисы оказался Содерберг вместо Фассбендера.",
+      "turn": "После прямой поправки автор подтвердил исправление.",
+      "kind": "film",
+      "limit": "",
+      "related_failure_ids": [
+        "FAIL-050"
+      ],
+      "satire": {
+        "type": "satire",
+        "scene": "Рецензия переставляет актёров и режиссёра ещё и за пределами съёмочной площадки."
+      },
+      "reaction": "accepts",
+      "id": "FIX-061",
+      "post_id": 1512,
+      "published_at": "2025-05-12 09:00:00",
+      "correction_dates": [
+        "2025-05-12 09:29:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 173690,
+          "anchor": "1hy1v",
+          "commented_at": "2025-05-12 09:29:00",
+          "url": "https://exler.es/films/comments/chyornyj-chemodan-dvojnaya-igra.htm#1hy1v",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "1hy1s"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/films/chyornyj-chemodan-dvojnaya-igra.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/films/comments/chyornyj-chemodan-dvojnaya-igra.htm#1hy1v"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/films/comments/chyornyj-chemodan-dvojnaya-igra.htm#1hy1s"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "5d50d3013293e063a6082fdc6e2fba927046850f3a82f2e9dc57ce9502f71d5c",
+      "live_reply_check": null
+    },
+    {
+      "title": "Запорожская АЭС и Каховская ГЭС",
+      "before": "В публикации смешались названия двух разных станций.",
+      "turn": "Читатель развёл АЭС и ГЭС; автор подтвердил правку.",
+      "kind": "factual",
+      "limit": "",
+      "related_failure_ids": [
+        "FAIL-053"
+      ],
+      "satire": {
+        "type": "satire",
+        "scene": "Тип станции уточняется уже после политического вывода."
+      },
+      "reaction": "accepts",
+      "id": "FIX-062",
+      "post_id": 1599,
+      "published_at": "2025-04-26 08:30:00",
+      "correction_dates": [
+        "2025-04-26 08:39:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 183275,
+          "anchor": "1hq63",
+          "commented_at": "2025-04-26 08:39:00",
+          "url": "https://exler.es/blog/comments/dva-mira-dva-pis-dila.htm#1hq63",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "1hq60"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/blog/dva-mira-dva-pis-dila.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/blog/comments/dva-mira-dva-pis-dila.htm#1hq63"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/blog/comments/dva-mira-dva-pis-dila.htm#1hq60"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "8ed542b5e4971b5b14966450d78976b9ee542fed7784522d90ef917395a75e2a",
+      "live_reply_check": null
+    },
+    {
+      "title": "OnePlus Nord 2: постоянный AOD нашёлся в настройках",
+      "before": "В обзоре постоянно включённый экран выключался через минуту.",
+      "turn": "После сообщения владельца автор нашёл глубоко расположенную настройку, признал незнакомство с оболочкой и обещал правку.",
+      "kind": "technical",
+      "limit": "",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Отсутствующая функция находится внутри недостаточно изученного меню."
+      },
+      "reaction": "checks_then_accepts",
+      "id": "FIX-063",
+      "post_id": 8827,
+      "published_at": "2021-12-28 11:39:00",
+      "correction_dates": [
+        "2021-12-28 18:48:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 1089460,
+          "anchor": "wwpk",
+          "commented_at": "2021-12-28 18:48:00",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-oneplus-nord-2-5g-srednebyudzhetnik-s-opticheskim-stabom.htm#wwpk",
+          "edit_status": "promised_edit",
+          "parent_anchors": [
+            "wwjc"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/expromt/obzor-smartfona-oneplus-nord-2-5g-srednebyudzhetnik-s-opticheskim-stabom.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-oneplus-nord-2-5g-srednebyudzhetnik-s-opticheskim-stabom.htm#wwpk"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-oneplus-nord-2-5g-srednebyudzhetnik-s-opticheskim-stabom.htm#wwjc"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "ad253d71ededb0aea04e4a7cedb955104e2c24c906f433a2f6375a5fde5fdf3a",
+      "live_reply_check": {
+        "case_id": "FIX-063",
+        "requested_url": "https://exler.es/expromt/comments/obzor-smartfona-oneplus-nord-2-5g-srednebyudzhetnik-s-opticheskim-stabom.htm",
+        "final_url": "https://exler.es/expromt/obzor-smartfona-oneplus-nord-2-5g-srednebyudzhetnik-s-opticheskim-stabom.htm",
+        "http_status": 200,
+        "html_sha256": "37457975c9cf62739a6ac76599812935d0c556907e36683f4e5a9db5600cd17a",
+        "checked_at": "2026-09-19",
+        "replies": [
+          {
+            "anchor": "wwpk",
+            "found": true,
+            "author_matches": true,
+            "own_body_matches_db": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "Motorola Edge 20 Pro: одинаковые кропы вместо сравнения",
+      "before": "Сравнение фрагментов снимков 12 и 108 Мп показывало одинаковый результат.",
+      "turn": "Читатель заметил дублирование; автор признал загрузку одинаковых кропов, заменил их и отметил худшую детализацию 12 Мп.",
+      "kind": "technical",
+      "limit": "Это признанная ошибка публикации сравнительных изображений, не доказательство намеренной подделки теста.",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Два режима камеры дают одинаковый результат, пока в сравнении стоит одна фотография."
+      },
+      "reaction": "accepts",
+      "id": "FIX-064",
+      "post_id": 9351,
+      "published_at": "2021-09-14 10:01:00",
+      "correction_dates": [
+        "2021-09-14 23:48:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 1155939,
+          "anchor": "v6sk",
+          "commented_at": "2021-09-14 23:48:00",
+          "url": "https://exler.es/expromt/comments/obzor-flagmanskogo-smartfona-motorola-edge-20-pro.htm#v6sk",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "v6m2"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/expromt/obzor-flagmanskogo-smartfona-motorola-edge-20-pro.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-flagmanskogo-smartfona-motorola-edge-20-pro.htm#v6sk"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-flagmanskogo-smartfona-motorola-edge-20-pro.htm#v6m2"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "1b8279aeda08fcdfee7af8821f9f1d170449ff327085fb39302f97dae1f14a28",
+      "live_reply_check": {
+        "case_id": "FIX-064",
+        "requested_url": "https://exler.es/expromt/comments/obzor-flagmanskogo-smartfona-motorola-edge-20-pro.htm",
+        "final_url": "https://exler.es/expromt/obzor-flagmanskogo-smartfona-motorola-edge-20-pro.htm",
+        "http_status": 200,
+        "html_sha256": "e5c387cbcc0b8bb84859ccb4d0edca5ac0f51e26597d3631dab73681c6008333",
+        "checked_at": "2026-09-19",
+        "replies": [
+          {
+            "anchor": "v6sk",
+            "found": true,
+            "author_matches": true,
+            "own_body_matches_db": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "Amazfit T-Rex Pro: дневной сон не был замечен",
+      "before": "Читатель оспорил описание отслеживания дневного сна и указал, где находятся данные.",
+      "turn": "Автор поблагодарил и пообещал исправить.",
+      "kind": "technical",
+      "limit": "Упоминание прежнего замечания к Mi Band 6 остаётся словами читателя; отдельно тот эпизод здесь не подтверждён.",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Браслет успел заметить сон раньше своего обозревателя."
+      },
+      "reaction": "accepts",
+      "id": "FIX-065",
+      "post_id": 9680,
+      "published_at": "2021-07-13 10:33:00",
+      "correction_dates": [
+        "2021-07-14 12:15:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 1194166,
+          "anchor": "u20o",
+          "commented_at": "2021-07-14 12:15:00",
+          "url": "https://exler.es/expromt/comments/obzor-zashishennyh-umnyh-chasov-amazfit-t-rex-pro.htm#u20o",
+          "edit_status": "promised_edit",
+          "parent_anchors": [
+            "u1uw"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/expromt/obzor-zashishennyh-umnyh-chasov-amazfit-t-rex-pro.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-zashishennyh-umnyh-chasov-amazfit-t-rex-pro.htm#u20o"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-zashishennyh-umnyh-chasov-amazfit-t-rex-pro.htm#u1uw"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "b077820e40666f2a534c7b1316dd300a9bebe74cdf8af796328d9d8322b250bb",
+      "live_reply_check": null
+    },
+    {
+      "title": "Bluetooth-приёмник не является одновременным ретранслятором",
+      "before": "Устройству приписана одновременная беспроводная передача и приём звука.",
+      "turn": "После вопроса читателя автор признал, что оно не работает одновременно ресивером и трансмиттером, и обещал правку.",
+      "kind": "technical",
+      "limit": "Карточка магазина не открывалась; вывод опирается на собственный ответ автора.",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Два режима сложились в третий только внутри инструкции."
+      },
+      "reaction": "accepts",
+      "id": "FIX-066",
+      "post_id": 9859,
+      "published_at": "2021-06-15 09:01:00",
+      "correction_dates": [
+        "2021-06-15 10:59:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 1214096,
+          "anchor": "thjj",
+          "commented_at": "2021-06-15 10:59:00",
+          "url": "https://exler.es/likbez/comments/kak-vdvoem-smotret-televizor-v-besprovodnyh-naushnikah.htm#thjj",
+          "edit_status": "promised_edit",
+          "parent_anchors": [
+            "thj1"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/likbez/kak-vdvoem-smotret-televizor-v-besprovodnyh-naushnikah.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/likbez/comments/kak-vdvoem-smotret-televizor-v-besprovodnyh-naushnikah.htm#thjj"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/likbez/comments/kak-vdvoem-smotret-televizor-v-besprovodnyh-naushnikah.htm#thj1"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "7a2f7c48dd23619c27b0eeec9d8ffa601f080594d24979860973e9ddb738e9a3",
+      "live_reply_check": {
+        "case_id": "FIX-066",
+        "requested_url": "https://exler.es/likbez/comments/kak-vdvoem-smotret-televizor-v-besprovodnyh-naushnikah.htm",
+        "final_url": "https://exler.es/likbez/kak-vdvoem-smotret-televizor-v-besprovodnyh-naushnikah.htm",
+        "http_status": 200,
+        "html_sha256": "e0b36ea25f52aa936ea9332ac2fcfd41cd49d29bbb0de240a98604a2f8755c34",
+        "checked_at": "2026-09-19",
+        "replies": [
+          {
+            "anchor": "thjj",
+            "found": true,
+            "author_matches": true,
+            "own_body_matches_db": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "DragonFly Red участвовал в сравнении без своего владельца",
+      "before": "В сравнении ЦАП смешались модели DragonFly Black и Red.",
+      "turn": "Автор уточнил, что речь о Black, а Red у него никогда не было, и пообещал исправить.",
+      "kind": "technical",
+      "limit": "",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Сравнение приобретает дополнительный прибор без покупки и доставки."
+      },
+      "reaction": "accepts",
+      "id": "FIX-067",
+      "post_id": 9891,
+      "published_at": "2021-06-08 09:01:00",
+      "correction_dates": [
+        "2021-06-08 12:34:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 1216915,
+          "anchor": "teq1",
+          "commented_at": "2021-06-08 12:34:00",
+          "url": "https://exler.es/expromt/comments/obzor-miniatyurnogo-cap-usilitelya-dlya-cmartfona-pk-ibasso-audio-dc03.htm#teq1",
+          "edit_status": "promised_edit",
+          "parent_anchors": [
+            "teot"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/expromt/obzor-miniatyurnogo-cap-usilitelya-dlya-cmartfona-pk-ibasso-audio-dc03.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-miniatyurnogo-cap-usilitelya-dlya-cmartfona-pk-ibasso-audio-dc03.htm#teq1"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-miniatyurnogo-cap-usilitelya-dlya-cmartfona-pk-ibasso-audio-dc03.htm#teot"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "bdfb7832414ee81d828e15841a34aab7b76ef24f2df7fc890d9fd4a9ac45dc5c",
+      "live_reply_check": {
+        "case_id": "FIX-067",
+        "requested_url": "https://exler.es/expromt/comments/obzor-miniatyurnogo-cap-usilitelya-dlya-cmartfona-pk-ibasso-audio-dc03.htm",
+        "final_url": "https://exler.es/expromt/obzor-miniatyurnogo-cap-usilitelya-dlya-cmartfona-pk-ibasso-audio-dc03.htm",
+        "http_status": 200,
+        "html_sha256": "c4ef951e9a58d6867045ad2aa27bcff3927f3387c891ca1a1725deac7fb1244c",
+        "checked_at": "2026-09-19",
+        "replies": [
+          {
+            "anchor": "teq1",
+            "found": true,
+            "author_matches": true,
+            "own_body_matches_db": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "Xiaomi 17T: разница €250 превратилась в €150",
+      "before": "Разница между ценами €900 и €750 была посчитана как €250.",
+      "turn": "Читатель указал €150; автор подтвердил исправление и продолжил рассуждение о ценности доплаты.",
+      "kind": "numbers",
+      "limit": "Это арифметика опубликованного сравнения, не актуальные цены магазинов.",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Доплата становится доступнее без распродажи."
+      },
+      "reaction": "accepts",
+      "id": "FIX-068",
+      "post_id": 10007,
+      "published_at": "2026-06-16 12:00:00",
+      "correction_dates": [
+        "2026-06-16 13:00:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 1241595,
+          "anchor": "1nrp4",
+          "commented_at": "2026-06-16 13:00:00",
+          "url": "https://exler.es/expromt/comments/smartfony-xiaomi-17t-i-17t-pro.htm#1nrp4",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "1nrof"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/expromt/smartfony-xiaomi-17t-i-17t-pro.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/smartfony-xiaomi-17t-i-17t-pro.htm#1nrp4"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/smartfony-xiaomi-17t-i-17t-pro.htm#1nrof"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "aefb8b29a8eb1419f562fd4956c76411e2351deb45c958b4c73e5536ec2ec8b5",
+      "live_reply_check": {
+        "case_id": "FIX-068",
+        "requested_url": "https://exler.es/expromt/comments/smartfony-xiaomi-17t-i-17t-pro.htm",
+        "final_url": "https://exler.es/expromt/smartfony-xiaomi-17t-i-17t-pro.htm",
+        "http_status": 200,
+        "html_sha256": "29b0f1e88719b73e98155bfcde90420638491cd969bb6f357c21921145278440",
+        "checked_at": "2026-09-19",
+        "replies": [
+          {
+            "anchor": "1nrp4",
+            "found": true,
+            "author_matches": true,
+            "own_body_matches_db": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "Huawei FIT 5: крепления всё-таки снимаются",
+      "before": "Дужки нейлонового ремешка показались автору монолитной частью корпуса.",
+      "turn": "После вопроса читателя он признал, что они съёмные, и обещал исправить.",
+      "kind": "technical",
+      "limit": "",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Монолит уступает читателю, который знает, куда нажать."
+      },
+      "reaction": "accepts",
+      "id": "FIX-069",
+      "post_id": 10195,
+      "published_at": "2026-05-19 12:57:00",
+      "correction_dates": [
+        "2026-05-20 09:28:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 1258855,
+          "anchor": "1nehi",
+          "commented_at": "2026-05-20 09:28:00",
+          "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-fit-5.htm#1nehi",
+          "edit_status": "promised_edit",
+          "parent_anchors": [
+            "1nebs"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/expromt/obzor-umnyh-chasov-huawei-watch-fit-5.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-fit-5.htm#1nehi"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-fit-5.htm#1nebs"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "652027fab072d091212cb52a74e2dcfa956406a79b3621438629d224830e5727",
+      "live_reply_check": {
+        "case_id": "FIX-069",
+        "requested_url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-fit-5.htm",
+        "final_url": "https://exler.es/expromt/obzor-umnyh-chasov-huawei-watch-fit-5.htm",
+        "http_status": 200,
+        "html_sha256": "0a24ab2bfabc1058dccb049ffe40c3e165f607e574e568f20d54023013862626",
+        "checked_at": "2026-09-19",
+        "replies": [
+          {
+            "anchor": "1nehi",
+            "found": true,
+            "author_matches": true,
+            "own_body_matches_db": true
+          }
+        ]
+      }
+    },
+    {
+      "title": "UGREEN LightBuds Magic: уточнение кодека LDAC",
+      "before": "В обсуждении поддержки кодека читатель указал на несоответствие обозначения.",
+      "turn": "Автор уточнил LDAC и подтвердил исправление.",
+      "kind": "technical",
+      "limit": "Рекламная карточка не открывалась; принятая поправка зафиксирована в авторском ответе.",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Аудиокодек проходит перестановку букв после прослушивания читателем."
+      },
+      "reaction": "accepts",
+      "id": "FIX-070",
+      "post_id": 10778,
+      "published_at": "2026-02-17 13:11:00",
+      "correction_dates": [
+        "2026-02-17 16:32:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 1316878,
+          "anchor": "1m3um",
+          "commented_at": "2026-02-17 16:32:00",
+          "url": "https://exler.es/expromt/comments/obzor-tws-naushnikov-ugreen-lightbuds-magic.htm#1m3um",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "1m3to"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/expromt/obzor-tws-naushnikov-ugreen-lightbuds-magic.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-tws-naushnikov-ugreen-lightbuds-magic.htm#1m3um"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-tws-naushnikov-ugreen-lightbuds-magic.htm#1m3to"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "86bd2cebdbb111c3a69603b2cc0d1cecadd184b5e94c630dc5ae9684b29cf4b4",
+      "live_reply_check": null
+    },
+    {
+      "title": "Realme 14: яркость 200 вместо 2000 нит",
+      "before": "Во вступлении яркость была указана как 200 нит, ниже в характеристиках — 2000.",
+      "turn": "После сопоставления строк читателем автор подтвердил исправление.",
+      "kind": "numbers",
+      "limit": "Не выдаём паспортную цифру за независимое измерение яркости.",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Вступление обзора светит в десять раз тусклее таблицы."
+      },
+      "reaction": "accepts",
+      "id": "FIX-071",
+      "post_id": 10430,
+      "published_at": "2026-04-14 11:00:00",
+      "correction_dates": [
+        "2026-04-14 12:07:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 1282421,
+          "anchor": "1mvta",
+          "commented_at": "2026-04-14 12:07:00",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-realme-14-5g.htm#1mvta",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "1mvt2"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/expromt/obzor-smartfona-realme-14-5g.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-realme-14-5g.htm#1mvta"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-realme-14-5g.htm#1mvt2"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "aed88c0fe712821169ef33d263476c49a754cdf9cedb9f2768c474d286c4f02a",
+      "live_reply_check": null
+    },
+    {
+      "title": "Redmi Buds 3 Pro: одинаковый жест для разных действий",
+      "before": "Двойному нажатию одновременно назначались пауза и переключение трека; расчёт общей автономности также вызвал вопрос.",
+      "turn": "Расчёт уточнил, а для трека признал тройное нажатие и обещал исправить инструкцию.",
+      "kind": "technical",
+      "limit": "",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Наушники должны были угадывать намерение по одинаковому жесту."
+      },
+      "reaction": "accepts",
+      "id": "FIX-072",
+      "post_id": 9629,
+      "published_at": "2021-07-21 12:12:00",
+      "correction_dates": [
+        "2021-07-21 12:36:00",
+        "2021-07-21 13:04:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 1189139,
+          "anchor": "u6q0",
+          "commented_at": "2021-07-21 13:04:00",
+          "url": "https://exler.es/expromt/comments/obzor-tws-naushnikov-redmi-buds-3-pro-s-aktivnym-shumodavom.htm#u6q0",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "u6pn"
+          ]
+        },
+        {
+          "comment_id": 1189146,
+          "anchor": "u6oy",
+          "commented_at": "2021-07-21 12:36:00",
+          "url": "https://exler.es/expromt/comments/obzor-tws-naushnikov-redmi-buds-3-pro-s-aktivnym-shumodavom.htm#u6oy",
+          "edit_status": "promised_edit",
+          "parent_anchors": [
+            "u6on"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/expromt/obzor-tws-naushnikov-redmi-buds-3-pro-s-aktivnym-shumodavom.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-tws-naushnikov-redmi-buds-3-pro-s-aktivnym-shumodavom.htm#u6q0"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-tws-naushnikov-redmi-buds-3-pro-s-aktivnym-shumodavom.htm#u6pn"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-tws-naushnikov-redmi-buds-3-pro-s-aktivnym-shumodavom.htm#u6oy"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-tws-naushnikov-redmi-buds-3-pro-s-aktivnym-shumodavom.htm#u6on"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "ac0568201445018a6871cb8dc58d3c41115b04312421fb6830e5558635b5a65c",
+      "live_reply_check": null
+    },
+    {
+      "title": "Teclast: Wi-Fi ac без второго диапазона",
+      "before": "В перечне беспроводных возможностей не согласовывались стандарт и диапазоны.",
+      "turn": "После замечания автор уточнил двухдиапазонный Wi-Fi и подтвердил правку.",
+      "kind": "technical",
+      "limit": "",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Второй диапазон появляется между двумя строками спецификации."
+      },
+      "reaction": "accepts",
+      "id": "FIX-073",
+      "post_id": 9636,
+      "published_at": "2021-07-20 11:42:00",
+      "correction_dates": [
+        "2021-07-21 10:28:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 1189642,
+          "anchor": "u6m0",
+          "commented_at": "2021-07-21 10:28:00",
+          "url": "https://exler.es/expromt/comments/obzor-byudzhetnogo-10-dyujmovogo-plansheta-teclast-m40.htm#u6m0",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "u6i5"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/expromt/obzor-byudzhetnogo-10-dyujmovogo-plansheta-teclast-m40.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-byudzhetnogo-10-dyujmovogo-plansheta-teclast-m40.htm#u6m0"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-byudzhetnogo-10-dyujmovogo-plansheta-teclast-m40.htm#u6i5"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "fad90b8f884a4ec65fda19720b8b032d5e16d44d82222b97708062566f5a9cbc",
+      "live_reply_check": null
+    },
+    {
+      "title": "Amazfit GTR 3 Pro: буквальный перевод рекламного слогана",
+      "before": "Up your game было передано как начало игры.",
+      "turn": "Читатель объяснил идиоматический смысл улучшения своих возможностей; автор обещал исправить.",
+      "kind": "language",
+      "limit": "",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Часы предлагают совершенствоваться, а переводчик уже начал игру."
+      },
+      "reaction": "accepts",
+      "id": "FIX-074",
+      "post_id": 8548,
+      "published_at": "2022-02-15 11:47:00",
+      "correction_dates": [
+        "2022-02-15 13:55:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 1053764,
+          "anchor": "xsh6",
+          "commented_at": "2022-02-15 13:55:00",
+          "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-amazfit-gtr-3-pro-vse-luchshe-i-luchshe.htm#xsh6",
+          "edit_status": "promised_edit",
+          "parent_anchors": [
+            "xsgu"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/expromt/obzor-umnyh-chasov-amazfit-gtr-3-pro-vse-luchshe-i-luchshe.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-amazfit-gtr-3-pro-vse-luchshe-i-luchshe.htm#xsh6"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-amazfit-gtr-3-pro-vse-luchshe-i-luchshe.htm#xsgu"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "03616be3cdbb8ef479562bcbec6a98b45dbf5aae885b0c01eb57aa2ff6a839da",
+      "live_reply_check": null
+    },
+    {
+      "title": "Realme TV Stick: толщина два миллиметра",
+      "before": "В описании устройства оказалась толщина 2 мм.",
+      "turn": "Автор признал, что перенёс цифру из описания и не заметил проблему, пообещал правку.",
+      "kind": "numbers",
+      "limit": "Правильное значение этой короткой веткой не установлено; его не достраиваем.",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Спецификация делает приставку тоньше, чем проверка внимательности."
+      },
+      "reaction": "accepts",
+      "id": "FIX-075",
+      "post_id": 8621,
+      "published_at": "2022-02-02 09:01:00",
+      "correction_dates": [
+        "2022-02-02 10:32:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 1063998,
+          "anchor": "xjcz",
+          "commented_at": "2022-02-02 10:32:00",
+          "url": "https://exler.es/expromt/comments/obzor-mediapristavki-realme-4k-google-tv-nbsp-stick.htm#xjcz",
+          "edit_status": "promised_edit",
+          "parent_anchors": [
+            "xjcu",
+            "xjcl",
+            "xjc0"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/expromt/obzor-mediapristavki-realme-4k-google-tv-nbsp-stick.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/expromt/comments/obzor-mediapristavki-realme-4k-google-tv-nbsp-stick.htm#xjcz"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-mediapristavki-realme-4k-google-tv-nbsp-stick.htm#xjcu"
+        },
+        {
+          "role": "author_context",
+          "url": "https://exler.es/expromt/comments/obzor-mediapristavki-realme-4k-google-tv-nbsp-stick.htm#xjcl"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/expromt/comments/obzor-mediapristavki-realme-4k-google-tv-nbsp-stick.htm#xjc0"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "4953913a902a2787403cbdae771828af5aa361bc7cc10073fe7a28e7ac36b125",
+      "live_reply_check": null
+    },
+    {
+      "title": "Фотограф Деку: чужой портрет",
+      "before": "Портрет пожилого человека сопровождал рассказ о фотографе, умершем в 49 лет.",
+      "turn": "После вопроса читателя автор признал, что это другой человек, и сообщил об исправлении.",
+      "kind": "factual",
+      "limit": "Личность человека на ошибочной фотографии здесь не установлена.",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Подпись к фотографии не выдерживает сверки с возрастом героя."
+      },
+      "reaction": "accepts",
+      "id": "FIX-076",
+      "post_id": 8914,
+      "published_at": "2021-12-10 14:04:00",
+      "correction_dates": [
+        "2021-12-10 14:52:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 1100376,
+          "anchor": "wmtw",
+          "commented_at": "2021-12-10 14:52:00",
+          "url": "https://exler.es/blog/comments/tsvetnyye-snimki-rossiyskikh-gorodov-1930-goda.htm#wmtw",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "wmtp"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/blog/tsvetnyye-snimki-rossiyskikh-gorodov-1930-goda.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/blog/comments/tsvetnyye-snimki-rossiyskikh-gorodov-1930-goda.htm#wmtw"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/blog/comments/tsvetnyye-snimki-rossiyskikh-gorodov-1930-goda.htm#wmtp"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "1908ac376b449e39c5664d2e5a20e4287dd11339b6f82cf93f1c35e52b9b1b20",
+      "live_reply_check": null
+    },
+    {
+      "title": "Траволта и Престон: развод вместо смерти супруги",
+      "before": "В подборке о долгих отношениях была неверно указана причина их окончания.",
+      "turn": "Читатель пояснил, что супруги не разводились; автор сослался на ошибочный исходный материал и обещал исправление.",
+      "kind": "factual",
+      "limit": "",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Пересказ чужой подборки нуждается в проверке базового события."
+      },
+      "reaction": "accepts",
+      "id": "FIX-077",
+      "post_id": 9416,
+      "published_at": "2021-08-31 11:00:00",
+      "correction_dates": [
+        "2021-08-31 11:29:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 1163256,
+          "anchor": "uxvz",
+          "commented_at": "2021-08-31 11:29:00",
+          "url": "https://exler.es/blog/comments/zvezdnyy-pary-nakhodyashchiyesya-vmeste-mnogo-let.htm#uxvz",
+          "edit_status": "promised_edit",
+          "parent_anchors": [
+            "uxvj"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/blog/zvezdnyy-pary-nakhodyashchiyesya-vmeste-mnogo-let.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/blog/comments/zvezdnyy-pary-nakhodyashchiyesya-vmeste-mnogo-let.htm#uxvz"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/blog/comments/zvezdnyy-pary-nakhodyashchiyesya-vmeste-mnogo-let.htm#uxvj"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "c13a14630f5cd01e5c4ff0b1dcbd2339c5a0227f4dacd39c5e699a9473b79583",
+      "live_reply_check": null
+    },
+    {
+      "title": "Гибралтар: Средиземное море вместо океана",
+      "before": "В географическом описании море у Гибралтара было смешано с Атлантикой.",
+      "turn": "На уточнение границы автор ответил признанием и подтверждением правки.",
+      "kind": "factual",
+      "limit": "",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Море меняет название без перемещения берега."
+      },
+      "reaction": "accepts",
+      "id": "FIX-078",
+      "post_id": 9139,
+      "published_at": "2021-10-31 15:04:00",
+      "correction_dates": [
+        "2021-10-31 15:25:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 1127752,
+          "anchor": "vy6y",
+          "commented_at": "2021-10-31 15:25:00",
+          "url": "https://exler.es/blog/comments/mer-v-stile-flamenko.htm#vy6y",
+          "edit_status": "author_reports_edit",
+          "parent_anchors": [
+            "vy6o"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/blog/mer-v-stile-flamenko.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/blog/comments/mer-v-stile-flamenko.htm#vy6y"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/blog/comments/mer-v-stile-flamenko.htm#vy6o"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "aa00210e86dc26f12e13d4f7873eac6fc09db5d928df527c03130f3d1afe7b97",
+      "live_reply_check": null
+    },
+    {
+      "title": "Срок хранения: месяц не означает бесконечность",
+      "before": "Результат примерно месячного хранения был обобщён до сколь угодно долгого срока.",
+      "turn": "После замечания читателя автор согласился и обещал изменить формулировку.",
+      "kind": "reasoning",
+      "limit": "Не устанавливаем безопасный срок хранения продукта по этой истории.",
+      "related_failure_ids": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Месячный эксперимент выдаёт себе бессрочный сертификат."
+      },
+      "reaction": "accepts",
+      "id": "FIX-079",
+      "post_id": 8885,
+      "published_at": "2021-12-16 13:05:00",
+      "correction_dates": [
+        "2021-12-16 14:30:00"
+      ],
+      "observations": [
+        {
+          "comment_id": 1097391,
+          "anchor": "wpi9",
+          "commented_at": "2021-12-16 14:30:00",
+          "url": "https://exler.es/blog/comments/obedenno-osetrovoye.htm#wpi9",
+          "edit_status": "promised_edit",
+          "parent_anchors": [
+            "wpi2",
+            "wpi0",
+            "wphw"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "role": "primary_publication",
+          "url": "https://exler.es/blog/obedenno-osetrovoye.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/blog/comments/obedenno-osetrovoye.htm#wpi9"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/blog/comments/obedenno-osetrovoye.htm#wpi2"
+        },
+        {
+          "role": "author_context",
+          "url": "https://exler.es/blog/comments/obedenno-osetrovoye.htm#wpi0"
+        },
+        {
+          "role": "reader_correction",
+          "url": "https://exler.es/blog/comments/obedenno-osetrovoye.htm#wphw"
+        }
+      ],
+      "evidence_type": "direct_observation_of_public_exchange",
+      "original_version_evidence": "Обмен репликами автора и читателя; независимой копии текста до правки нет, если отдельно не указано иное.",
+      "saved_html_sha256": "ce54abb2cce9bc859809beb16c9dabeca7aa2f61c8ea4a45db42175d44323145",
+      "live_reply_check": null
+    }
+  ],
+  "counting_rule": "Один пост с несколькими исправлениями — одна FIX-карточка. Пересечения с FAIL отмечены, суммы разделов не складываются."
+}

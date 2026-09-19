@@ -1,0 +1,1085 @@
+{
+  "checked_at": "2026-09-19",
+  "requests": [
+    {
+      "key": "amazon_lost_return",
+      "requested_url": "https://exler.es/blog/propal-vozvrat-na-amazon.htm",
+      "final_url": "https://exler.es/blog/propal-vozvrat-na-amazon.htm",
+      "http_status": 200,
+      "sha256": "4c3fc8942ac990563d4632b6d90764fd50070e5fb3bcbb94c8d0101677718a47",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "chain_17-dney-bez-stalnogo-druga",
+      "requested_url": "https://exler.es/blog/17-dney-bez-stalnogo-druga.htm",
+      "final_url": "https://exler.es/blog/17-dney-bez-stalnogo-druga.htm",
+      "http_status": 200,
+      "sha256": "b426ab3c3feaf9a96cbd6fd52f894e71a5c271f171d8a7893151e3af7887b4d6",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "chain_borba-s-videokartami",
+      "requested_url": "https://exler.es/blog/borba-s-videokartami.htm",
+      "final_url": "https://exler.es/blog/borba-s-videokartami.htm",
+      "http_status": 200,
+      "sha256": "7bdf7f4149c057c91db41e779962256ab38fecc273e25119211e79b0aa0ea734",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "chain_elektrobritva-panasonic",
+      "requested_url": "https://exler.es/blog/elektrobritva-panasonic.htm",
+      "final_url": "https://exler.es/blog/elektrobritva-panasonic.htm",
+      "http_status": 200,
+      "sha256": "e7d6085cb94e5abc51f152ca1eca1d5855247c371d260347513a02e4b20f3ac7",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "chain_kakuyu-myshku-kupit",
+      "requested_url": "https://exler.es/blog/kakuyu-myshku-kupit.htm",
+      "final_url": "https://exler.es/blog/kakuyu-myshku-kupit.htm",
+      "http_status": 200,
+      "sha256": "4ef50e79fdb55f0b5c3a9fb1c8c5797a463a9389d33cf19d5cb3b42cf708492c",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "chain_kholodilnyye-stradaniya",
+      "requested_url": "https://exler.es/blog/kholodilnyye-stradaniya.htm",
+      "final_url": "https://exler.es/blog/kholodilnyye-stradaniya.htm",
+      "http_status": 200,
+      "sha256": "fe4007957077c624c9a31dcf50ac1e19da524b634abeac1746b981d9ee6cb0c2",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "chain_myshka-zadurila",
+      "requested_url": "https://exler.es/blog/myshka-zadurila.htm",
+      "final_url": "https://exler.es/blog/myshka-zadurila.htm",
+      "http_status": 200,
+      "sha256": "b45de7a91d0bf25184b399a872ec096a823d9e6a7d2757dfca402e0aff41821a",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "chain_naglyadno-o-bluetooth-60",
+      "requested_url": "https://exler.es/blog/naglyadno-o-bluetooth-60.htm",
+      "final_url": "https://exler.es/blog/naglyadno-o-bluetooth-60.htm",
+      "http_status": 200,
+      "sha256": "ae7ecf509bd9e54d0b80eed609eba70c6080a7d40b9b54dabd72f4a22e2b016d",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "chain_nas-qnap-nuzhna-pomoshch-zala",
+      "requested_url": "https://exler.es/blog/nas-qnap-nuzhna-pomoshch-zala.htm",
+      "final_url": "https://exler.es/blog/nas-qnap-nuzhna-pomoshch-zala.htm",
+      "http_status": 200,
+      "sha256": "8176c1cfc24a84c56c04ebd77edd80422ee447c9a360844df71916ff0ef5cbfd",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "chain_paycardlink-obyasneniya",
+      "requested_url": "https://exler.es/blog/paycardlink-obyasneniya.htm",
+      "final_url": "https://exler.es/blog/paycardlink-obyasneniya.htm",
+      "http_status": 200,
+      "sha256": "13dcd0d18e7ddb9c6a0f4865ba212a9c8eb4b796a7581b35a4a9bafc2dea28cc",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "chain_po-povodu-nas-qnap",
+      "requested_url": "https://exler.es/blog/po-povodu-nas-qnap.htm",
+      "final_url": "https://exler.es/blog/po-povodu-nas-qnap.htm",
+      "http_status": 200,
+      "sha256": "f365ba69e1aa01cefe2ab5cd4a8c912d435339f72bc1b2aa51e8c03c8c05b6c4",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "chain_po-povodu-propavshego-vozvrata-na-amazon",
+      "requested_url": "https://exler.es/blog/po-povodu-propavshego-vozvrata-na-amazon.htm",
+      "final_url": "https://exler.es/blog/po-povodu-propavshego-vozvrata-na-amazon.htm",
+      "http_status": 200,
+      "sha256": "ec75b2a1ee29c273e642aac4e96b9fb80af15d526f53ebf953fe222aa6cf8741",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "chain_propal-vozvrat-na-amazon",
+      "requested_url": "https://exler.es/blog/propal-vozvrat-na-amazon.htm",
+      "final_url": "https://exler.es/blog/propal-vozvrat-na-amazon.htm",
+      "http_status": 200,
+      "sha256": "f6d3e2f392ee611e1e4f7d18429de76112877e60eb24827186aca08b13290d30",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "chain_strannyye-problemy-s-nas",
+      "requested_url": "https://exler.es/blog/strannyye-problemy-s-nas.htm",
+      "final_url": "https://exler.es/blog/strannyye-problemy-s-nas.htm",
+      "http_status": 200,
+      "sha256": "3de633f42d1496f5606c96490345dc15b22bf74f494f74e18ce810ccbb03e371",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "chain_tonometr-withings-bpm-connect",
+      "requested_url": "https://exler.es/blog/tonometr-withings-bpm-connect.htm",
+      "final_url": "https://exler.es/blog/tonometr-withings-bpm-connect.htm",
+      "http_status": 200,
+      "sha256": "1192bcbf49c63dcf46ac3a6c1f485918d9bc3788e87bc2e27e45469de5467268",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "chain_umnyye-vesy",
+      "requested_url": "https://exler.es/blog/umnyye-vesy.htm",
+      "final_url": "https://exler.es/blog/umnyye-vesy.htm",
+      "http_status": 200,
+      "sha256": "49f07b55e3272db8720a5ffafe4803ce8aca1aab4af3263ae2abdaf7f66adeb0",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "chain_watch4",
+      "requested_url": "https://exler.es/expromt/obzor-chasov-samsung-galaxy-watch4.htm",
+      "final_url": "https://exler.es/expromt/obzor-chasov-samsung-galaxy-watch4.htm",
+      "http_status": 200,
+      "sha256": "545abfefe4df2035a279071c8ea26bf8289e8566414620555a8781b26d93b54e",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "extra_search_00",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=Galaxy+S8&Search%5BcontentType%5D=blog",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=Galaxy+S8&Search%5BcontentType%5D=blog",
+      "http_status": 200,
+      "sha256": "598e142918e2973f59800a197f6dd06fb2cbd4313025b56014e56d438d39bdbd",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "extra_search_01",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=NSA+220&Search%5BcontentType%5D=blog",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=NSA+220&Search%5BcontentType%5D=blog",
+      "http_status": 200,
+      "sha256": "4df85d822dddbdf209209ae9ec898f1cb118da13df6dced02eea4ec455124abf",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "extra_search_02",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=NSA-220&Search%5BcontentType%5D=blog",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=NSA-220&Search%5BcontentType%5D=blog",
+      "http_status": 200,
+      "sha256": "f29c437ad4e1a0e9494dec8236a14e4dd251f538177ad44a2929506f834de1f3",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "extra_search_03",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=GT+610&Search%5BcontentType%5D=blog",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=GT+610&Search%5BcontentType%5D=blog",
+      "http_status": 200,
+      "sha256": "c4e031e905f3f7f05ab7dc2be2690c8708d645359a42620eb6db44819ce8a627",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "extra_search_04",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=%D1%82%D1%80%D0%B5%D1%81%D0%BD%D1%83%D0%BB+%D1%8D%D0%BA%D1%80%D0%B0%D0%BD&Search%5BcontentType%5D=blog",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D1%82%D1%80%D0%B5%D1%81%D0%BD%D1%83%D0%BB+%D1%8D%D0%BA%D1%80%D0%B0%D0%BD&Search%5BcontentType%5D=blog",
+      "http_status": 200,
+      "sha256": "df374d86afd11b84affc0042fec9ef1c65852cb7052e00df186f53c5df4de61d",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "extra_search_05",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=%D1%80%D0%B0%D0%B7%D0%B1%D0%B8%D0%BB+%D1%8D%D0%BA%D1%80%D0%B0%D0%BD&Search%5BcontentType%5D=blog",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D1%80%D0%B0%D0%B7%D0%B1%D0%B8%D0%BB+%D1%8D%D0%BA%D1%80%D0%B0%D0%BD&Search%5BcontentType%5D=blog",
+      "http_status": 200,
+      "sha256": "537fd3f7e4c115bfe0ed45a96b516b7fb30c359a3ce650ad1477004a2fa04b35",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "extra_search_06",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BA%D0%B2%D0%B8%D1%82%D0%BE%D0%BA+Amazon&Search%5BcontentType%5D=blog",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BA%D0%B2%D0%B8%D1%82%D0%BE%D0%BA+Amazon&Search%5BcontentType%5D=blog",
+      "http_status": 200,
+      "sha256": "d11f0f2072b7dcd7f860eb1ed32f3658e8e2a770bcddc5e27595bc8b510d7f26",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "followup_comments_borba-s-videokartami",
+      "requested_url": "https://exler.es/blog/comments/borba-s-videokartami.htm",
+      "final_url": "https://exler.es/blog/borba-s-videokartami.htm",
+      "http_status": 200,
+      "sha256": "b45ad9345a43ac6808b62a5cd7f8e1eda895b29f588d4d27c2b7cc017faa94c5",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "followup_comments_po-povodu-propavshego-vozvrata-na-amazon",
+      "requested_url": "https://exler.es/blog/comments/po-povodu-propavshego-vozvrata-na-amazon.htm",
+      "final_url": "https://exler.es/blog/po-povodu-propavshego-vozvrata-na-amazon.htm",
+      "http_status": 200,
+      "sha256": "50abb14e1b61ed64426955ae5c10922e31d84870299ed66cba641f306b0cf91b",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "followup_comments_rabotaet-ne-trozh",
+      "requested_url": "https://exler.es/blog/comments/rabotaet-ne-trozh.htm",
+      "final_url": "https://exler.es/blog/rabotaet-ne-trozh.htm",
+      "http_status": 200,
+      "sha256": "eee4c3d6078c66255dcac839153b8e78ec83d12418b9367ab8eb923cef63c261",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "followup_comments_sluhi-o-chrezvychajnoj-hrupkosti-displeev-galaxy-s8",
+      "requested_url": "https://exler.es/blog/comments/sluhi-o-chrezvychajnoj-hrupkosti-displeev-galaxy-s8.htm",
+      "final_url": "https://exler.es/blog/sluhi-o-chrezvychajnoj-hrupkosti-displeev-galaxy-s8.htm",
+      "http_status": 200,
+      "sha256": "cd71d8b8d1a94e08e430c869f63d3ebf7bb12c51cda7758404ca0a4a11aaec2b",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "live_comments_fix-001",
+      "requested_url": "https://exler.es/blog/comments/pochemu-vinnyy-tur-imenno-v-pyemonte.htm",
+      "final_url": "https://exler.es/blog/pochemu-vinnyy-tur-imenno-v-pyemonte.htm",
+      "http_status": 200,
+      "sha256": "07b4217fd1a230ccb5cd9f434ab8eb78a0d1977848c8da2b536f5a653c2de556",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "live_comments_fix-002",
+      "requested_url": "https://exler.es/blog/comments/ispanskoye-igristoye.htm",
+      "final_url": "https://exler.es/blog/ispanskoye-igristoye.htm",
+      "http_status": 200,
+      "sha256": "b9a1c1fdb1284283e8dea72964f447c61f396e61f87997e195607eb0f6c91b9c",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "live_comments_fix-003",
+      "requested_url": "https://exler.es/expromt/comments/obzor-flagmanskogo-smartfona-samsung-galaxy-s24-ultra.htm",
+      "final_url": "https://exler.es/expromt/obzor-flagmanskogo-smartfona-samsung-galaxy-s24-ultra.htm",
+      "http_status": 200,
+      "sha256": "cef2b3446abb841560dc69734fdfcad50cc846c7c1f19fc0d04ff6f86ce04a25",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "live_comments_fix-004",
+      "requested_url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-garmin-fenix-7.htm",
+      "final_url": "https://exler.es/expromt/obzor-umnyh-chasov-garmin-fenix-7.htm",
+      "http_status": 200,
+      "sha256": "808721e1201cbc618a754b75f11c295a2216b4a06d364ab55fd3bee749226b9c",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "live_comments_fix-005",
+      "requested_url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-gt-4.htm",
+      "final_url": "https://exler.es/expromt/obzor-umnyh-chasov-huawei-watch-gt-4.htm",
+      "http_status": 200,
+      "sha256": "8230a5544617f735678c345fd917e49ff9fb502bd22e2cf788044684995fc712",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "live_comments_fix-006",
+      "requested_url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-fit-4-pro.htm",
+      "final_url": "https://exler.es/expromt/obzor-umnyh-chasov-huawei-watch-fit-4-pro.htm",
+      "http_status": 200,
+      "sha256": "18cbd3dc3ac38bbe0a01acd26d34854f925132c214c79d224397bc9baa7b8de1",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "live_comments_fix-007",
+      "requested_url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-gt-6.htm",
+      "final_url": "https://exler.es/expromt/obzor-umnyh-chasov-huawei-watch-gt-6.htm",
+      "http_status": 200,
+      "sha256": "c4b92f3cf153194ae8aa2d9c8b324e4cd8e01031504fd46649830c7252388755",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "live_comments_fix-008",
+      "requested_url": "https://exler.es/expromt/comments/obzor-tws-naushnikov-redmi-buds-4-pro.htm",
+      "final_url": "https://exler.es/expromt/obzor-tws-naushnikov-redmi-buds-4-pro.htm",
+      "http_status": 200,
+      "sha256": "418835ec16999fe7b962b5de29285c35c11c49accac69370aaa873ce720e0ac3",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "live_comments_fix-009",
+      "requested_url": "https://exler.es/expromt/comments/obzor-smartfona-xiaomi-12x-kto-hotel-kompaktnyj-i-moshnyj.htm",
+      "final_url": "https://exler.es/expromt/obzor-smartfona-xiaomi-12x-kto-hotel-kompaktnyj-i-moshnyj.htm",
+      "http_status": 200,
+      "sha256": "ef94ebb993ec68dd4e2f0e2d5893aa48787c79b2c2ca6c83cd8407cb243f4a39",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "live_comments_fix-010",
+      "requested_url": "https://exler.es/expromt/comments/obzor-byudzhetnogo-smartfona-freeyond-m6.htm",
+      "final_url": "https://exler.es/expromt/obzor-byudzhetnogo-smartfona-freeyond-m6.htm",
+      "http_status": 200,
+      "sha256": "9cc8fe339b4ca41880df0ca3e79d5584d1b76de7809e5b59494bc524607f2481",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "live_comments_fix-015",
+      "requested_url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-gt-3.htm",
+      "final_url": "https://exler.es/expromt/obzor-umnyh-chasov-huawei-watch-gt-3.htm",
+      "http_status": 200,
+      "sha256": "f75b8ed6a3d5eaeff03d2b1201f7f2e5e5de607afae2bca04ea586f22271e81a",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "live_comments_fix-016",
+      "requested_url": "https://exler.es/expromt/comments/obzor-byudzhetnogo-noutbuka-s-ekranom-15-6-dere-r9-pro.htm",
+      "final_url": "https://exler.es/expromt/obzor-byudzhetnogo-noutbuka-s-ekranom-15-6-dere-r9-pro.htm",
+      "http_status": 200,
+      "sha256": "2dc6f73bbb82338a7c5046a2302630b33516e581e5b5dfc907a2be207f74fdeb",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "live_comments_fix-025",
+      "requested_url": "https://exler.es/expromt/comments/obzor-tws-naushnikov-apple-airpods-pro-magsafe.htm",
+      "final_url": "https://exler.es/expromt/obzor-tws-naushnikov-apple-airpods-pro-magsafe.htm",
+      "http_status": 200,
+      "sha256": "86320210ab366e74fcb5c56526d45c5824da4ee72efd62299f22385c7ffc003d",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "live_comments_fix-035",
+      "requested_url": "https://exler.es/blog/comments/lesnoy-pazhar-v-malage.htm",
+      "final_url": "https://exler.es/blog/lesnoy-pazhar-v-malage.htm",
+      "http_status": 200,
+      "sha256": "fcc9b4cf8a9662fa8efe66f5df2ccff3ebcfa166cb8bd4af984d138878b23d90",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "live_comments_fix-063",
+      "requested_url": "https://exler.es/expromt/comments/obzor-smartfona-oneplus-nord-2-5g-srednebyudzhetnik-s-opticheskim-stabom.htm",
+      "final_url": "https://exler.es/expromt/obzor-smartfona-oneplus-nord-2-5g-srednebyudzhetnik-s-opticheskim-stabom.htm",
+      "http_status": 200,
+      "sha256": "4045cccae97af7a8c967f13791d8736266adfa72355855284a20b2fd0dfd6df0",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "live_comments_fix-064",
+      "requested_url": "https://exler.es/expromt/comments/obzor-flagmanskogo-smartfona-motorola-edge-20-pro.htm",
+      "final_url": "https://exler.es/expromt/obzor-flagmanskogo-smartfona-motorola-edge-20-pro.htm",
+      "http_status": 200,
+      "sha256": "d8c82b31d5d86a9c99be8a290865c8c53c468eacebee701a5b2ce99cdda8fe41",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "live_comments_fix-066",
+      "requested_url": "https://exler.es/likbez/comments/kak-vdvoem-smotret-televizor-v-besprovodnyh-naushnikah.htm",
+      "final_url": "https://exler.es/likbez/kak-vdvoem-smotret-televizor-v-besprovodnyh-naushnikah.htm",
+      "http_status": 200,
+      "sha256": "69c632163ce256b5b6372c228b309683a53cdac7762f44ce4e1f6c3e26f3c7e1",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "live_comments_fix-067",
+      "requested_url": "https://exler.es/expromt/comments/obzor-miniatyurnogo-cap-usilitelya-dlya-cmartfona-pk-ibasso-audio-dc03.htm",
+      "final_url": "https://exler.es/expromt/obzor-miniatyurnogo-cap-usilitelya-dlya-cmartfona-pk-ibasso-audio-dc03.htm",
+      "http_status": 200,
+      "sha256": "bdb3275043adb1b2778e6ec57e57e164a11ef761d47fcec62683e3353a4ee21a",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "live_comments_fix-068",
+      "requested_url": "https://exler.es/expromt/comments/smartfony-xiaomi-17t-i-17t-pro.htm",
+      "final_url": "https://exler.es/expromt/smartfony-xiaomi-17t-i-17t-pro.htm",
+      "http_status": 200,
+      "sha256": "a4a5fd035edc6740c1ff1b845bc8809095be82de7e454e32563f269a338bb8cc",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "live_comments_fix-069",
+      "requested_url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-fit-5.htm",
+      "final_url": "https://exler.es/expromt/obzor-umnyh-chasov-huawei-watch-fit-5.htm",
+      "http_status": 200,
+      "sha256": "a5a06c4dc8f9731cbde6ae83059146817392c3e38db334d6f869ad517680f03b",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "live_fix-001",
+      "requested_url": "https://exler.es/blog/pochemu-vinnyy-tur-imenno-v-pyemonte.htm",
+      "final_url": "https://exler.es/blog/pochemu-vinnyy-tur-imenno-v-pyemonte.htm",
+      "http_status": 200,
+      "sha256": "fd7607c5b18e0c4febd816292f4f7d08974a7a6f633f8ad19535b0887e50b9dd",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "live_fix-002",
+      "requested_url": "https://exler.es/blog/ispanskoye-igristoye.htm",
+      "final_url": "https://exler.es/blog/ispanskoye-igristoye.htm",
+      "http_status": 200,
+      "sha256": "55b6dab05c7328d5c252bccb6d84bf641f49b19ae5590183bbf4834b48ae786e",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "live_fix-003",
+      "requested_url": "https://exler.es/expromt/obzor-flagmanskogo-smartfona-samsung-galaxy-s24-ultra.htm",
+      "final_url": "https://exler.es/expromt/obzor-flagmanskogo-smartfona-samsung-galaxy-s24-ultra.htm",
+      "http_status": 200,
+      "sha256": "ae3a4fb415b7e08d82367150ad857e744b4b9cd5acd57afc96b387a42f160253",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "live_fix-004",
+      "requested_url": "https://exler.es/expromt/obzor-umnyh-chasov-garmin-fenix-7.htm",
+      "final_url": "https://exler.es/expromt/obzor-umnyh-chasov-garmin-fenix-7.htm",
+      "http_status": 200,
+      "sha256": "d6935ffdf8571d651df0d93097661fef57c559aca612f28f2e66da3b672a7be3",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "live_fix-005",
+      "requested_url": "https://exler.es/expromt/obzor-umnyh-chasov-huawei-watch-gt-4.htm",
+      "final_url": "https://exler.es/expromt/obzor-umnyh-chasov-huawei-watch-gt-4.htm",
+      "http_status": 200,
+      "sha256": "b03cda019ed6650e3362c9e3eaed711f5aad8e6564ed62e08ce3f70f9a2dc5d4",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "live_fix-006",
+      "requested_url": "https://exler.es/expromt/obzor-umnyh-chasov-huawei-watch-fit-4-pro.htm",
+      "final_url": "https://exler.es/expromt/obzor-umnyh-chasov-huawei-watch-fit-4-pro.htm",
+      "http_status": 200,
+      "sha256": "3ad8770ca0e066764001e5ccd122bdc8f1dde836b802b16b8019fce6dcf0e46e",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "live_fix-007",
+      "requested_url": "https://exler.es/expromt/obzor-umnyh-chasov-huawei-watch-gt-6.htm",
+      "final_url": "https://exler.es/expromt/obzor-umnyh-chasov-huawei-watch-gt-6.htm",
+      "http_status": 200,
+      "sha256": "74d47b837c4f2d29abb2f2a51ed17d1da9ad33111adf202c06bb35f578413711",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "live_fix-008",
+      "requested_url": "https://exler.es/expromt/obzor-tws-naushnikov-redmi-buds-4-pro.htm",
+      "final_url": "https://exler.es/expromt/obzor-tws-naushnikov-redmi-buds-4-pro.htm",
+      "http_status": 200,
+      "sha256": "dbf31d6eb92a8e610055e6d4027b2bb0dd4379923de852910dc33f43bb318dbf",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "live_fix-009",
+      "requested_url": "https://exler.es/expromt/obzor-smartfona-xiaomi-12x-kto-hotel-kompaktnyj-i-moshnyj.htm",
+      "final_url": "https://exler.es/expromt/obzor-smartfona-xiaomi-12x-kto-hotel-kompaktnyj-i-moshnyj.htm",
+      "http_status": 200,
+      "sha256": "2e5d5efb6a3a777c35e9c6da02c00455d52baee1bab9cbf546445ac6e437859d",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "live_fix-010",
+      "requested_url": "https://exler.es/expromt/obzor-byudzhetnogo-smartfona-freeyond-m6.htm",
+      "final_url": "https://exler.es/expromt/obzor-byudzhetnogo-smartfona-freeyond-m6.htm",
+      "http_status": 200,
+      "sha256": "68fdd71ef582e22ecf6929320d3a86705dbfd11a0f27acca5f2ea5cdc00a18a8",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "live_fix-015",
+      "requested_url": "https://exler.es/expromt/obzor-umnyh-chasov-huawei-watch-gt-3.htm",
+      "final_url": "https://exler.es/expromt/obzor-umnyh-chasov-huawei-watch-gt-3.htm",
+      "http_status": 200,
+      "sha256": "3a59503429c2fccaf5e4e55417316ce0415ca363987bf93276eaba1b9a923aa2",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "live_fix-016",
+      "requested_url": "https://exler.es/expromt/obzor-byudzhetnogo-noutbuka-s-ekranom-15-6-dere-r9-pro.htm",
+      "final_url": "https://exler.es/expromt/obzor-byudzhetnogo-noutbuka-s-ekranom-15-6-dere-r9-pro.htm",
+      "http_status": 200,
+      "sha256": "f2da0cd8f7f14dfa8677232729dde0304553675729ce5b75a1df0485c2db35b8",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "live_fix-025",
+      "requested_url": "https://exler.es/expromt/obzor-tws-naushnikov-apple-airpods-pro-magsafe.htm",
+      "final_url": "https://exler.es/expromt/obzor-tws-naushnikov-apple-airpods-pro-magsafe.htm",
+      "http_status": 200,
+      "sha256": "e846f752ba2d9aeacfbf487f4dce0da058946741def57f45284eb9b00cb507d4",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "live_fix-035",
+      "requested_url": "https://exler.es/blog/lesnoy-pazhar-v-malage.htm",
+      "final_url": "https://exler.es/blog/lesnoy-pazhar-v-malage.htm",
+      "http_status": 200,
+      "sha256": "6fdab79bb4787429d931d1d0c285a97385168c9eed38b61cb2fc46d2da92fbfe",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "live_fix-063",
+      "requested_url": "https://exler.es/expromt/obzor-smartfona-oneplus-nord-2-5g-srednebyudzhetnik-s-opticheskim-stabom.htm",
+      "final_url": "https://exler.es/expromt/obzor-smartfona-oneplus-nord-2-5g-srednebyudzhetnik-s-opticheskim-stabom.htm",
+      "http_status": 200,
+      "sha256": "0205e8aa6c5d9b15d9acbb6271baf3da5a5bd2123681be90e021578ee82dd01e",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "live_fix-064",
+      "requested_url": "https://exler.es/expromt/obzor-flagmanskogo-smartfona-motorola-edge-20-pro.htm",
+      "final_url": "https://exler.es/expromt/obzor-flagmanskogo-smartfona-motorola-edge-20-pro.htm",
+      "http_status": 200,
+      "sha256": "1df94a332e848f37722c8453735ccbcf790c260b86b4c6ee3c18391154c96d36",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "live_fix-066",
+      "requested_url": "https://exler.es/likbez/kak-vdvoem-smotret-televizor-v-besprovodnyh-naushnikah.htm",
+      "final_url": "https://exler.es/likbez/kak-vdvoem-smotret-televizor-v-besprovodnyh-naushnikah.htm",
+      "http_status": 200,
+      "sha256": "bf7c1dde5def63a859a743894b49e4487d55b27137ae73e5f9b48990c3452897",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "live_fix-067",
+      "requested_url": "https://exler.es/expromt/obzor-miniatyurnogo-cap-usilitelya-dlya-cmartfona-pk-ibasso-audio-dc03.htm",
+      "final_url": "https://exler.es/expromt/obzor-miniatyurnogo-cap-usilitelya-dlya-cmartfona-pk-ibasso-audio-dc03.htm",
+      "http_status": 200,
+      "sha256": "2fc86b26aa9ea92540495250fd42a6acb7c15ca110885127142a3b2fd8355b4d",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "live_fix-068",
+      "requested_url": "https://exler.es/expromt/smartfony-xiaomi-17t-i-17t-pro.htm",
+      "final_url": "https://exler.es/expromt/smartfony-xiaomi-17t-i-17t-pro.htm",
+      "http_status": 200,
+      "sha256": "91f13d10e72c4c457e2c97af04ed641552a7941355b17c4432ad55cb818ab3e6",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "live_fix-069",
+      "requested_url": "https://exler.es/expromt/obzor-umnyh-chasov-huawei-watch-fit-5.htm",
+      "final_url": "https://exler.es/expromt/obzor-umnyh-chasov-huawei-watch-fit-5.htm",
+      "http_status": 200,
+      "sha256": "0277e755c55accb37e5e3dd592c34ab007fd55becf7b3709b9298b29cc7dd65e",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "paycard_explanation",
+      "requested_url": "https://exler.es/blog/paycardlink-obyasneniya.htm",
+      "final_url": "https://exler.es/blog/paycardlink-obyasneniya.htm",
+      "http_status": 200,
+      "sha256": "738284eb069b38e743f0629656c2aca08f2a8c625375ec46ebb6155d9c9b2dc2",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "search_00_1",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=ZyXEL&Search%5BcontentType%5D=blog&page=1",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=ZyXEL&Search%5BcontentType%5D=blog&page=1",
+      "http_status": 200,
+      "sha256": "66eda28effcd03da32ccfa3a45e2129bde071724d8cffb6bc1d936d7fd271c81",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "search_00_2",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=ZyXEL&Search%5BcontentType%5D=blog&page=2",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=ZyXEL&Search%5BcontentType%5D=blog&page=2",
+      "http_status": 200,
+      "sha256": "ecb8bf153f1e94cfa71b822514a325771deccad83b55aacbaca5176e0064d260",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "search_01_1",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=NAS&Search%5BcontentType%5D=blog&page=1",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=NAS&Search%5BcontentType%5D=blog&page=1",
+      "http_status": 200,
+      "sha256": "3405c0fdb95c7c2587104d831bc2ca35170b53e4430db80146200d0e8d68b41f",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "search_01_2",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=NAS&Search%5BcontentType%5D=blog&page=2",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=NAS&Search%5BcontentType%5D=blog&page=2",
+      "http_status": 200,
+      "sha256": "0cae304f0aa928d589efe1021a4e142a89c703616b31c7e656bd07a4948af7e9",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "search_02_1",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=S8%2B&Search%5BcontentType%5D=blog&page=1",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=S8%2B&Search%5BcontentType%5D=blog&page=1",
+      "http_status": 200,
+      "sha256": "bb0b8c6c85356fc1fcc123a038e57c4ee87899d79ac69a4aadf2f79eda85cfc4",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "search_02_2",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=S8%2B&Search%5BcontentType%5D=blog&page=2",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=S8%2B&Search%5BcontentType%5D=blog&page=2",
+      "http_status": 200,
+      "sha256": "1a309220df831a218305331277d13bb50497b91e0a15a4fd75ff707986924102",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "search_03_1",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=S8+%D1%80%D0%B5%D0%BC%D0%BE%D0%BD%D1%82&Search%5BcontentType%5D=blog&page=1",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=S8+%D1%80%D0%B5%D0%BC%D0%BE%D0%BD%D1%82&Search%5BcontentType%5D=blog&page=1",
+      "http_status": 200,
+      "sha256": "c9d3673b03669d5d853a84e152249c1e671c26e2036cdd02826ed64cfc790663",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "search_03_2",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=S8+%D1%80%D0%B5%D0%BC%D0%BE%D0%BD%D1%82&Search%5BcontentType%5D=blog&page=2",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=S8+%D1%80%D0%B5%D0%BC%D0%BE%D0%BD%D1%82&Search%5BcontentType%5D=blog&page=2",
+      "http_status": 200,
+      "sha256": "42dd0d73b7603ae1090b27cef90a2b5284d3fc81b2109d32a1333dc3dda92df5",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "search_04_1",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0&Search%5BcontentType%5D=blog&page=1",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0&Search%5BcontentType%5D=blog&page=1",
+      "http_status": 200,
+      "sha256": "21fa8715e4bd6033a8b0c87addb6cbb1620e9056cc45589e3e6ba22889c283ac",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "search_04_2",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0&Search%5BcontentType%5D=blog&page=2",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE%D0%BA%D0%B0%D1%80%D1%82%D0%B0&Search%5BcontentType%5D=blog&page=2",
+      "http_status": 200,
+      "sha256": "496e1dd9c7880e1ff812d607105c2a73d6f796088090d0ddb513a19ea44ac96b",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "search_05_1",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=GT610&Search%5BcontentType%5D=blog&page=1",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=GT610&Search%5BcontentType%5D=blog&page=1",
+      "http_status": 200,
+      "sha256": "97da42803b76baa0d4a13647d4edc965f9f55d2c11d672f13c3d7f789362efb4",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "search_05_2",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=GT610&Search%5BcontentType%5D=blog&page=2",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=GT610&Search%5BcontentType%5D=blog&page=2",
+      "http_status": 200,
+      "sha256": "e7b1ae7ef8b2845c62b2a098fb15896c623468f1832cbc0b0564cfb9806424a1",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "search_06_1",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BF%D1%80%D0%BE%D0%BF%D0%B0%D0%BB+%D0%B2%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%82&Search%5BcontentType%5D=blog&page=1",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BF%D1%80%D0%BE%D0%BF%D0%B0%D0%BB+%D0%B2%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%82&Search%5BcontentType%5D=blog&page=1",
+      "http_status": 200,
+      "sha256": "ff8788e321a648977ed39a021660b5a168fb5cebf98fe66acb8e67bcfc033b52",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "search_06_2",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BF%D1%80%D0%BE%D0%BF%D0%B0%D0%BB+%D0%B2%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%82&Search%5BcontentType%5D=blog&page=2",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BF%D1%80%D0%BE%D0%BF%D0%B0%D0%BB+%D0%B2%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%82&Search%5BcontentType%5D=blog&page=2",
+      "http_status": 200,
+      "sha256": "8529a40f5c05afdf0d528016c04f5aa46b3551bc7ae11d8d85abffb25715567b",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "search_07_1",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B2%D0%B5%D1%80%D0%BD%D1%83%D0%BB+Amazon&Search%5BcontentType%5D=blog&page=1",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B2%D0%B5%D1%80%D0%BD%D1%83%D0%BB+Amazon&Search%5BcontentType%5D=blog&page=1",
+      "http_status": 200,
+      "sha256": "6b646911a7e7c6e751eb34288390eaab3406b0ac14eac9398acf1c5f8ef70a28",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "search_07_2",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B2%D0%B5%D1%80%D0%BD%D1%83%D0%BB+Amazon&Search%5BcontentType%5D=blog&page=2",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B2%D0%B5%D1%80%D0%BD%D1%83%D0%BB+Amazon&Search%5BcontentType%5D=blog&page=2",
+      "http_status": 200,
+      "sha256": "f849ec58c9a7119696d45b7b275c11dd0455260d84faea823330b1e611928aeb",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "search_08_1",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=Paycard&Search%5BcontentType%5D=blog&page=1",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=Paycard&Search%5BcontentType%5D=blog&page=1",
+      "http_status": 200,
+      "sha256": "e8a4177f9d94fb0ff6a0f353b2bac75d646e359bc1a41b76bd861ebe4ccaddd0",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "search_08_2",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=Paycard&Search%5BcontentType%5D=blog&page=2",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=Paycard&Search%5BcontentType%5D=blog&page=2",
+      "http_status": 200,
+      "sha256": "95266c74c26edd3552f3c7f8e7705aab5754315c7ef9467d65e78fcabe40c8b5",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "search_09_1",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=Omron&Search%5BcontentType%5D=blog&page=1",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=Omron&Search%5BcontentType%5D=blog&page=1",
+      "http_status": 200,
+      "sha256": "ef200a77f2763c4d52c526a5be0dae2945267e3babc91694febbbd44a088fe23",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "search_09_2",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=Omron&Search%5BcontentType%5D=blog&page=2",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=Omron&Search%5BcontentType%5D=blog&page=2",
+      "http_status": 200,
+      "sha256": "8442400abd16174189f06b8d081a7bc3b2615527db0ce88621c58b80c2057a58",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "search_10_1",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=Garmin+Fenix&Search%5BcontentType%5D=blog&page=1",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=Garmin+Fenix&Search%5BcontentType%5D=blog&page=1",
+      "http_status": 200,
+      "sha256": "3afbe6cb005ccfc02d75b9c6d95396be9d92060252bd7c9b87a1be1d49571acb",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "search_10_2",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=Garmin+Fenix&Search%5BcontentType%5D=blog&page=2",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=Garmin+Fenix&Search%5BcontentType%5D=blog&page=2",
+      "http_status": 200,
+      "sha256": "ca4a10690d57aae7925a2d64bafcc660f3951d6c250d0cfa747ba567ed562f30",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "search_11_1",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=Ugreen+X5&Search%5BcontentType%5D=blog&page=1",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=Ugreen+X5&Search%5BcontentType%5D=blog&page=1",
+      "http_status": 200,
+      "sha256": "323fa008fb9b8482ab4031b4a423ed64166c05b913da6e7d5db80b545b2928b7",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "search_11_2",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=Ugreen+X5&Search%5BcontentType%5D=blog&page=2",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=Ugreen+X5&Search%5BcontentType%5D=blog&page=2",
+      "http_status": 200,
+      "sha256": "d92aa896241b1214951f98604d50598023ae8bdeea136a72b09789480d9c1b18",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "search_12_1",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=Zeblaze&Search%5BcontentType%5D=blog&page=1",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=Zeblaze&Search%5BcontentType%5D=blog&page=1",
+      "http_status": 200,
+      "sha256": "98bcbee179215aca0218a509fc479d0cbb9f35495bfda4a9e99c8e7190eeaa21",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "search_12_2",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=Zeblaze&Search%5BcontentType%5D=blog&page=2",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=Zeblaze&Search%5BcontentType%5D=blog&page=2",
+      "http_status": 200,
+      "sha256": "babcdbb9e21cf90803892b3f3a6a6b03bc5e78e63867012ce5b9e8b0a3f5ecaa",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "search_13_1",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B4%D0%B5%D0%BA%D0%B0%D0%BD%D1%82%D0%B5%D1%80&Search%5BcontentType%5D=blog&page=1",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B4%D0%B5%D0%BA%D0%B0%D0%BD%D1%82%D0%B5%D1%80&Search%5BcontentType%5D=blog&page=1",
+      "http_status": 200,
+      "sha256": "2d4289022c8c175e9795e2bd88e5f58cd05ead8a19b697b891850c07b0c83c55",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "search_13_2",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B4%D0%B5%D0%BA%D0%B0%D0%BD%D1%82%D0%B5%D1%80&Search%5BcontentType%5D=blog&page=2",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B4%D0%B5%D0%BA%D0%B0%D0%BD%D1%82%D0%B5%D1%80&Search%5BcontentType%5D=blog&page=2",
+      "http_status": 200,
+      "sha256": "b759bb082ee41512bf4b93b0327edccebb450fa7230c331a2c1e7565c338e571",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "search_14_1",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B1%D1%80%D0%B8%D1%82%D0%B2%D0%B0&Search%5BcontentType%5D=blog&page=1",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B1%D1%80%D0%B8%D1%82%D0%B2%D0%B0&Search%5BcontentType%5D=blog&page=1",
+      "http_status": 200,
+      "sha256": "d1a1ec921fa2a6e494244f6cdb7ac9e315d97cfb492497786d6957dd37f01621",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "search_14_2",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B1%D1%80%D0%B8%D1%82%D0%B2%D0%B0&Search%5BcontentType%5D=blog&page=2",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B1%D1%80%D0%B8%D1%82%D0%B2%D0%B0&Search%5BcontentType%5D=blog&page=2",
+      "http_status": 200,
+      "sha256": "f67dfc45f9b541a6579264407944b10b1bfbc879c000f38c7e097b3f0d729668",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "search_15_1",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D1%83%D0%BC%D0%B0%D0%BB&Search%5BcontentType%5D=blog&page=1",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D1%83%D0%BC%D0%B0%D0%BB&Search%5BcontentType%5D=blog&page=1",
+      "http_status": 200,
+      "sha256": "d042ebeb3d4f7551f55d073f6fb176627c46420cb77f4e77984efb11d12de3a2",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "search_15_2",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D1%83%D0%BC%D0%B0%D0%BB&Search%5BcontentType%5D=blog&page=2",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D1%83%D0%BC%D0%B0%D0%BB&Search%5BcontentType%5D=blog&page=2",
+      "http_status": 200,
+      "sha256": "a54a38038ec7bc05297f95fd92d8af0be226f777f0f62204ed877dfaa5d0b73b",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "search_16_1",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D0%BB%D1%81%D1%8F+%D0%BD%D0%B5%D0%BF%D1%80%D0%B0%D0%B2&Search%5BcontentType%5D=blog&page=1",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D0%BB%D1%81%D1%8F+%D0%BD%D0%B5%D0%BF%D1%80%D0%B0%D0%B2&Search%5BcontentType%5D=blog&page=1",
+      "http_status": 200,
+      "sha256": "aa02e154664c967f88be215167391243a4ebfae3dd20105750bbdd76e5ca875a",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "search_16_2",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D0%BB%D1%81%D1%8F+%D0%BD%D0%B5%D0%BF%D1%80%D0%B0%D0%B2&Search%5BcontentType%5D=blog&page=2",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D0%BB%D1%81%D1%8F+%D0%BD%D0%B5%D0%BF%D1%80%D0%B0%D0%B2&Search%5BcontentType%5D=blog&page=2",
+      "http_status": 200,
+      "sha256": "8806e877ce7b884b2cd786f9d6c509f0c89bf8e91bb789603ed717033d1676f2",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "search_17_1",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BF%D0%BE%D0%B3%D0%BE%D1%80%D1%8F%D1%87%D0%B8%D0%BB%D1%81%D1%8F&Search%5BcontentType%5D=blog&page=1",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BF%D0%BE%D0%B3%D0%BE%D1%80%D1%8F%D1%87%D0%B8%D0%BB%D1%81%D1%8F&Search%5BcontentType%5D=blog&page=1",
+      "http_status": 200,
+      "sha256": "bc0cd8186e4bcea1de322158827641ea5f6c34abbba8e6ad4baeea673829ce23",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "search_17_2",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BF%D0%BE%D0%B3%D0%BE%D1%80%D1%8F%D1%87%D0%B8%D0%BB%D1%81%D1%8F&Search%5BcontentType%5D=blog&page=2",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BF%D0%BE%D0%B3%D0%BE%D1%80%D1%8F%D1%87%D0%B8%D0%BB%D1%81%D1%8F&Search%5BcontentType%5D=blog&page=2",
+      "http_status": 200,
+      "sha256": "97cb6734041faa3893d93517f52fc14f930de159c6af04985d25b88c3f906221",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "search_18_1",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B7%D1%80%D1%8F+%D1%80%D1%83%D0%B3%D0%B0%D0%BB&Search%5BcontentType%5D=blog&page=1",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B7%D1%80%D1%8F+%D1%80%D1%83%D0%B3%D0%B0%D0%BB&Search%5BcontentType%5D=blog&page=1",
+      "http_status": 200,
+      "sha256": "c0d1e77f84a3e080ee94cf9f97e0860ca0339812a9b92e9ffcaae5c86f08c619",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "search_18_2",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B7%D1%80%D1%8F+%D1%80%D1%83%D0%B3%D0%B0%D0%BB&Search%5BcontentType%5D=blog&page=2",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B7%D1%80%D1%8F+%D1%80%D1%83%D0%B3%D0%B0%D0%BB&Search%5BcontentType%5D=blog&page=2",
+      "http_status": 200,
+      "sha256": "0ce5638e675c245fbead10db65f7e0653bce0e5d3f64c33c75d5288e1cf788b6",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "search_19_1",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=%D1%80%D0%B0%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%BB%D1%81%D1%8F&Search%5BcontentType%5D=blog&page=1",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D1%80%D0%B0%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%BB%D1%81%D1%8F&Search%5BcontentType%5D=blog&page=1",
+      "http_status": 200,
+      "sha256": "b2c0d7a92d822805781c4de0f9aade92ff39855d901753818b96a0e7428ea24f",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "search_19_2",
+      "requested_url": "https://exler.es/search/?Search%5Bquery%5D=%D1%80%D0%B0%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%BB%D1%81%D1%8F&Search%5BcontentType%5D=blog&page=2",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D1%80%D0%B0%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%BB%D1%81%D1%8F&Search%5BcontentType%5D=blog&page=2",
+      "http_status": 200,
+      "sha256": "1e4ac2cccfd050ef3f68609bacb73f987371a6f5c148762b3802333f7545684c",
+      "error": null,
+      "purpose": "discovery_only"
+    },
+    {
+      "key": "shaver_elektrobritva-panasonic",
+      "requested_url": "https://exler.es/blog/elektrobritva-panasonic.htm",
+      "final_url": "https://exler.es/blog/elektrobritva-panasonic.htm",
+      "http_status": 200,
+      "sha256": "8b45ebea717b96a9a0e7fefe2ef1e9820cf0ec66f10323cc28328bf467f401be",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "shaver_elektrobritva-rezultaty",
+      "requested_url": "https://exler.es/blog/elektrobritva-rezultaty.htm",
+      "final_url": "https://exler.es/blog/elektrobritva-rezultaty.htm",
+      "http_status": 200,
+      "sha256": "298db463587edf929040603125e61cc336b1d0d6256ef3b412945fc6ffdbabab",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "shaver_elektrobritva-za-43-protiv-elektrobritvy-za-293",
+      "requested_url": "https://exler.es/blog/elektrobritva-za-43-protiv-elektrobritvy-za-293.htm",
+      "final_url": "https://exler.es/blog/elektrobritva-za-43-protiv-elektrobritvy-za-293.htm",
+      "http_status": 200,
+      "sha256": "15a4bb4561d5a44ce0583734cbc5bc7bca76982e1fd788bcbf6d8a2192467651",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "shaver_kosyachok-u-elektrobritvy-xiaomi-mijia-shaver-flex-razor",
+      "requested_url": "https://exler.es/blog/kosyachok-u-elektrobritvy-xiaomi-mijia-shaver-flex-razor.htm",
+      "final_url": "https://exler.es/blog/kosyachok-u-elektrobritvy-xiaomi-mijia-shaver-flex-razor.htm",
+      "http_status": 200,
+      "sha256": "bb1a0ae7a3a0cd6d7646b7f307330b4a17fc86b78c51947d2a63780c5339dbbc",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "shaver_muzhskoe-britvennoe",
+      "requested_url": "https://exler.es/blog/muzhskoe-britvennoe.htm",
+      "final_url": "https://exler.es/blog/muzhskoe-britvennoe.htm",
+      "http_status": 200,
+      "sha256": "abd6be451afd33757657a0cf913fe502944fe0fe70b9e6ae45b845b42623debd",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "shaver_proverka-elektrobritvy-na-prochnost",
+      "requested_url": "https://exler.es/blog/proverka-elektrobritvy-na-prochnost.htm",
+      "final_url": "https://exler.es/blog/proverka-elektrobritvy-na-prochnost.htm",
+      "http_status": 200,
+      "sha256": "60d17ae88a12d2557bdc46c76fff13d07082fb97345c29122465722c1d049c70",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "shaver_test-drayv-ocherednoy-elektrobritvy",
+      "requested_url": "https://exler.es/blog/test-drayv-ocherednoy-elektrobritvy.htm",
+      "final_url": "https://exler.es/blog/test-drayv-ocherednoy-elektrobritvy.htm",
+      "http_status": 200,
+      "sha256": "a820e9f90f56f883d5d83e8253fd3d5ad581d7e610d4f5b5b4eb77e1d75f15e6",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "verified_post_10128",
+      "requested_url": "https://exler.es/blog/naglyadno-o-bluetooth-60.htm",
+      "final_url": "https://exler.es/blog/naglyadno-o-bluetooth-60.htm",
+      "http_status": 200,
+      "sha256": "4b7be57a525e6f614a5e9a7a6edf36766f3c86c10139e066f53b05652b369a00",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "verified_post_3381",
+      "requested_url": "https://exler.es/blog/umnyye-vesy-2.htm",
+      "final_url": "https://exler.es/blog/umnyye-vesy-2.htm",
+      "http_status": 200,
+      "sha256": "d684a52c86bbc7aafb150b85c4fa84e5cb598d7b87f23081f4a7a6d6df9680fd",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "verified_post_6443",
+      "requested_url": "https://exler.es/blog/paycardlink-obyasneniya.htm",
+      "final_url": "https://exler.es/blog/paycardlink-obyasneniya.htm",
+      "http_status": 200,
+      "sha256": "1f02ebf3a53845f0fcaa4fe43d034ac70ad5b73f6d6ba17c61b5fd5c2b962da0",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    },
+    {
+      "key": "verified_post_93",
+      "requested_url": "https://exler.es/blog/myshka-zadurila.htm",
+      "final_url": "https://exler.es/blog/myshka-zadurila.htm",
+      "http_status": 200,
+      "sha256": "ba7bb4d50564ccca076bdc4ecd1fb930e9313017887261fe232d34ce8ffd7a1a",
+      "error": null,
+      "purpose": "article_or_comment_context"
+    }
+  ]
+}

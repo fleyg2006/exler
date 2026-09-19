@@ -1,0 +1,74 @@
+{
+  "checked_at": "2026-09-19",
+  "database": {
+    "post_rows": 10887,
+    "alex_comment_rows": 19662,
+    "all_comment_rows": 1315598,
+    "post_publication_start": "2021-05-19",
+    "post_publication_end": "2026-06-17",
+    "posts_with_fetch_error": 483,
+    "live_stats_rechecked": true,
+    "whole_corpus_read_manually": false
+  },
+  "selection": {
+    "initial_candidate_rows": 411,
+    "additional_candidate_rows": 199,
+    "candidate_rows": 610,
+    "saved_html_posts_checked": 478,
+    "candidate_anchors_found": 610,
+    "missing_candidate_anchors": 0,
+    "own_replies_parsed_in_selected_posts": 4299,
+    "own_replies_with_strict_edit_marker": 362,
+    "curated_cases": 79,
+    "curated_posts": 79,
+    "curated_author_replies": 104,
+    "cases_overlapping_existing_failures": 11,
+    "edit_status_counts_by_reply": {
+      "author_reports_edit": 79,
+      "promised_edit": 24,
+      "acknowledged_correction": 1
+    },
+    "categories_by_case": {
+      "wine_food": 5,
+      "technical": 34,
+      "language": 8,
+      "product_link": 5,
+      "numbers": 8,
+      "factual": 7,
+      "film": 7,
+      "typo": 2,
+      "model_name": 2,
+      "reasoning": 1
+    },
+    "case_date_start": "2021-06-08",
+    "case_date_end": "2026-06-16"
+  },
+  "live_validation": {
+    "cases_checked": 20,
+    "author_replies_checked": 30,
+    "all_selected_reply_bodies_equal_db": true
+  },
+  "additional_research": {
+    "chain_cards": 18,
+    "chain_cards_overlapping_failures": 7,
+    "repeated_patterns": 9,
+    "web_requests": 120,
+    "search_requests": 47,
+    "web_fetch_errors": 0,
+    "cult_saved_comment_keyword_matches": 82,
+    "cult_new_archive_crawl": false
+  },
+  "limits": [
+    "Выборка по словам исправления не оценивает частоту ошибок во всех публикациях.",
+    "478 сохранённых HTML не равны новому скачиванию 478 страниц с текущего сайта.",
+    "Предыдущая редакция обычно реконструирована по переписке; независимой полной копии до правки нет.",
+    "Обещание исправить, сообщение об исправлении и собственная проверка текущего текста различаются.",
+    "114 FAIL, 79 FIX и 18 CHAIN не складываются в число уникальных провалов.",
+    "Модель и физический экземпляр не отождествляются без подтверждения."
+  ],
+  "constraints": {
+    "aliexpress_visited": false,
+    "merchant_links_followed": false,
+    "database_credentials_published": false
+  }
+}

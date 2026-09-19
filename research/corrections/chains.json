@@ -1,0 +1,652 @@
+{
+  "checked_at": "2026-09-19",
+  "counting_rule": "Один сюжет может участвовать в нескольких тематических указателях; это не несколько независимых провалов.",
+  "chains": [
+    {
+      "id": "CHAIN-001",
+      "title": "Paycard: обвинение после смешения разных сервисов",
+      "directions": [
+        "verdicts",
+        "early_blame"
+      ],
+      "stages": [
+        {
+          "publication_date": "2022-11-30",
+          "url": "https://exler.es/blog/paycardlink-obyasneniya.htm",
+          "summary": "В объяснении пересказывает прежнее обвинение в мошенничестве: его насторожили признаки сервиса, а в ссылках он смешал paycard.link с paycard.ru/paycards.ru."
+        },
+        {
+          "publication_date": "2022-11-30",
+          "url": "https://exler.es/blog/paycardlink-obyasneniya.htm",
+          "summary": "После контакта через знакомых и проверки переводов признаёт неправоту и извиняется. Оговаривает, что компанию по-прежнему не знает; утверждает, что это не оплаченная реклама."
+        }
+      ],
+      "outcome": "Публичный отказ от собственного прежнего обвинения.",
+      "limit": "Обе стадии изложены в одном объяснении. Первая публикация отдельно не восстановлена; дата первого обвинения неизвестна. Успешный тест не доказывает общую надёжность финансовой компании.",
+      "evidence_type": "self_report_in_publications",
+      "related_failure_ids": [],
+      "related_chain_ids": [],
+      "money": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Вердикт о сервисе приходится возвращать отправителю: в адресе обвиняемого оказалась другая компания."
+      }
+    },
+    {
+      "id": "CHAIN-002",
+      "title": "MX Anywhere 3S: ворсинка после проверки драйверов",
+      "directions": [
+        "early_blame",
+        "after_purchase"
+      ],
+      "stages": [
+        {
+          "publication_date": "2024-05-05",
+          "url": "https://exler.es/blog/kakuyu-myshku-kupit.htm",
+          "summary": "После проблем с колесом трёхлетней MX Master 3 выбирает замену; в дополнении сообщает о заказе MX Anywhere 3S по обсуждению с читателями."
+        },
+        {
+          "publication_date": "2026-01-10",
+          "url": "https://exler.es/blog/myshka-zadurila.htm",
+          "summary": "Из-за остановок курсора перезагружает компьютер и переставляет USB-адаптер, предполагает проблемы Bluetooth или драйверов. Перевернув мышь, убирает ворсинку у сенсора; работа восстанавливается."
+        },
+        {
+          "publication_date": "2026-05-29",
+          "url": "https://exler.es/blog/naglyadno-o-bluetooth-60.htm",
+          "summary": "По-прежнему пользуется MX Anywhere 3S и хвалит её. Отдельно рассказывает о замене адаптера Bluetooth 5.4 на 6.0 из-за отключений устройств."
+        }
+      ],
+      "outcome": "Январская проблема устранена очисткой сенсора; модель остаётся в использовании в мае.",
+      "limit": "Майская история адаптера — отдельная неисправность. Нельзя задним числом объявлять её причиной ворсинку или приписывать покупку адаптера январскому эпизоду. Одна модель не гарантирует тождественность физического экземпляра.",
+      "evidence_type": "self_report_in_publications",
+      "related_failure_ids": [],
+      "related_chain_ids": [],
+      "money": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Диагностика проходит через операционную систему и радиопротокол, прежде чем мышь наконец переворачивают."
+      }
+    },
+    {
+      "id": "CHAIN-003",
+      "title": "Omron и Withings: замена куплена до проверки на другом телефоне",
+      "directions": [
+        "early_blame",
+        "after_purchase"
+      ],
+      "stages": [
+        {
+          "publication_date": "2021-12-28",
+          "url": "https://exler.es/blog/tonometr-withings-bpm-connect.htm",
+          "summary": "Старый Omron MIT5s Connect перестаёт передавать измерения на смартфон. По рекомендации читателя покупает Withings BPM Connect."
+        },
+        {
+          "publication_date": "2021-12-28",
+          "url": "https://exler.es/blog/tonometr-withings-bpm-connect.htm",
+          "summary": "Withings не соединяется с основным телефоном; с Mi Max 3 работает по Bluetooth, но не по Wi-Fi. Не устраивают и особенности самого прибора; намерен вернуть его."
+        },
+        {
+          "publication_date": "2021-12-28",
+          "url": "https://exler.es/blog/tonometr-withings-bpm-connect.htm",
+          "summary": "В дополнении пробует старый Omron с тем же Mi Max 3: измерения передаются."
+        }
+      ],
+      "outcome": "Способ получать данные старого прибора найден после покупки нового; возврат нового только запланирован.",
+      "limit": "Точная причина несовместимости не установлена. Нельзя объявлять все претензии к Withings ошибочными или считать деньги уже возвращёнными. Здесь нет медицинской оценки точности приборов.",
+      "evidence_type": "self_report_in_publications",
+      "related_failure_ids": [],
+      "related_chain_ids": [],
+      "money": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Два тонометра проходят собеседование на исправность, пока смена телефона не восстанавливает работу первого."
+      }
+    },
+    {
+      "id": "CHAIN-004",
+      "title": "Samsung: ремонт холодильника и последующая замена",
+      "directions": [
+        "after_purchase"
+      ],
+      "stages": [
+        {
+          "publication_date": "2024-09-14",
+          "url": "https://exler.es/blog/17-dney-bez-stalnogo-druga.htm",
+          "summary": "Большой двухдверный холодильник не работает 17 дней. Ремонт с заменой компрессора стоит €280; на время ожидания куплен маленький холодильник за €130. После ремонта большой работает."
+        },
+        {
+          "publication_date": "2024-09-14",
+          "url": "https://exler.es/blog/17-dney-bez-stalnogo-druga.htm",
+          "summary": "Revolut освобождает €280, поскольку продавец не подтвердил платёж вовремя. Автор собирается выяснить оплату; не считает, что ремонт должен стать бесплатным."
+        },
+        {
+          "publication_date": "2025-04-16",
+          "url": "https://exler.es/blog/kholodilnyye-stradaniya.htm",
+          "summary": "Холодильник снова вышел из строя. Автор пишет, что новый компрессор проработал менее полугода; мастер не даёт определённой причины и цены. Куплен другой холодильник за €850, вывоз старого стоит €50."
+        }
+      ],
+      "outcome": "После повторной поломки аппарат заменён; новый работает по сообщению автора.",
+      "limit": "Дата второго происшествия приблизительна и не равна автоматически дате апрельского поста. Не установлен окончательный расчёт за первый ремонт. Модель за €3200 обсуждалась, но не покупалась; маленький холодильник остался полезным.",
+      "evidence_type": "self_report_in_publications",
+      "related_failure_ids": [],
+      "related_chain_ids": [],
+      "money": [
+        {
+          "amount": 280,
+          "currency": "EUR",
+          "role": "repair_invoice_payment_finality_unresolved"
+        },
+        {
+          "amount": 130,
+          "currency": "EUR",
+          "role": "temporary_fridge_purchase_retained"
+        },
+        {
+          "amount": 850,
+          "currency": "EUR",
+          "role": "replacement_fridge_purchase"
+        },
+        {
+          "amount": 50,
+          "currency": "EUR",
+          "role": "old_fridge_removal"
+        }
+      ],
+      "satire": {
+        "type": "satire",
+        "scene": "После экспертного выбора ремонта кухня получает сначала запасной холодильник, затем основной заново."
+      }
+    },
+    {
+      "id": "CHAIN-005",
+      "title": "Amazon 2019: посылка не потерялась, а осталась в пункте",
+      "directions": [
+        "after_purchase"
+      ],
+      "stages": [
+        {
+          "publication_date": "2019-10-07",
+          "url": "https://exler.es/blog/propal-vozvrat-na-amazon.htm",
+          "summary": "Телефон отдан в пункт возвратов, но возврат не отражается в системе; возникает опасение потери отправления."
+        },
+        {
+          "publication_date": "2019-10-10",
+          "url": "https://exler.es/blog/po-povodu-propavshego-vozvrata-na-amazon.htm",
+          "summary": "Выясняется несоответствие выбранной процедуры: распечатана этикетка для курьера вместо сдачи с QR-кодом. Подтверждения приёмки нет. Телефон всё ещё находится в пункте; автор забирает его."
+        },
+        {
+          "publication_date": "2019-10-10",
+          "url": "https://exler.es/blog/po-povodu-propavshego-vozvrata-na-amazon.htm",
+          "summary": "Отменяет и оформляет возврат через почту заново. Первая немедленная попытка сдачи не удаётся: коды ещё не синхронизировались."
+        }
+      ],
+      "outcome": "Телефон найден и возвращён владельцу; окончательное получение денег не подтверждено.",
+      "limit": "Физическое получение телефона обратно — не возврат его цены от Amazon. В просмотренных собственных ответах финального подтверждения выплаты нет.",
+      "evidence_type": "self_report_in_publications",
+      "related_failure_ids": [],
+      "related_chain_ids": [],
+      "money": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Расследование международной потери заканчивается в том же пункте: посылка никуда не уезжала."
+      }
+    },
+    {
+      "id": "CHAIN-006",
+      "title": "QNAP 2020: NAS не запускается, данные читаются с дисков",
+      "directions": [
+        "after_purchase"
+      ],
+      "stages": [
+        {
+          "publication_date": "2020-03-28",
+          "url": "https://exler.es/blog/nas-qnap-nuzhna-pomoshch-zala.htm",
+          "summary": "QNAP TS-453 Pro после четырёх лет круглосуточной работы зависает на загрузке. Первое подозрение — системный диск; диски использовались раздельно, не в RAID."
+        },
+        {
+          "publication_date": "2020-03-29",
+          "url": "https://exler.es/blog/po-povodu-nas-qnap.htm",
+          "summary": "Попытки запуска не помогают, но диски оказываются живыми. Нужные данные извлечены через DiskInternals Reader для Total Commander; заказан новый NAS."
+        }
+      ],
+      "outcome": "Устройство заменяется, нужные данные извлечены.",
+      "limit": "Это QNAP 2020 года, а не ZyXEL с прошивкой из FAIL-099. Переносить удачный исход одной истории на другую нельзя; независимой диагностики платы нет.",
+      "evidence_type": "self_report_in_publications",
+      "related_failure_ids": [],
+      "related_chain_ids": [],
+      "money": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Сетевое хранилище теряет сеть и корпус, зато файлы покидают его через соседнюю программу."
+      }
+    },
+    {
+      "id": "CHAIN-007",
+      "title": "Asustor 2024: восемь лет диску и два новых IronWolf",
+      "directions": [
+        "after_purchase"
+      ],
+      "stages": [
+        {
+          "publication_date": "2024-11-11",
+          "url": "https://exler.es/blog/strannyye-problemy-s-nas.htm",
+          "summary": "В Asustor AS6302T перестаёт определяться 8-ТБ диск, которому автор приписывает около восьми лет непрерывной работы. Второй диск на 3 ТБ читается; рабочие фотографии скопированы."
+        },
+        {
+          "publication_date": "2024-11-11",
+          "url": "https://exler.es/blog/strannyye-problemy-s-nas.htm",
+          "summary": "Сообщает о резервных копиях и покупке двух Seagate IronWolf по 4 ТБ."
+        }
+      ],
+      "outcome": "Принято решение заменить диски; нужные рабочие фотографии скопированы.",
+      "limit": "Отказ старого диска после длительной эксплуатации сам по себе не доказывает неудачную рекомендацию. Полная утрата архива и отдельная неисправность корпуса не установлены.",
+      "evidence_type": "self_report_in_publications",
+      "related_failure_ids": [],
+      "related_chain_ids": [
+        "CHAIN-006"
+      ],
+      "money": [],
+      "satire": {
+        "type": "satire",
+        "scene": "После разговора о странностях NAS на сцену выходят паспортный возраст диска и запасные накопители."
+      }
+    },
+    {
+      "id": "CHAIN-008",
+      "title": "Xiaomi Flex Razor: восторг, индикатор и сообщение о поломке",
+      "directions": [
+        "verdicts",
+        "after_purchase"
+      ],
+      "stages": [
+        {
+          "publication_date": "2018-08-24",
+          "url": "https://exler.es/blog/elektrobritva-za-43-protiv-elektrobritvy-za-293.htm",
+          "summary": "Сравнивает Xiaomi Mijia Shaver Flex Razor примерно за $42 с Philips S9511 за $293 в пользу Xiaomi; допускает дешёвую замену даже при будущей поломке."
+        },
+        {
+          "publication_date": "2018-09-17",
+          "url": "https://exler.es/blog/kosyachok-u-elektrobritvy-xiaomi-mijia-shaver-flex-razor.htm",
+          "summary": "Через три с половиной недели индикатор заряда переходит с белого на красный и бритьё обрывается. Завершает его старой Philips; советует заряжать Xiaomi раз в две-три недели."
+        },
+        {
+          "publication_date": "2020-03-09",
+          "url": "https://exler.es/blog/elektrobritva-panasonic.htm",
+          "summary": "Сообщает, что Flex Razor недавно перестала включаться. Заказал Panasonic ES-LV65 за €115 и доволен бритьём."
+        },
+        {
+          "publication_date": "2020-10-15",
+          "url": "https://exler.es/blog/test-drayv-ocherednoy-elektrobritvy.htm",
+          "summary": "Пробует другую Xiaomi Mijia с USB-C примерно за $37. После недели использования хвалит результат, но прямо отказывается пока судить о долговечности."
+        }
+      ],
+      "outcome": "Для модели Flex Razor есть позднее сообщение о прекращении работы; дальнейшие покупки относятся к другим моделям.",
+      "limit": "Разряд 2018 года не равен окончательной поломке. Не доказано, что все упоминания Flex Razor относятся к одному физическому экземпляру. В октябре 2020-го долговечность сознательно оставлена открытой — это важная оговорка самого автора.",
+      "evidence_type": "self_report_in_publications",
+      "related_failure_ids": [],
+      "related_chain_ids": [
+        "CHAIN-009"
+      ],
+      "money": [
+        {
+          "amount": 42,
+          "currency": "USD",
+          "role": "published_xiaomi_price_approximate"
+        },
+        {
+          "amount": 293,
+          "currency": "USD",
+          "role": "comparison_philips_price_not_proven_payment"
+        },
+        {
+          "amount": 115,
+          "currency": "EUR",
+          "role": "panasonic_purchase_reported"
+        }
+      ],
+      "satire": {
+        "type": "satire",
+        "scene": "Бритва выигрывает сравнительный обзор, но закончить бритьё приглашает проигравшую Philips."
+      }
+    },
+    {
+      "id": "CHAIN-009",
+      "title": "Philips S9511: образец от производителя и роль запасной бритвы",
+      "directions": [
+        "after_purchase"
+      ],
+      "stages": [
+        {
+          "publication_date": "2015-01-20",
+          "url": "https://exler.es/blog/muzhskoe-britvennoe.htm",
+          "summary": "После знакомства на IFA производитель прислал S9511 с условием двухнедельной проверки. Автор начинает тест и делится положительными впечатлениями."
+        },
+        {
+          "publication_date": "2015-02-26",
+          "url": "https://exler.es/blog/elektrobritva-rezultaty.htm",
+          "summary": "Публикует положительный результат использования; продолжает бриться устройством."
+        },
+        {
+          "publication_date": "2018-08-24",
+          "url": "https://exler.es/blog/elektrobritva-za-43-protiv-elektrobritvy-za-293.htm",
+          "summary": "Philips всё ещё у него; пишет о ежегодной смене головки. Новая Xiaomi, по его оценке, бреет лучше."
+        },
+        {
+          "publication_date": "2018-09-17",
+          "url": "https://exler.es/blog/kosyachok-u-elektrobritvy-xiaomi-mijia-shaver-flex-razor.htm",
+          "summary": "Старая Philips помогает закончить бритьё после разряда Xiaomi."
+        }
+      ],
+      "outcome": "Есть подтверждённая авторскими сообщениями многолетняя судьба модели и полезная роль запасного прибора.",
+      "limit": "Это изначально предоставленный производителем образец. Цену из сравнения нельзя записывать как личный расход Экслера. История не подтверждает поломку Philips.",
+      "evidence_type": "self_report_in_publications",
+      "related_failure_ids": [],
+      "related_chain_ids": [
+        "CHAIN-008"
+      ],
+      "money": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Бритва, проигравшая по итогам обзора, получает вне конкурса награду за завершённое бритьё."
+      }
+    },
+    {
+      "id": "CHAIN-010",
+      "title": "Galaxy Watch4: мнение изменилось за две недели знакомства",
+      "directions": [
+        "verdicts"
+      ],
+      "stages": [
+        {
+          "publication_date": "2022-03-22",
+          "url": "https://exler.es/expromt/obzor-chasov-samsung-galaxy-watch4.htm",
+          "summary": "В итоговом обзоре вспоминает первоначальное недовольство: не разобрался с приложением тренировок и настройкой кнопок."
+        },
+        {
+          "publication_date": "2022-03-22",
+          "url": "https://exler.es/expromt/obzor-chasov-samsung-galaxy-watch4.htm",
+          "summary": "После двух недель использования и освоения функций меняет оценку на положительную; считает набор возможностей за указанную цену привлекательным."
+        }
+      ],
+      "outcome": "Зафиксирован пересмотр первого впечатления по мере освоения устройства.",
+      "limit": "Оба этапа описаны внутри одного итогового обзора. Доказательств, что первый отрицательный вердикт был отдельно опубликован, здесь нет. Это также пример нормальной проверки впечатления временем.",
+      "evidence_type": "self_report_in_publications",
+      "related_failure_ids": [],
+      "related_chain_ids": [],
+      "money": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Список недостатков сокращается одновременно с ростом знакомства с меню."
+      }
+    },
+    {
+      "id": "CHAIN-011",
+      "title": "Omron Karada Scan: ожидаемые удобства выясняются после покупки",
+      "directions": [
+        "after_purchase"
+      ],
+      "stages": [
+        {
+          "publication_date": "2024-05-31",
+          "url": "https://exler.es/blog/umnyye-vesy-2.htm",
+          "summary": "Не устраивают колебания показаний Xiaomi Mi Body Composition Scale 2 дешевле €30; покупает Omron Karada Scan за €93 вместо указанной обычной цены €125."
+        },
+        {
+          "publication_date": "2024-05-31",
+          "url": "https://exler.es/blog/umnyye-vesy-2.htm",
+          "summary": "После двух дней не нравятся включение кнопкой, отображение результатов, небольшое табло и отсутствие нужного приложения. Собирается вернуть весы."
+        }
+      ],
+      "outcome": "Покупка не совпала с ожиданиями; опубликовано намерение возврата.",
+      "limit": "Фактическая выплата и окончательная судьба прибора не установлены. Точность медицинских или телесных измерений по этому рассказу не оцениваем.",
+      "evidence_type": "self_report_in_publications",
+      "related_failure_ids": [],
+      "related_chain_ids": [],
+      "money": [
+        {
+          "amount": 93,
+          "currency": "EUR",
+          "role": "purchase_price"
+        },
+        {
+          "amount": 125,
+          "currency": "EUR",
+          "role": "listed_regular_price_not_paid"
+        }
+      ],
+      "satire": {
+        "type": "satire",
+        "scene": "Более серьёзные весы попадают на возврат за недостаток привычных бытовых удобств."
+      }
+    },
+    {
+      "id": "CHAIN-012",
+      "title": "OLED-телевизор вместо монитора: обратный переход",
+      "directions": [
+        "verdicts",
+        "after_purchase"
+      ],
+      "stages": [
+        {
+          "publication_date": "2025-07-18",
+          "url": "https://exler.es/blog/vozvrat-k-monitoru.htm",
+          "summary": "Вспоминает примерно три с половиной года использования OLED-телевизора как монитора. Возникают отключения изображения по HDMI."
+        },
+        {
+          "publication_date": "2025-07-18",
+          "url": "https://exler.es/blog/vozvrat-k-monitoru.htm",
+          "summary": "Переходит обратно на компьютерный монитор Samsung Odyssey G55C и описывает результат."
+        }
+      ],
+      "outcome": "Решение сменилось после длительного использования и технических проблем.",
+      "limit": "Исходная покупка и начало эксплуатации датированы ретроспективно. Нельзя превращать смену устройства после нескольких лет в отказ на следующий день.",
+      "evidence_type": "self_report_in_publications",
+      "related_failure_ids": [
+        "FAIL-012"
+      ],
+      "related_chain_ids": [],
+      "money": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Телевизор несколько лет исполняет обязанности монитора, после чего должность снова занимает монитор."
+      }
+    },
+    {
+      "id": "CHAIN-013",
+      "title": "Воздуходувка: слабый экземпляр и вывод о целом классе",
+      "directions": [
+        "verdicts",
+        "early_blame"
+      ],
+      "stages": [
+        {
+          "publication_date": "2024-12-16",
+          "url": "https://exler.es/blog/kak-nepravilno-ya-zhil-vse-vremya-do-etogo.htm",
+          "summary": "Описывает прежний неудачный опыт слабой воздуходувки и своё недоверие к пользе подобных устройств."
+        },
+        {
+          "publication_date": "2024-12-16",
+          "url": "https://exler.es/blog/kak-nepravilno-ya-zhil-vse-vremya-do-etogo.htm",
+          "summary": "Более мощная модель оказывается полезной; автор пересматривает прежнее обобщение."
+        }
+      ],
+      "outcome": "Оценка категории меняется после опыта с другим устройством.",
+      "limit": "Это сравнение разных моделей. Улучшение результата не означает, что прежняя конкретная модель была исправна или использовалась неверно.",
+      "evidence_type": "self_report_in_publications",
+      "related_failure_ids": [
+        "FAIL-013"
+      ],
+      "related_chain_ids": [],
+      "money": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Репутацию целого класса техники сначала поручают одному слабому вентилятору, затем пересматривают состав комиссии."
+      }
+    },
+    {
+      "id": "CHAIN-014",
+      "title": "Leagoo: обвинение после одного способа измерения",
+      "directions": [
+        "verdicts",
+        "early_blame"
+      ],
+      "stages": [
+        {
+          "publication_date": "2016-04-21",
+          "url": "https://exler.es/blog/duryat-nashego-brata.htm",
+          "summary": "Получает при своей процедуре около 3800 против заявленных 6300 и резко оценивает заявленную ёмкость аккумулятора."
+        },
+        {
+          "publication_date": "2016-04-21",
+          "url": "https://exler.es/blog/duryat-nashego-brata.htm",
+          "summary": "Дополнительная проверка при более медленной зарядке даёт около 6000; добавляет уточнение к первоначальному обвинению."
+        }
+      ],
+      "outcome": "Собственный повторный опыт ослабил первоначальное обвинение.",
+      "limit": "Показания USB-измерителя при разных режимах не являются независимой лабораторной проверкой паспортной ёмкости. Не приписываем ему установленный денежный ущерб.",
+      "evidence_type": "self_report_in_publications",
+      "related_failure_ids": [
+        "FAIL-066"
+      ],
+      "related_chain_ids": [],
+      "money": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Производителя успевают вывести на чистую воду до смены режима зарядки."
+      }
+    },
+    {
+      "id": "CHAIN-015",
+      "title": "Фотохромные очки: московский вердикт и испанский свет",
+      "directions": [
+        "verdicts",
+        "early_blame"
+      ],
+      "stages": [
+        {
+          "publication_date": "2013-03-12",
+          "url": "https://exler.es/blog/nastoyashie-hameleony.htm",
+          "summary": "Вспоминает, что в Москве очки почти не темнели и он счёл покупку обманом."
+        },
+        {
+          "publication_date": "2013-03-12",
+          "url": "https://exler.es/blog/nastoyashie-hameleony.htm",
+          "summary": "В Испании наблюдает выраженное затемнение и меняет мнение о покупке."
+        }
+      ],
+      "outcome": "По сообщению владельца очки выполняют ожидаемую функцию в других условиях.",
+      "limit": "Не установлены сопоставимость температуры, освещения и положение за стеклом в обоих опытах. Рассказ не заменяет объяснение физической причины.",
+      "evidence_type": "self_report_in_publications",
+      "related_failure_ids": [
+        "FAIL-067"
+      ],
+      "related_chain_ids": [],
+      "money": [],
+      "satire": {
+        "type": "satire",
+        "scene": "В деле об обмане меняются не очки, а место проведения следственного эксперимента."
+      }
+    },
+    {
+      "id": "CHAIN-016",
+      "title": "Шведские €12: знак операции меняет всю историю",
+      "directions": [
+        "verdicts",
+        "early_blame"
+      ],
+      "stages": [
+        {
+          "publication_date": "2013-06-18",
+          "url": "https://exler.es/blog/shvedskie-denezhnye-strannosti.htm",
+          "summary": "Принимает банковскую операцию примерно на €12 за новое необъяснимое списание."
+        },
+        {
+          "publication_date": "2013-06-18",
+          "url": "https://exler.es/blog/shvedskie-denezhnye-strannosti.htm",
+          "summary": "Уточняет, что это возврат €12,02, и исправляет смысл истории."
+        }
+      ],
+      "outcome": "Подозрительная потеря оказалась возвратом средств.",
+      "limit": "Не складываем возвращённую сумму с убытками. Карточка фиксирует его прочтение операции, а не неправомерность банка.",
+      "evidence_type": "self_report_in_publications",
+      "related_failure_ids": [
+        "FAIL-068"
+      ],
+      "related_chain_ids": [],
+      "money": [
+        {
+          "amount": 12.02,
+          "currency": "EUR",
+          "role": "refund_not_loss"
+        }
+      ],
+      "satire": {
+        "type": "satire",
+        "scene": "Банк прекращает выглядеть подозрительным после прочтения знака перед суммой."
+      }
+    },
+    {
+      "id": "CHAIN-017",
+      "title": "Немецкий магазин: возврат после обнаружения управления заказом",
+      "directions": [
+        "verdicts",
+        "early_blame"
+      ],
+      "stages": [
+        {
+          "publication_date": "2013-03-24",
+          "url": "https://exler.es/blog/chertovy-nemcy.htm",
+          "summary": "После оплаты выясняется ожидание клавиатуры; не находит удобного способа убрать её и резко ругает магазин."
+        },
+        {
+          "publication_date": "2013-03-24",
+          "url": "https://exler.es/blog/chertovy-nemcy.htm",
+          "summary": "Обнаруживает удаление позиции из заказа. По его сообщению деньги приходят через PayPal примерно за час."
+        }
+      ],
+      "outcome": "Удаление и возврат выполнены после обнаружения нужного действия.",
+      "limit": "Наличие кнопки не доказывает, что исходная информация о наличии товара была безупречной. Оба обстоятельства сохраняем.",
+      "evidence_type": "self_report_in_publications",
+      "related_failure_ids": [
+        "FAIL-090"
+      ],
+      "related_chain_ids": [],
+      "money": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Международная претензия к торговле сужается до местонахождения кнопки."
+      }
+    },
+    {
+      "id": "CHAIN-018",
+      "title": "Свитч: причина в перепутанных цветах проводов",
+      "directions": [
+        "early_blame"
+      ],
+      "stages": [
+        {
+          "publication_date": "2012-11-20",
+          "url": "https://exler.es/blog/strannye-problemy-so-svitchem-mozhet-kto-podskazhet.htm",
+          "summary": "Ищет причину нестабильного соединения в работе свитча и просит помощи."
+        },
+        {
+          "publication_date": "2012-11-20",
+          "url": "https://exler.es/blog/strannye-problemy-so-svitchem-mozhet-kto-podskazhet.htm",
+          "summary": "Обнаруживает ошибку обжима: перепутаны бело-синяя и бело-зелёная жилы. После исправления соединение работает."
+        }
+      ],
+      "outcome": "Свитч перестаёт быть объяснением после исправления кабеля.",
+      "limit": "Это конкретная установленная самим автором ошибка сборки, а не вывод о его технической компетентности вообще.",
+      "evidence_type": "self_report_in_publications",
+      "related_failure_ids": [
+        "FAIL-096"
+      ],
+      "related_chain_ids": [],
+      "money": [],
+      "satire": {
+        "type": "satire",
+        "scene": "Сетевое оборудование проходит допрос, пока два цвета не меняются местами."
+      }
+    }
+  ]
+}

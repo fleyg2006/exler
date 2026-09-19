@@ -1,0 +1,4307 @@
+{
+  "hash_representation": "UTF-8 encoding of saved exler_posts.html",
+  "pages": [
+    {
+      "post_id": 22,
+      "url": "https://exler.es/blog/diskoburbulyator.htm",
+      "fetched_at": "2026-01-29 15:42:43",
+      "html_sha256": "27609f9d42b052c5e50d014aea29e9d3ab0aaa6f2067cfa31274b7d75575f15a",
+      "html_chars": 261949,
+      "parsed_comments": 67,
+      "read_at": "2026-09-19T09:36:10.813819+00:00"
+    },
+    {
+      "post_id": 94,
+      "url": "https://exler.es/blog/vladimir-milov-o-leonide-volkove.htm",
+      "fetched_at": "2026-01-29 15:43:25",
+      "html_sha256": "1809af2d6d4930084b25b51723fef8927b59b128c79f1785dcf9aeeb4ea3da0e",
+      "html_chars": 395964,
+      "parsed_comments": 110,
+      "read_at": "2026-09-19T09:45:59.536288+00:00"
+    },
+    {
+      "post_id": 108,
+      "url": "https://exler.es/films/grabitel-s-kryshi.htm",
+      "fetched_at": "2026-01-29 15:43:33",
+      "html_sha256": "f705c70a2ebc641d8506a17af51aabe03d7ac375ce23f70f4995ab8c0f79a579",
+      "html_chars": 264431,
+      "parsed_comments": 34,
+      "read_at": "2026-09-19T09:36:09.946216+00:00"
+    },
+    {
+      "post_id": 131,
+      "url": "https://exler.es/films/odna-iz-mnogih.htm",
+      "fetched_at": "2026-01-29 15:43:48",
+      "html_sha256": "ea6958be2e39105c44a0f11202618930b6334cd0c310648baf34fdd010399b67",
+      "html_chars": 1172500,
+      "parsed_comments": 371,
+      "read_at": "2026-09-19T09:36:10.159935+00:00"
+    },
+    {
+      "post_id": 162,
+      "url": "https://exler.es/blog/teplaya-lampovaya-rozhdestvenskaya-reklama.htm",
+      "fetched_at": "2026-01-29 15:44:05",
+      "html_sha256": "096e45f9599913302e3f323de8e8720168456886a83e1dba25a5bc81f5f9fd7b",
+      "html_chars": 489352,
+      "parsed_comments": 153,
+      "read_at": "2026-09-19T09:45:59.197626+00:00"
+    },
+    {
+      "post_id": 171,
+      "url": "https://exler.es/films/avatar-plamya-i-pepel.htm",
+      "fetched_at": "2026-01-29 15:44:10",
+      "html_sha256": "aa88562383a085f2c570a12340a2c4f6cba16ca0646107cb37a1af51fcd677e6",
+      "html_chars": 572134,
+      "parsed_comments": 151,
+      "read_at": "2026-09-19T09:36:09.990033+00:00"
+    },
+    {
+      "post_id": 194,
+      "url": "https://exler.es/blog/s-rozhdestvom-3.htm",
+      "fetched_at": "2026-01-29 15:44:22",
+      "html_sha256": "947fe226d15f4c92b12e5738889ff53845ace64853894541d9ce1805e429494b",
+      "html_chars": 432676,
+      "parsed_comments": 130,
+      "read_at": "2026-09-19T09:45:59.287193+00:00"
+    },
+    {
+      "post_id": 196,
+      "url": "https://exler.es/blog/rasstrelyali-menya-synok-s.htm",
+      "fetched_at": "2026-01-29 15:44:23",
+      "html_sha256": "2786e174bd383c0cea8f62af9bdebaa76f5fd764e23f4d863812eb8d20b2c9ae",
+      "html_chars": 225487,
+      "parsed_comments": 51,
+      "read_at": "2026-09-19T09:36:18.312514+00:00"
+    },
+    {
+      "post_id": 197,
+      "url": "https://exler.es/blog/pryam-po-staromu-anekdotu.htm",
+      "fetched_at": "2026-01-29 15:44:23",
+      "html_sha256": "8f6c74078443110e50cdce4a26253efa4b39af63ef699eadeeed8728c3a5aace",
+      "html_chars": 295485,
+      "parsed_comments": 79,
+      "read_at": "2026-09-19T09:36:18.275397+00:00"
+    },
+    {
+      "post_id": 234,
+      "url": "https://exler.es/blog/razdelegirovaniye-domenov-v-zone-ru.htm",
+      "fetched_at": "2026-01-29 15:44:44",
+      "html_sha256": "c03bfb4cd533afecbff4d786d9bf8592df80a6669feadf7de58ed5823d950fc5",
+      "html_chars": 420521,
+      "parsed_comments": 127,
+      "read_at": "2026-09-19T09:36:18.357613+00:00"
+    },
+    {
+      "post_id": 251,
+      "url": "https://exler.es/blog/exlerru-teper-stanovitsya-exleres.htm",
+      "fetched_at": "2026-01-29 15:44:54",
+      "html_sha256": "02a7d8f806e76f1b95e4d6f4712f6f60feb24cb1aa886f23786e063006a48b70",
+      "html_chars": 313563,
+      "parsed_comments": 90,
+      "read_at": "2026-09-19T09:36:18.333705+00:00"
+    },
+    {
+      "post_id": 276,
+      "url": "https://exler.es/films/dzhej-kelli.htm",
+      "fetched_at": "2026-01-29 15:45:08",
+      "html_sha256": "aad7118beb7f53ac8103911e03d68529d2751657670bb5b7a0713fb3e1f9f44c",
+      "html_chars": 254545,
+      "parsed_comments": 23,
+      "read_at": "2026-09-19T09:36:28.111059+00:00"
+    },
+    {
+      "post_id": 282,
+      "url": "https://exler.es/blog/interesnaya-statistika-5.htm",
+      "fetched_at": "2026-01-29 15:45:11",
+      "html_sha256": "8057dfadc3c9e73e7dc0d071061587920470a97c677d969de4f770850fc57881",
+      "html_chars": 372030,
+      "parsed_comments": 111,
+      "read_at": "2026-09-19T09:36:28.581983+00:00"
+    },
+    {
+      "post_id": 315,
+      "url": "https://exler.es/blog/krizis-avtomobilnogo-podrazdeleniya-bosh.htm",
+      "fetched_at": "2026-01-29 15:45:28",
+      "html_sha256": "7b7ef8b0f8b90d513a874ee2681ef02d3ad2e59338816a48edbde33db3be4674",
+      "html_chars": 1255045,
+      "parsed_comments": 422,
+      "read_at": "2026-09-19T09:36:28.568833+00:00"
+    },
+    {
+      "post_id": 326,
+      "url": "https://exler.es/blog/tvorcheskoye-razvitiye.htm",
+      "fetched_at": "2026-01-29 15:45:34",
+      "html_sha256": "84be3a5c2149b53d95e81fd9063f49770ba01bd6c156f1ab7f53a5bb1807bacf",
+      "html_chars": 546412,
+      "parsed_comments": 172,
+      "read_at": "2026-09-19T09:36:28.175833+00:00"
+    },
+    {
+      "post_id": 360,
+      "url": "https://exler.es/expromt/obzor-umnyh-chasov-huawei-watch-gt-6.htm",
+      "fetched_at": "2026-01-29 15:45:54",
+      "html_sha256": "dfb4a3dcf06b4edace9a0eb4fb1986a4e663ffc645aff5188a74514be9161f14",
+      "html_chars": 219630,
+      "parsed_comments": 55,
+      "read_at": "2026-09-19T09:36:37.095336+00:00"
+    },
+    {
+      "post_id": 436,
+      "url": "https://exler.es/films/bolshoe-smeloe-krasivoe-puteshestvie.htm",
+      "fetched_at": "2026-01-29 15:46:36",
+      "html_sha256": "82f0ce2dc67382a319cfce914eb6706b78662838cc2230e6b65f3147a02b5017",
+      "html_chars": 287061,
+      "parsed_comments": 40,
+      "read_at": "2026-09-19T09:36:37.360304+00:00"
+    },
+    {
+      "post_id": 488,
+      "url": "https://exler.es/blog/foto-na-dokument.htm",
+      "fetched_at": "2026-01-29 15:47:05",
+      "html_sha256": "320f2bc7b3e502c0fe3d6ea5ca62cf2192f8955b9c48611efa121536397f4dff",
+      "html_chars": 477408,
+      "parsed_comments": 154,
+      "read_at": "2026-09-19T09:36:37.307282+00:00"
+    },
+    {
+      "post_id": 519,
+      "url": "https://exler.es/films/suprugi-rouz.htm",
+      "fetched_at": "2026-01-29 15:47:21",
+      "html_sha256": "17fe3437f11e10e428e503859e049f7974374eb7da4500ea9bec3e5a2dfabd6c",
+      "html_chars": 320705,
+      "parsed_comments": 50,
+      "read_at": "2026-09-19T09:36:37.433540+00:00"
+    },
+    {
+      "post_id": 527,
+      "url": "https://exler.es/expromt/obzor-smartfona-iphone-17-pro-max.htm",
+      "fetched_at": "2026-01-29 15:47:26",
+      "html_sha256": "576b80c8bf4f5c16843a17a0f6ac934c4a72a9919504de843a0880047a6b40cf",
+      "html_chars": 416108,
+      "parsed_comments": 126,
+      "read_at": "2026-09-19T09:36:45.047808+00:00"
+    },
+    {
+      "post_id": 566,
+      "url": "https://exler.es/blog/vek-zhivi-vek-uchis-4.htm",
+      "fetched_at": "2026-01-29 15:47:47",
+      "html_sha256": "0a7a892617692bde776dfb6895593a15b2d0627919489ab7a4973ca3fbbf6afc",
+      "html_chars": 142404,
+      "parsed_comments": 22,
+      "read_at": "2026-09-19T09:36:37.325683+00:00"
+    },
+    {
+      "post_id": 572,
+      "url": "https://exler.es/blog/iphone-17-pro-max.htm",
+      "fetched_at": "2026-01-29 15:47:50",
+      "html_sha256": "df4cf5268c52be973193a510c293eebbb966f07b313aefc62e6f04d7f47487f0",
+      "html_chars": 325725,
+      "parsed_comments": 93,
+      "read_at": "2026-09-19T09:36:45.154575+00:00"
+    },
+    {
+      "post_id": 575,
+      "url": "https://exler.es/expromt/obzor-umnyh-chasov-samsung-galaxy-watch-ultra.htm",
+      "fetched_at": "2026-01-29 15:47:52",
+      "html_sha256": "f3e1525f47d4c179093dc3c79a74150e7126b002b9ba7d781f70e56c4e8e35a1",
+      "html_chars": 273686,
+      "parsed_comments": 76,
+      "read_at": "2026-09-19T09:36:45.212908+00:00"
+    },
+    {
+      "post_id": 578,
+      "url": "https://exler.es/blog/smartfony-vivo-x300-i-x300-pro.htm",
+      "fetched_at": "2026-01-29 15:47:53",
+      "html_sha256": "436c8cb1230aa5546c105122f87c1a5f20763e5642b2edbd765d8e7c101c4248",
+      "html_chars": 355143,
+      "parsed_comments": 96,
+      "read_at": "2026-09-19T09:46:09.177246+00:00"
+    },
+    {
+      "post_id": 614,
+      "url": "https://exler.es/likbez/chto-nuzhno-znat-o-vneshnih-akkumulyatorah.htm",
+      "fetched_at": "2026-01-29 15:48:13",
+      "html_sha256": "87f0feef33efd928eaf3cbeae6e983a46852f7ab7d282c5658ae7d50710502a2",
+      "html_chars": 371643,
+      "parsed_comments": 126,
+      "read_at": "2026-09-19T09:36:45.182261+00:00"
+    },
+    {
+      "post_id": 620,
+      "url": "https://exler.es/blog/mayetsya-prilepin.htm",
+      "fetched_at": "2026-01-29 15:48:16",
+      "html_sha256": "6a06143503316a66f95e867b61a1493eec1f71a460275ffffb853e5b723c1963",
+      "html_chars": 242032,
+      "parsed_comments": 57,
+      "read_at": "2026-09-19T09:36:51.738309+00:00"
+    },
+    {
+      "post_id": 653,
+      "url": "https://exler.es/films/kod-3.htm",
+      "fetched_at": "2026-01-29 15:48:33",
+      "html_sha256": "91716f33d732311488dd71d7c8b411e913a85ab21bdd042f6071e558b63a5299",
+      "html_chars": 381092,
+      "parsed_comments": 79,
+      "read_at": "2026-09-19T09:36:52.071770+00:00"
+    },
+    {
+      "post_id": 784,
+      "url": "https://exler.es/expromt/obzor-flagmanskogo-smartfona-google-pixel-10-pro-xl.htm",
+      "fetched_at": "2026-01-29 15:49:45",
+      "html_sha256": "52c9797efe73fad9c3db512b000b9869ecab6d483a4f2b888c21ba1f957636a9",
+      "html_chars": 252932,
+      "parsed_comments": 61,
+      "read_at": "2026-09-19T09:36:45.192146+00:00"
+    },
+    {
+      "post_id": 819,
+      "url": "https://exler.es/blog/samyy-malenkiy-akkumulyator-na-10000-mach.htm",
+      "fetched_at": "2026-01-29 15:50:04",
+      "html_sha256": "cf12a3bc8b4af950f6d1d7cceffbf0df983e6939c0a16f5e8cb9007232b81102",
+      "html_chars": 391362,
+      "parsed_comments": 118,
+      "read_at": "2026-09-19T09:36:52.135181+00:00"
+    },
+    {
+      "post_id": 829,
+      "url": "https://exler.es/expromt/obzor-umnyh-chasov-huawei-watch-fit-4-pro.htm",
+      "fetched_at": "2026-01-29 15:50:10",
+      "html_sha256": "ed9813a68f6648395ffb68c3eb7071d415cba4cae4fac821c0e1fe09425cdcb9",
+      "html_chars": 220059,
+      "parsed_comments": 56,
+      "read_at": "2026-09-19T09:36:51.938644+00:00"
+    },
+    {
+      "post_id": 895,
+      "url": "https://exler.es/blog/pravovaya-osnova-otkrytiya-granits-germanii-v-2015-godu.htm",
+      "fetched_at": "2026-01-29 15:50:46",
+      "html_sha256": "c14cd9138635f0ff54e5043ef11287b968d220e8bf21a4d166b95ea7fa0300e8",
+      "html_chars": 751892,
+      "parsed_comments": 240,
+      "read_at": "2026-09-19T09:36:59.289169+00:00"
+    },
+    {
+      "post_id": 897,
+      "url": "https://exler.es/blog/smartfon-google-pixel-10-pro-xl.htm",
+      "fetched_at": "2026-01-29 15:50:47",
+      "html_sha256": "136bbf102bcd830d524312d55d2320afb0eada224d69c715ec24df7121575515",
+      "html_chars": 284299,
+      "parsed_comments": 72,
+      "read_at": "2026-09-19T09:36:59.216362+00:00"
+    },
+    {
+      "post_id": 900,
+      "url": "https://exler.es/blog/sravneniye-ploshchadey-stran-yes.htm",
+      "fetched_at": "2026-01-29 15:50:48",
+      "html_sha256": "0e58438ff7951f676537652bc971cfc9eb61c5ea7323fa1f4f42375354608a1b",
+      "html_chars": 287862,
+      "parsed_comments": 76,
+      "read_at": "2026-09-19T09:46:09.230101+00:00"
+    },
+    {
+      "post_id": 920,
+      "url": "https://exler.es/films/missiya-nevypolnima-finalnaya-rasplata.htm",
+      "fetched_at": "2026-01-29 15:50:59",
+      "html_sha256": "b38e03989c84208bc7a2478721b8730c11bb969d6c81d9764abe4475aca9ab74",
+      "html_chars": 507858,
+      "parsed_comments": 122,
+      "read_at": "2026-09-19T09:46:09.375108+00:00"
+    },
+    {
+      "post_id": 921,
+      "url": "https://exler.es/blog/obedennoye-5.htm",
+      "fetched_at": "2026-01-29 15:51:00",
+      "html_sha256": "4c94f8fd2c08c90942a1aca38605e92da96d33fe0e6d0c35a8ea48ff2fc4c608",
+      "html_chars": 307742,
+      "parsed_comments": 84,
+      "read_at": "2026-09-19T09:36:59.292803+00:00"
+    },
+    {
+      "post_id": 952,
+      "url": "https://exler.es/films/eddington.htm",
+      "fetched_at": "2026-01-29 15:51:17",
+      "html_sha256": "23ebd908d61dd345ef81e22949213ef7fe67c96a72ce1bdc0907a1d3cce57a17",
+      "html_chars": 262684,
+      "parsed_comments": 29,
+      "read_at": "2026-09-19T09:36:59.337096+00:00"
+    },
+    {
+      "post_id": 989,
+      "url": "https://exler.es/expromt/obzor-umnyh-chasov-oneplus-watch-3.htm",
+      "fetched_at": "2026-01-29 15:51:39",
+      "html_sha256": "6e3567b67b5d119b3f17e60eb4c8efe3a05417621a8d9799d284982eff76200a",
+      "html_chars": 270083,
+      "parsed_comments": 77,
+      "read_at": "2026-09-19T09:46:19.716743+00:00"
+    },
+    {
+      "post_id": 1006,
+      "url": "https://exler.es/blog/ispanskiye-nazvaniya-produktov-i-vin.htm",
+      "fetched_at": "2026-01-29 15:55:21",
+      "html_sha256": "7b8ea59680dd5d46d70329b20ac67832ca1b86440b075988ab2b5205900d3584",
+      "html_chars": 249232,
+      "parsed_comments": 61,
+      "read_at": "2026-09-19T09:37:06.882570+00:00"
+    },
+    {
+      "post_id": 1024,
+      "url": "https://exler.es/films/schastlivchik-gilmor-2.htm",
+      "fetched_at": "2026-01-29 15:55:31",
+      "html_sha256": "05540a95353a9dca2b854d041ca1f4345034878e68c1b56e0fc36f40bb725403",
+      "html_chars": 311055,
+      "parsed_comments": 48,
+      "read_at": "2026-09-19T09:37:07.043748+00:00"
+    },
+    {
+      "post_id": 1037,
+      "url": "https://exler.es/films/edem.htm",
+      "fetched_at": "2026-01-29 15:55:38",
+      "html_sha256": "888b2ab725c8e3f85bfdeb31b7679d3a023b60ea62eee27a719fb8a8c76c0d26",
+      "html_chars": 449170,
+      "parsed_comments": 100,
+      "read_at": "2026-09-19T09:37:06.878937+00:00"
+    },
+    {
+      "post_id": 1067,
+      "url": "https://exler.es/blog/kitaytsy-takiye-zateyniki-2.htm",
+      "fetched_at": "2026-01-29 15:55:54",
+      "html_sha256": "663595a7bd40aaff49d607c5e9b7e782b3f061281d63e17af3b66bf31d8d3752",
+      "html_chars": 292367,
+      "parsed_comments": 81,
+      "read_at": "2026-09-19T09:46:19.677260+00:00"
+    },
+    {
+      "post_id": 1102,
+      "url": "https://exler.es/films/greshniki-1.htm",
+      "fetched_at": "2026-01-29 15:56:13",
+      "html_sha256": "b869f0fe02453411a3d96297eeee316945c7e6662e871110d24d1c15ae40153d",
+      "html_chars": 433121,
+      "parsed_comments": 95,
+      "read_at": "2026-09-19T09:37:07.023696+00:00"
+    },
+    {
+      "post_id": 1130,
+      "url": "https://exler.es/blog/smes-spetsiy.htm",
+      "fetched_at": "2026-01-29 15:56:29",
+      "html_sha256": "4d7102785a3e23e66119876d4271dc152df29adbdf5ec1d0d58fe0af21cc30cc",
+      "html_chars": 304135,
+      "parsed_comments": 80,
+      "read_at": "2026-09-19T09:46:19.773204+00:00"
+    },
+    {
+      "post_id": 1177,
+      "url": "https://exler.es/blog/yevropa-vozvrashchayetsya-k-syemnym-batareyam.htm",
+      "fetched_at": "2026-01-29 15:56:55",
+      "html_sha256": "c1366a001e8699b244d5e4e9ab5a9cf6ba4d91098f77aecd10c187cd85c4e5b6",
+      "html_chars": 1673326,
+      "parsed_comments": 576,
+      "read_at": "2026-09-19T09:46:27.046229+00:00"
+    },
+    {
+      "post_id": 1191,
+      "url": "https://exler.es/films/gromoverzhcy.htm",
+      "fetched_at": "2026-01-29 15:57:04",
+      "html_sha256": "b34cddff2a67ec52c8609c659f231e662d82175e2e443c774a89c9b2d8778eee",
+      "html_chars": 376675,
+      "parsed_comments": 74,
+      "read_at": "2026-09-19T09:46:26.868413+00:00"
+    },
+    {
+      "post_id": 1216,
+      "url": "https://exler.es/films/kompanon-1.htm",
+      "fetched_at": "2026-01-29 15:57:18",
+      "html_sha256": "3ce8b67263b8a7b076f2e381dd592a092278cb7da7bc69936605439a4e327860",
+      "html_chars": 487382,
+      "parsed_comments": 118,
+      "read_at": "2026-09-19T09:37:15.040787+00:00"
+    },
+    {
+      "post_id": 1234,
+      "url": "https://exler.es/films/finikijskaya-shema.htm",
+      "fetched_at": "2026-01-29 15:57:29",
+      "html_sha256": "3c262328a683088247cc390678f42819656aae6fb17254150ded54bb5908d23f",
+      "html_chars": 310518,
+      "parsed_comments": 47,
+      "read_at": "2026-09-19T09:37:15.104853+00:00"
+    },
+    {
+      "post_id": 1303,
+      "url": "https://exler.es/films/novichok.htm",
+      "fetched_at": "2026-01-29 15:58:08",
+      "html_sha256": "505822ed9c80fac91285289d6972b287a9efeb5bbbc5bff6bd7fa490a6b8f11f",
+      "html_chars": 329797,
+      "parsed_comments": 58,
+      "read_at": "2026-09-19T09:37:15.161911+00:00"
+    },
+    {
+      "post_id": 1328,
+      "url": "https://exler.es/blog/kak-stimulirovat-perekhod-rossiyan-na-messendzher-max.htm",
+      "fetched_at": "2026-01-29 15:58:21",
+      "html_sha256": "e5480d864d703f939ebf274a47244ca118373ee1005da12fbe191ff6860f2997",
+      "html_chars": 522873,
+      "parsed_comments": 156,
+      "read_at": "2026-09-19T09:37:15.046560+00:00"
+    },
+    {
+      "post_id": 1332,
+      "url": "https://exler.es/films/kinostudiya.htm",
+      "fetched_at": "2026-01-29 15:58:35",
+      "html_sha256": "ded05ddb9b54335f8fd66a446803efbcf2cfbd9bef747cb47f90744c72582068",
+      "html_chars": 266075,
+      "parsed_comments": 31,
+      "read_at": "2026-09-19T09:37:23.118536+00:00"
+    },
+    {
+      "post_id": 1352,
+      "url": "https://exler.es/films/gangsterlend.htm",
+      "fetched_at": "2026-01-29 15:58:46",
+      "html_sha256": "3541d60187587ceefaf247b7fe2c59c3bba4b3ea1dc6236dac50e863704f19b5",
+      "html_chars": 404908,
+      "parsed_comments": 83,
+      "read_at": "2026-09-19T09:37:23.264617+00:00"
+    },
+    {
+      "post_id": 1374,
+      "url": "https://exler.es/films/istochnik-vechnoj-molodosti.htm",
+      "fetched_at": "2026-01-29 15:58:58",
+      "html_sha256": "1aaa9f1ad6e488ffc956fc0e6970bfe57de2b277650228d39944a9edd1302a6b",
+      "html_chars": 407345,
+      "parsed_comments": 85,
+      "read_at": "2026-09-19T09:37:23.327633+00:00"
+    },
+    {
+      "post_id": 1389,
+      "url": "https://exler.es/blog/a-vy-zametili.htm",
+      "fetched_at": "2026-01-29 15:59:06",
+      "html_sha256": "06297b0ee7cce2a4553eb1ce15316510919ba1810d121453d9164c6bce56189b",
+      "html_chars": 536125,
+      "parsed_comments": 174,
+      "read_at": "2026-09-19T09:37:23.391085+00:00"
+    },
+    {
+      "post_id": 1390,
+      "url": "https://exler.es/expromt/telesin-fun-shot-magnetic-grip-prevratit-lyuboj-smartfon-v-fotokameru.htm",
+      "fetched_at": "2026-01-29 15:59:07",
+      "html_sha256": "8321a3cc307d3ba4d54d68d90d8bda1b6bc35f756814327f85808caad62dcefd",
+      "html_chars": 311296,
+      "parsed_comments": 95,
+      "read_at": "2026-09-19T09:37:30.800211+00:00"
+    },
+    {
+      "post_id": 1431,
+      "url": "https://exler.es/expromt/obzor-smartfona-realme-14-pro-interesnyj-subflagman.htm",
+      "fetched_at": "2026-01-29 15:59:30",
+      "html_sha256": "96af5b29a738ca5d19b821a7b8af21422f26608c12ccdcbc508d58826384ee68",
+      "html_chars": 185362,
+      "parsed_comments": 43,
+      "read_at": "2026-09-19T09:46:27.063478+00:00"
+    },
+    {
+      "post_id": 1433,
+      "url": "https://exler.es/films/bolnica-pitt.htm",
+      "fetched_at": "2026-01-29 15:59:31",
+      "html_sha256": "79173401358fc25ddad6d392fd4252dac00671610b9db90cebfac66b0f3c4df9",
+      "html_chars": 513283,
+      "parsed_comments": 125,
+      "read_at": "2026-09-19T09:37:30.949012+00:00"
+    },
+    {
+      "post_id": 1441,
+      "url": "https://exler.es/blog/yeye-dostala-italiya.htm",
+      "fetched_at": "2026-01-29 15:59:36",
+      "html_sha256": "833740c9bb2f7eca833c8bd0afe6ac7f57d0035593ead9cb02b0956da6fc53ce",
+      "html_chars": 792714,
+      "parsed_comments": 245,
+      "read_at": "2026-09-19T09:37:31.071705+00:00"
+    },
+    {
+      "post_id": 1451,
+      "url": "https://exler.es/films/babuli.htm",
+      "fetched_at": "2026-01-29 15:59:41",
+      "html_sha256": "198a7536aac7cb02e93ab7050c4e6bb770479850bc40af5a2bc9fd3a812274a2",
+      "html_chars": 255367,
+      "parsed_comments": 29,
+      "read_at": "2026-09-19T09:46:35.259078+00:00"
+    },
+    {
+      "post_id": 1467,
+      "url": "https://exler.es/films/ballada-ob-ostrove-uollis.htm",
+      "fetched_at": "2026-01-29 15:59:50",
+      "html_sha256": "cc40e8cb1c2f979e494a37c0cf38eb8ccb95ec95d1d415f6925c6d4c8c409cc7",
+      "html_chars": 271400,
+      "parsed_comments": 33,
+      "read_at": "2026-09-19T09:37:30.881305+00:00"
+    },
+    {
+      "post_id": 1494,
+      "url": "https://exler.es/films/rejs-navylet.htm",
+      "fetched_at": "2026-01-29 16:00:06",
+      "html_sha256": "34a35874c0aea32d5468e0a04a8068c3d233339c531a3f90f8da713b431cb8ec",
+      "html_chars": 407035,
+      "parsed_comments": 88,
+      "read_at": "2026-09-19T09:37:39.885690+00:00"
+    },
+    {
+      "post_id": 1508,
+      "url": "https://exler.es/expromt/obzor-smartfona-xiaomi-14t.htm",
+      "fetched_at": "2026-01-29 16:00:14",
+      "html_sha256": "a41cc7e8ad0d5333e9af3685849d2bf57b3f3a8106d3cb8cd193290f39a4d2db",
+      "html_chars": 226135,
+      "parsed_comments": 59,
+      "read_at": "2026-09-19T09:37:39.739630+00:00"
+    },
+    {
+      "post_id": 1512,
+      "url": "https://exler.es/films/chyornyj-chemodan-dvojnaya-igra.htm",
+      "fetched_at": "2026-01-29 16:00:16",
+      "html_sha256": "5d50d3013293e063a6082fdc6e2fba927046850f3a82f2e9dc57ce9502f71d5c",
+      "html_chars": 513456,
+      "parsed_comments": 125,
+      "read_at": "2026-09-19T09:37:30.962760+00:00"
+    },
+    {
+      "post_id": 1543,
+      "url": "https://exler.es/expromt/obzor-umnyh-chasov-nothing-cmf-watch-pro-2.htm",
+      "fetched_at": "2026-01-29 16:00:33",
+      "html_sha256": "2cd7421f93669250325017915d1ce73d370028282723a37db0c9a5b2b93181bc",
+      "html_chars": 220858,
+      "parsed_comments": 61,
+      "read_at": "2026-09-19T09:37:39.698022+00:00"
+    },
+    {
+      "post_id": 1566,
+      "url": "https://exler.es/blog/tusheniye-i-slow-coocking.htm",
+      "fetched_at": "2026-01-29 16:00:46",
+      "html_sha256": "5ccedc0fdb1a298f3d6caf19999c9d24558bcab1bd44e5fc67afe19ba3b4d883",
+      "html_chars": 377491,
+      "parsed_comments": 105,
+      "read_at": "2026-09-19T09:37:39.792640+00:00"
+    },
+    {
+      "post_id": 1591,
+      "url": "https://exler.es/blog/velikaya-pobeda.htm",
+      "fetched_at": "2026-01-29 16:01:01",
+      "html_sha256": "64d1d78b4d2a0cce78edd715ec03b5b252a50d4180a7a1541c7172a73af18d2a",
+      "html_chars": 401874,
+      "parsed_comments": 117,
+      "read_at": "2026-09-19T09:37:48.028675+00:00"
+    },
+    {
+      "post_id": 1593,
+      "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-219.htm",
+      "fetched_at": "2026-01-29 16:01:02",
+      "html_sha256": "f938ecb3d1bbbcb5e4d38a8fb3e821bd8d73fc2fd08506c3278284cc60291a08",
+      "html_chars": 539329,
+      "parsed_comments": 191,
+      "read_at": "2026-09-19T09:37:47.994780+00:00"
+    },
+    {
+      "post_id": 1599,
+      "url": "https://exler.es/blog/dva-mira-dva-pis-dila.htm",
+      "fetched_at": "2026-01-29 16:01:05",
+      "html_sha256": "8ed542b5e4971b5b14966450d78976b9ee542fed7784522d90ef917395a75e2a",
+      "html_chars": 532275,
+      "parsed_comments": 161,
+      "read_at": "2026-09-19T09:37:39.815540+00:00"
+    },
+    {
+      "post_id": 1610,
+      "url": "https://exler.es/films/ubejte-zhokeya.htm",
+      "fetched_at": "2026-01-29 16:01:11",
+      "html_sha256": "614760fb5808309a86b469447625eb78ae6f4e7e4dda03fbe2f7402730895d5b",
+      "html_chars": 283916,
+      "parsed_comments": 38,
+      "read_at": "2026-09-19T09:46:35.235074+00:00"
+    },
+    {
+      "post_id": 1622,
+      "url": "https://exler.es/expromt/moj-spisok-rekomendovannyh-smartfonov-4.htm",
+      "fetched_at": "2026-01-29 16:01:19",
+      "html_sha256": "320e6dc9f06b375575f131a2a0ccc954545dd4e3afd7b943d4b81bb6a03c3af7",
+      "html_chars": 462489,
+      "parsed_comments": 153,
+      "read_at": "2026-09-19T09:46:35.436253+00:00"
+    },
+    {
+      "post_id": 1704,
+      "url": "https://exler.es/dieta/diabet-pitanie.htm",
+      "fetched_at": "2026-01-29 16:02:07",
+      "html_sha256": "c8c96dc1817262495e1feff7f3bf3c3426c300969d0c8c896a2ae3c1361b2f28",
+      "html_chars": 230572,
+      "parsed_comments": 72,
+      "read_at": "2026-09-19T09:37:48.065730+00:00"
+    },
+    {
+      "post_id": 1735,
+      "url": "https://exler.es/blog/spayk-dzhonz-reklamiruyet-airpods-4.htm",
+      "fetched_at": "2026-01-29 16:02:24",
+      "html_sha256": "3036b10fc1534fe878d68242e52ee537444004e11ee3fedf91d761908fe30789",
+      "html_chars": 213368,
+      "parsed_comments": 51,
+      "read_at": "2026-09-19T09:37:48.137595+00:00"
+    },
+    {
+      "post_id": 1738,
+      "url": "https://exler.es/expromt/obzor-superflagmana-xiaomi-15-ultra.htm",
+      "fetched_at": "2026-01-29 16:02:25",
+      "html_sha256": "16e8f5df918dee86f7a63d14b9ba6fb185798e2a017e47b4c2dafb1b68f1aaf0",
+      "html_chars": 579825,
+      "parsed_comments": 175,
+      "read_at": "2026-09-19T09:46:48.783727+00:00"
+    },
+    {
+      "post_id": 1750,
+      "url": "https://exler.es/blog/a-vot-komu-pentkhaus-s-vidom-na-tsentralnyy-park.htm",
+      "fetched_at": "2026-01-29 16:02:34",
+      "html_sha256": "8b11a535e725ba49fd658c56d1f0b9c1b9a9869f4ec00289ee693cbd49ff367e",
+      "html_chars": 505226,
+      "parsed_comments": 163,
+      "read_at": "2026-09-19T09:37:48.010514+00:00"
+    },
+    {
+      "post_id": 1776,
+      "url": "https://exler.es/expromt/obzor-novogo-topovogo-plansheta-xiaomi-pad-7.htm",
+      "fetched_at": "2026-01-29 16:02:49",
+      "html_sha256": "e4d57d720162c7d0af9e99c91927996c56f82603948a949e4dc397261c333e3e",
+      "html_chars": 265667,
+      "parsed_comments": 74,
+      "read_at": "2026-09-19T09:37:48.024345+00:00"
+    },
+    {
+      "post_id": 1805,
+      "url": "https://exler.es/dieta/gastroskopiya-i-kolonoskopiya-davajte-pogovorim.htm",
+      "fetched_at": "2026-01-29 16:03:07",
+      "html_sha256": "9e4dfe2ea6d4322acc15c91e8e3808cde364ebb2753d5a5b89a61fece2404693",
+      "html_chars": 355469,
+      "parsed_comments": 116,
+      "read_at": "2026-09-19T09:46:48.928122+00:00"
+    },
+    {
+      "post_id": 1812,
+      "url": "https://exler.es/blog/vnezapnaya-kalsotada.htm",
+      "fetched_at": "2026-01-29 16:03:11",
+      "html_sha256": "f89b6cd4827916afab005de36b1cb5dd104de51fc99e2aae0ae74839380fd6d7",
+      "html_chars": 187139,
+      "parsed_comments": 35,
+      "read_at": "2026-09-19T09:37:55.742578+00:00"
+    },
+    {
+      "post_id": 2047,
+      "url": "https://exler.es/expromt/obzor-smartfona-poco-x7-pro.htm",
+      "fetched_at": "2026-01-29 16:05:29",
+      "html_sha256": "dd7e7ce38cbb492366266440de1178bee68eb1bd0625ed602ec4b0853144c7b8",
+      "html_chars": 301211,
+      "parsed_comments": 88,
+      "read_at": "2026-09-19T09:37:55.946763+00:00"
+    },
+    {
+      "post_id": 2091,
+      "url": "https://exler.es/blog/nuzhno-provesti-rassledovaniye.htm",
+      "fetched_at": "2026-01-29 16:05:54",
+      "html_sha256": "9d992a3911fc2d4c23a090709261e4759e2f9615f054fa7dbcec8e4752df3df6",
+      "html_chars": 267322,
+      "parsed_comments": 67,
+      "read_at": "2026-09-19T09:37:55.816485+00:00"
+    },
+    {
+      "post_id": 2160,
+      "url": "https://exler.es/blog/dzhud-lou-sygrayet-putina-v-molodyye-gody.htm",
+      "fetched_at": "2026-01-29 16:06:34",
+      "html_sha256": "1235656c6defddb75f41a091f4002fd4fe611ebe53e2b68138c96a342c5a9368",
+      "html_chars": 243764,
+      "parsed_comments": 54,
+      "read_at": "2026-09-19T09:37:55.883649+00:00"
+    },
+    {
+      "post_id": 2193,
+      "url": "https://exler.es/blog/smartfon-realme-neo-7.htm",
+      "fetched_at": "2026-01-29 16:06:53",
+      "html_sha256": "ff6df53ae60607549e6d59d54f8a027631994bd2017297315690b37ed647217f",
+      "html_chars": 214189,
+      "parsed_comments": 47,
+      "read_at": "2026-09-19T09:37:55.747540+00:00"
+    },
+    {
+      "post_id": 2195,
+      "url": "https://exler.es/blog/banalnaya-rusofobiya.htm",
+      "fetched_at": "2026-01-29 16:06:54",
+      "html_sha256": "f6f9c09cb906b5a444a6ac6921a755de78e68ed3cf29a2eebbac9cf2aa6f799e",
+      "html_chars": 245268,
+      "parsed_comments": 60,
+      "read_at": "2026-09-19T09:46:48.899711+00:00"
+    },
+    {
+      "post_id": 2196,
+      "url": "https://exler.es/films/uolles-i-gromit-samaya-dikaya-mest.htm",
+      "fetched_at": "2026-01-29 16:06:54",
+      "html_sha256": "21ab58512a333e546e516bf60d05c1fa6db20cb84386aaf6661c83800f617d5b",
+      "html_chars": 340345,
+      "parsed_comments": 59,
+      "read_at": "2026-09-19T09:38:04.371438+00:00"
+    },
+    {
+      "post_id": 2214,
+      "url": "https://exler.es/films/missiya-krasnyj.htm",
+      "fetched_at": "2026-01-29 16:07:04",
+      "html_sha256": "cf2773ad74978c9fe3a1370675d224a8905da0fd55dacdadfc45a26affa13dfb",
+      "html_chars": 276200,
+      "parsed_comments": 36,
+      "read_at": "2026-09-19T09:46:55.659286+00:00"
+    },
+    {
+      "post_id": 2229,
+      "url": "https://exler.es/blog/obedennoye-4.htm",
+      "fetched_at": "2026-01-29 16:07:12",
+      "html_sha256": "b9d98433d4152f62620040c547706eb22674a6bc7d8f0a02470e78b5187a1f0e",
+      "html_chars": 188696,
+      "parsed_comments": 38,
+      "read_at": "2026-09-19T09:46:56.340411+00:00"
+    },
+    {
+      "post_id": 2239,
+      "url": "https://exler.es/films/anora.htm",
+      "fetched_at": "2026-01-29 16:07:17",
+      "html_sha256": "a3f29e2e8d4e00ac95bd80b0bcf812acb317851e42fb80803a3ab28f30f5f202",
+      "html_chars": 625450,
+      "parsed_comments": 169,
+      "read_at": "2026-09-19T09:46:56.358875+00:00"
+    },
+    {
+      "post_id": 2273,
+      "url": "https://exler.es/expromt/obzor-topovogo-noutbuka-xiaomi-redmibook-16-pro-2024.htm",
+      "fetched_at": "2026-01-29 16:07:37",
+      "html_sha256": "17b3857a70de25d00bc9e9babd359c5c535f12b6bf80109886011fdb7926574e",
+      "html_chars": 304441,
+      "parsed_comments": 92,
+      "read_at": "2026-09-19T09:38:04.567085+00:00"
+    },
+    {
+      "post_id": 2314,
+      "url": "https://exler.es/blog/chetverg-rybnyy-den.htm",
+      "fetched_at": "2026-01-29 16:08:00",
+      "html_sha256": "80f7acf52456e30dc28f5953f127c472a9d10e0e776b8eef2b35552c6ff3720e",
+      "html_chars": 252280,
+      "parsed_comments": 60,
+      "read_at": "2026-09-19T09:38:04.440865+00:00"
+    },
+    {
+      "post_id": 2438,
+      "url": "https://exler.es/expromt/obzor-polnoformatyh-naushnikov-s-shumodavom-filwans-h-zero.htm",
+      "fetched_at": "2026-01-29 16:09:10",
+      "html_sha256": "485df78341e1c3530001327ec7640ee62841f07520a85a33cb3e409f99a3c2f2",
+      "html_chars": 152084,
+      "parsed_comments": 37,
+      "read_at": "2026-09-19T09:38:04.576836+00:00"
+    },
+    {
+      "post_id": 2454,
+      "url": "https://exler.es/blog/okean.htm",
+      "fetched_at": "2026-01-29 16:09:20",
+      "html_sha256": "8cdc92e5a118bc076f644ae18a123f99842daf3eef774247f21432717c88cdc3",
+      "html_chars": 220259,
+      "parsed_comments": 52,
+      "read_at": "2026-09-19T09:38:12.782464+00:00"
+    },
+    {
+      "post_id": 2468,
+      "url": "https://exler.es/blog/komu-naturalnyye-produkty.htm",
+      "fetched_at": "2026-01-29 16:09:28",
+      "html_sha256": "203d693fc2a173813aed805a263f7529432f1f2180bbc81f04a6d3af236aa1cd",
+      "html_chars": 540557,
+      "parsed_comments": 176,
+      "read_at": "2026-09-19T09:38:04.450620+00:00"
+    },
+    {
+      "post_id": 2533,
+      "url": "https://exler.es/films/spyashie-psy.htm",
+      "fetched_at": "2026-01-29 16:10:07",
+      "html_sha256": "80c43f8c6db0ace35cdbe3b8ea72aecf712a338055eb54590af6b3cd313eba47",
+      "html_chars": 253374,
+      "parsed_comments": 29,
+      "read_at": "2026-09-19T09:38:12.958902+00:00"
+    },
+    {
+      "post_id": 2560,
+      "url": "https://exler.es/blog/genialnoye-resheniye-2.htm",
+      "fetched_at": "2026-01-29 16:10:23",
+      "html_sha256": "4b95ffef486441dbe9511daf0a121bca23e6fef4b84efdac1d8e1358be9471e2",
+      "html_chars": 939809,
+      "parsed_comments": 321,
+      "read_at": "2026-09-19T09:38:13.013668+00:00"
+    },
+    {
+      "post_id": 2647,
+      "url": "https://exler.es/blog/zubets-chuvstvuyet-sebya-na-fronte.htm",
+      "fetched_at": "2026-01-29 16:11:15",
+      "html_sha256": "3e38bf1d838c8efae2bba82ede6d0f0ca565bdb0ec20a15be1fbc97a5bfeabce",
+      "html_chars": 465227,
+      "parsed_comments": 136,
+      "read_at": "2026-09-19T09:38:12.852329+00:00"
+    },
+    {
+      "post_id": 2692,
+      "url": "https://exler.es/films/odinokie-volki.htm",
+      "fetched_at": "2026-01-29 16:11:41",
+      "html_sha256": "af03ad26acfb92b9905ebb9dc400f815b3b0efd37d45edf908944f7761815766",
+      "html_chars": 466776,
+      "parsed_comments": 110,
+      "read_at": "2026-09-19T09:47:08.325639+00:00"
+    },
+    {
+      "post_id": 2705,
+      "url": "https://exler.es/blog/novyy-adres-exlerru-dlya-rf-2.htm",
+      "fetched_at": "2026-01-29 16:11:49",
+      "html_sha256": "00adc65eb7656376d8ba77eddd23dd891be392a0cf5678891919f7fb4f3fe987",
+      "html_chars": 196591,
+      "parsed_comments": 42,
+      "read_at": "2026-09-19T09:38:21.136893+00:00"
+    },
+    {
+      "post_id": 2713,
+      "url": "https://exler.es/blog/kandidaty-na-nobelevku.htm",
+      "fetched_at": "2026-01-29 16:11:53",
+      "html_sha256": "5b15114e1d2c4082a64cdd3fdd0b68fd33046533494476024d988520a7b058e4",
+      "html_chars": 521177,
+      "parsed_comments": 165,
+      "read_at": "2026-09-19T09:38:21.560232+00:00"
+    },
+    {
+      "post_id": 2725,
+      "url": "https://exler.es/ezhe/sakra-di-san-mikele-sacra-di-san-michele-simvol-pemonta.htm",
+      "fetched_at": "2026-01-29 16:12:00",
+      "html_sha256": "17315439cbd0826b8f714c647bd2defa67488052f9feed40998611ed8b7f9a00",
+      "html_chars": 161417,
+      "parsed_comments": 37,
+      "read_at": "2026-09-19T09:47:08.321740+00:00"
+    },
+    {
+      "post_id": 2733,
+      "url": "https://exler.es/films/vlasteliny-vozduha.htm",
+      "fetched_at": "2026-01-29 16:12:05",
+      "html_sha256": "81dd49eb87dd5b43a5275a6385cab45d1a4e937dc37baaebb399b7d38a4227ca",
+      "html_chars": 461085,
+      "parsed_comments": 100,
+      "read_at": "2026-09-19T09:47:08.600978+00:00"
+    },
+    {
+      "post_id": 2857,
+      "url": "https://exler.es/blog/putinskiye-orki-poluchili-svoy-shans.htm",
+      "fetched_at": "2026-01-29 16:13:18",
+      "html_sha256": "cc15c4a7b999780bf6bf08e63e78443ffcbb3d200dea3057e85773996ae8e29a",
+      "html_chars": 774063,
+      "parsed_comments": 238,
+      "read_at": "2026-09-19T09:38:21.500280+00:00"
+    },
+    {
+      "post_id": 2861,
+      "url": "https://exler.es/blog/odna-zakladochka-dlya-rf.htm",
+      "fetched_at": "2026-01-29 16:13:21",
+      "html_sha256": "5adc4c7d81e9acb923b01fa3fe60deec0c5d8a8602567111598a17479dc0c97a",
+      "html_chars": 177950,
+      "parsed_comments": 37,
+      "read_at": "2026-09-19T09:38:21.392627+00:00"
+    },
+    {
+      "post_id": 2878,
+      "url": "https://exler.es/blog/luchshiye-ssd-v-2024-godu.htm",
+      "fetched_at": "2026-01-29 16:13:31",
+      "html_sha256": "2756e0b6bcf74d5013ef471f48ba4c21ada25fcfaf559c16e25e642707bbb9dc",
+      "html_chars": 413629,
+      "parsed_comments": 116,
+      "read_at": "2026-09-19T09:47:16.878086+00:00"
+    },
+    {
+      "post_id": 2886,
+      "url": "https://exler.es/expromt/obzor-smartfona-honor-x8b-tak-li-on-horosh.htm",
+      "fetched_at": "2026-01-29 16:13:35",
+      "html_sha256": "68fc829ff04ad946f2392ae2ac2e0845513b2d3dc01400af30391195d8cf16c9",
+      "html_chars": 199185,
+      "parsed_comments": 46,
+      "read_at": "2026-09-19T09:47:16.726896+00:00"
+    },
+    {
+      "post_id": 2887,
+      "url": "https://exler.es/blog/zapret-sdelok-s-nedvizhimostyu-dlya-rossiyan.htm",
+      "fetched_at": "2026-01-29 16:13:36",
+      "html_sha256": "add7e4da61d28d527a6e8268d7561d5651651f82d36b994d21e8c3f89ba658f4",
+      "html_chars": 614062,
+      "parsed_comments": 185,
+      "read_at": "2026-09-19T09:47:16.873097+00:00"
+    },
+    {
+      "post_id": 2956,
+      "url": "https://exler.es/films/hitmen-poslednee-delo.htm",
+      "fetched_at": "2026-01-29 16:14:19",
+      "html_sha256": "320e51c1c2dd16032b9ab5f5a0b1ed6ddffcef2470314fdbe56f59cd45ce590b",
+      "html_chars": 360995,
+      "parsed_comments": 69,
+      "read_at": "2026-09-19T09:47:26.363824+00:00"
+    },
+    {
+      "post_id": 2966,
+      "url": "https://exler.es/blog/godovshchina-kurska-i-beslan.htm",
+      "fetched_at": "2026-01-29 16:14:25",
+      "html_sha256": "1d27b16a7d4ee4ccec64a6e9d2e07cb849d896657d6b23be3647cc11a9d8b2dc",
+      "html_chars": 371443,
+      "parsed_comments": 104,
+      "read_at": "2026-09-19T09:47:26.551124+00:00"
+    },
+    {
+      "post_id": 2974,
+      "url": "https://exler.es/blog/vot-ono-chto-s-kurskom-to.htm",
+      "fetched_at": "2026-01-29 16:14:30",
+      "html_sha256": "8cb3e88daacb561b97945a70627739dd56b0dd03d1334f53f766e5779754055d",
+      "html_chars": 391334,
+      "parsed_comments": 114,
+      "read_at": "2026-09-19T09:38:29.354374+00:00"
+    },
+    {
+      "post_id": 2979,
+      "url": "https://exler.es/films/soyuz-1.htm",
+      "fetched_at": "2026-01-29 16:14:33",
+      "html_sha256": "b805e0fa55005432b2b923b96767109de415832acd682d2c219ea10d3abfdaa9",
+      "html_chars": 457131,
+      "parsed_comments": 106,
+      "read_at": "2026-09-19T09:47:26.616619+00:00"
+    },
+    {
+      "post_id": 2986,
+      "url": "https://exler.es/blog/alen-delon-umer.htm",
+      "fetched_at": "2026-01-29 16:14:37",
+      "html_sha256": "df67cf9adba926b1ca35eb5b0fa892a7763682310a064160e849db6319e734bd",
+      "html_chars": 194897,
+      "parsed_comments": 44,
+      "read_at": "2026-09-19T09:38:29.635425+00:00"
+    },
+    {
+      "post_id": 2992,
+      "url": "https://exler.es/blog/ono-zhe-konchenoye.htm",
+      "fetched_at": "2026-01-29 16:14:41",
+      "html_sha256": "44735b0d9079ec804e802713bd80ee7486d0cb46a8cceb846cdfee7eac651c26",
+      "html_chars": 271375,
+      "parsed_comments": 70,
+      "read_at": "2026-09-19T09:47:39.226324+00:00"
+    },
+    {
+      "post_id": 3075,
+      "url": "https://exler.es/expromt/obzor-smartfona-google-pixel-8a.htm",
+      "fetched_at": "2026-01-29 16:15:35",
+      "html_sha256": "410951f35e79eb30b7b7f5937f30a78d983a8dec88ae48acc17e8be84a716758",
+      "html_chars": 285362,
+      "parsed_comments": 78,
+      "read_at": "2026-09-19T09:38:29.556381+00:00"
+    },
+    {
+      "post_id": 3080,
+      "url": "https://exler.es/films/plohie-parni-do-konca.htm",
+      "fetched_at": "2026-01-29 16:15:38",
+      "html_sha256": "600e9ba6b5b7335ef7f470021ad96efd7f188ad86714825a7a3b161d74115447",
+      "html_chars": 259220,
+      "parsed_comments": 29,
+      "read_at": "2026-09-19T09:47:39.237473+00:00"
+    },
+    {
+      "post_id": 3091,
+      "url": "https://exler.es/blog/mayk-duglas-i-prazdnik-80-letnikh.htm",
+      "fetched_at": "2026-01-29 16:15:45",
+      "html_sha256": "97abbda8cdbd5c093a7743308381f41f5aff22b68fc09af53ea42854943470a4",
+      "html_chars": 164616,
+      "parsed_comments": 27,
+      "read_at": "2026-09-19T09:38:29.519862+00:00"
+    },
+    {
+      "post_id": 3095,
+      "url": "https://exler.es/blog/vpervyye-ispanskoye-igristoye-poluchilo-100-ballov-po-parkeru.htm",
+      "fetched_at": "2026-01-29 16:15:47",
+      "html_sha256": "1a90ef327cda6812aec64a2e3fcfba59a99ca68aa4c882a1a65957fdd39c6c89",
+      "html_chars": 166096,
+      "parsed_comments": 29,
+      "read_at": "2026-09-19T09:38:37.912515+00:00"
+    },
+    {
+      "post_id": 3098,
+      "url": "https://exler.es/blog/odnazhdy-v-sochi.htm",
+      "fetched_at": "2026-01-29 16:15:49",
+      "html_sha256": "e0186f35e9f8db02c40171cf94fc857d1263bf2bd3306eff572024d9ddbe1915",
+      "html_chars": 550228,
+      "parsed_comments": 173,
+      "read_at": "2026-09-19T09:38:38.205111+00:00"
+    },
+    {
+      "post_id": 3125,
+      "url": "https://exler.es/blog/kontsert-dayyany-kroll-v-barselone-prosto-pozorishche.htm",
+      "fetched_at": "2026-01-29 16:16:06",
+      "html_sha256": "59d9c8a17a08607d7568ee882116849bfce24da4c9eb10b0f910182540516cb3",
+      "html_chars": 456612,
+      "parsed_comments": 134,
+      "read_at": "2026-09-19T09:38:38.234271+00:00"
+    },
+    {
+      "post_id": 3133,
+      "url": "https://exler.es/films/territoriya-zla.htm",
+      "fetched_at": "2026-01-29 16:16:11",
+      "html_sha256": "fb493a86f8f3a264b71bcafc9986db8cea95018e10951502e15f10c18f5f7731",
+      "html_chars": 316927,
+      "parsed_comments": 51,
+      "read_at": "2026-09-19T09:38:38.209101+00:00"
+    },
+    {
+      "post_id": 3148,
+      "url": "https://exler.es/blog/skorostnoy-terabayt-v-breloke.htm",
+      "fetched_at": "2026-01-29 16:16:20",
+      "html_sha256": "643777efbaff3eb2d8cf4afd58435605981ef348a4f35b811938e91d36511d3a",
+      "html_chars": 198072,
+      "parsed_comments": 42,
+      "read_at": "2026-09-19T09:38:45.744616+00:00"
+    },
+    {
+      "post_id": 3174,
+      "url": "https://exler.es/dieta/kak-zhit-s-diabetom-vtorogo-tipa-ii.htm",
+      "fetched_at": "2026-01-29 16:16:36",
+      "html_sha256": "3f3521b6e3697c33e2e1ea92c784da924d97395b8358311e583fd49b8064158f",
+      "html_chars": 248059,
+      "parsed_comments": 75,
+      "read_at": "2026-09-19T09:38:45.917156+00:00"
+    },
+    {
+      "post_id": 3179,
+      "url": "https://exler.es/films/artur-ty-korol.htm",
+      "fetched_at": "2026-01-29 16:16:39",
+      "html_sha256": "1eadd467368e0c99a5d01eb4ede5b479dd2103aa50e80a6f6f950c80b849fcf7",
+      "html_chars": 276070,
+      "parsed_comments": 32,
+      "read_at": "2026-09-19T09:38:45.926219+00:00"
+    },
+    {
+      "post_id": 3198,
+      "url": "https://exler.es/films/policejskij-iz-beverli-hillz-aksel-fouli.htm",
+      "fetched_at": "2026-01-29 16:16:51",
+      "html_sha256": "a1bff7ca40fed8abe506b4771b4c57a4feb963d2403d3d36defa461e8c7447c0",
+      "html_chars": 314332,
+      "parsed_comments": 49,
+      "read_at": "2026-09-19T09:38:45.755076+00:00"
+    },
+    {
+      "post_id": 3217,
+      "url": "https://exler.es/blog/v-moskve-neobychaynyy-azhiotazh.htm",
+      "fetched_at": "2026-01-29 16:17:03",
+      "html_sha256": "ef46762933d5a59de5a3afef4c9b672e482946a22b607e0da123a511a63c1fef",
+      "html_chars": 418563,
+      "parsed_comments": 125,
+      "read_at": "2026-09-19T09:38:54.431391+00:00"
+    },
+    {
+      "post_id": 3255,
+      "url": "https://exler.es/blog/nemnozhko-poyeli-myaska.htm",
+      "fetched_at": "2026-01-29 16:17:27",
+      "html_sha256": "d7db8bb3a593f92dde41ab13e04e55a99d4fc83fbea51ed204de0026166dc9c5",
+      "html_chars": 241851,
+      "parsed_comments": 56,
+      "read_at": "2026-09-19T09:47:39.312140+00:00"
+    },
+    {
+      "post_id": 3276,
+      "url": "https://exler.es/films/soperniki.htm",
+      "fetched_at": "2026-01-29 16:17:39",
+      "html_sha256": "ae81d982f0ab0dcc3d29185deb74e318d7c7320e2ef8061af4e615e170cbcc4c",
+      "html_chars": 318560,
+      "parsed_comments": 52,
+      "read_at": "2026-09-19T09:47:39.235066+00:00"
+    },
+    {
+      "post_id": 3282,
+      "url": "https://exler.es/expromt/obzor-smartfona-samsung-galaxy-a55-5g.htm",
+      "fetched_at": "2026-01-29 16:17:43",
+      "html_sha256": "6c449df42a9f2f7ec0efafca5734e3b1239453de0c346aee11d71ea88c331b64",
+      "html_chars": 304753,
+      "parsed_comments": 88,
+      "read_at": "2026-09-19T09:47:50.912854+00:00"
+    },
+    {
+      "post_id": 3323,
+      "url": "https://exler.es/dieta/kak-zhit-s-diabetom-vtorogo-tipa.htm",
+      "fetched_at": "2026-01-29 16:18:08",
+      "html_sha256": "c4295880e906500e7ba68e0c2dd9b42ab6b668165eb24bd2a45ab0a11dbe3a38",
+      "html_chars": 203427,
+      "parsed_comments": 57,
+      "read_at": "2026-09-19T09:38:54.640461+00:00"
+    },
+    {
+      "post_id": 3355,
+      "url": "https://exler.es/blog/vsemirnyy-den-velosipeda-2.htm",
+      "fetched_at": "2026-01-29 16:18:28",
+      "html_sha256": "fba24b20254e72b9859fba886b60d3dc5e1bb6ed9c00048320f047ddb75268d2",
+      "html_chars": 553370,
+      "parsed_comments": 169,
+      "read_at": "2026-09-19T09:38:54.648701+00:00"
+    },
+    {
+      "post_id": 3364,
+      "url": "https://exler.es/films/shugar.htm",
+      "fetched_at": "2026-01-29 16:18:34",
+      "html_sha256": "bbadfdf1e62dfa63df109cdb1e02a68db3e99a59324df531118fbe81d2fb4320",
+      "html_chars": 376889,
+      "parsed_comments": 72,
+      "read_at": "2026-09-19T09:38:54.793179+00:00"
+    },
+    {
+      "post_id": 3396,
+      "url": "https://exler.es/expromt/obzor-flagmanskogo-smartfona-xiaomi-14-ultra.htm",
+      "fetched_at": "2026-01-29 16:18:54",
+      "html_sha256": "0c7e1dae913fa6be1d74ed63009eafc100a12e808383419ae0ba7009878a2dd1",
+      "html_chars": 390581,
+      "parsed_comments": 109,
+      "read_at": "2026-09-19T09:47:51.106062+00:00"
+    },
+    {
+      "post_id": 3401,
+      "url": "https://exler.es/blog/london-prodolzhayet-platit-za-nedvizhimost.htm",
+      "fetched_at": "2026-01-29 16:18:58",
+      "html_sha256": "2b9cd28925d91e0cab5f0171021da173e9d0d1834eca3fec244dfa22a2ab93e9",
+      "html_chars": 301897,
+      "parsed_comments": 74,
+      "read_at": "2026-09-19T09:39:03.545255+00:00"
+    },
+    {
+      "post_id": 3434,
+      "url": "https://exler.es/expromt/obzor-plansheta-redmi-pad-se-nedorogo-i-horosho.htm",
+      "fetched_at": "2026-01-29 16:19:18",
+      "html_sha256": "3be90b166dc784c9016dca6834031f88228f2c8864ea46e188a50ca64781b87c",
+      "html_chars": 365912,
+      "parsed_comments": 116,
+      "read_at": "2026-09-19T09:39:03.864305+00:00"
+    },
+    {
+      "post_id": 3475,
+      "url": "https://exler.es/dieta/moj-opyt-intervalnogo-golodaniya.htm",
+      "fetched_at": "2026-01-29 16:19:44",
+      "html_sha256": "bddcc81f5504ffe939b24202efde7f887a32eb3aeeb4d6f6075a2a092a5fb3c3",
+      "html_chars": 411849,
+      "parsed_comments": 137,
+      "read_at": "2026-09-19T09:47:50.961185+00:00"
+    },
+    {
+      "post_id": 3482,
+      "url": "https://exler.es/blog/udar-po-zhilomu-domu-v-belgorode.htm",
+      "fetched_at": "2026-01-29 16:19:49",
+      "html_sha256": "9ae2cd52b5c535e0d9e508f68e5a388843a3ff79c2eff8ff2f6ee019fd6e5f32",
+      "html_chars": 869618,
+      "parsed_comments": 293,
+      "read_at": "2026-09-19T09:39:03.925848+00:00"
+    },
+    {
+      "post_id": 3501,
+      "url": "https://exler.es/blog/kak-mozhno-byt-takim-idiotom.htm",
+      "fetched_at": "2026-01-29 16:20:00",
+      "html_sha256": "f39b2d662bab8ccd3adaad97c6d9d2803ef9939350dd29fe370a394f63685577",
+      "html_chars": 630166,
+      "parsed_comments": 195,
+      "read_at": "2026-09-19T09:39:03.747075+00:00"
+    },
+    {
+      "post_id": 3512,
+      "url": "https://exler.es/blog/xiaomi-mijia-electrical-precision-screwdriver-kit-2.htm",
+      "fetched_at": "2026-01-29 16:20:07",
+      "html_sha256": "f7dbaaa1557e89f8db6a913f1fd6a0765d43607487315d01733b9274d5260998",
+      "html_chars": 241642,
+      "parsed_comments": 58,
+      "read_at": "2026-09-19T09:47:57.588560+00:00"
+    },
+    {
+      "post_id": 3594,
+      "url": "https://exler.es/blog/miss-vselennaya-buenos-ayresa.htm",
+      "fetched_at": "2026-01-29 16:20:58",
+      "html_sha256": "0127bf5989a95b8e7a1dc33b5b07c3747b161762754dc54242e6952947fda17d",
+      "html_chars": 170643,
+      "parsed_comments": 35,
+      "read_at": "2026-09-19T09:47:57.579862+00:00"
+    },
+    {
+      "post_id": 3701,
+      "url": "https://exler.es/blog/pochemu-vinnyy-tur-imenno-v-pyemonte.htm",
+      "fetched_at": "2026-01-29 16:22:05",
+      "html_sha256": "c6e1406cb0c471deeaa12276c29c19960acee7b8ce1c36335363d78839472609",
+      "html_chars": 139926,
+      "parsed_comments": 19,
+      "read_at": "2026-09-19T09:39:11.644433+00:00"
+    },
+    {
+      "post_id": 3707,
+      "url": "https://exler.es/blog/bystraya-fleshka.htm",
+      "fetched_at": "2026-01-29 16:22:08",
+      "html_sha256": "039810fa775134385679a8815184be5bbf4fdc394ca9d8a52d96662800958cc1",
+      "html_chars": 280114,
+      "parsed_comments": 71,
+      "read_at": "2026-09-19T09:39:11.669152+00:00"
+    },
+    {
+      "post_id": 3724,
+      "url": "https://exler.es/expromt/obzor-flagmanskogo-smartfona-samsung-galaxy-s24-ultra.htm",
+      "fetched_at": "2026-01-29 16:22:19",
+      "html_sha256": "eaf2b0f712b555a370a1dfd54b7f5cc891ba398bd51a6196b42a0b165532c732",
+      "html_chars": 465190,
+      "parsed_comments": 139,
+      "read_at": "2026-09-19T09:39:11.834618+00:00"
+    },
+    {
+      "post_id": 3793,
+      "url": "https://exler.es/expromt/obzor-skorovarki-aerogrilya-ninja-foodi-smartlid-eshe-bolee-volshebnyj-gorshochek.htm",
+      "fetched_at": "2026-01-29 16:23:02",
+      "html_sha256": "71c420d1e2c8ccda063f1cfc0935e4d64bef8a79147d611015c44216c888ada4",
+      "html_chars": 355953,
+      "parsed_comments": 106,
+      "read_at": "2026-09-19T09:47:57.786991+00:00"
+    },
+    {
+      "post_id": 3798,
+      "url": "https://exler.es/blog/oskar-2024-pobediteli.htm",
+      "fetched_at": "2026-01-29 16:23:05",
+      "html_sha256": "8dd46b6e048ff41c8ca416d3cec63a7112cf3100ca1273074286eda4e9cfeddc",
+      "html_chars": 468067,
+      "parsed_comments": 140,
+      "read_at": "2026-09-19T09:48:06.809531+00:00"
+    },
+    {
+      "post_id": 3862,
+      "url": "https://exler.es/blog/kak-ne-nado-razvodit-strakhovuyu.htm",
+      "fetched_at": "2026-01-29 16:23:46",
+      "html_sha256": "557e20722a1d2190e71e8b5cc669aa465e48555c17bc8df05ad5983360b9441c",
+      "html_chars": 355402,
+      "parsed_comments": 98,
+      "read_at": "2026-09-19T09:48:06.992799+00:00"
+    },
+    {
+      "post_id": 3863,
+      "url": "https://exler.es/blog/chto-etot-karlson-voobshche-sebe-pozvolyayet.htm",
+      "fetched_at": "2026-01-29 16:23:47",
+      "html_sha256": "ee494cf63d3ec1e5ee6131cd2801a4d7b7a79a0cff2c1cb0e70bc0297d340a47",
+      "html_chars": 575192,
+      "parsed_comments": 177,
+      "read_at": "2026-09-19T09:39:11.753802+00:00"
+    },
+    {
+      "post_id": 3885,
+      "url": "https://exler.es/blog/po-povodu-razdela-po-aliexpress.htm",
+      "fetched_at": "2026-01-29 16:24:02",
+      "html_sha256": "9b58e4fb2ab166635dd655cba27d260bebb540d125c56676b1b85bbe101f0e7c",
+      "html_chars": 144548,
+      "parsed_comments": 19,
+      "read_at": "2026-09-19T09:39:20.951716+00:00"
+    },
+    {
+      "post_id": 3929,
+      "url": "https://exler.es/films/aferisty-1.htm",
+      "fetched_at": "2026-01-29 16:24:30",
+      "html_sha256": "f520a8596080e630ea70b13edd9a7479183964beb14c555ad5b963f12a0910fe",
+      "html_chars": 475612,
+      "parsed_comments": 111,
+      "read_at": "2026-09-19T09:39:11.679027+00:00"
+    },
+    {
+      "post_id": 3948,
+      "url": "https://exler.es/films/maestro.htm",
+      "fetched_at": "2026-01-29 16:24:42",
+      "html_sha256": "d4c9c5440797d9f5e55e41a550df60bc8c1333a040bc7f0a699f1b4e7748bd12",
+      "html_chars": 325411,
+      "parsed_comments": 51,
+      "read_at": "2026-09-19T09:39:20.986340+00:00"
+    },
+    {
+      "post_id": 3958,
+      "url": "https://exler.es/blog/goyya-2024-pobediteli-obyavleny.htm",
+      "fetched_at": "2026-01-29 16:24:48",
+      "html_sha256": "7fa12a1a4524222cb7f19759cfa1b06f02796b4cc81c5f0b8884cca5efc9e663",
+      "html_chars": 244657,
+      "parsed_comments": 58,
+      "read_at": "2026-09-19T09:39:20.988790+00:00"
+    },
+    {
+      "post_id": 3961,
+      "url": "https://exler.es/likbez/kak-zashitit-svoj-akkaunt-ot-vzloma.htm",
+      "fetched_at": "2026-01-29 16:24:50",
+      "html_sha256": "6a916c78c03692c9a004ed77b790436d1ee9e0481bb17cf9ba554c09f9c95147",
+      "html_chars": 329664,
+      "parsed_comments": 103,
+      "read_at": "2026-09-19T09:48:06.846877+00:00"
+    },
+    {
+      "post_id": 3967,
+      "url": "https://exler.es/films/dvorec.htm",
+      "fetched_at": "2026-01-29 16:24:54",
+      "html_sha256": "e4d019156dfe115da0a4bf98f69fca2bb6f09fa158432d7e27c34a85e2f6152a",
+      "html_chars": 433319,
+      "parsed_comments": 91,
+      "read_at": "2026-09-19T09:39:21.150890+00:00"
+    },
+    {
+      "post_id": 3992,
+      "url": "https://exler.es/films/pchelovod.htm",
+      "fetched_at": "2026-01-29 16:25:11",
+      "html_sha256": "2465041afb621474d865eb47e0b46fa1ca93049b868e6c7060732e4087307d72",
+      "html_chars": 660097,
+      "parsed_comments": 183,
+      "read_at": "2026-09-19T09:39:31.485127+00:00"
+    },
+    {
+      "post_id": 4001,
+      "url": "https://exler.es/expromt/obzor-smartfona-poco-x6.htm",
+      "fetched_at": "2026-01-29 16:25:17",
+      "html_sha256": "86cce719ade0777303f0e45447b979c55c98759f3af1be983199b4f22f7fa877",
+      "html_chars": 382079,
+      "parsed_comments": 111,
+      "read_at": "2026-09-19T09:39:31.457595+00:00"
+    },
+    {
+      "post_id": 4008,
+      "url": "https://exler.es/blog/pozharili-nemnozhko-myaska.htm",
+      "fetched_at": "2026-01-29 16:25:21",
+      "html_sha256": "bb2377bb34ba3d239feaa899f5a1169a743634d257ff6750e0d5413b255c678f",
+      "html_chars": 338418,
+      "parsed_comments": 93,
+      "read_at": "2026-09-19T09:39:31.271318+00:00"
+    },
+    {
+      "post_id": 4014,
+      "url": "https://exler.es/blog/bikovicha-vystavili-iz-seriala-belyy-lotos.htm",
+      "fetched_at": "2026-01-29 16:25:25",
+      "html_sha256": "5faae8f0a4846d66762356b6196ed28091eaa034cab0cbc839da9bee508fe233",
+      "html_chars": 379823,
+      "parsed_comments": 104,
+      "read_at": "2026-09-19T09:39:31.294515+00:00"
+    },
+    {
+      "post_id": 4039,
+      "url": "https://exler.es/blog/a-vot-takoy-vopros-po-photoshop.htm",
+      "fetched_at": "2026-01-29 16:25:40",
+      "html_sha256": "2cacb8ec8b017b0ec23344df9770dedded9f04b87793abf75e084e4933631c09",
+      "html_chars": 204473,
+      "parsed_comments": 42,
+      "read_at": "2026-09-19T09:48:18.175938+00:00"
+    },
+    {
+      "post_id": 4070,
+      "url": "https://exler.es/expromt/obzor-umnyh-ochkov-ray-ban-meta.htm",
+      "fetched_at": "2026-01-29 16:26:00",
+      "html_sha256": "6fcdf53cc9505a5dd2ffda1a39a25e47e2c58706cf3f5a6c6a1f471327ce92f5",
+      "html_chars": 407972,
+      "parsed_comments": 135,
+      "read_at": "2026-09-19T09:39:42.569378+00:00"
+    },
+    {
+      "post_id": 4078,
+      "url": "https://exler.es/films/obshestvo-snega.htm",
+      "fetched_at": "2026-01-29 16:26:05",
+      "html_sha256": "ef32e20015e4b7dd667a54b2fb208995d3772053ad802ec2c0c765fb196f571a",
+      "html_chars": 477666,
+      "parsed_comments": 107,
+      "read_at": "2026-09-19T09:39:42.348011+00:00"
+    },
+    {
+      "post_id": 4085,
+      "url": "https://exler.es/blog/i-need-more-cowbell.htm",
+      "fetched_at": "2026-01-29 16:26:09",
+      "html_sha256": "2e27985ce8115f2784070a2aaece10535625bc12365d9f5539e225e74eaaa79e",
+      "html_chars": 111020,
+      "parsed_comments": 10,
+      "read_at": "2026-09-19T09:39:42.512676+00:00"
+    },
+    {
+      "post_id": 4111,
+      "url": "https://exler.es/expromt/obzor-byudzhetnogo-smartfona-freeyond-m6.htm",
+      "fetched_at": "2026-01-29 16:26:26",
+      "html_sha256": "75e073b02b6fa93ebb30eba25707ead880088095a078e580ec279676e8e4b01c",
+      "html_chars": 395504,
+      "parsed_comments": 116,
+      "read_at": "2026-09-19T09:39:31.527481+00:00"
+    },
+    {
+      "post_id": 4117,
+      "url": "https://exler.es/blog/ispanskiye-gorkiye-apelsiny.htm",
+      "fetched_at": "2026-01-29 16:26:30",
+      "html_sha256": "8d464432eb1b69406683c192e88ad141aaf208c86df6c6e332ac69d4a122d03b",
+      "html_chars": 312015,
+      "parsed_comments": 86,
+      "read_at": "2026-09-19T09:39:42.580904+00:00"
+    },
+    {
+      "post_id": 4129,
+      "url": "https://exler.es/blog/lyubopytnyy-razvod.htm",
+      "fetched_at": "2026-01-29 16:26:37",
+      "html_sha256": "0fba4c75fe1e0ee5761352f1c985e008d0a42faf193f65e3c1a4925711e14f43",
+      "html_chars": 256054,
+      "parsed_comments": 59,
+      "read_at": "2026-09-19T09:39:52.634385+00:00"
+    },
+    {
+      "post_id": 4170,
+      "url": "https://exler.es/blog/solnechnaya-energiya-v-yevrope.htm",
+      "fetched_at": "2026-01-29 16:27:01",
+      "html_sha256": "11208cf1e683754f5c557b8e64db367b7075fab3693099e98ee488bdaba6ad66",
+      "html_chars": 578585,
+      "parsed_comments": 173,
+      "read_at": "2026-09-19T09:39:53.121188+00:00"
+    },
+    {
+      "post_id": 4183,
+      "url": "https://exler.es/blog/po-povodu-chto-pochitat.htm",
+      "fetched_at": "2026-01-29 16:27:09",
+      "html_sha256": "19e6f4ae59b027d763fe41b28865d0e6f28d9d2c3f89eb61d49a1c9f9c83654b",
+      "html_chars": 660909,
+      "parsed_comments": 206,
+      "read_at": "2026-09-19T09:48:18.515260+00:00"
+    },
+    {
+      "post_id": 4191,
+      "url": "https://exler.es/blog/ogrableniye-v-pryamom-efire.htm",
+      "fetched_at": "2026-01-29 16:27:14",
+      "html_sha256": "db5ffabc27f9876168ec35f48db41ea24c0a62381b09433cd5f7786c16ffe021",
+      "html_chars": 231269,
+      "parsed_comments": 58,
+      "read_at": "2026-09-19T09:39:53.062043+00:00"
+    },
+    {
+      "post_id": 4193,
+      "url": "https://exler.es/blog/ispanskoye-igristoye.htm",
+      "fetched_at": "2026-01-29 16:27:16",
+      "html_sha256": "ea1e193cbce2f5c226d12e0efdd0b4798790e254d134a4054726b2fb2eede9c1",
+      "html_chars": 222498,
+      "parsed_comments": 43,
+      "read_at": "2026-09-19T09:39:53.067473+00:00"
+    },
+    {
+      "post_id": 4212,
+      "url": "https://exler.es/blog/regulirovka-urovnya-gromkosti-na-pk.htm",
+      "fetched_at": "2026-01-29 16:27:27",
+      "html_sha256": "017f2689736a58e5224ded6c70d6413d539afd2fafc2d419e5c14ce25ff14787",
+      "html_chars": 468379,
+      "parsed_comments": 143,
+      "read_at": "2026-09-19T09:40:04.209409+00:00"
+    },
+    {
+      "post_id": 4227,
+      "url": "https://exler.es/films/pobeg-iz-kuryatnika-2.htm",
+      "fetched_at": "2026-01-29 16:27:37",
+      "html_sha256": "b8d6fba5127288bd4a3550bc88240bb1d3d697c3d496c304caa6fce50b29d338",
+      "html_chars": 282389,
+      "parsed_comments": 39,
+      "read_at": "2026-09-19T09:48:18.222631+00:00"
+    },
+    {
+      "post_id": 4316,
+      "url": "https://exler.es/blog/otkrylas-strashnaya-tayna.htm",
+      "fetched_at": "2026-01-29 16:28:31",
+      "html_sha256": "a2cc36f04a35b62c0325ec5f9a79458f2d0b415a30055affa0c4f42701767c95",
+      "html_chars": 482469,
+      "parsed_comments": 141,
+      "read_at": "2026-09-19T09:40:04.064084+00:00"
+    },
+    {
+      "post_id": 4341,
+      "url": "https://exler.es/films/oni-klonirovali-tajrona.htm",
+      "fetched_at": "2026-01-29 16:28:47",
+      "html_sha256": "700d79a0165b9ebbb94c1a8e49bec4ef0fa696ed81c9cdd3fdca9eceb34eae78",
+      "html_chars": 288301,
+      "parsed_comments": 42,
+      "read_at": "2026-09-19T09:48:30.361852+00:00"
+    },
+    {
+      "post_id": 4350,
+      "url": "https://exler.es/expromt/obzor-umnyh-chasov-huawei-watch-gt-4.htm",
+      "fetched_at": "2026-01-29 16:28:52",
+      "html_sha256": "3c0ddfe8c432ef4205e907449390e32fd49e16ef58276eb2069def5df9277a8f",
+      "html_chars": 199483,
+      "parsed_comments": 53,
+      "read_at": "2026-09-19T09:40:04.191124+00:00"
+    },
+    {
+      "post_id": 4375,
+      "url": "https://exler.es/films/chudesnaya-istoriya-genri-shugara.htm",
+      "fetched_at": "2026-01-29 16:29:08",
+      "html_sha256": "8030844648c7419975777497a687cbf5b3790e29ff7af5241ef0b863352e29d3",
+      "html_chars": 263165,
+      "parsed_comments": 32,
+      "read_at": "2026-09-19T09:40:04.199203+00:00"
+    },
+    {
+      "post_id": 4381,
+      "url": "https://exler.es/expromt/obzor-srednebyudzhetnogo-smartfona-samsung-galaxy-a54-5g.htm",
+      "fetched_at": "2026-01-29 16:29:12",
+      "html_sha256": "5478d1cb729c4892c765cdd17cedbbcb981c1f6eba244ae900c97da6f34243fb",
+      "html_chars": 328792,
+      "parsed_comments": 97,
+      "read_at": "2026-09-19T09:40:14.016474+00:00"
+    },
+    {
+      "post_id": 4400,
+      "url": "https://exler.es/blog/rodushka-rodila-svyatosiyu.htm",
+      "fetched_at": "2026-01-29 16:29:24",
+      "html_sha256": "1c966f19389e8c546a44c725a78a0aa3eaedbff8bc6758968ef30053c7235849",
+      "html_chars": 439507,
+      "parsed_comments": 134,
+      "read_at": "2026-09-19T09:40:14.885633+00:00"
+    },
+    {
+      "post_id": 4571,
+      "url": "https://exler.es/films/velikij-uravnitel-3.htm",
+      "fetched_at": "2026-01-29 16:31:15",
+      "html_sha256": "1ab92719af7f8f27b41c69fcb77ee7eaed559041adf75ede1fb59e3091b55e5c",
+      "html_chars": 425074,
+      "parsed_comments": 94,
+      "read_at": "2026-09-19T09:48:30.325208+00:00"
+    },
+    {
+      "post_id": 4629,
+      "url": "https://exler.es/blog/pyatnishnaya-pesenka-334.htm",
+      "fetched_at": "2026-01-29 16:31:52",
+      "html_sha256": "6832efa5fedcda74237999989ff59d49cf37e87b94c9252feb1afe504da80523",
+      "html_chars": 374964,
+      "parsed_comments": 115,
+      "read_at": "2026-09-19T09:40:14.880867+00:00"
+    },
+    {
+      "post_id": 4632,
+      "url": "https://exler.es/blog/tanle-i-burgundskiy-kanal.htm",
+      "fetched_at": "2026-01-29 16:31:54",
+      "html_sha256": "07338feed3889b8f20ab9fbe9f7be556f55fa88280dc8d440147dd8a71ba1fc3",
+      "html_chars": 135415,
+      "parsed_comments": 18,
+      "read_at": "2026-09-19T09:40:14.049187+00:00"
+    },
+    {
+      "post_id": 4637,
+      "url": "https://exler.es/blog/prazdnik-sbora-vinograda-v-shampani.htm",
+      "fetched_at": "2026-01-29 16:31:57",
+      "html_sha256": "d183d635c7722364b857b67eccf6ade179778cdb676e85f676b6db20fbb3f6e7",
+      "html_chars": 130771,
+      "parsed_comments": 9,
+      "read_at": "2026-09-19T09:40:24.322469+00:00"
+    },
+    {
+      "post_id": 4645,
+      "url": "https://exler.es/blog/zamok-rise-ba.htm",
+      "fetched_at": "2026-01-29 16:32:02",
+      "html_sha256": "fca8ac1a2c2416c7b7ebdb60c736d8366e922dd0ad2a77a2923d51c2167bb47b",
+      "html_chars": 143171,
+      "parsed_comments": 18,
+      "read_at": "2026-09-19T09:40:24.473010+00:00"
+    },
+    {
+      "post_id": 4697,
+      "url": "https://exler.es/blog/kak-proshel-nash-tur-po-pyemontu.htm",
+      "fetched_at": "2026-01-29 16:32:35",
+      "html_sha256": "8770864bfc56496fc81348482a2e4f170f2a07c59b5706f2ab0146b5bd3a6045",
+      "html_chars": 145692,
+      "parsed_comments": 14,
+      "read_at": "2026-09-19T09:40:24.503320+00:00"
+    },
+    {
+      "post_id": 4723,
+      "url": "https://exler.es/blog/v-ispanii-mozhno-kupit-krutuyu-mashinu.htm",
+      "fetched_at": "2026-01-29 16:32:52",
+      "html_sha256": "35307a3818e260ff653f7c443e2fda4e8e20560e46fdae6a70a0dbb158e5d688",
+      "html_chars": 515397,
+      "parsed_comments": 159,
+      "read_at": "2026-09-19T09:40:14.900323+00:00"
+    },
+    {
+      "post_id": 4738,
+      "url": "https://exler.es/expromt/obzor-naushnikov-oneodio-openrock-s.htm",
+      "fetched_at": "2026-01-29 16:33:02",
+      "html_sha256": "07ac8bbba74d2d41ab51793b3c3e245ca831f0190d5b0079383c1e1e25870b37",
+      "html_chars": 137946,
+      "parsed_comments": 34,
+      "read_at": "2026-09-19T09:40:24.483559+00:00"
+    },
+    {
+      "post_id": 4756,
+      "url": "https://exler.es/blog/chyaasy-huawei-watch-gt-4.htm",
+      "fetched_at": "2026-01-29 16:33:14",
+      "html_sha256": "a5019ec1088e982013f10875a68a4cec835850424ae4261e49969c82b1ca10df",
+      "html_chars": 225770,
+      "parsed_comments": 51,
+      "read_at": "2026-09-19T09:40:34.506689+00:00"
+    },
+    {
+      "post_id": 4761,
+      "url": "https://exler.es/films/v-ozhidanii-dali.htm",
+      "fetched_at": "2026-01-29 16:33:18",
+      "html_sha256": "14f794fbe64ae1d8980e59d76e1672357cf3919bc54366e8e7c3ff580d0f4f08",
+      "html_chars": 232645,
+      "parsed_comments": 18,
+      "read_at": "2026-09-19T09:40:34.371680+00:00"
+    },
+    {
+      "post_id": 4778,
+      "url": "https://exler.es/films/zahvachennyj-rejs.htm",
+      "fetched_at": "2026-01-29 16:33:29",
+      "html_sha256": "abf7474d8a0d879b311141050d9ffc9875e7c9ea9c21fea7d246caf78c6b3237",
+      "html_chars": 678254,
+      "parsed_comments": 191,
+      "read_at": "2026-09-19T09:40:34.677926+00:00"
+    },
+    {
+      "post_id": 4795,
+      "url": "https://exler.es/films/indiana-dzhons-i-koleso-sudby.htm",
+      "fetched_at": "2026-01-29 16:33:40",
+      "html_sha256": "1d5dff2cb10406fa11241cd129d91ac303fad3e458accd55ec3e11c5dbe62fab",
+      "html_chars": 563591,
+      "parsed_comments": 144,
+      "read_at": "2026-09-19T09:40:34.557635+00:00"
+    },
+    {
+      "post_id": 4807,
+      "url": "https://exler.es/ezhe/istoriya-paeli-recept-prigotovleniya.htm",
+      "fetched_at": "2026-01-29 16:33:47",
+      "html_sha256": "9927dfb1c741f66b53cfa966274e7f00c3b5b751d6acc300b6707af72a7070f0",
+      "html_chars": 489525,
+      "parsed_comments": 161,
+      "read_at": "2026-09-19T09:40:48.185893+00:00"
+    },
+    {
+      "post_id": 4828,
+      "url": "https://exler.es/blog/gastroli-lenkoma-v-izraile.htm",
+      "fetched_at": "2026-01-29 16:34:01",
+      "html_sha256": "e60bffe45c342de6a87be6568639911daeef5a980b5b2afd5f6164aa0e259ac6",
+      "html_chars": 1382511,
+      "parsed_comments": 464,
+      "read_at": "2026-09-19T09:40:48.599257+00:00"
+    },
+    {
+      "post_id": 4829,
+      "url": "https://exler.es/blog/mer-saksonskogo-gorodka-nastroyen-optimistichno.htm",
+      "fetched_at": "2026-01-29 16:34:02",
+      "html_sha256": "d18acbd9dba29fd76ec3fc07080b305e222db58f47d82f035999107b038f464a",
+      "html_chars": 354537,
+      "parsed_comments": 97,
+      "read_at": "2026-09-19T09:40:48.324861+00:00"
+    },
+    {
+      "post_id": 4833,
+      "url": "https://exler.es/expromt/obzor-shestogo-pokoleniya-umnyh-chasov-samsung-galaxy-watch6.htm",
+      "fetched_at": "2026-01-29 16:34:05",
+      "html_sha256": "9f26544239323cb4538f1ff76411d3ea218947c988f700659a8e0e8dc909f049",
+      "html_chars": 359566,
+      "parsed_comments": 109,
+      "read_at": "2026-09-19T09:48:30.428122+00:00"
+    },
+    {
+      "post_id": 4882,
+      "url": "https://exler.es/films/vsevidyashee-oko.htm",
+      "fetched_at": "2026-01-29 16:34:37",
+      "html_sha256": "cb2605186334a345d3badf69d647515eb3f6156bc7b1050bd26a822427dbb366",
+      "html_chars": 346226,
+      "parsed_comments": 65,
+      "read_at": "2026-09-19T09:40:48.210915+00:00"
+    },
+    {
+      "post_id": 4917,
+      "url": "https://exler.es/expromt/obzor-umnyh-chasov-amazfit-bip-5.htm",
+      "fetched_at": "2026-01-29 16:35:00",
+      "html_sha256": "edd4e2d2a02544537c77beb36ded33704ba403fc4b0a05cdfde1888ec6e4f61e",
+      "html_chars": 347311,
+      "parsed_comments": 106,
+      "read_at": "2026-09-19T09:48:40.622256+00:00"
+    },
+    {
+      "post_id": 4923,
+      "url": "https://exler.es/films/ted-lasso-tretij-sezon.htm",
+      "fetched_at": "2026-01-29 16:35:05",
+      "html_sha256": "e907c4b0dd6b69d6fc0c2b1ff31cf695902286a760cad9f397f4df0be1764e2b",
+      "html_chars": 403749,
+      "parsed_comments": 78,
+      "read_at": "2026-09-19T09:48:40.424465+00:00"
+    },
+    {
+      "post_id": 4959,
+      "url": "https://exler.es/films/tri-mushketera-d-artanyan.htm",
+      "fetched_at": "2026-01-29 16:35:27",
+      "html_sha256": "b007636c0d12704c8495469d9631437defb26e574951a5f1ab9183f239110886",
+      "html_chars": 690752,
+      "parsed_comments": 184,
+      "read_at": "2026-09-19T09:40:55.481072+00:00"
+    },
+    {
+      "post_id": 5023,
+      "url": "https://exler.es/ezhe/lyubopytnaya-istoriya-gaskonskogo-kadillaka.htm",
+      "fetched_at": "2026-01-29 16:36:09",
+      "html_sha256": "14f856c1988bf2cd139710f5b70a188e07e7adcf3d53b987bedfa844b3412404",
+      "html_chars": 164075,
+      "parsed_comments": 44,
+      "read_at": "2026-09-19T09:40:55.456756+00:00"
+    },
+    {
+      "post_id": 5030,
+      "url": "https://exler.es/films/moe-prestuplenie.htm",
+      "fetched_at": "2026-01-29 16:36:13",
+      "html_sha256": "3804815fab4043eec88ceb701275922d5b8b5206eb45613bfc4c9e4b1f2d62d6",
+      "html_chars": 240115,
+      "parsed_comments": 23,
+      "read_at": "2026-09-19T09:40:55.430822+00:00"
+    },
+    {
+      "post_id": 5113,
+      "url": "https://exler.es/blog/ne-zatykat-fontan.htm",
+      "fetched_at": "2026-01-29 16:37:08",
+      "html_sha256": "2b7fe08bbf39846c51e87c59f4fbd3ca22e468aa322e2b0f46d212e9f9875e66",
+      "html_chars": 180031,
+      "parsed_comments": 35,
+      "read_at": "2026-09-19T09:40:55.468327+00:00"
+    },
+    {
+      "post_id": 5188,
+      "url": "https://exler.es/films/horoshij-chelovek.htm",
+      "fetched_at": "2026-01-29 16:37:56",
+      "html_sha256": "2740a5d26b8eb8978d344d30945f00399b946f78a7c3e18e1a11ec232f51652b",
+      "html_chars": 240627,
+      "parsed_comments": 22,
+      "read_at": "2026-09-19T09:41:04.946556+00:00"
+    },
+    {
+      "post_id": 5215,
+      "url": "https://exler.es/films/tajler-rejk-operaciya-po-spaseniyu-2.htm",
+      "fetched_at": "2026-01-29 16:38:14",
+      "html_sha256": "c00ff136c8e183a959dd83134a0a7605e7dc91cf72fd7453ce897b3dff1e76af",
+      "html_chars": 423919,
+      "parsed_comments": 90,
+      "read_at": "2026-09-19T09:41:04.984742+00:00"
+    },
+    {
+      "post_id": 5224,
+      "url": "https://exler.es/expromt/obzor-flagmanskogo-smartfona-xiaomi-13-pro.htm",
+      "fetched_at": "2026-01-29 16:38:19",
+      "html_sha256": "99a786c3ae49cfc04d691f2d9537a3ad92ebcedb28ec0fc7fb9fdc856d9245cd",
+      "html_chars": 351615,
+      "parsed_comments": 99,
+      "read_at": "2026-09-19T09:41:04.962275+00:00"
+    },
+    {
+      "post_id": 5269,
+      "url": "https://exler.es/films/argentina-1985.htm",
+      "fetched_at": "2026-01-29 16:38:47",
+      "html_sha256": "81437387f01764bff61274720d4ef6ad52b38b1a87206cd618722ebdb0f10f35",
+      "html_chars": 314140,
+      "parsed_comments": 48,
+      "read_at": "2026-09-19T09:41:04.943430+00:00"
+    },
+    {
+      "post_id": 5309,
+      "url": "https://exler.es/films/air-bolshoj-pryzhok.htm",
+      "fetched_at": "2026-01-29 16:39:13",
+      "html_sha256": "68a01f52d634c22075fb4aa59f714db8c068b80b18e5fd921d320bf4d9dd4a3e",
+      "html_chars": 445437,
+      "parsed_comments": 100,
+      "read_at": "2026-09-19T09:41:14.202688+00:00"
+    },
+    {
+      "post_id": 5336,
+      "url": "https://exler.es/blog/s-burundi-kak-to-ne-slozhilos.htm",
+      "fetched_at": "2026-01-29 16:39:30",
+      "html_sha256": "aeda948078b93046facf321ec5598999ee9d3e03911023ba07f321c760b8a247",
+      "html_chars": 251110,
+      "parsed_comments": 60,
+      "read_at": "2026-09-19T09:41:14.388132+00:00"
+    },
+    {
+      "post_id": 5351,
+      "url": "https://exler.es/blog/v-moskvu-priletelo.htm",
+      "fetched_at": "2026-01-29 16:39:40",
+      "html_sha256": "390ec15fe08dc1878764882b71457ca9f303fc4fae97e5c4182b5df8fd214932",
+      "html_chars": 835259,
+      "parsed_comments": 277,
+      "read_at": "2026-09-19T09:48:40.766993+00:00"
+    },
+    {
+      "post_id": 5356,
+      "url": "https://exler.es/blog/smetlivyy-chinovnik.htm",
+      "fetched_at": "2026-01-29 16:39:43",
+      "html_sha256": "09831e9eaf2fa462587a343bb40f2c0acec4487b49068f2dea51fe9378dd50b3",
+      "html_chars": 403767,
+      "parsed_comments": 120,
+      "read_at": "2026-09-19T09:48:52.762641+00:00"
+    },
+    {
+      "post_id": 5383,
+      "url": "https://exler.es/films/shramy-parizha.htm",
+      "fetched_at": "2026-01-29 16:40:00",
+      "html_sha256": "eba94219f626558051351d05fe36f2c9e271919d672d2c58334bcbb89888528b",
+      "html_chars": 265644,
+      "parsed_comments": 32,
+      "read_at": "2026-09-19T09:41:14.393583+00:00"
+    },
+    {
+      "post_id": 5406,
+      "url": "https://exler.es/blog/govoryat-berlin-vzyali.htm",
+      "fetched_at": "2026-01-29 16:40:14",
+      "html_sha256": "bf7cff47c4d3d88288d4193da91e8c8ead4c7401867641bdafbcb6b25c675551",
+      "html_chars": 364412,
+      "parsed_comments": 106,
+      "read_at": "2026-09-19T09:41:14.227275+00:00"
+    },
+    {
+      "post_id": 5430,
+      "url": "https://exler.es/films/diplomatka.htm",
+      "fetched_at": "2026-01-29 16:40:28",
+      "html_sha256": "19be5c05bae6d2d194e77305d1306c9520958b396e38b56d29bb44512c0d1ac3",
+      "html_chars": 723679,
+      "parsed_comments": 209,
+      "read_at": "2026-09-19T09:41:22.531586+00:00"
+    },
+    {
+      "post_id": 5444,
+      "url": "https://exler.es/expromt/obzor-smartfona-redmi-note-12-pro-5g.htm",
+      "fetched_at": "2026-01-29 16:40:38",
+      "html_sha256": "14dc2bf7adfdd4af69e0fc319c8db269183b06baa1015cf1d6dafad477384305",
+      "html_chars": 266431,
+      "parsed_comments": 70,
+      "read_at": "2026-09-19T09:41:23.148498+00:00"
+    },
+    {
+      "post_id": 5450,
+      "url": "https://exler.es/films/o-tele-i-o-dushe.htm",
+      "fetched_at": "2026-01-29 16:40:42",
+      "html_sha256": "bd6c3e847813164a8b503252ec55d256d8259e6074e38f7065afeadde8df5339",
+      "html_chars": 292677,
+      "parsed_comments": 43,
+      "read_at": "2026-09-19T09:48:52.766793+00:00"
+    },
+    {
+      "post_id": 5471,
+      "url": "https://exler.es/blog/konvent.htm",
+      "fetched_at": "2026-01-29 16:40:56",
+      "html_sha256": "bfb72ef0f71371029db0b0e2bbd31cafb776066224db80a2e89eeffd0acf7eaa",
+      "html_chars": 1443879,
+      "parsed_comments": 489,
+      "read_at": "2026-09-19T09:41:23.130833+00:00"
+    },
+    {
+      "post_id": 5480,
+      "url": "https://exler.es/films/podzemelya-i-drakony-chest-sredi-vorov.htm",
+      "fetched_at": "2026-01-29 16:41:01",
+      "html_sha256": "98191293a81ee76f5ab82806e87dc16595c2973c35932f16283d194858accfcb",
+      "html_chars": 676824,
+      "parsed_comments": 183,
+      "read_at": "2026-09-19T09:41:23.235214+00:00"
+    },
+    {
+      "post_id": 5486,
+      "url": "https://exler.es/blog/istoriya-s-linor-goralik-i-tartusskim-universitetom.htm",
+      "fetched_at": "2026-01-29 16:41:05",
+      "html_sha256": "a357e14ad4668aa763d7ba4b430669c66f2b8c35a5d1ffa2bd79a217c275683a",
+      "html_chars": 1027847,
+      "parsed_comments": 328,
+      "read_at": "2026-09-19T09:41:32.667893+00:00"
+    },
+    {
+      "post_id": 5492,
+      "url": "https://exler.es/ezhe/starinnyj-gorodok-vezle-i-vinodelcheskie-kooperativy.htm",
+      "fetched_at": "2026-01-29 16:41:09",
+      "html_sha256": "e7878e0913ebdb7c55fb791d87acd49e58f49b2fd54e2c33b408c391ac163680",
+      "html_chars": 127736,
+      "parsed_comments": 26,
+      "read_at": "2026-09-19T09:41:32.553391+00:00"
+    },
+    {
+      "post_id": 5517,
+      "url": "https://exler.es/blog/podgotovka-k-koronatsii-charlza-iii.htm",
+      "fetched_at": "2026-01-29 16:41:24",
+      "html_sha256": "debc9446ecbb0e7a153a2ede665189801783c59bd00710ac162cfd6f5f8d21f6",
+      "html_chars": 216476,
+      "parsed_comments": 52,
+      "read_at": "2026-09-19T09:41:32.579112+00:00"
+    },
+    {
+      "post_id": 5529,
+      "url": "https://exler.es/expromt/obzor-tws-naushnikov-redmi-buds-4-pro.htm",
+      "fetched_at": "2026-01-29 16:41:31",
+      "html_sha256": "939f970257d24283f807edefc13f0a4f1e649ac7467c03c047d4e39d02824a9f",
+      "html_chars": 168228,
+      "parsed_comments": 44,
+      "read_at": "2026-09-19T09:41:32.700318+00:00"
+    },
+    {
+      "post_id": 5538,
+      "url": "https://exler.es/films/napadenie-na-rio-bravo.htm",
+      "fetched_at": "2026-01-29 16:41:37",
+      "html_sha256": "c09c23987cb158999e4625efa8879d94f19fc45fb3fd2c76201cef783df7f7e3",
+      "html_chars": 447315,
+      "parsed_comments": 102,
+      "read_at": "2026-09-19T09:41:43.740510+00:00"
+    },
+    {
+      "post_id": 5550,
+      "url": "https://exler.es/blog/delo-blinovskoy.htm",
+      "fetched_at": "2026-01-29 16:41:44",
+      "html_sha256": "d7d67a7d8c7cb4ad25783347beea1d42e5c770ca3f204d125e23bbe682667ea7",
+      "html_chars": 812258,
+      "parsed_comments": 268,
+      "read_at": "2026-09-19T09:41:43.956261+00:00"
+    },
+    {
+      "post_id": 5573,
+      "url": "https://exler.es/expromt/obzor-smartfona-google-pixel-7-pro.htm",
+      "fetched_at": "2026-01-29 16:41:59",
+      "html_sha256": "4d0128797c952449a27248b60fe5c9b6aac5322541d6ff2da7eac5a79fcdb632",
+      "html_chars": 536173,
+      "parsed_comments": 169,
+      "read_at": "2026-09-19T09:41:43.776696+00:00"
+    },
+    {
+      "post_id": 5627,
+      "url": "https://exler.es/blog/eto-konechno-porazitelnaya-istoriya.htm",
+      "fetched_at": "2026-01-29 16:42:34",
+      "html_sha256": "7fb463cb0cb353a2974ded24f679e5e851e056c1b437a6a0f7dd699dd2e278e3",
+      "html_chars": 982702,
+      "parsed_comments": 335,
+      "read_at": "2026-09-19T09:41:43.982867+00:00"
+    },
+    {
+      "post_id": 5646,
+      "url": "https://exler.es/ezhe/vse-chto-nuzhno-znat-o-reuse-stolice-vermuta-ispanii.htm",
+      "fetched_at": "2026-01-29 16:42:46",
+      "html_sha256": "6e8fbc45d4de9a61c603ac374c087bf13355f6f5f26e4d9a6a29af6eaa3012d4",
+      "html_chars": 145902,
+      "parsed_comments": 28,
+      "read_at": "2026-09-19T09:41:53.227529+00:00"
+    },
+    {
+      "post_id": 5653,
+      "url": "https://exler.es/films/moj-uzhasnyj-sosed.htm",
+      "fetched_at": "2026-01-29 16:42:51",
+      "html_sha256": "2ddb06a150097600f50d8d0e46ed268fcc992ece2d2ea12a9109c00c03f6e9d9",
+      "html_chars": 369566,
+      "parsed_comments": 69,
+      "read_at": "2026-09-19T09:48:52.782543+00:00"
+    },
+    {
+      "post_id": 5682,
+      "url": "https://exler.es/expromt/obzor-smartfona-nothing-phone-1-originalno-i-neobychno.htm",
+      "fetched_at": "2026-01-29 16:43:10",
+      "html_sha256": "eb1056757ecc78508db3ea20d2f89527fbfc03cb4e1ac7c4903585b9379f46e9",
+      "html_chars": 168968,
+      "parsed_comments": 38,
+      "read_at": "2026-09-19T09:41:53.448261+00:00"
+    },
+    {
+      "post_id": 5688,
+      "url": "https://exler.es/films/operaciya-fortuna-iskusstvo-pobezhdat.htm",
+      "fetched_at": "2026-01-29 16:43:13",
+      "html_sha256": "d8d8565ba896fa5bea978e618c24e1baf154e7b6f071c325d805a6061beba375",
+      "html_chars": 439458,
+      "parsed_comments": 94,
+      "read_at": "2026-09-19T09:41:53.281392+00:00"
+    },
+    {
+      "post_id": 5696,
+      "url": "https://exler.es/blog/uznayete-aktera-2.htm",
+      "fetched_at": "2026-01-29 16:43:19",
+      "html_sha256": "9217502d2c2b0caf3c5fd96467388e61bd11f9df1d830d7d75e684fa26cb60c5",
+      "html_chars": 174080,
+      "parsed_comments": 32,
+      "read_at": "2026-09-19T09:41:53.245374+00:00"
+    },
+    {
+      "post_id": 5713,
+      "url": "https://exler.es/blog/travushki-muravushki.htm",
+      "fetched_at": "2026-01-29 16:43:29",
+      "html_sha256": "530a40fcf27b33a2225f2518d6e31621daae8a2930c2960d8a2a154b0db19fc9",
+      "html_chars": 221699,
+      "parsed_comments": 53,
+      "read_at": "2026-09-19T09:42:03.346347+00:00"
+    },
+    {
+      "post_id": 5721,
+      "url": "https://exler.es/films/chernaya-ptica.htm",
+      "fetched_at": "2026-01-29 16:43:34",
+      "html_sha256": "d4fee44e19e2ac69ede41203c6c0c31776a3961b9f28974b4ecdd304b541bb1e",
+      "html_chars": 294794,
+      "parsed_comments": 38,
+      "read_at": "2026-09-19T09:42:03.361453+00:00"
+    },
+    {
+      "post_id": 5736,
+      "url": "https://exler.es/blog/samyy-perevodimyy-ispanoyazychnyy-pisatel.htm",
+      "fetched_at": "2026-01-29 16:43:43",
+      "html_sha256": "19f22eedadaf37fc9c3a180c9cc614c8e1c9d8fbe69b72274d51f78358798a17",
+      "html_chars": 177417,
+      "parsed_comments": 33,
+      "read_at": "2026-09-19T09:42:03.294903+00:00"
+    },
+    {
+      "post_id": 5741,
+      "url": "https://exler.es/films/mest-1.htm",
+      "fetched_at": "2026-01-29 16:43:47",
+      "html_sha256": "1ac15f375b99baf213c852f9831b603f6e070c8e77ac4f93d55873ed7d469a44",
+      "html_chars": 269560,
+      "parsed_comments": 33,
+      "read_at": "2026-09-19T09:42:03.333798+00:00"
+    },
+    {
+      "post_id": 5744,
+      "url": "https://exler.es/blog/sovmestnoye-zayavleniye.htm",
+      "fetched_at": "2026-01-29 16:43:49",
+      "html_sha256": "a50ba40fbe38f60a93c24e64ef722ee5b5f5bd526c04c91596db88ae353d0e53",
+      "html_chars": 302878,
+      "parsed_comments": 81,
+      "read_at": "2026-09-19T09:42:11.777481+00:00"
+    },
+    {
+      "post_id": 5931,
+      "url": "https://exler.es/likbez/poleznye-hitrosti-pri-ispolzovanii-whatsapp-ii.htm",
+      "fetched_at": "2026-01-29 16:45:48",
+      "html_sha256": "313a8fc46c2f1acd343e1ab6e7083c759164021e72b125eb575d699c655be0d9",
+      "html_chars": 235378,
+      "parsed_comments": 76,
+      "read_at": "2026-09-19T09:42:11.821148+00:00"
+    },
+    {
+      "post_id": 5935,
+      "url": "https://exler.es/expromt/kak-bystro-i-effektivno-moderirovat-chat-kommenty-telegram-kanala.htm",
+      "fetched_at": "2026-01-29 16:45:51",
+      "html_sha256": "96bf43b1287b30de58526241faab1693ee0cb412ff8aeddcfd9189eb501a967b",
+      "html_chars": 125106,
+      "parsed_comments": 24,
+      "read_at": "2026-09-19T09:42:11.815206+00:00"
+    },
+    {
+      "post_id": 5985,
+      "url": "https://exler.es/blog/ranshe-on-byl-masterom-po-metallu.htm",
+      "fetched_at": "2026-01-29 16:46:22",
+      "html_sha256": "ec1757103e9560eaaac91e62ed0e0153156692444cd9557cce51a2989f6d5a1d",
+      "html_chars": 751533,
+      "parsed_comments": 241,
+      "read_at": "2026-09-19T09:42:12.082660+00:00"
+    },
+    {
+      "post_id": 5992,
+      "url": "https://exler.es/blog/zavorazhivayushchiye-mikrofoto-lek-oko.htm",
+      "fetched_at": "2026-01-29 16:46:26",
+      "html_sha256": "0614a4f89596cb8f2d5e03df062b1ed47d2cd22f1eced2d62509346f5d353153",
+      "html_chars": 177141,
+      "parsed_comments": 33,
+      "read_at": "2026-09-19T09:42:22.097409+00:00"
+    },
+    {
+      "post_id": 5996,
+      "url": "https://exler.es/blog/kulernyye-stradaniya.htm",
+      "fetched_at": "2026-01-29 16:46:29",
+      "html_sha256": "1e59d11ceca45cc08933c7db7baa8cc43b9b8d315d0634f80c7b582134036a2a",
+      "html_chars": 455540,
+      "parsed_comments": 132,
+      "read_at": "2026-09-19T09:42:22.305082+00:00"
+    },
+    {
+      "post_id": 6008,
+      "url": "https://exler.es/films/vavilon-1.htm",
+      "fetched_at": "2026-01-29 16:46:36",
+      "html_sha256": "9afcf5efcc56f7c7b30af31fcdf98ac106015a4e3ad3ef6390d44ccd562a017f",
+      "html_chars": 352977,
+      "parsed_comments": 64,
+      "read_at": "2026-09-19T09:42:22.133725+00:00"
+    },
+    {
+      "post_id": 6011,
+      "url": "https://exler.es/blog/kak-ubrat-gruppirovku-v-paneli-zadach-windows-11.htm",
+      "fetched_at": "2026-01-29 16:46:38",
+      "html_sha256": "9721e2b98c5eb019d2c0ba776fe870b5450ede652607d15c7bb02ba533ac13c6",
+      "html_chars": 540090,
+      "parsed_comments": 161,
+      "read_at": "2026-09-19T09:49:03.742475+00:00"
+    },
+    {
+      "post_id": 6026,
+      "url": "https://exler.es/films/fabelmany.htm",
+      "fetched_at": "2026-01-29 16:46:49",
+      "html_sha256": "bfc3a1d1c8012567c19848e949a7d3f931b900843008fadb954345337d38c5c4",
+      "html_chars": 308283,
+      "parsed_comments": 46,
+      "read_at": "2026-09-19T09:49:03.757262+00:00"
+    },
+    {
+      "post_id": 6055,
+      "url": "https://exler.es/blog/istoriya-georgiya-millyara-baby-yagi-sovetskogo-kino.htm",
+      "fetched_at": "2026-01-29 16:47:08",
+      "html_sha256": "53c8618a6e9809b7111ea856835b0c0350cd87195056ff4482d103d05406c6c9",
+      "html_chars": 244171,
+      "parsed_comments": 58,
+      "read_at": "2026-09-19T09:42:22.164664+00:00"
+    },
+    {
+      "post_id": 6083,
+      "url": "https://exler.es/blog/retsenziya-zritelnitsy-na-cheburashku.htm",
+      "fetched_at": "2026-01-29 16:47:26",
+      "html_sha256": "b9cc8201b7786c37837096559b0f1b32cef831834b78e74b3b6e199539fda5e6",
+      "html_chars": 1303555,
+      "parsed_comments": 457,
+      "read_at": "2026-09-19T09:42:30.630025+00:00"
+    },
+    {
+      "post_id": 6093,
+      "url": "https://exler.es/expromt/obzor-umnyh-chasov-garmin-fenix-7.htm",
+      "fetched_at": "2026-01-29 16:47:32",
+      "html_sha256": "512c2eaebdcbce9bfd4f8aae40482b826ed35d7ae1f53b550243b22aa9d92ee9",
+      "html_chars": 381527,
+      "parsed_comments": 114,
+      "read_at": "2026-09-19T09:42:30.785403+00:00"
+    },
+    {
+      "post_id": 6106,
+      "url": "https://exler.es/blog/bychiy-khvost-delikates-takoy.htm",
+      "fetched_at": "2026-01-29 16:47:40",
+      "html_sha256": "555913e0065bae2eaf826ac585c626223bc69abbc2e09e279cc58c3528437861",
+      "html_chars": 365781,
+      "parsed_comments": 106,
+      "read_at": "2026-09-19T09:49:03.985879+00:00"
+    },
+    {
+      "post_id": 6128,
+      "url": "https://exler.es/blog/podbor-komplektuyushchikh-dlya-pk-versiya-3.htm",
+      "fetched_at": "2026-01-29 16:47:54",
+      "html_sha256": "25afd6730f6f506a2f68e2f2322f2dba1ad7273e989e0b84a17182cef13bb40d",
+      "html_chars": 641586,
+      "parsed_comments": 202,
+      "read_at": "2026-09-19T09:49:16.690489+00:00"
+    },
+    {
+      "post_id": 6206,
+      "url": "https://exler.es/blog/kogda-garri-vstretil-uilli.htm",
+      "fetched_at": "2026-01-29 16:48:43",
+      "html_sha256": "f67abc34c80f988df148b37526fdb900cc023291ccc47627358d30ea67e6c58a",
+      "html_chars": 529040,
+      "parsed_comments": 165,
+      "read_at": "2026-09-19T09:42:30.589592+00:00"
+    },
+    {
+      "post_id": 6257,
+      "url": "https://exler.es/blog/opozdavshiy-chempion-vse-ravno-ne-proigryvayet.htm",
+      "fetched_at": "2026-01-29 16:49:15",
+      "html_sha256": "3a53676a1d3524e558f94869f63247d4c8164a8dacf2772cdbc0e640c3d4e2c6",
+      "html_chars": 317677,
+      "parsed_comments": 88,
+      "read_at": "2026-09-19T09:42:30.791017+00:00"
+    },
+    {
+      "post_id": 6279,
+      "url": "https://exler.es/expromt/obzor-smartfona-poco-m5s-novyj-byudzhetnik.htm",
+      "fetched_at": "2026-01-29 16:49:28",
+      "html_sha256": "50fb10279dc89df9450ef52bfaaf0b00fd4f23fb890fde15f611bffba8658c00",
+      "html_chars": 151913,
+      "parsed_comments": 32,
+      "read_at": "2026-09-19T09:42:40.139564+00:00"
+    },
+    {
+      "post_id": 6303,
+      "url": "https://exler.es/films/belyj-lotos.htm",
+      "fetched_at": "2026-01-29 16:49:43",
+      "html_sha256": "5b7d40849aa2dafe4dfa6ad17c12d3f8dc2648feb30746994f83df379f4d06e9",
+      "html_chars": 325458,
+      "parsed_comments": 56,
+      "read_at": "2026-09-19T09:49:16.678251+00:00"
+    },
+    {
+      "post_id": 6314,
+      "url": "https://exler.es/expromt/obzor-13-dyujmovogo-plansheta-blackview-tab-13.htm",
+      "fetched_at": "2026-01-29 16:49:50",
+      "html_sha256": "60f8e564dcb61a50391eb32dc2b2e188623a2d46ecc5b556d8bbaf87e252fed5",
+      "html_chars": 262552,
+      "parsed_comments": 75,
+      "read_at": "2026-09-19T09:42:40.383438+00:00"
+    },
+    {
+      "post_id": 6334,
+      "url": "https://exler.es/blog/kakoy-match.htm",
+      "fetched_at": "2026-01-29 16:50:02",
+      "html_sha256": "c565e1c413f7dc53156af73f046ee7e661e006bc7135071dadcf2fe223647033",
+      "html_chars": 364276,
+      "parsed_comments": 109,
+      "read_at": "2026-09-19T09:42:40.176738+00:00"
+    },
+    {
+      "post_id": 6350,
+      "url": "https://exler.es/blog/predstavleny-smartfony-xiaomi-13-13-pro.htm",
+      "fetched_at": "2026-01-29 16:50:12",
+      "html_sha256": "9a9cbe4cb31e65e3759f818881a86d3c172805b00f4d27fab050eae428cc6522",
+      "html_chars": 175398,
+      "parsed_comments": 31,
+      "read_at": "2026-09-19T09:42:40.350019+00:00"
+    },
+    {
+      "post_id": 6372,
+      "url": "https://exler.es/expromt/obzor-tws-naushnikov-samsung-galaxy-buds-live.htm",
+      "fetched_at": "2026-01-29 16:50:26",
+      "html_sha256": "7a5b055cdfdaef5bcca246fb57c47e33d043acd15e782aa2bcf9e089d2788da7",
+      "html_chars": 153467,
+      "parsed_comments": 34,
+      "read_at": "2026-09-19T09:42:52.029424+00:00"
+    },
+    {
+      "post_id": 6406,
+      "url": "https://exler.es/expromt/obzor-smartfona-xiaomi-12t.htm",
+      "fetched_at": "2026-01-29 16:50:47",
+      "html_sha256": "a563ed209b793fcba23adbe40fa75610a6f286d0ba0a3e69f41b4dc7480ea108",
+      "html_chars": 282760,
+      "parsed_comments": 79,
+      "read_at": "2026-09-19T09:42:51.801990+00:00"
+    },
+    {
+      "post_id": 6472,
+      "url": "https://exler.es/bannizm/molodoj-rossijskij-slavnyj-syr.htm",
+      "fetched_at": "2026-01-29 16:51:30",
+      "html_sha256": "02bcb8521d821db7ee620341bd3666cae7b46f87d60cd35f071d72cf5fae8716",
+      "html_chars": 280965,
+      "parsed_comments": 98,
+      "read_at": "2026-09-19T09:49:16.915196+00:00"
+    },
+    {
+      "post_id": 6499,
+      "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-106.htm",
+      "fetched_at": "2026-01-29 16:51:47",
+      "html_sha256": "a4a5aeb25894956ed6993981008850809c908f95aa7fe4039f466a2fc8bad920",
+      "html_chars": 538957,
+      "parsed_comments": 192,
+      "read_at": "2026-09-19T09:42:52.139093+00:00"
+    },
+    {
+      "post_id": 6518,
+      "url": "https://exler.es/films/tam-gde-raki-poyut.htm",
+      "fetched_at": "2026-01-29 16:51:59",
+      "html_sha256": "fdad53c2421b2e037af10cb27abf1d7df1ee06f20dd45f7955f7faad6d10897f",
+      "html_chars": 372075,
+      "parsed_comments": 73,
+      "read_at": "2026-09-19T09:49:27.279199+00:00"
+    },
+    {
+      "post_id": 6529,
+      "url": "https://exler.es/expromt/obzor-smartfona-iphone-14-pro-max.htm",
+      "fetched_at": "2026-01-29 16:52:06",
+      "html_sha256": "c974b6fa46abdc5195864b8f176ffc78fceeaca643a75f767f818bc9dcbca2b7",
+      "html_chars": 495151,
+      "parsed_comments": 156,
+      "read_at": "2026-09-19T09:42:51.848335+00:00"
+    },
+    {
+      "post_id": 6536,
+      "url": "https://exler.es/blog/paninskiye-strasti.htm",
+      "fetched_at": "2026-01-29 16:52:10",
+      "html_sha256": "20cd394496d8bfe8435a4a9133bdb8d15821fdbc9a028590de13b4ac540c8dc4",
+      "html_chars": 505593,
+      "parsed_comments": 157,
+      "read_at": "2026-09-19T09:43:04.255337+00:00"
+    },
+    {
+      "post_id": 6537,
+      "url": "https://exler.es/films/smotrite-kak-oni-begut.htm",
+      "fetched_at": "2026-01-29 16:52:10",
+      "html_sha256": "166b320cb9361aa5ffecadf0b0df5a8e6bd6233eabd5a3fa2b4da7ec8bc30e6e",
+      "html_chars": 298900,
+      "parsed_comments": 45,
+      "read_at": "2026-09-19T09:43:04.258916+00:00"
+    },
+    {
+      "post_id": 6580,
+      "url": "https://exler.es/blog/film-zheleznyy-kogot.htm",
+      "fetched_at": "2026-01-29 16:52:37",
+      "html_sha256": "42573cfb356d76f3fe757beeb8cb0c5e42a3e808a6378d3489a86bd5c0f25ba4",
+      "html_chars": 226234,
+      "parsed_comments": 52,
+      "read_at": "2026-09-19T09:49:27.271460+00:00"
+    },
+    {
+      "post_id": 6581,
+      "url": "https://exler.es/films/pianino.htm",
+      "fetched_at": "2026-01-29 16:52:38",
+      "html_sha256": "e4260771ce69e437e139f6f85ed9fb4788ece90729da2364fa08deecd442d15d",
+      "html_chars": 313569,
+      "parsed_comments": 55,
+      "read_at": "2026-09-19T09:43:04.272101+00:00"
+    },
+    {
+      "post_id": 6655,
+      "url": "https://exler.es/films/predlozhenie.htm",
+      "fetched_at": "2026-01-29 16:53:25",
+      "html_sha256": "9a6a03534627e1e8d0c211a009aafe3ddd3843db99a9ceee6301853ba18d2200",
+      "html_chars": 372139,
+      "parsed_comments": 70,
+      "read_at": "2026-09-19T09:43:04.474983+00:00"
+    },
+    {
+      "post_id": 6665,
+      "url": "https://exler.es/expromt/obzor-smartfona-google-pixel-6a.htm",
+      "fetched_at": "2026-01-29 16:53:32",
+      "html_sha256": "2e8c93586882ab9320b651b321150e4a727a2ade7e3268056f3bc71634f354c4",
+      "html_chars": 354497,
+      "parsed_comments": 105,
+      "read_at": "2026-09-19T09:43:13.546049+00:00"
+    },
+    {
+      "post_id": 6736,
+      "url": "https://exler.es/films/za-pivom.htm",
+      "fetched_at": "2026-01-29 16:54:17",
+      "html_sha256": "d1744e3f28f80c99121ead030841928ff69db6f11ca5fb2d2e8dfaed790cd1fc",
+      "html_chars": 308410,
+      "parsed_comments": 47,
+      "read_at": "2026-09-19T09:49:27.066360+00:00"
+    },
+    {
+      "post_id": 6759,
+      "url": "https://exler.es/ezhe/park-labirint-orta-v-barselone.htm",
+      "fetched_at": "2026-01-29 16:54:32",
+      "html_sha256": "2cf201d402603c6267a955978130acc54a5f9719c2fbd3606bef31ab191a46b1",
+      "html_chars": 89930,
+      "parsed_comments": 15,
+      "read_at": "2026-09-19T09:49:36.947078+00:00"
+    },
+    {
+      "post_id": 6833,
+      "url": "https://exler.es/films/ostrov-bergmana.htm",
+      "fetched_at": "2026-01-29 16:55:20",
+      "html_sha256": "82ac292c9ee2a696097a82639b4b8e925961a3bb8b36de97ec3838006d085509",
+      "html_chars": 212002,
+      "parsed_comments": 9,
+      "read_at": "2026-09-19T09:43:13.569098+00:00"
+    },
+    {
+      "post_id": 6834,
+      "url": "https://exler.es/blog/konkurs-na-luchshuyu-paelyu.htm",
+      "fetched_at": "2026-01-29 16:55:20",
+      "html_sha256": "e61f0d464c63aa89c76d6b3be91a2f96ce1af6da67aee24f5486a6e89607abce",
+      "html_chars": 272487,
+      "parsed_comments": 69,
+      "read_at": "2026-09-19T09:43:13.779080+00:00"
+    },
+    {
+      "post_id": 6842,
+      "url": "https://exler.es/expromt/obzor-kompaktnogo-mediapleera-dune-hd-magic-4k-plus.htm",
+      "fetched_at": "2026-01-29 16:55:26",
+      "html_sha256": "6b75dc332fe16d2099f57874a21651be20dfb870001b31f3f4301ee046747d8e",
+      "html_chars": 542286,
+      "parsed_comments": 178,
+      "read_at": "2026-09-19T09:43:13.598213+00:00"
+    },
+    {
+      "post_id": 6851,
+      "url": "https://exler.es/blog/novyy-mirovoy-rekord-po-marafonu.htm",
+      "fetched_at": "2026-01-29 16:55:31",
+      "html_sha256": "06884814619135eee91c55a674bb43ed7eda45683f14256671a835d307bde2ab",
+      "html_chars": 284203,
+      "parsed_comments": 75,
+      "read_at": "2026-09-19T09:43:23.747378+00:00"
+    },
+    {
+      "post_id": 6897,
+      "url": "https://exler.es/blog/barselona-s-vysoty-30-go-etazha.htm",
+      "fetched_at": "2026-01-29 16:56:00",
+      "html_sha256": "8bb110f6f0d781314d8ad1fa46c271ab09c9e0041d10d3aca3ab6617f985c2d0",
+      "html_chars": 367972,
+      "parsed_comments": 106,
+      "read_at": "2026-09-19T09:43:23.540791+00:00"
+    },
+    {
+      "post_id": 6901,
+      "url": "https://exler.es/films/poezdka-1.htm",
+      "fetched_at": "2026-01-29 16:56:03",
+      "html_sha256": "c6f4885feaad9fc205e09c62c139b5418a846d4ad244e4def25f577c5e21dfc9",
+      "html_chars": 358982,
+      "parsed_comments": 68,
+      "read_at": "2026-09-19T09:43:23.722803+00:00"
+    },
+    {
+      "post_id": 6941,
+      "url": "https://exler.es/films/elvis.htm",
+      "fetched_at": "2026-01-29 16:56:29",
+      "html_sha256": "4852ccec4528ae4bd322bdab357cfcbb9439fff166390a5980fa93cd50a34cfc",
+      "html_chars": 290165,
+      "parsed_comments": 41,
+      "read_at": "2026-09-19T09:49:37.002073+00:00"
+    },
+    {
+      "post_id": 7033,
+      "url": "https://exler.es/expromt/obzor-smartfona-xiaomi-12x-kto-hotel-kompaktnyj-i-moshnyj.htm",
+      "fetched_at": "2026-01-29 16:57:26",
+      "html_sha256": "80ce6fd8058dc3b397ffeb2e5ca7df279148620e2534914ea4a14d2a7921b39c",
+      "html_chars": 324104,
+      "parsed_comments": 94,
+      "read_at": "2026-09-19T09:43:13.789546+00:00"
+    },
+    {
+      "post_id": 7047,
+      "url": "https://exler.es/blog/tur-po-burgundii-s-ekslerom.htm",
+      "fetched_at": "2026-01-29 16:57:35",
+      "html_sha256": "d6a71959f8d7fd79a314a0c42ad0cfa6c564ad6e7f7b9fe71dde7a6b6dee8b0a",
+      "html_chars": 267968,
+      "parsed_comments": 57,
+      "read_at": "2026-09-19T09:43:23.577789+00:00"
+    },
+    {
+      "post_id": 7141,
+      "url": "https://exler.es/films/agent-117-iz-afriki-s-lyubovyu.htm",
+      "fetched_at": "2026-01-29 16:58:34",
+      "html_sha256": "5661d118a3243da7dd9e1e32a8db356980b814b8c0406347a9fae8d69c10040d",
+      "html_chars": 257563,
+      "parsed_comments": 27,
+      "read_at": "2026-09-19T09:43:32.516344+00:00"
+    },
+    {
+      "post_id": 7170,
+      "url": "https://exler.es/films/glavnaya-rol.htm",
+      "fetched_at": "2026-01-29 16:58:52",
+      "html_sha256": "341bdaf80a5244287381b2000a08fce14f7c4665a2411d6948c3da4dec0f8b4b",
+      "html_chars": 298333,
+      "parsed_comments": 43,
+      "read_at": "2026-09-19T09:49:27.286637+00:00"
+    },
+    {
+      "post_id": 7172,
+      "url": "https://exler.es/blog/ispaniya-vo-mrake.htm",
+      "fetched_at": "2026-01-29 16:58:55",
+      "html_sha256": "1418e07888fbebe93c37a4eb72ad811efb8e455566a5eead9159e4ba2b0333c9",
+      "html_chars": 763300,
+      "parsed_comments": 254,
+      "read_at": "2026-09-19T09:43:32.785963+00:00"
+    },
+    {
+      "post_id": 7176,
+      "url": "https://exler.es/blog/dve-novosti-podryad.htm",
+      "fetched_at": "2026-01-29 16:58:58",
+      "html_sha256": "d26b7e0d138e11d350a6721f65f7c51342989f90c247db354a8036d46de87441",
+      "html_chars": 633837,
+      "parsed_comments": 212,
+      "read_at": "2026-09-19T09:43:32.537982+00:00"
+    },
+    {
+      "post_id": 7180,
+      "url": "https://exler.es/ezhe/rioha-vinodelcheskij-centr-ispanii.htm",
+      "fetched_at": "2026-01-29 16:59:00",
+      "html_sha256": "e03485c179e53faf86bd2db334a51a0ee55743b823e21536f61703f9b5bb64a7",
+      "html_chars": 140485,
+      "parsed_comments": 29,
+      "read_at": "2026-09-19T09:49:37.213801+00:00"
+    },
+    {
+      "post_id": 7224,
+      "url": "https://exler.es/films/pacany-tretij-sezon.htm",
+      "fetched_at": "2026-01-29 16:59:32",
+      "html_sha256": "19f3138d5930c7c70478a59020cf1133d6aa4d33fb83518279008b18fde45519",
+      "html_chars": 346892,
+      "parsed_comments": 64,
+      "read_at": "2026-09-19T09:43:32.507050+00:00"
+    },
+    {
+      "post_id": 7264,
+      "url": "https://exler.es/expromt/obzor-srednebyudzhetnogo-smartfona-samsung-galaxy-a53-5g.htm",
+      "fetched_at": "2026-01-29 16:59:56",
+      "html_sha256": "81a24c5de003592b87f3218af0020075db0c9b384e2cd0febe75df5f83d48595",
+      "html_chars": 234042,
+      "parsed_comments": 60,
+      "read_at": "2026-09-19T09:43:44.231914+00:00"
+    },
+    {
+      "post_id": 7286,
+      "url": "https://exler.es/blog/territoriya-svobodnaya-ot-gugla.htm",
+      "fetched_at": "2026-01-29 17:00:11",
+      "html_sha256": "d269703ce4cc8417a5a339ae540a6c37ea1b522c6e8f0f1e11ad1912d7173c2f",
+      "html_chars": 374596,
+      "parsed_comments": 111,
+      "read_at": "2026-09-19T09:43:44.006856+00:00"
+    },
+    {
+      "post_id": 7302,
+      "url": "https://exler.es/expromt/obzor-byudzhetnyh-umnyh-chasov-amazfit-bip-3-deshevo-i-horosho.htm",
+      "fetched_at": "2026-01-29 17:00:21",
+      "html_sha256": "147e93a0ecd2996af5e29d6e6405db75a461e9e7c90ab2144d7f30c6d5e87f57",
+      "html_chars": 258185,
+      "parsed_comments": 74,
+      "read_at": "2026-09-19T09:43:44.001798+00:00"
+    },
+    {
+      "post_id": 7344,
+      "url": "https://exler.es/films/kostyum.htm",
+      "fetched_at": "2026-01-29 17:00:47",
+      "html_sha256": "deb5605c0662efaa2e067ca387270483cac66abbb68c78d6d47fe2ca33e7305b",
+      "html_chars": 392064,
+      "parsed_comments": 83,
+      "read_at": "2026-09-19T09:43:44.181801+00:00"
+    },
+    {
+      "post_id": 7362,
+      "url": "https://exler.es/films/doktor-strendzh-v-multivselennoj-bezumiya.htm",
+      "fetched_at": "2026-01-29 17:00:59",
+      "html_sha256": "2b1eb8dac7790a4869d4228e7f9ab93daf0085de2ae05b8ded91c0d86943dff9",
+      "html_chars": 441350,
+      "parsed_comments": 95,
+      "read_at": "2026-09-19T09:49:45.176630+00:00"
+    },
+    {
+      "post_id": 7382,
+      "url": "https://exler.es/blog/vy-budete-smeyatsya-2.htm",
+      "fetched_at": "2026-01-29 17:01:11",
+      "html_sha256": "53ab156a721af5c4c68469ae0b009d8c432b0fe3353863a59dd10444f69c1f1e",
+      "html_chars": 305310,
+      "parsed_comments": 74,
+      "read_at": "2026-09-19T09:43:53.961373+00:00"
+    },
+    {
+      "post_id": 7390,
+      "url": "https://exler.es/films/lyupen.htm",
+      "fetched_at": "2026-01-29 17:01:16",
+      "html_sha256": "177e93935efa9ffde880a48a38988dfe04f74caa5d8807597354d8dee16de706",
+      "html_chars": 381514,
+      "parsed_comments": 76,
+      "read_at": "2026-09-19T09:49:45.410858+00:00"
+    },
+    {
+      "post_id": 7490,
+      "url": "https://exler.es/films/semejnyj-brak.htm",
+      "fetched_at": "2026-01-29 17:02:19",
+      "html_sha256": "d9010a89204617353e3a770ad9f642b38cd34a89dd3c0cc885cdec4934ca5169",
+      "html_chars": 367475,
+      "parsed_comments": 71,
+      "read_at": "2026-09-19T09:43:53.739125+00:00"
+    },
+    {
+      "post_id": 7493,
+      "url": "https://exler.es/blog/seks-ovoshchnoye-ragu-eklektika.htm",
+      "fetched_at": "2026-01-29 17:02:21",
+      "html_sha256": "0e16ce1cde431d765b2fb9fff5bb3a3e1f52cfce16b04796e2081d8e287d97ef",
+      "html_chars": 216520,
+      "parsed_comments": 46,
+      "read_at": "2026-09-19T09:43:53.852096+00:00"
+    },
+    {
+      "post_id": 7505,
+      "url": "https://exler.es/likbez/kak-skachat-installyator-windows-10-11-iz-rossii.htm",
+      "fetched_at": "2026-01-29 17:02:28",
+      "html_sha256": "99f41624dc67f01e815448acbd02a935e38a09deb2c079749b80f02f29d5155b",
+      "html_chars": 181439,
+      "parsed_comments": 58,
+      "read_at": "2026-09-19T09:49:45.185660+00:00"
+    },
+    {
+      "post_id": 7539,
+      "url": "https://exler.es/films/policiya-tokio.htm",
+      "fetched_at": "2026-01-29 17:02:48",
+      "html_sha256": "ca4d9a97d7b6801ee989e7909f4e655c233e9c757327ac6168a8fe7652dce26a",
+      "html_chars": 284270,
+      "parsed_comments": 40,
+      "read_at": "2026-09-19T09:43:53.916157+00:00"
+    },
+    {
+      "post_id": 7556,
+      "url": "https://exler.es/films/nevynosimaya-tyazhest-ogromnogo-talanta.htm",
+      "fetched_at": "2026-01-29 17:02:59",
+      "html_sha256": "fd409e4950d1a5d5683b1d68034ef1592cefd193f47b08ccd88167ab45cb7c4c",
+      "html_chars": 469437,
+      "parsed_comments": 108,
+      "read_at": "2026-09-19T09:44:02.771020+00:00"
+    },
+    {
+      "post_id": 7568,
+      "url": "https://exler.es/blog/seks-pertsy-ched-smit.htm",
+      "fetched_at": "2026-01-29 17:03:06",
+      "html_sha256": "786c3dc4a25bf200aac3dd5154e920338841aece0f362d87180c5a5d5190d2cd",
+      "html_chars": 182729,
+      "parsed_comments": 35,
+      "read_at": "2026-09-19T09:44:02.754122+00:00"
+    },
+    {
+      "post_id": 7584,
+      "url": "https://exler.es/blog/lesnoy-pazhar-v-malage.htm",
+      "fetched_at": "2026-01-29 17:03:17",
+      "html_sha256": "12749d4d8830e892180974fe00ca7f7f530eadefece6ebc954f5c76f5f9186aa",
+      "html_chars": 116409,
+      "parsed_comments": 11,
+      "read_at": "2026-09-19T09:44:02.755643+00:00"
+    },
+    {
+      "post_id": 7588,
+      "url": "https://exler.es/films/po-versii-barni.htm",
+      "fetched_at": "2026-01-29 17:03:19",
+      "html_sha256": "dda282714ae7fbca624eaf9b6245d0f1136623818fe2e3e30ea916c358345ea4",
+      "html_chars": 268150,
+      "parsed_comments": 31,
+      "read_at": "2026-09-19T09:44:02.758497+00:00"
+    },
+    {
+      "post_id": 7600,
+      "url": "https://exler.es/expromt/obzor-smartfona-xiaomi-redmi-note-11-pro.htm",
+      "fetched_at": "2026-01-29 17:03:26",
+      "html_sha256": "9925562b0b3bc9372b70a557bbea9af77d69043835ed2af3fa883c6a49c9242f",
+      "html_chars": 239984,
+      "parsed_comments": 64,
+      "read_at": "2026-09-19T09:49:55.375685+00:00"
+    },
+    {
+      "post_id": 7637,
+      "url": "https://exler.es/films/razdelenie.htm",
+      "fetched_at": "2026-01-29 17:03:50",
+      "html_sha256": "51dbcb65320dbe8fa06dbfd2656fb4cbd06385229f62c42119f12b39866e2a10",
+      "html_chars": 427291,
+      "parsed_comments": 96,
+      "read_at": "2026-09-19T09:44:14.027606+00:00"
+    },
+    {
+      "post_id": 7666,
+      "url": "https://exler.es/films/vsyo-vezde-i-srazu.htm",
+      "fetched_at": "2026-01-29 17:04:08",
+      "html_sha256": "b213ab3b5d88e92417da05dfca7cc8c350e48c5a39a41ee4a10492f6edbd35c7",
+      "html_chars": 335988,
+      "parsed_comments": 60,
+      "read_at": "2026-09-19T09:44:14.126133+00:00"
+    },
+    {
+      "post_id": 7691,
+      "url": "https://exler.es/blog/kukuruz-izdevayetsya-nad-kordenom.htm",
+      "fetched_at": "2026-01-29 17:04:24",
+      "html_sha256": "90121f259bdfd65797f8a6401931d318ff60a6b00496c473e11ef3e0381af651",
+      "html_chars": 241227,
+      "parsed_comments": 59,
+      "read_at": "2026-09-19T09:44:14.117293+00:00"
+    },
+    {
+      "post_id": 7714,
+      "url": "https://exler.es/films/medlennye-loshadi.htm",
+      "fetched_at": "2026-01-29 17:04:38",
+      "html_sha256": "941f49cf942aa0cc895d3dd253ba6da8a59e8235e8b0a6092a04aab99828ecc4",
+      "html_chars": 337455,
+      "parsed_comments": 60,
+      "read_at": "2026-09-19T09:49:55.386561+00:00"
+    },
+    {
+      "post_id": 7744,
+      "url": "https://exler.es/films/vlast-psa.htm",
+      "fetched_at": "2026-01-29 17:04:56",
+      "html_sha256": "20e753c80e246cd9b9ca8062b873506c2da47ebb9e1decf58ab584dac534a862",
+      "html_chars": 296405,
+      "parsed_comments": 43,
+      "read_at": "2026-09-19T09:44:14.129777+00:00"
+    },
+    {
+      "post_id": 7769,
+      "url": "https://exler.es/blog/press-konferentsiya-popugayam-i-martyshkam.htm",
+      "fetched_at": "2026-01-29 17:05:13",
+      "html_sha256": "14a4e92088793a80690af3af33075260fb0c281773b992cf99132922f78d8f72",
+      "html_chars": 170746,
+      "parsed_comments": 33,
+      "read_at": "2026-09-19T09:44:25.334761+00:00"
+    },
+    {
+      "post_id": 7806,
+      "url": "https://exler.es/blog/istoricheskaya-rech.htm",
+      "fetched_at": "2026-01-29 17:05:36",
+      "html_sha256": "900bf69c1d0ac1af2a27c6d683d6b69b7005b950a542f1a309087bec232b2485",
+      "html_chars": 290698,
+      "parsed_comments": 80,
+      "read_at": "2026-09-19T09:44:25.351646+00:00"
+    },
+    {
+      "post_id": 7880,
+      "url": "https://exler.es/films/zaslanec-iz-kosmosa-vtoroj-sezon.htm",
+      "fetched_at": "2026-01-29 17:06:23",
+      "html_sha256": "26dccc6c8eaf8d31564cccc787b2d1f6a54a293dc68560efd36d03ec6d6cf1f8",
+      "html_chars": 298870,
+      "parsed_comments": 48,
+      "read_at": "2026-09-19T09:49:55.393732+00:00"
+    },
+    {
+      "post_id": 7992,
+      "url": "https://exler.es/expromt/osobennosti-obolochki-miui-13-dlya-smartfonov-xiaomi.htm",
+      "fetched_at": "2026-01-29 17:07:34",
+      "html_sha256": "5a2ef4e7dcb94173bed877bf189c2c4f3f0730743b70c58fe633281d5276e242",
+      "html_chars": 164818,
+      "parsed_comments": 44,
+      "read_at": "2026-09-19T09:50:05.091607+00:00"
+    },
+    {
+      "post_id": 8042,
+      "url": "https://exler.es/blog/chasy-garmin-c-bezgranichnoy-avtonomnostyu.htm",
+      "fetched_at": "2026-01-29 17:08:05",
+      "html_sha256": "2f462c973a66135bfa0dfaea194ebf005c8d80c5b3b5deb489d73d9973daaf26",
+      "html_chars": 429519,
+      "parsed_comments": 121,
+      "read_at": "2026-09-19T09:50:05.603328+00:00"
+    },
+    {
+      "post_id": 8055,
+      "url": "https://exler.es/expromt/obzor-smartfona-realme-8-horosho-sbalansirovannyj-byudzhetnik.htm",
+      "fetched_at": "2026-01-29 17:08:14",
+      "html_sha256": "d152ebf34c0d04266ac6f294db41665952bc17d037969e7c6be45c408527a060",
+      "html_chars": 181269,
+      "parsed_comments": 43,
+      "read_at": "2026-09-19T09:44:25.201496+00:00"
+    },
+    {
+      "post_id": 8131,
+      "url": "https://exler.es/blog/dolgo-dumala-vzveshivala.htm",
+      "fetched_at": "2026-01-29 17:09:03",
+      "html_sha256": "37b20143c114d7ccd947e1b6e2447ebb2bd890a4314e2df77fb1e923e380c7b1",
+      "html_chars": 725658,
+      "parsed_comments": 233,
+      "read_at": "2026-09-19T09:50:05.389919+00:00"
+    },
+    {
+      "post_id": 8142,
+      "url": "https://exler.es/expromt/obzor-tws-naushnikov-apple-airpods-pro-magsafe.htm",
+      "fetched_at": "2026-01-29 17:09:09",
+      "html_sha256": "b14c598c308a116864f6d4579327c8b4dcb4e45888529c5a04bea6bec654ff55",
+      "html_chars": 208586,
+      "parsed_comments": 54,
+      "read_at": "2026-09-19T09:44:14.138852+00:00"
+    },
+    {
+      "post_id": 8189,
+      "url": "https://exler.es/films/ancharted-na-kartah-ne-znachitsya.htm",
+      "fetched_at": "2026-01-29 17:09:39",
+      "html_sha256": "9025dd3c4a7f23538c80d5e877f1a76b7946ff7169f137fa36ad0a0d9aed09be",
+      "html_chars": 267379,
+      "parsed_comments": 34,
+      "read_at": "2026-09-19T09:44:25.230393+00:00"
+    },
+    {
+      "post_id": 8200,
+      "url": "https://exler.es/expromt/obzor-chasov-samsung-galaxy-watch4.htm",
+      "fetched_at": "2026-01-29 17:09:46",
+      "html_sha256": "4200cbf396c617eeb9888e4350f358c06664ddf456aa877756dabc3672e78787",
+      "html_chars": 195744,
+      "parsed_comments": 48,
+      "read_at": "2026-09-19T09:50:21.467376+00:00"
+    },
+    {
+      "post_id": 8331,
+      "url": "https://exler.es/films/staryj-genri.htm",
+      "fetched_at": "2026-01-29 17:11:09",
+      "html_sha256": "49460bab84081dc3060def263cd91798777baee58b9378a0dfebab0a73377ba9",
+      "html_chars": 207355,
+      "parsed_comments": 13,
+      "read_at": "2026-09-19T09:50:21.204896+00:00"
+    },
+    {
+      "post_id": 8421,
+      "url": "https://exler.es/blog/malenkaya-pobedonosnaya-voyna.htm",
+      "fetched_at": "2026-01-29 20:01:52",
+      "html_sha256": "ac5fe5477dd0e238281dfe34800526fc50ff09e812cbb0fac91dcdf6c890d110",
+      "html_chars": 258072,
+      "parsed_comments": 69,
+      "read_at": "2026-09-19T09:44:32.790637+00:00"
+    },
+    {
+      "post_id": 8501,
+      "url": "https://exler.es/expromt/obzor-smartfona-iphone-13-pro.htm",
+      "fetched_at": "2026-01-29 20:02:57",
+      "html_sha256": "0576fa03eae4b81eadaedaa95b3f7e586f1544153f894f0e10eb7fa870014a8d",
+      "html_chars": 919479,
+      "parsed_comments": 315,
+      "read_at": "2026-09-19T09:44:32.830677+00:00"
+    },
+    {
+      "post_id": 8508,
+      "url": "https://exler.es/expromt/obzor-flagmanskih-gibridnyh-tws-naushnikov-soundcore-liberty-3-pro.htm",
+      "fetched_at": "2026-01-29 20:03:01",
+      "html_sha256": "aafd78d5205d012c5a42e1be9f98fc3901694c147e3285412d3511314e8d48fa",
+      "html_chars": 271662,
+      "parsed_comments": 81,
+      "read_at": "2026-09-19T09:50:21.238165+00:00"
+    },
+    {
+      "post_id": 8520,
+      "url": "https://exler.es/blog/grozdiru-izdaniye-o-vine.htm",
+      "fetched_at": "2026-01-29 20:03:09",
+      "html_sha256": "f8781b6a62a090ed06876f47ea0ccc75407415bc305c21d56ef167f8caa30d65",
+      "html_chars": 174208,
+      "parsed_comments": 37,
+      "read_at": "2026-09-19T09:44:32.935708+00:00"
+    },
+    {
+      "post_id": 8548,
+      "url": "https://exler.es/expromt/obzor-umnyh-chasov-amazfit-gtr-3-pro-vse-luchshe-i-luchshe.htm",
+      "fetched_at": "2026-01-29 20:03:28",
+      "html_sha256": "03616be3cdbb8ef479562bcbec6a98b45dbf5aae885b0c01eb57aa2ff6a839da",
+      "html_chars": 317310,
+      "parsed_comments": 97,
+      "read_at": "2026-09-19T09:50:34.265119+00:00"
+    },
+    {
+      "post_id": 8558,
+      "url": "https://exler.es/films/king-s-man-nachalo.htm",
+      "fetched_at": "2026-01-29 20:03:34",
+      "html_sha256": "6f103e4b868c796e81cb4fc06a06add3b06a8766ee3de4358c234297be1c2ddc",
+      "html_chars": 459144,
+      "parsed_comments": 106,
+      "read_at": "2026-09-19T09:44:32.955306+00:00"
+    },
+    {
+      "post_id": 8581,
+      "url": "https://exler.es/films/coda-rebenok-glukhikh-roditeley.htm",
+      "fetched_at": "2026-01-29 20:03:49",
+      "html_sha256": "f404d3701480a6f97aa141fc483c7d999635beb6ca09734f4d8cd66eba7f4a07",
+      "html_chars": 319346,
+      "parsed_comments": 49,
+      "read_at": "2026-09-19T09:44:42.016524+00:00"
+    },
+    {
+      "post_id": 8586,
+      "url": "https://exler.es/expromt/obzor-novogo-byudzhetnika-poco-m4-pro-5g.htm",
+      "fetched_at": "2026-01-29 20:03:52",
+      "html_sha256": "45f060c304c023d2bd95188950727ddf9bcc449164f51d464465460edf5909ed",
+      "html_chars": 364821,
+      "parsed_comments": 108,
+      "read_at": "2026-09-19T09:44:42.181975+00:00"
+    },
+    {
+      "post_id": 8610,
+      "url": "https://exler.es/bannizm/validatornye-tiktokery-muzykalnyh-sabostyanov.htm",
+      "fetched_at": "2026-01-29 20:04:07",
+      "html_sha256": "722ab7bce9ce32c050f9ab2a349d946d6a9db904945d12e27eb8e4edaab49650",
+      "html_chars": 397322,
+      "parsed_comments": 142,
+      "read_at": "2026-09-19T09:44:42.007282+00:00"
+    },
+    {
+      "post_id": 8615,
+      "url": "https://exler.es/blog/kafe.htm",
+      "fetched_at": "2026-01-29 20:04:11",
+      "html_sha256": "05057e2f47181356a8c45004b6d5daee1da820a0cabb5c2dd247fa91952608c5",
+      "html_chars": 435999,
+      "parsed_comments": 128,
+      "read_at": "2026-09-19T09:44:42.188829+00:00"
+    },
+    {
+      "post_id": 8621,
+      "url": "https://exler.es/expromt/obzor-mediapristavki-realme-4k-google-tv-nbsp-stick.htm",
+      "fetched_at": "2026-01-29 20:04:15",
+      "html_sha256": "4953913a902a2787403cbdae771828af5aa361bc7cc10073fe7a28e7ac36b125",
+      "html_chars": 467036,
+      "parsed_comments": 157,
+      "read_at": "2026-09-19T09:44:51.637255+00:00"
+    },
+    {
+      "post_id": 8632,
+      "url": "https://exler.es/blog/godovshchina-2.htm",
+      "fetched_at": "2026-01-29 20:04:22",
+      "html_sha256": "ddc4efe01c77a612b06ab64c5052099c0d300a7c0da1258b6c0007b1c59b55fb",
+      "html_chars": 454746,
+      "parsed_comments": 142,
+      "read_at": "2026-09-19T09:44:51.632744+00:00"
+    },
+    {
+      "post_id": 8666,
+      "url": "https://exler.es/films/sadovody.htm",
+      "fetched_at": "2026-01-29 20:04:43",
+      "html_sha256": "6846e9deba5dbfd2fa2400e6d2f4f1e58b50491fdbfd0e5c101757877a3af26a",
+      "html_chars": 332571,
+      "parsed_comments": 59,
+      "read_at": "2026-09-19T09:44:51.708402+00:00"
+    },
+    {
+      "post_id": 8697,
+      "url": "https://exler.es/expromt/obzor-umnyh-chasov-huawei-watch-gt-3.htm",
+      "fetched_at": "2026-01-29 20:05:03",
+      "html_sha256": "18c83477daa3469c72e3831c7c42abc8edb32f0120d14feb16a1c0e7ee36b019",
+      "html_chars": 524811,
+      "parsed_comments": 179,
+      "read_at": "2026-09-19T09:44:51.727210+00:00"
+    },
+    {
+      "post_id": 8704,
+      "url": "https://exler.es/blog/svyshe-64-mlrd-na-fuflomitsiny.htm",
+      "fetched_at": "2026-01-29 20:05:08",
+      "html_sha256": "309ff7cd4e027897074d2c8f30991cd0968a92d18a9e333a589aae54215854f5",
+      "html_chars": 689290,
+      "parsed_comments": 219,
+      "read_at": "2026-09-19T09:45:07.754572+00:00"
+    },
+    {
+      "post_id": 8719,
+      "url": "https://exler.es/expromt/obzor-nedorogih-tws-naushnikov-s-shumopodavleniem-ugreen-hitune-t3.htm",
+      "fetched_at": "2026-01-29 20:05:17",
+      "html_sha256": "74b61ff1f431da71cac8c8eac48edf95be8912b1f11af18f0e9108ab63087419",
+      "html_chars": 236796,
+      "parsed_comments": 70,
+      "read_at": "2026-09-19T09:45:07.717322+00:00"
+    },
+    {
+      "post_id": 8731,
+      "url": "https://exler.es/films/neproshennaya.htm",
+      "fetched_at": "2026-01-29 20:05:24",
+      "html_sha256": "f4c6c4bc21f20296ad22dd35fffdb55e0483f33320b343acc7f037ca5896392e",
+      "html_chars": 410232,
+      "parsed_comments": 89,
+      "read_at": "2026-09-19T09:45:07.735737+00:00"
+    },
+    {
+      "post_id": 8738,
+      "url": "https://exler.es/expromt/obzor-moshnogo-11-dyujmovogo-plansheta-xiaomi-pad-5.htm",
+      "fetched_at": "2026-01-29 20:05:29",
+      "html_sha256": "aeee3030dbb9de9ebf760e37a59970c5a5491df039ed19649d10aa48956386e8",
+      "html_chars": 503470,
+      "parsed_comments": 165,
+      "read_at": "2026-09-19T09:45:07.722451+00:00"
+    },
+    {
+      "post_id": 8754,
+      "url": "https://exler.es/blog/mobilnaya-kamera-hasselblad-vtorogo-pokoleniya-v-smartfone-oneplus-10-pro.htm",
+      "fetched_at": "2026-01-29 20:05:39",
+      "html_sha256": "71130030d57cee402629b30f833a6262a9ba93265695e8c411ffc63297db4728",
+      "html_chars": 183676,
+      "parsed_comments": 31,
+      "read_at": "2026-09-19T09:45:18.057071+00:00"
+    },
+    {
+      "post_id": 8761,
+      "url": "https://exler.es/blog/kogda-poyavitsya-neinvazivnyy-glyukometr.htm",
+      "fetched_at": "2026-01-29 20:05:44",
+      "html_sha256": "84cb0553d4462746df0c5cf44351396036d651e8775f2de84d808a1cd88e9a42",
+      "html_chars": 346656,
+      "parsed_comments": 85,
+      "read_at": "2026-09-19T09:45:18.114167+00:00"
+    },
+    {
+      "post_id": 8764,
+      "url": "https://exler.es/blog/samsung-galaxy-s21-fe-khaltura.htm",
+      "fetched_at": "2026-01-29 20:05:45",
+      "html_sha256": "811a5565992685e66c13c90f223180dca2b10789dc8bbecb8be9d7e61ea96ff1",
+      "html_chars": 223670,
+      "parsed_comments": 49,
+      "read_at": "2026-09-19T09:45:18.095827+00:00"
+    },
+    {
+      "post_id": 8770,
+      "url": "https://exler.es/blog/zaputannoye-delo.htm",
+      "fetched_at": "2026-01-29 20:05:49",
+      "html_sha256": "e5a75c61cbe8fece100bccc52c8bc27ebef59e1a567ba4b40e96657d7412ed04",
+      "html_chars": 306425,
+      "parsed_comments": 86,
+      "read_at": "2026-09-19T09:45:18.099107+00:00"
+    },
+    {
+      "post_id": 8773,
+      "url": "https://exler.es/blog/pokritikuyte-monitorchik.htm",
+      "fetched_at": "2026-01-29 20:05:51",
+      "html_sha256": "ede7d66addb09c658394193e06534665db369921d34f1940a502f6e2ea5b9c6c",
+      "html_chars": 529103,
+      "parsed_comments": 162,
+      "read_at": "2026-09-19T09:45:27.559775+00:00"
+    },
+    {
+      "post_id": 8777,
+      "url": "https://exler.es/films/nasledniki-tretij-sezon.htm",
+      "fetched_at": "2026-01-29 20:05:54",
+      "html_sha256": "73f74cf55cc5553226e91eb3fe1f088e630dec1de2b91480dd808faa011dd422",
+      "html_chars": 279068,
+      "parsed_comments": 35,
+      "read_at": "2026-09-19T09:50:34.306381+00:00"
+    },
+    {
+      "post_id": 8823,
+      "url": "https://exler.es/blog/tonometr-withings-bpm-connect.htm",
+      "fetched_at": "2026-01-29 20:06:23",
+      "html_sha256": "28775b73b004131ce38938b74e58eb072fda9754acfe185852c5627de7df8d44",
+      "html_chars": 240430,
+      "parsed_comments": 55,
+      "read_at": "2026-09-19T09:50:34.499111+00:00"
+    },
+    {
+      "post_id": 8827,
+      "url": "https://exler.es/expromt/obzor-smartfona-oneplus-nord-2-5g-srednebyudzhetnik-s-opticheskim-stabom.htm",
+      "fetched_at": "2026-01-29 20:06:25",
+      "html_sha256": "ad253d71ededb0aea04e4a7cedb955104e2c24c906f433a2f6375a5fde5fdf3a",
+      "html_chars": 361739,
+      "parsed_comments": 108,
+      "read_at": "2026-09-19T09:50:49.799188+00:00"
+    },
+    {
+      "post_id": 8829,
+      "url": "https://exler.es/films/matrica-voskreshenie.htm",
+      "fetched_at": "2026-01-29 20:06:26",
+      "html_sha256": "92228ea47d640d64c39805de120cc1430d0052b7b40bfb731e10be5eb27fb89a",
+      "html_chars": 810609,
+      "parsed_comments": 235,
+      "read_at": "2026-09-19T09:50:49.901554+00:00"
+    },
+    {
+      "post_id": 8840,
+      "url": "https://exler.es/blog/s-rozhdestvom-2.htm",
+      "fetched_at": "2026-01-29 20:06:33",
+      "html_sha256": "f4d945691abaeb9499be618a1d3950d80385e62d7851696fa0296e11e2cd419d",
+      "html_chars": 276045,
+      "parsed_comments": 72,
+      "read_at": "2026-09-19T09:45:27.393216+00:00"
+    },
+    {
+      "post_id": 8844,
+      "url": "https://exler.es/bannizm/propusknye-razvaly-vkusnyh-pipidastrov.htm",
+      "fetched_at": "2026-01-29 20:06:35",
+      "html_sha256": "a748de9ae8bc72450e527d6bbf08739f24580b4ed94bacaa82f2a2209a5d5732",
+      "html_chars": 296947,
+      "parsed_comments": 103,
+      "read_at": "2026-09-19T09:50:50.158767+00:00"
+    },
+    {
+      "post_id": 8848,
+      "url": "https://exler.es/blog/pesnya-pozvola-v-dorogu.htm",
+      "fetched_at": "2026-01-29 20:06:38",
+      "html_sha256": "47761f07acf299e433660fa1e776c59a47cba3b9af159b0c83a75c62b7344b76",
+      "html_chars": 442902,
+      "parsed_comments": 133,
+      "read_at": "2026-09-19T09:45:27.555166+00:00"
+    },
+    {
+      "post_id": 8873,
+      "url": "https://exler.es/blog/pogovorim-o-domashnikh-setevykh-nakopitelyakh-nas.htm",
+      "fetched_at": "2026-01-29 20:06:54",
+      "html_sha256": "bc21b0ac0b216f0860e65999c051d260a9097c1120d3ccdef1132b97153c6549",
+      "html_chars": 766177,
+      "parsed_comments": 247,
+      "read_at": "2026-09-19T09:51:05.802780+00:00"
+    },
+    {
+      "post_id": 8885,
+      "url": "https://exler.es/blog/obedenno-osetrovoye.htm",
+      "fetched_at": "2026-01-29 20:07:02",
+      "html_sha256": "ce54abb2cce9bc859809beb16c9dabeca7aa2f61c8ea4a45db42175d44323145",
+      "html_chars": 204419,
+      "parsed_comments": 44,
+      "read_at": "2026-09-19T09:51:05.765998+00:00"
+    },
+    {
+      "post_id": 8888,
+      "url": "https://exler.es/films/utrennee-shou-vtoroj-sezon.htm",
+      "fetched_at": "2026-01-29 20:07:04",
+      "html_sha256": "ddc49d371ba50b063818620876070ea21e228deef82a182df3cbdd454ce2a637",
+      "html_chars": 295916,
+      "parsed_comments": 42,
+      "read_at": "2026-09-19T09:51:05.963380+00:00"
+    },
+    {
+      "post_id": 8890,
+      "url": "https://exler.es/blog/plany-po-obzoram-8.htm",
+      "fetched_at": "2026-01-29 20:07:05",
+      "html_sha256": "76cd9a6d361803d471a250b194dfd0cd22ab1ec6fb6481b6160c8dfe24ec04c5",
+      "html_chars": 180955,
+      "parsed_comments": 35,
+      "read_at": "2026-09-19T09:51:20.695881+00:00"
+    },
+    {
+      "post_id": 8914,
+      "url": "https://exler.es/blog/tsvetnyye-snimki-rossiyskikh-gorodov-1930-goda.htm",
+      "fetched_at": "2026-01-29 20:07:19",
+      "html_sha256": "1908ac376b449e39c5664d2e5a20e4287dd11339b6f82cf93f1c35e52b9b1b20",
+      "html_chars": 213495,
+      "parsed_comments": 48,
+      "read_at": "2026-09-19T09:45:27.404918+00:00"
+    },
+    {
+      "post_id": 8930,
+      "url": "https://exler.es/blog/gruzinskiy-restoran-v-barselone.htm",
+      "fetched_at": "2026-01-29 20:07:29",
+      "html_sha256": "7919bf61e50c9624b4de4922deb203ef53b9f5bba59ed3009646ec3e05a6002f",
+      "html_chars": 439475,
+      "parsed_comments": 128,
+      "read_at": "2026-09-19T09:45:39.744360+00:00"
+    },
+    {
+      "post_id": 8940,
+      "url": "https://exler.es/blog/kaga-tio.htm",
+      "fetched_at": "2026-01-29 20:07:36",
+      "html_sha256": "c32faa689b7c6672f2e62d3b239e6d9fba8f23c6db56c28f6dd5c97c89721caf",
+      "html_chars": 131817,
+      "parsed_comments": 18,
+      "read_at": "2026-09-19T09:51:20.899021+00:00"
+    },
+    {
+      "post_id": 8943,
+      "url": "https://exler.es/blog/v-kakikh-stranakh-bolshe-vsego-pyut.htm",
+      "fetched_at": "2026-01-29 20:07:38",
+      "html_sha256": "1c5e3d8838e3d732335a627538ac0b694ad00c6f3f6abe9dd8556ba5bc7f3335",
+      "html_chars": 342196,
+      "parsed_comments": 98,
+      "read_at": "2026-09-19T09:45:39.747668+00:00"
+    },
+    {
+      "post_id": 8945,
+      "url": "https://exler.es/blog/peredacha-dolina-o-ridli-skotte.htm",
+      "fetched_at": "2026-01-29 20:07:39",
+      "html_sha256": "f1857850848fbe815c0e00177adf971624455681b77a3c1c7ccd135d3800e583",
+      "html_chars": 574234,
+      "parsed_comments": 176,
+      "read_at": "2026-09-19T09:51:20.811102+00:00"
+    },
+    {
+      "post_id": 8963,
+      "url": "https://exler.es/blog/kupila-baba-porosya.htm",
+      "fetched_at": "2026-01-29 20:07:51",
+      "html_sha256": "d4f9e27c3ffb6a270d8fa4fcf8cefa37c3c0c10f965fb641cb1ec2452f58cf22",
+      "html_chars": 640584,
+      "parsed_comments": 206,
+      "read_at": "2026-09-19T09:45:39.568315+00:00"
+    },
+    {
+      "post_id": 8978,
+      "url": "https://exler.es/films/krovavaya-mari.htm",
+      "fetched_at": "2026-01-29 20:08:01",
+      "html_sha256": "2c408f6d2691f89a397fd804898ef335b4206e400d3a8bba0582342b4643e499",
+      "html_chars": 308332,
+      "parsed_comments": 50,
+      "read_at": "2026-09-19T09:45:39.535585+00:00"
+    },
+    {
+      "post_id": 8998,
+      "url": "https://exler.es/films/koshachi-miry-luisa-uejna.htm",
+      "fetched_at": "2026-01-29 20:08:16",
+      "html_sha256": "06c7033a5b20cdd41cb1877a704ab07a65700b408ee75513d00ee16da70950d3",
+      "html_chars": 271412,
+      "parsed_comments": 32,
+      "read_at": "2026-09-19T09:51:34.908451+00:00"
+    },
+    {
+      "post_id": 9004,
+      "url": "https://exler.es/blog/elizabet-kholms-i-kompaniya-teranos.htm",
+      "fetched_at": "2026-01-29 20:08:19",
+      "html_sha256": "704ea561c282a7d196be99107b5628755f1f00193cbdbbda56af41350c25fbfe",
+      "html_chars": 409775,
+      "parsed_comments": 120,
+      "read_at": "2026-09-19T09:45:49.432893+00:00"
+    },
+    {
+      "post_id": 9007,
+      "url": "https://exler.es/expromt/obzor-umnyh-chasov-redmi-watch-2-lite.htm",
+      "fetched_at": "2026-01-29 20:08:21",
+      "html_sha256": "2b8d9b6801a088a8e1e944f29cbabbb0c310a921da8f6b1dbbb6b42f1b5a5f17",
+      "html_chars": 216281,
+      "parsed_comments": 62,
+      "read_at": "2026-09-19T09:45:49.640118+00:00"
+    },
+    {
+      "post_id": 9035,
+      "url": "https://exler.es/blog/seks-salat-iz-pecheni-treski-treskuchiy.htm",
+      "fetched_at": "2026-01-29 20:08:39",
+      "html_sha256": "7d7e53d346434fe7d9383269368754e4e7457cf9cbb36ec637c851709e0842d9",
+      "html_chars": 387109,
+      "parsed_comments": 115,
+      "read_at": "2026-09-19T09:51:34.923881+00:00"
+    },
+    {
+      "post_id": 9049,
+      "url": "https://exler.es/expromt/obzor-smartfona-xiaomi-11t-pochti-flagman.htm",
+      "fetched_at": "2026-01-29 20:08:49",
+      "html_sha256": "86d667baaba56570f9fd4ee95a1bbd507e9cc6a1ca003c30637192b94e542800",
+      "html_chars": 229950,
+      "parsed_comments": 62,
+      "read_at": "2026-09-19T09:45:49.655211+00:00"
+    },
+    {
+      "post_id": 9058,
+      "url": "https://exler.es/blog/whatsapp-sluchilos-chudo.htm",
+      "fetched_at": "2026-01-29 20:08:54",
+      "html_sha256": "5a37e3c4e9946fcaefb26554a23ac499232989750d4f08f9bdd1e37923418bd2",
+      "html_chars": 288534,
+      "parsed_comments": 78,
+      "read_at": "2026-09-19T09:51:35.205533+00:00"
+    },
+    {
+      "post_id": 9077,
+      "url": "https://exler.es/blog/itogi-starta-pervoy-nedeli-servisa-cinezen.htm",
+      "fetched_at": "2026-01-29 20:09:06",
+      "html_sha256": "9b271c73e2bb3aa587ccc225565c3c098b06d79c02f99efee6cf0f384d709305",
+      "html_chars": 202372,
+      "parsed_comments": 36,
+      "read_at": "2026-09-19T09:45:49.454614+00:00"
+    },
+    {
+      "post_id": 9090,
+      "url": "https://exler.es/expromt/obzor-nedorogogo-robota-pylesosa-xiaomi-mijia-sweeping-vacuum-cleaner-1c.htm",
+      "fetched_at": "2026-01-29 20:09:15",
+      "html_sha256": "f4041326949178072b176df2140667e5ac5704d9e15abc9c1dddf2c4c9501167",
+      "html_chars": 620498,
+      "parsed_comments": 207,
+      "read_at": "2026-09-19T09:45:59.900910+00:00"
+    },
+    {
+      "post_id": 9128,
+      "url": "https://exler.es/blog/ispaniya-ostalas-bez-gaza.htm",
+      "fetched_at": "2026-01-29 20:09:39",
+      "html_sha256": "8aca610cb0501d57fb7bd349b4182a1ffce1c3644d4ec47960ec7ac07aec8640",
+      "html_chars": 798543,
+      "parsed_comments": 257,
+      "read_at": "2026-09-19T09:46:00.446982+00:00"
+    },
+    {
+      "post_id": 9132,
+      "url": "https://exler.es/blog/raskryt-sekret-eplovskoy-produktsii.htm",
+      "fetched_at": "2026-01-29 20:09:41",
+      "html_sha256": "f5d6a63298db23cdc2ded45f89a5b95cf176f89d54da38efa672e9140cf71cc8",
+      "html_chars": 410465,
+      "parsed_comments": 127,
+      "read_at": "2026-09-19T09:45:59.905589+00:00"
+    },
+    {
+      "post_id": 9139,
+      "url": "https://exler.es/blog/mer-v-stile-flamenko.htm",
+      "fetched_at": "2026-01-29 20:09:45",
+      "html_sha256": "aa00210e86dc26f12e13d4f7873eac6fc09db5d928df527c03130f3d1afe7b97",
+      "html_chars": 137791,
+      "parsed_comments": 21,
+      "read_at": "2026-09-19T09:46:00.228152+00:00"
+    },
+    {
+      "post_id": 9140,
+      "url": "https://exler.es/blog/subbotneye-barbekyu.htm",
+      "fetched_at": "2026-01-29 20:09:46",
+      "html_sha256": "4f88c1e54caa2cd1d8622d3544ce0dbdbe7a04209088975dca1ba065d392b027",
+      "html_chars": 359679,
+      "parsed_comments": 103,
+      "read_at": "2026-09-19T09:46:09.256281+00:00"
+    },
+    {
+      "post_id": 9154,
+      "url": "https://exler.es/blog/skandal-vo-frantsii.htm",
+      "fetched_at": "2026-01-29 20:09:54",
+      "html_sha256": "2776e549862c432c5dd342e9edfbb934dd1decd8ffb49cfc62fabec3ceb3ed07",
+      "html_chars": 443310,
+      "parsed_comments": 137,
+      "read_at": "2026-09-19T09:46:09.252642+00:00"
+    },
+    {
+      "post_id": 9159,
+      "url": "https://exler.es/films/sceny-iz-supruzheskoj-zhizni.htm",
+      "fetched_at": "2026-01-29 20:09:57",
+      "html_sha256": "3ed3b8dd6847f29f5ad0af1c19c0f6dab95d23e6253caeaac01434858784d89c",
+      "html_chars": 316887,
+      "parsed_comments": 51,
+      "read_at": "2026-09-19T09:46:09.240571+00:00"
+    },
+    {
+      "post_id": 9163,
+      "url": "https://exler.es/blog/dokumentalka-o-filme-bratya-blyuz.htm",
+      "fetched_at": "2026-01-29 20:09:59",
+      "html_sha256": "992539cb0131a4b933d129292cb3fe3d639c237ec7c2718681a72d9530216ce8",
+      "html_chars": 157751,
+      "parsed_comments": 27,
+      "read_at": "2026-09-19T09:46:09.229548+00:00"
+    },
+    {
+      "post_id": 9164,
+      "url": "https://exler.es/blog/podkasty-i-kanal-v-youtube.htm",
+      "fetched_at": "2026-01-29 20:10:00",
+      "html_sha256": "460603c2b0ae28317ab953a3b71a95dc653ed9fd90dede0a1791e34ed07ab09b",
+      "html_chars": 182091,
+      "parsed_comments": 37,
+      "read_at": "2026-09-19T09:46:19.479866+00:00"
+    },
+    {
+      "post_id": 9168,
+      "url": "https://exler.es/expromt/obzor-smartfona-xiaomi-redmi-10-novyj-byudzhetnik.htm",
+      "fetched_at": "2026-01-29 20:10:03",
+      "html_sha256": "a2d63bbf081cd6735ebc98c5b56b59cd4d70ef2c8e28405c624aac5bdb9b57f0",
+      "html_chars": 225193,
+      "parsed_comments": 60,
+      "read_at": "2026-09-19T09:51:50.761012+00:00"
+    },
+    {
+      "post_id": 9179,
+      "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-61.htm",
+      "fetched_at": "2026-01-29 20:10:10",
+      "html_sha256": "083911d2e712032d95e5d40ce8051c10c3c9ae48f4ef5850793e8bf75567ab87",
+      "html_chars": 652917,
+      "parsed_comments": 230,
+      "read_at": "2026-09-19T09:51:50.561590+00:00"
+    },
+    {
+      "post_id": 9211,
+      "url": "https://exler.es/blog/priblizhayetsya-khellouin.htm",
+      "fetched_at": "2026-01-29 20:10:30",
+      "html_sha256": "46c540ba879b8f182500751e15260fb9d5c39c0cca75096453f8496f3c720ec9",
+      "html_chars": 200020,
+      "parsed_comments": 42,
+      "read_at": "2026-09-19T09:51:50.545220+00:00"
+    },
+    {
+      "post_id": 9228,
+      "url": "https://exler.es/films/ledyanoj-drajv.htm",
+      "fetched_at": "2026-01-29 20:10:42",
+      "html_sha256": "8ca6a62e37f8ceef011222e4c6352cbe1c65ae3625e534ed8c463b990f2608a5",
+      "html_chars": 387794,
+      "parsed_comments": 81,
+      "read_at": "2026-09-19T09:46:19.550002+00:00"
+    },
+    {
+      "post_id": 9258,
+      "url": "https://exler.es/films/ya-sozdan-dlya-tebya.htm",
+      "fetched_at": "2026-01-29 20:11:02",
+      "html_sha256": "1670e10fe2826e766c2cb62cdb61f69f0346739243a9db5dd861e0f42624b1ae",
+      "html_chars": 308846,
+      "parsed_comments": 53,
+      "read_at": "2026-09-19T09:46:19.870804+00:00"
+    },
+    {
+      "post_id": 9274,
+      "url": "https://exler.es/blog/gadzhety-na-prodazhu-v-moskve-2.htm",
+      "fetched_at": "2026-01-29 20:11:11",
+      "html_sha256": "cc8a6215116f47c496136e341a40d19bf45fe3a2e940072f38594bfc32798a9d",
+      "html_chars": 242722,
+      "parsed_comments": 59,
+      "read_at": "2026-09-19T09:46:19.540590+00:00"
+    },
+    {
+      "post_id": 9278,
+      "url": "https://exler.es/blog/vysokoye-iskustvo.htm",
+      "fetched_at": "2026-01-29 20:11:14",
+      "html_sha256": "b0d2271594b3cacc77496486e58595a67268abe583b10e1e9fcbfc7c3805f22b",
+      "html_chars": 435900,
+      "parsed_comments": 129,
+      "read_at": "2026-09-19T09:46:31.472561+00:00"
+    },
+    {
+      "post_id": 9307,
+      "url": "https://exler.es/films/bolshaya-sekunda.htm",
+      "fetched_at": "2026-01-29 20:11:32",
+      "html_sha256": "c500dbb96dad752f1bf884a33aec0c297a77ebd2bbf6a9af93d6fa5bccffc62b",
+      "html_chars": 354696,
+      "parsed_comments": 70,
+      "read_at": "2026-09-19T09:46:31.466125+00:00"
+    },
+    {
+      "post_id": 9312,
+      "url": "https://exler.es/blog/vot-eto-povorot-3.htm",
+      "fetched_at": "2026-01-29 20:11:36",
+      "html_sha256": "411c342a1910ee4f7a970484b9b7939cb5cccc42932dcc99740b2419346c843c",
+      "html_chars": 390483,
+      "parsed_comments": 115,
+      "read_at": "2026-09-19T09:46:31.462292+00:00"
+    },
+    {
+      "post_id": 9314,
+      "url": "https://exler.es/expromt/obzor-byudzhetnogo-noutbuka-s-ekranom-15-6-dere-r9-pro.htm",
+      "fetched_at": "2026-01-29 20:11:37",
+      "html_sha256": "39601d57050eec21d0d15e5487920637a9dcef4894647babe79e11fe795e5bb6",
+      "html_chars": 580982,
+      "parsed_comments": 196,
+      "read_at": "2026-09-19T09:46:31.489783+00:00"
+    },
+    {
+      "post_id": 9337,
+      "url": "https://exler.es/blog/italyanskiye-buterbrody.htm",
+      "fetched_at": "2026-01-29 20:11:51",
+      "html_sha256": "ad44ab6572df4b7007eff1f6615916b09729b378f9f37d703c3cc986c3ecf63a",
+      "html_chars": 618312,
+      "parsed_comments": 198,
+      "read_at": "2026-09-19T09:52:03.953577+00:00"
+    },
+    {
+      "post_id": 9341,
+      "url": "https://exler.es/films/telohranitel-zheny-killera.htm",
+      "fetched_at": "2026-01-29 20:11:54",
+      "html_sha256": "b3174ff82d789e24c660867c269e36e6d511a3054098939a5df7765a19d6ea38",
+      "html_chars": 393772,
+      "parsed_comments": 82,
+      "read_at": "2026-09-19T09:46:44.164593+00:00"
+    },
+    {
+      "post_id": 9351,
+      "url": "https://exler.es/expromt/obzor-flagmanskogo-smartfona-motorola-edge-20-pro.htm",
+      "fetched_at": "2026-01-29 20:12:01",
+      "html_sha256": "1b8279aeda08fcdfee7af8821f9f1d170449ff327085fb39302f97dae1f14a28",
+      "html_chars": 232321,
+      "parsed_comments": 59,
+      "read_at": "2026-09-19T09:46:44.362558+00:00"
+    },
+    {
+      "post_id": 9353,
+      "url": "https://exler.es/films/bumazhnyy-dom-pyatyy-sezon-pervaya-chast.htm",
+      "fetched_at": "2026-01-29 20:12:02",
+      "html_sha256": "7fe284f80e4ff42e1e90355f70ce026a6a8dfb45e11070928cf326a497cf749c",
+      "html_chars": 290690,
+      "parsed_comments": 41,
+      "read_at": "2026-09-19T09:46:44.348543+00:00"
+    },
+    {
+      "post_id": 9367,
+      "url": "https://exler.es/blog/frantsiya-proshchayetsya-s-belmondo.htm",
+      "fetched_at": "2026-01-29 20:12:10",
+      "html_sha256": "9a8f8235780184361af07fa3a417bcdfb8767775eabefd84b65009333dc061d6",
+      "html_chars": 228902,
+      "parsed_comments": 58,
+      "read_at": "2026-09-19T09:52:04.240729+00:00"
+    },
+    {
+      "post_id": 9385,
+      "url": "https://exler.es/ezhe/barselonskij-zoopark.htm",
+      "fetched_at": "2026-01-29 20:12:21",
+      "html_sha256": "6fbd655aad19c80bb81448a57e83f5bbd83442719fd22ed821016f472533e092",
+      "html_chars": 161096,
+      "parsed_comments": 41,
+      "read_at": "2026-09-19T09:52:03.920309+00:00"
+    },
+    {
+      "post_id": 9387,
+      "url": "https://exler.es/films/svet-vokrug.htm",
+      "fetched_at": "2026-01-29 20:12:22",
+      "html_sha256": "46328ca760c484039ff088fd1518ab20b52c7be587ea816c6ec28704c6e4ff30",
+      "html_chars": 387476,
+      "parsed_comments": 83,
+      "read_at": "2026-09-19T09:46:44.179399+00:00"
+    },
+    {
+      "post_id": 9409,
+      "url": "https://exler.es/films/sovremennaya-lyubov.htm",
+      "fetched_at": "2026-01-29 20:12:37",
+      "html_sha256": "a0f2321ae0265d0f9d7885bd042f13a55edee65463c3ddc30eb8d464d7410f2b",
+      "html_chars": 280971,
+      "parsed_comments": 37,
+      "read_at": "2026-09-19T09:46:58.500543+00:00"
+    },
+    {
+      "post_id": 9416,
+      "url": "https://exler.es/blog/zvezdnyy-pary-nakhodyashchiyesya-vmeste-mnogo-let.htm",
+      "fetched_at": "2026-01-29 20:12:41",
+      "html_sha256": "c13a14630f5cd01e5c4ff0b1dcbd2339c5a0227f4dacd39c5e699a9473b79583",
+      "html_chars": 444683,
+      "parsed_comments": 139,
+      "read_at": "2026-09-19T09:46:58.732419+00:00"
+    },
+    {
+      "post_id": 9417,
+      "url": "https://exler.es/blog/razdel-pokhudeniye-na-sayte.htm",
+      "fetched_at": "2026-01-29 20:12:41",
+      "html_sha256": "bb85e11e9a0eb36fbd4db328d32dcde68c5c37dc82a4589cb04ce0f7bb2a6baf",
+      "html_chars": 451623,
+      "parsed_comments": 135,
+      "read_at": "2026-09-19T09:46:58.510753+00:00"
+    },
+    {
+      "post_id": 9451,
+      "url": "https://exler.es/expromt/obzor-fitnes-brasleta-huawei-band-6.htm",
+      "fetched_at": "2026-01-29 20:13:04",
+      "html_sha256": "aaf39174176d271e520a1b6e6947190e8e0c6b434cd80d038376ba913b2f6102",
+      "html_chars": 142287,
+      "parsed_comments": 34,
+      "read_at": "2026-09-19T09:52:16.541262+00:00"
+    },
+    {
+      "post_id": 9466,
+      "url": "https://exler.es/blog/poluchil-piston.htm",
+      "fetched_at": "2026-01-29 20:13:13",
+      "html_sha256": "137336a2fdc1aab26e0a6f5a327e3e762b98ae250f1b783232b154feccd3d8ba",
+      "html_chars": 552367,
+      "parsed_comments": 178,
+      "read_at": "2026-09-19T09:46:58.531193+00:00"
+    },
+    {
+      "post_id": 9474,
+      "url": "https://exler.es/films/kruella.htm",
+      "fetched_at": "2026-01-29 20:13:18",
+      "html_sha256": "bcf288161e4fa30c1e18e86a28d34e595a5b99fbaa814c3ad4ffcc8d92f3d61f",
+      "html_chars": 380726,
+      "parsed_comments": 78,
+      "read_at": "2026-09-19T09:47:08.680273+00:00"
+    },
+    {
+      "post_id": 9503,
+      "url": "https://exler.es/blog/u-honor-poyavilis-servisy-google.htm",
+      "fetched_at": "2026-01-29 20:13:37",
+      "html_sha256": "1cb37606a08ebf738f685f541c8fd1e238f97eaf23fc14f2bcb0325d54050528",
+      "html_chars": 182299,
+      "parsed_comments": 33,
+      "read_at": "2026-09-19T09:52:16.625686+00:00"
+    },
+    {
+      "post_id": 9510,
+      "url": "https://exler.es/films/zdes-i-sejchas.htm",
+      "fetched_at": "2026-01-29 20:13:42",
+      "html_sha256": "1bcf205afa098159910274b2c164a7cd6296935cfe51347546598e7de612920c",
+      "html_chars": 224838,
+      "parsed_comments": 18,
+      "read_at": "2026-09-19T09:47:08.683807+00:00"
+    },
+    {
+      "post_id": 9513,
+      "url": "https://exler.es/expromt/obzor-tws-naushnikov-ugreen-hitune-x5.htm",
+      "fetched_at": "2026-01-29 20:13:44",
+      "html_sha256": "e61a9848ea435b8545d9a4156d1fd980e636711be33742b994defb007cab20f9",
+      "html_chars": 186952,
+      "parsed_comments": 53,
+      "read_at": "2026-09-19T09:47:08.674637+00:00"
+    },
+    {
+      "post_id": 9530,
+      "url": "https://exler.es/blog/chtoby-ne-razderbanili-stranu.htm",
+      "fetched_at": "2026-01-29 20:13:55",
+      "html_sha256": "db73c8aec25b0699aedfebf31e3193ae7e9bc63e0eff0f952a6ecd9657c2de79",
+      "html_chars": 422198,
+      "parsed_comments": 132,
+      "read_at": "2026-09-19T09:52:16.748304+00:00"
+    },
+    {
+      "post_id": 9531,
+      "url": "https://exler.es/blog/i-snova-o-barse-i-messi.htm",
+      "fetched_at": "2026-01-29 20:13:56",
+      "html_sha256": "abeb43d4dda8909e70a1c9a3c09ffb590794fa7b78c0dc9b092071fc04820b28",
+      "html_chars": 126331,
+      "parsed_comments": 12,
+      "read_at": "2026-09-19T09:52:27.672130+00:00"
+    },
+    {
+      "post_id": 9533,
+      "url": "https://exler.es/blog/zapaslivyy-pensioner.htm",
+      "fetched_at": "2026-01-29 20:13:57",
+      "html_sha256": "3a332e59d0e14b1e491b8169668491e215c3906b787088b37e66b8b6149ca2fc",
+      "html_chars": 270455,
+      "parsed_comments": 72,
+      "read_at": "2026-09-19T09:52:27.678734+00:00"
+    },
+    {
+      "post_id": 9550,
+      "url": "https://exler.es/films/kruiz-po-dzhunglyam.htm",
+      "fetched_at": "2026-01-29 20:14:07",
+      "html_sha256": "5f514fb49d9212d09a0bc3455bc4565f62880a5cda44bb2ff63e42addaec3003",
+      "html_chars": 408872,
+      "parsed_comments": 89,
+      "read_at": "2026-09-19T09:52:27.977998+00:00"
+    },
+    {
+      "post_id": 9572,
+      "url": "https://exler.es/blog/v-nazvanii-net-bukvy-zyu.htm",
+      "fetched_at": "2026-01-29 20:14:21",
+      "html_sha256": "d43c01716c8d32dc9757bd60046feb921fcd28a08689ae5f3099c1a03dea990c",
+      "html_chars": 416259,
+      "parsed_comments": 128,
+      "read_at": "2026-09-19T09:47:09.080687+00:00"
+    },
+    {
+      "post_id": 9586,
+      "url": "https://exler.es/blog/kitayskiye-pechenyushki-s-predskazaniyami.htm",
+      "fetched_at": "2026-01-29 20:14:29",
+      "html_sha256": "9e2b3dbc41e13e62db42f80f74287a62ef314eaae85f7ef5141d0992dc1ee21b",
+      "html_chars": 311084,
+      "parsed_comments": 80,
+      "read_at": "2026-09-19T09:47:21.984899+00:00"
+    },
+    {
+      "post_id": 9588,
+      "url": "https://exler.es/films/para-iz-budushego.htm",
+      "fetched_at": "2026-01-29 20:14:31",
+      "html_sha256": "6cd5482f561e084cdf78a5738d5ab01c9449de947fb740f1f5d03aed0987361a",
+      "html_chars": 289633,
+      "parsed_comments": 44,
+      "read_at": "2026-09-19T09:47:21.655561+00:00"
+    },
+    {
+      "post_id": 9593,
+      "url": "https://exler.es/expromt/obzor-huawei-watch-3-nbsp-umnye-chasy-na-harmony-os.htm",
+      "fetched_at": "2026-01-29 20:14:33",
+      "html_sha256": "9775f143653c5b160e0239db99ddd95a737b43218fb67fd49114e10a55c0b269",
+      "html_chars": 474165,
+      "parsed_comments": 153,
+      "read_at": "2026-09-19T09:52:39.202848+00:00"
+    },
+    {
+      "post_id": 9595,
+      "url": "https://exler.es/blog/akkumulyator-magsafe-dlya-12-kh-ayfonov.htm",
+      "fetched_at": "2026-01-29 20:14:35",
+      "html_sha256": "f4b13528a4f9d64faf2d8772b22b58e7444af6fc427d9d9429766463209a8143",
+      "html_chars": 843130,
+      "parsed_comments": 274,
+      "read_at": "2026-09-19T09:47:21.698278+00:00"
+    },
+    {
+      "post_id": 9597,
+      "url": "https://exler.es/films/loki.htm",
+      "fetched_at": "2026-01-29 20:14:36",
+      "html_sha256": "05491a459673cebba40a07496583f0b58cc0ff3a71f02951b3603d0d5ebfdb8d",
+      "html_chars": 535810,
+      "parsed_comments": 136,
+      "read_at": "2026-09-19T09:52:39.429440+00:00"
+    },
+    {
+      "post_id": 9608,
+      "url": "https://exler.es/blog/yekaterina-shulman-o-teorii-pokoleniy.htm",
+      "fetched_at": "2026-01-29 20:14:43",
+      "html_sha256": "dce5286ea48576d33acf9e5b46c7ef9b067fa25a43e8fb4dbd3396d4445fc48a",
+      "html_chars": 472932,
+      "parsed_comments": 144,
+      "read_at": "2026-09-19T09:47:21.997765+00:00"
+    },
+    {
+      "post_id": 9624,
+      "url": "https://exler.es/films/chernaya-vdova.htm",
+      "fetched_at": "2026-01-29 20:14:52",
+      "html_sha256": "de102321dfe298c3f3a93c9bda6e913fc01d7c5860e0f668744991e7861c2897",
+      "html_chars": 516632,
+      "parsed_comments": 130,
+      "read_at": "2026-09-19T09:47:31.898347+00:00"
+    },
+    {
+      "post_id": 9629,
+      "url": "https://exler.es/expromt/obzor-tws-naushnikov-redmi-buds-3-pro-s-aktivnym-shumodavom.htm",
+      "fetched_at": "2026-01-29 20:14:56",
+      "html_sha256": "ac0568201445018a6871cb8dc58d3c41115b04312421fb6830e5558635b5a65c",
+      "html_chars": 208317,
+      "parsed_comments": 59,
+      "read_at": "2026-09-19T09:47:32.188815+00:00"
+    },
+    {
+      "post_id": 9636,
+      "url": "https://exler.es/expromt/obzor-byudzhetnogo-10-dyujmovogo-plansheta-teclast-m40.htm",
+      "fetched_at": "2026-01-29 20:15:00",
+      "html_sha256": "fad90b8f884a4ec65fda19720b8b032d5e16d44d82222b97708062566f5a9cbc",
+      "html_chars": 324020,
+      "parsed_comments": 97,
+      "read_at": "2026-09-19T09:47:32.005293+00:00"
+    },
+    {
+      "post_id": 9642,
+      "url": "https://exler.es/films/ogon.htm",
+      "fetched_at": "2026-01-29 20:15:04",
+      "html_sha256": "a89001457b8f9ab53fdaf02fd77892b82223eba1b1a1896d1aa4ea4a7ad2c2e4",
+      "html_chars": 373068,
+      "parsed_comments": 75,
+      "read_at": "2026-09-19T09:47:31.996909+00:00"
+    },
+    {
+      "post_id": 9663,
+      "url": "https://exler.es/blog/velosipednaya-mayka.htm",
+      "fetched_at": "2026-01-29 20:15:17",
+      "html_sha256": "654f17b0626a0925236c4474b986d1648b7eb659c7f7f85910a638f7ba760ea6",
+      "html_chars": 266090,
+      "parsed_comments": 72,
+      "read_at": "2026-09-19T09:47:41.943494+00:00"
+    },
+    {
+      "post_id": 9664,
+      "url": "https://exler.es/blog/vneshniy-akkumulyator-ot-apple-dlya-12-kh-ayfonov.htm",
+      "fetched_at": "2026-01-29 20:15:17",
+      "html_sha256": "a079541b8e66f448b81935ddf58a28022bfca40a7d7b8b968e07bb3742393a4f",
+      "html_chars": 286407,
+      "parsed_comments": 74,
+      "read_at": "2026-09-19T09:47:41.969179+00:00"
+    },
+    {
+      "post_id": 9666,
+      "url": "https://exler.es/films/dorogie-tovarishi.htm",
+      "fetched_at": "2026-01-29 20:15:19",
+      "html_sha256": "6d8b362fb7f315de999edf80ddefa480330ebefacf1c0a8577c7d9664cb55247",
+      "html_chars": 329969,
+      "parsed_comments": 58,
+      "read_at": "2026-09-19T09:47:42.263894+00:00"
+    },
+    {
+      "post_id": 9680,
+      "url": "https://exler.es/expromt/obzor-zashishennyh-umnyh-chasov-amazfit-t-rex-pro.htm",
+      "fetched_at": "2026-01-29 20:15:27",
+      "html_sha256": "b077820e40666f2a534c7b1316dd300a9bebe74cdf8af796328d9d8322b250bb",
+      "html_chars": 352053,
+      "parsed_comments": 109,
+      "read_at": "2026-09-19T09:52:39.218229+00:00"
+    },
+    {
+      "post_id": 9685,
+      "url": "https://exler.es/films/igry-shpionov.htm",
+      "fetched_at": "2026-01-29 20:15:30",
+      "html_sha256": "b64c495e00f02730fd0e619f8de6d35a0235644a77fe4074aa700027255da6e6",
+      "html_chars": 351863,
+      "parsed_comments": 64,
+      "read_at": "2026-09-19T09:47:41.958964+00:00"
+    },
+    {
+      "post_id": 9694,
+      "url": "https://exler.es/blog/tribyut-bogemskoy-rapsodii.htm",
+      "fetched_at": "2026-01-29 20:15:36",
+      "html_sha256": "7f9ed18f3c448fd271ef2496048d81c3f1c5d05cf8bf06c82cd24552ff824b81",
+      "html_chars": 139140,
+      "parsed_comments": 22,
+      "read_at": "2026-09-19T09:52:52.925605+00:00"
+    },
+    {
+      "post_id": 9706,
+      "url": "https://exler.es/blog/obzor-sony-xperia-1-iii-ot-dxomark.htm",
+      "fetched_at": "2026-01-29 20:15:43",
+      "html_sha256": "3804bc5ae856d13d1d6ac83059ab3e735ddade702dc5ba66c981c8871e59c9ee",
+      "html_chars": 253255,
+      "parsed_comments": 59,
+      "read_at": "2026-09-19T09:47:50.442109+00:00"
+    },
+    {
+      "post_id": 9708,
+      "url": "https://exler.es/expromt/obzor-smartfona-xiaomi-mi-11-lite.htm",
+      "fetched_at": "2026-01-29 20:15:45",
+      "html_sha256": "25f743ccc91920d66185d2e3db45a37859a02285816bd56d3f22eec52499d7de",
+      "html_chars": 335433,
+      "parsed_comments": 102,
+      "read_at": "2026-09-19T09:52:53.239928+00:00"
+    },
+    {
+      "post_id": 9717,
+      "url": "https://exler.es/blog/aykyu-kotikov.htm",
+      "fetched_at": "2026-01-29 20:15:50",
+      "html_sha256": "79c742f148a503fbad2a749590083b8d9f2916f277670044e0d0987b75efebd9",
+      "html_chars": 314427,
+      "parsed_comments": 86,
+      "read_at": "2026-09-19T09:52:52.938725+00:00"
+    },
+    {
+      "post_id": 9726,
+      "url": "https://exler.es/blog/kinorezhisser-vladimir-menshov-umer.htm",
+      "fetched_at": "2026-01-29 20:15:56",
+      "html_sha256": "0ed3208ae4ce8427cc73e59b9feab7a6dd263a8e4c5e7e377228f63bda1452bb",
+      "html_chars": 452516,
+      "parsed_comments": 144,
+      "read_at": "2026-09-19T09:47:50.451326+00:00"
+    },
+    {
+      "post_id": 9729,
+      "url": "https://exler.es/films/hitrosti-1.htm",
+      "fetched_at": "2026-01-29 20:15:58",
+      "html_sha256": "654a24d0c6dce9fb193eba58eab1539d8ab53e17c705ced3a9a5162ca2401432",
+      "html_chars": 366366,
+      "parsed_comments": 74,
+      "read_at": "2026-09-19T09:47:50.497297+00:00"
+    },
+    {
+      "post_id": 9762,
+      "url": "https://exler.es/films/kosmicheskie-sily.htm",
+      "fetched_at": "2026-01-29 20:16:18",
+      "html_sha256": "99d57913d3b809993455b2981fe7855d301a9456a5cda9e0b8cf6526a5f7c50d",
+      "html_chars": 393844,
+      "parsed_comments": 85,
+      "read_at": "2026-09-19T09:47:50.503407+00:00"
+    },
+    {
+      "post_id": 9770,
+      "url": "https://exler.es/blog/posledniy-den-pesety-v-ispanii.htm",
+      "fetched_at": "2026-01-29 20:16:23",
+      "html_sha256": "d9828dfeeeba23538fff46fc556e31b78ee3c45b48478d5e86111a44f8d0ca12",
+      "html_chars": 243892,
+      "parsed_comments": 62,
+      "read_at": "2026-09-19T09:48:04.327344+00:00"
+    },
+    {
+      "post_id": 9771,
+      "url": "https://exler.es/blog/prikvel-klana-soprano.htm",
+      "fetched_at": "2026-01-29 20:16:24",
+      "html_sha256": "d0efac1cbc3ea6eb06220476c35d2f5d9677fd0485586af45f2bf96f8fc2792a",
+      "html_chars": 141347,
+      "parsed_comments": 23,
+      "read_at": "2026-09-19T09:48:04.321510+00:00"
+    },
+    {
+      "post_id": 9774,
+      "url": "https://exler.es/blog/ostorozhno-amoled-ekran.htm",
+      "fetched_at": "2026-01-29 20:16:26",
+      "html_sha256": "a851c0735487f565504649567b95327b6559bfba79df412902c2299942d44a5a",
+      "html_chars": 225215,
+      "parsed_comments": 52,
+      "read_at": "2026-09-19T09:48:04.518606+00:00"
+    },
+    {
+      "post_id": 9776,
+      "url": "https://exler.es/expromt/obzor-umnyh-chasov-amazfit-bip-u-pro.htm",
+      "fetched_at": "2026-01-29 20:16:27",
+      "html_sha256": "70093879c784c6fa16a714156f92199f8c586a1ad6d3195ecffb204e93622e52",
+      "html_chars": 212969,
+      "parsed_comments": 59,
+      "read_at": "2026-09-19T09:53:04.583966+00:00"
+    },
+    {
+      "post_id": 9781,
+      "url": "https://exler.es/films/luka.htm",
+      "fetched_at": "2026-01-29 20:16:30",
+      "html_sha256": "d674ae594e70efc21414f8f5b8f7cd152c06f5ca0bc4a285f262a45dd93f63c6",
+      "html_chars": 267992,
+      "parsed_comments": 38,
+      "read_at": "2026-09-19T09:53:04.647291+00:00"
+    },
+    {
+      "post_id": 9785,
+      "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-45.htm",
+      "fetched_at": "2026-01-29 20:16:33",
+      "html_sha256": "605a14767e90ff3dc112b4dfca538e98546f31944173eb1a9dcbef12f72b32fc",
+      "html_chars": 563160,
+      "parsed_comments": 200,
+      "read_at": "2026-09-19T09:53:04.812911+00:00"
+    },
+    {
+      "post_id": 9810,
+      "url": "https://exler.es/expromt/smartfon-poco-m3-pro-5g-nfc-moshnee-luchshe-i-vse-ravno-deshevo.htm",
+      "fetched_at": "2026-01-29 20:16:49",
+      "html_sha256": "f34162b0dc850c264979da014f7ccd8cd2a8b51a05fa5b4a646d2c2e12105b1b",
+      "html_chars": 361497,
+      "parsed_comments": 110,
+      "read_at": "2026-09-19T09:48:04.560753+00:00"
+    },
+    {
+      "post_id": 9823,
+      "url": "https://exler.es/films/major-grom-chumnoj-doktor.htm",
+      "fetched_at": "2026-01-29 20:16:57",
+      "html_sha256": "32188ac1596298f1ebb5c6e640568156037142977a516cc442687df323c0440c",
+      "html_chars": 455877,
+      "parsed_comments": 108,
+      "read_at": "2026-09-19T09:48:18.372860+00:00"
+    },
+    {
+      "post_id": 9841,
+      "url": "https://exler.es/blog/ay-leica-ay-molodtsy.htm",
+      "fetched_at": "2026-01-29 20:17:08",
+      "html_sha256": "8ef0d03cc1b8cb142a55b388b41365ab2b8b0866a7f2c9bb34145a8ff1adf8c6",
+      "html_chars": 459060,
+      "parsed_comments": 144,
+      "read_at": "2026-09-19T09:48:18.384388+00:00"
+    },
+    {
+      "post_id": 9844,
+      "url": "https://exler.es/films/krovnye-uzy.htm",
+      "fetched_at": "2026-01-29 20:17:10",
+      "html_sha256": "ae1b6868740310856b06813a1febcd0efba3bf5429ca5b487f69127d4b98891a",
+      "html_chars": 282924,
+      "parsed_comments": 43,
+      "read_at": "2026-09-19T09:48:18.358794+00:00"
+    },
+    {
+      "post_id": 9857,
+      "url": "https://exler.es/blog/royalti-fri-audiotreki-i-zvukovyye-effekty.htm",
+      "fetched_at": "2026-01-29 20:17:18",
+      "html_sha256": "911412baf077ecdf67a16c2174ccb5d80e44f9f031b53c7a722ababb4e614bab",
+      "html_chars": 135291,
+      "parsed_comments": 18,
+      "read_at": "2026-09-19T09:48:18.795901+00:00"
+    },
+    {
+      "post_id": 9859,
+      "url": "https://exler.es/likbez/kak-vdvoem-smotret-televizor-v-besprovodnyh-naushnikah.htm",
+      "fetched_at": "2026-01-29 20:17:20",
+      "html_sha256": "7a2f7c48dd23619c27b0eeec9d8ffa601f080594d24979860973e9ddb738e9a3",
+      "html_chars": 263762,
+      "parsed_comments": 87,
+      "read_at": "2026-09-19T09:53:15.676491+00:00"
+    },
+    {
+      "post_id": 9864,
+      "url": "https://exler.es/films/rycari-spravedlivosti.htm",
+      "fetched_at": "2026-01-29 20:17:22",
+      "html_sha256": "b6ced30defc0d06b264ecba04379a963fd0bb53266126d86bbe189d3f9b1a613",
+      "html_chars": 339688,
+      "parsed_comments": 63,
+      "read_at": "2026-09-19T09:53:15.791779+00:00"
+    },
+    {
+      "post_id": 9870,
+      "url": "https://exler.es/blog/nemnogo-bika.htm",
+      "fetched_at": "2026-01-29 20:17:26",
+      "html_sha256": "5b43da8e351030f165a7727187c52f61933875b633f523920aa42d925d7ecba4",
+      "html_chars": 146635,
+      "parsed_comments": 23,
+      "read_at": "2026-09-19T09:48:27.178623+00:00"
+    },
+    {
+      "post_id": 9883,
+      "url": "https://exler.es/blog/eto-my-udachno-zayekhali.htm",
+      "fetched_at": "2026-01-29 20:17:34",
+      "html_sha256": "c6da230579c917d2d307c5a41b7aa682d9aaa4e6f83c8955fe476210d229e811",
+      "html_chars": 284429,
+      "parsed_comments": 79,
+      "read_at": "2026-09-19T09:48:27.190367+00:00"
+    },
+    {
+      "post_id": 9891,
+      "url": "https://exler.es/expromt/obzor-miniatyurnogo-cap-usilitelya-dlya-cmartfona-pk-ibasso-audio-dc03.htm",
+      "fetched_at": "2026-01-29 20:17:39",
+      "html_sha256": "bdfb7832414ee81d828e15841a34aab7b76ef24f2df7fc890d9fd4a9ac45dc5c",
+      "html_chars": 332655,
+      "parsed_comments": 106,
+      "read_at": "2026-09-19T09:53:15.657938+00:00"
+    },
+    {
+      "post_id": 9897,
+      "url": "https://exler.es/films/priklyuchenie-pikasso.htm",
+      "fetched_at": "2026-01-29 20:17:42",
+      "html_sha256": "92f52730aa052e0935297b16252ef7a5b6a04ae4c03d510ac2101e99ce513b2c",
+      "html_chars": 307619,
+      "parsed_comments": 50,
+      "read_at": "2026-09-19T09:48:27.353963+00:00"
+    },
+    {
+      "post_id": 9901,
+      "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-42.htm",
+      "fetched_at": "2026-01-29 20:17:45",
+      "html_sha256": "d6e7539782c1e02e6eefef65ff91be90197f414448ef636fea615f41234ea153",
+      "html_chars": 726122,
+      "parsed_comments": 259,
+      "read_at": "2026-09-19T09:48:27.375660+00:00"
+    },
+    {
+      "post_id": 9934,
+      "url": "https://exler.es/films/gnev-chelovecheskij.htm",
+      "fetched_at": "2026-01-29 20:18:06",
+      "html_sha256": "4b8e43231e07c5f9d4f89c963b66d1062580cc6edecd0f0bb678743be446edc4",
+      "html_chars": 474813,
+      "parsed_comments": 115,
+      "read_at": "2026-09-19T09:48:35.905385+00:00"
+    },
+    {
+      "post_id": 9935,
+      "url": "https://exler.es/blog/opyat-sigal-vo-chto-to-vstupil.htm",
+      "fetched_at": "2026-01-29 20:18:06",
+      "html_sha256": "438d22ae522eed7d139684e8ab20c3015518cc65c279e8f0a1f82489746238c7",
+      "html_chars": 262537,
+      "parsed_comments": 67,
+      "read_at": "2026-09-19T09:48:35.884344+00:00"
+    },
+    {
+      "post_id": 9955,
+      "url": "https://exler.es/expromt/obzor-flagmanskogo-smartfona-poco-f3-5g.htm",
+      "fetched_at": "2026-01-29 20:18:19",
+      "html_sha256": "edec9dd9daa6c9466c7bb0d6389116a09a90f1f7de91638e34a6e657a19b113d",
+      "html_chars": 262706,
+      "parsed_comments": 70,
+      "read_at": "2026-09-19T09:53:28.538685+00:00"
+    },
+    {
+      "post_id": 9970,
+      "url": "https://exler.es/blog/nichego-sebe-2.htm",
+      "fetched_at": "2026-01-29 20:18:29",
+      "html_sha256": "b700997f592328d4212195964bd5970f8465517b9412932a333ab2cc6088fe05",
+      "html_chars": 2174718,
+      "parsed_comments": 776,
+      "read_at": "2026-09-19T09:48:36.540204+00:00"
+    },
+    {
+      "post_id": 9972,
+      "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-40.htm",
+      "fetched_at": "2026-01-29 20:18:30",
+      "html_sha256": "2957c4de8f5cb2c774a96baf0fe6a71883dc457c55a0e1c61cc228ffa8034e90",
+      "html_chars": 561448,
+      "parsed_comments": 200,
+      "read_at": "2026-09-19T09:48:36.286220+00:00"
+    },
+    {
+      "post_id": 9977,
+      "url": "https://exler.es/blog/konstantin-raykin-u-nikolaya-solodnikova.htm",
+      "fetched_at": "2026-01-29 20:18:34",
+      "html_sha256": "efca0e9c941d23d141b02d9817feae7d44675190646d6b2672707e7177461584",
+      "html_chars": 145013,
+      "parsed_comments": 23,
+      "read_at": "2026-09-19T09:48:45.461854+00:00"
+    },
+    {
+      "post_id": 9990,
+      "url": "https://exler.es/blog/mirovaya-premyera-poco-m5-pro-5g.htm",
+      "fetched_at": "2026-01-29 20:18:43",
+      "html_sha256": "f23c40b9e0afe4c12ec259774cd0f1d86abfeedef693bf9af8763ba9c8eedefc",
+      "html_chars": 212738,
+      "parsed_comments": 48,
+      "read_at": "2026-09-19T09:48:45.727318+00:00"
+    },
+    {
+      "post_id": 10001,
+      "url": "https://exler.es/blog/luchshiye-smartfony-2026-goda.htm",
+      "fetched_at": "2026-06-18 03:04:52",
+      "html_sha256": "19201727ee575a1620b9a599a5dbd19af6236587fda5dcafc42b69ea9241d857",
+      "html_chars": 255204,
+      "parsed_comments": 61,
+      "read_at": "2026-09-19T09:53:28.611510+00:00"
+    },
+    {
+      "post_id": 10007,
+      "url": "https://exler.es/expromt/smartfony-xiaomi-17t-i-17t-pro.htm",
+      "fetched_at": "2026-06-18 03:04:55",
+      "html_sha256": "aefb8b29a8eb1419f562fd4956c76411e2351deb45c958b4c73e5536ec2ec8b5",
+      "html_chars": 141995,
+      "parsed_comments": 37,
+      "read_at": "2026-09-19T09:48:45.482369+00:00"
+    },
+    {
+      "post_id": 10026,
+      "url": "https://exler.es/blog/vsemirnaya-istoriya-chast-1.htm",
+      "fetched_at": "2026-06-18 03:05:05",
+      "html_sha256": "2450cd399294dc10f51b729dd39daba4f8bd30c8398e347aae2337146edb9bef",
+      "html_chars": 344261,
+      "parsed_comments": 96,
+      "read_at": "2026-09-19T09:48:45.506179+00:00"
+    },
+    {
+      "post_id": 10033,
+      "url": "https://exler.es/blog/sdelka-uzhe-vot-vot.htm",
+      "fetched_at": "2026-06-18 03:09:41",
+      "html_sha256": "f399512c1e5d57e5a53934799a350fb19068186296595159e7de0efde7133ed6",
+      "html_chars": 465535,
+      "parsed_comments": 142,
+      "read_at": "2026-09-19T09:48:55.514342+00:00"
+    },
+    {
+      "post_id": 10038,
+      "url": "https://exler.es/blog/otkrytiye-bashnyu-iisusa-baziliki-la-sagrada-familia.htm",
+      "fetched_at": "2026-06-18 03:09:44",
+      "html_sha256": "5d56c3787c181e6ce8bd9b21ca2390ab34f907f8d67f631dcd8476a87e499270",
+      "html_chars": 208955,
+      "parsed_comments": 45,
+      "read_at": "2026-09-19T09:48:55.500020+00:00"
+    },
+    {
+      "post_id": 10039,
+      "url": "https://exler.es/films/proshaj-dzhun.htm",
+      "fetched_at": "2026-06-18 03:09:44",
+      "html_sha256": "beb920ea626fae7bf97576ced306ae7f0c25a737cd5c38deac3981657e56f2bd",
+      "html_chars": 228092,
+      "parsed_comments": 18,
+      "read_at": "2026-09-19T09:53:28.837387+00:00"
+    },
+    {
+      "post_id": 10057,
+      "url": "https://exler.es/films/ograblenie-londona.htm",
+      "fetched_at": "2026-06-18 03:09:53",
+      "html_sha256": "7e92452bbd4a1d13f83dc7bd14437b4f00fa5f328ea8f8c611ce8294b608e23f",
+      "html_chars": 311408,
+      "parsed_comments": 50,
+      "read_at": "2026-09-19T09:53:38.056086+00:00"
+    },
+    {
+      "post_id": 10119,
+      "url": "https://exler.es/blog/prilozheniye-dlya-otslezhivaniya-khrapa.htm",
+      "fetched_at": "2026-06-18 03:10:25",
+      "html_sha256": "fbd82fd7d3cc0a98b4254d849fe622e2dc1d72dc3ae9fd5c7b5da1f6fa50711c",
+      "html_chars": 243252,
+      "parsed_comments": 58,
+      "read_at": "2026-09-19T09:48:55.595781+00:00"
+    },
+    {
+      "post_id": 10143,
+      "url": "https://exler.es/blog/ispanskiy-bashmachnik.htm",
+      "fetched_at": "2026-06-18 03:10:38",
+      "html_sha256": "d84b579d9f384f082c85dbbd52b9b2eb9eb928b2d88023f947ce7829b693adb9",
+      "html_chars": 229346,
+      "parsed_comments": 48,
+      "read_at": "2026-09-19T09:48:55.607440+00:00"
+    },
+    {
+      "post_id": 10145,
+      "url": "https://exler.es/blog/trebuyutsya-it-spetsialisty.htm",
+      "fetched_at": "2026-06-18 03:10:38",
+      "html_sha256": "8dbc37e7c354840ac07dc20c239673538af792f92c87f54a4d0b88fb6dd85dc2",
+      "html_chars": 241780,
+      "parsed_comments": 57,
+      "read_at": "2026-09-19T09:49:07.282259+00:00"
+    },
+    {
+      "post_id": 10158,
+      "url": "https://exler.es/blog/ne-khotela-stoyat-v-probke.htm",
+      "fetched_at": "2026-06-18 03:10:45",
+      "html_sha256": "5284edd2bb3e28eb822db6f6a899e28a202050e57669cf0cbf780ab24c64d2ce",
+      "html_chars": 395416,
+      "parsed_comments": 114,
+      "read_at": "2026-09-19T09:53:38.417568+00:00"
+    },
+    {
+      "post_id": 10195,
+      "url": "https://exler.es/expromt/obzor-umnyh-chasov-huawei-watch-fit-5.htm",
+      "fetched_at": "2026-06-18 03:11:04",
+      "html_sha256": "652027fab072d091212cb52a74e2dcfa956406a79b3621438629d224830e5727",
+      "html_chars": 127859,
+      "parsed_comments": 23,
+      "read_at": "2026-09-19T09:53:38.044749+00:00"
+    },
+    {
+      "post_id": 10223,
+      "url": "https://exler.es/blog/sony-umeyet-udivit.htm",
+      "fetched_at": "2026-06-18 03:11:19",
+      "html_sha256": "88ad8f62d755732518fdf39d96fe446f137175216c53d1250438d6f94d2ad5cd",
+      "html_chars": 274687,
+      "parsed_comments": 76,
+      "read_at": "2026-09-19T09:49:06.982072+00:00"
+    },
+    {
+      "post_id": 10247,
+      "url": "https://exler.es/films/vot-eto-drama.htm",
+      "fetched_at": "2026-06-18 03:11:31",
+      "html_sha256": "737f1c10df8840a159abb243766b9308d49cb5087f24d6dff39a7c0a27a4b600",
+      "html_chars": 358391,
+      "parsed_comments": 67,
+      "read_at": "2026-09-19T09:49:07.395116+00:00"
+    },
+    {
+      "post_id": 10296,
+      "url": "https://exler.es/blog/bez-vashey-podderzhki-etot-sayt-ne-vyzhivet.htm",
+      "fetched_at": "2026-06-18 03:11:57",
+      "html_sha256": "2c29c18e312b9f8e28d846d67b6a84bf9f3c5a4d01bc1d2bd84af0931d56afee",
+      "html_chars": 120023,
+      "parsed_comments": 6,
+      "read_at": "2026-09-19T09:49:06.977514+00:00"
+    },
+    {
+      "post_id": 10419,
+      "url": "https://exler.es/films/molodoj-sherlok.htm",
+      "fetched_at": "2026-06-18 03:13:02",
+      "html_sha256": "5ba86b8488c49c845b361e112b6a07a74c1ffa1b25c1727f87ddfe7d5029b41d",
+      "html_chars": 336990,
+      "parsed_comments": 58,
+      "read_at": "2026-09-19T09:49:16.636786+00:00"
+    },
+    {
+      "post_id": 10430,
+      "url": "https://exler.es/expromt/obzor-smartfona-realme-14-5g.htm",
+      "fetched_at": "2026-06-18 03:13:08",
+      "html_sha256": "aed88c0fe712821169ef33d263476c49a754cdf9cedb9f2768c474d286c4f02a",
+      "html_chars": 120780,
+      "parsed_comments": 21,
+      "read_at": "2026-09-19T09:49:16.627690+00:00"
+    },
+    {
+      "post_id": 10447,
+      "url": "https://exler.es/blog/quando-quando-quando.htm",
+      "fetched_at": "2026-06-18 03:13:17",
+      "html_sha256": "7eeb0918ab44c0cda5074bccd0a4a87fd29ddd139dab76623101e9c25bcf57c0",
+      "html_chars": 136828,
+      "parsed_comments": 20,
+      "read_at": "2026-09-19T09:49:17.015912+00:00"
+    },
+    {
+      "post_id": 10468,
+      "url": "https://exler.es/films/ograblenie-v-los-andzhelese.htm",
+      "fetched_at": "2026-06-18 03:13:28",
+      "html_sha256": "9d733d48389f72d33be40aab9b33cd459be43b8d111931636f0266338bdf1e1b",
+      "html_chars": 274151,
+      "parsed_comments": 33,
+      "read_at": "2026-09-19T09:49:17.239401+00:00"
+    },
+    {
+      "post_id": 10482,
+      "url": "https://exler.es/expromt/smartfony-poco-x8-pro-i-poco-x8-pro-max.htm",
+      "fetched_at": "2026-06-18 03:13:35",
+      "html_sha256": "06d4b9aa839efdd79974c28359f1751792837f0248bc3d4abfee2debaa15e94d",
+      "html_chars": 104611,
+      "parsed_comments": 22,
+      "read_at": "2026-09-19T09:49:30.995348+00:00"
+    },
+    {
+      "post_id": 10493,
+      "url": "https://exler.es/films/ohota-za-tenyu.htm",
+      "fetched_at": "2026-06-18 03:13:41",
+      "html_sha256": "4bf4b272c5b1c47a65a47aec60c7f11495c2ad6f1d3ecf0f06112a9c004f1482",
+      "html_chars": 255840,
+      "parsed_comments": 28,
+      "read_at": "2026-09-19T09:49:30.925111+00:00"
+    },
+    {
+      "post_id": 10500,
+      "url": "https://exler.es/blog/el-shkandal-sredi-khamasolyubov.htm",
+      "fetched_at": "2026-06-18 03:13:46",
+      "html_sha256": "dbd7a47de419f89aad38929318b1ad28c71a2ff327259eddc65782ca3a80c4ea",
+      "html_chars": 246480,
+      "parsed_comments": 55,
+      "read_at": "2026-09-19T09:49:30.916334+00:00"
+    },
+    {
+      "post_id": 10518,
+      "url": "https://exler.es/blog/s-balami-mozhet-ne-slozhitsya.htm",
+      "fetched_at": "2026-06-18 03:13:55",
+      "html_sha256": "3ca4bdc92fedf897271524ec627d827263c44b60520d528b001951a739a8a59f",
+      "html_chars": 896444,
+      "parsed_comments": 287,
+      "read_at": "2026-09-19T09:49:31.054869+00:00"
+    },
+    {
+      "post_id": 10544,
+      "url": "https://exler.es/films/ostrye-kozyrki-bessmertnyj-chelovek.htm",
+      "fetched_at": "2026-06-18 03:14:08",
+      "html_sha256": "df4907750e6afb2017caf39a5fd51253c0d4c0a703630462f1cc4556d43ca37f",
+      "html_chars": 281142,
+      "parsed_comments": 36,
+      "read_at": "2026-09-19T09:49:41.928685+00:00"
+    },
+    {
+      "post_id": 10606,
+      "url": "https://exler.es/expromt/obzor-premialnyh-umnyh-chasov-huawei-watch-5.htm",
+      "fetched_at": "2026-06-18 03:14:42",
+      "html_sha256": "22a80adf1ce9ff278f60dce5021fed631791677b163f750154cd970deb338342",
+      "html_chars": 219816,
+      "parsed_comments": 55,
+      "read_at": "2026-09-19T09:49:41.941980+00:00"
+    },
+    {
+      "post_id": 10612,
+      "url": "https://exler.es/films/golubaya-luna.htm",
+      "fetched_at": "2026-06-18 03:14:45",
+      "html_sha256": "952e17772e9f6eb1ca90ad42189f4813956403fd096cc0101ae7a9e10146095c",
+      "html_chars": 261069,
+      "parsed_comments": 28,
+      "read_at": "2026-09-19T09:49:42.207746+00:00"
+    },
+    {
+      "post_id": 10613,
+      "url": "https://exler.es/blog/98-ya-premiya-oskar.htm",
+      "fetched_at": "2026-06-18 03:14:46",
+      "html_sha256": "0a22f6bb219172b5c96322beef646ca708de1a0b9320fbbddc7b412273d2a1bf",
+      "html_chars": 805764,
+      "parsed_comments": 262,
+      "read_at": "2026-09-19T09:49:41.968454+00:00"
+    },
+    {
+      "post_id": 10648,
+      "url": "https://exler.es/films/druzya-i-sosedi.htm",
+      "fetched_at": "2026-06-18 03:15:05",
+      "html_sha256": "089669d998dbd24d8c1802a69ff7d764dff6bc530b389df78b0993be1f223b25",
+      "html_chars": 293946,
+      "parsed_comments": 43,
+      "read_at": "2026-09-19T09:49:53.249252+00:00"
+    },
+    {
+      "post_id": 10671,
+      "url": "https://exler.es/blog/chego-oni-zlyye-takiye.htm",
+      "fetched_at": "2026-06-18 03:15:17",
+      "html_sha256": "af8be23cc919d00a04cd10584b6e9b996d4c83ae52e5af4c23dbc4b2e2e37c33",
+      "html_chars": 313343,
+      "parsed_comments": 84,
+      "read_at": "2026-09-19T09:49:53.845695+00:00"
+    },
+    {
+      "post_id": 10769,
+      "url": "https://exler.es/films/opasnyj-duet.htm",
+      "fetched_at": "2026-06-18 03:16:08",
+      "html_sha256": "6b3ab8fc0a7213c6d4fc3e7c950c16f8c4c60ff14bec6ecc283019910e8412a7",
+      "html_chars": 256868,
+      "parsed_comments": 28,
+      "read_at": "2026-09-19T09:53:48.026596+00:00"
+    },
+    {
+      "post_id": 10778,
+      "url": "https://exler.es/expromt/obzor-tws-naushnikov-ugreen-lightbuds-magic.htm",
+      "fetched_at": "2026-06-18 03:16:13",
+      "html_sha256": "86bd2cebdbb111c3a69603b2cc0d1cecadd184b5e94c630dc5ae9684b29cf4b4",
+      "html_chars": 125323,
+      "parsed_comments": 28,
+      "read_at": "2026-09-19T09:49:53.254131+00:00"
+    },
+    {
+      "post_id": 10798,
+      "url": "https://exler.es/blog/seks-guakamole-shmuakamole.htm",
+      "fetched_at": "2026-06-18 03:16:23",
+      "html_sha256": "1f324b9f7720b916dc98e812ce6c6a9cb93973463b09bef6a7a7cd28abc157b0",
+      "html_chars": 373035,
+      "parsed_comments": 107,
+      "read_at": "2026-09-19T09:53:48.251405+00:00"
+    },
+    {
+      "post_id": 10810,
+      "url": "https://exler.es/blog/narusheniye-avtorskikh-prav.htm",
+      "fetched_at": "2026-06-18 03:16:29",
+      "html_sha256": "4a885ddad1e9ae2be48384a1c478629cec8ecfbfa1c64d88eb96a8671e019d08",
+      "html_chars": 207156,
+      "parsed_comments": 46,
+      "read_at": "2026-09-19T09:49:53.848115+00:00"
+    },
+    {
+      "post_id": 10815,
+      "url": "https://exler.es/films/marti-velikolepnyj.htm",
+      "fetched_at": "2026-06-18 03:16:31",
+      "html_sha256": "8b0fbe21fd7fb97a2ac57692c3b2a616bd4bd10509e91b6541b9fe71ccfef614",
+      "html_chars": 329586,
+      "parsed_comments": 53,
+      "read_at": "2026-09-19T09:50:06.792690+00:00"
+    },
+    {
+      "post_id": 10850,
+      "url": "https://exler.es/blog/viktor-shenderovich-tozhe-otmetilsya.htm",
+      "fetched_at": "2026-06-18 03:16:51",
+      "html_sha256": "8c64c530d3cc53c2915d59dfc3cdc1562b20771cecc44e89d0f5d7303866b5c5",
+      "html_chars": 802363,
+      "parsed_comments": 250,
+      "read_at": "2026-09-19T09:50:06.994396+00:00"
+    }
+  ]
+}
