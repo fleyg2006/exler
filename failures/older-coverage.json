@@ -1,0 +1,296 @@
+{
+  "schema_version": 1,
+  "research_completed_at": "2026-09-18",
+  "restored_and_published_at": "2026-09-19",
+  "database_start": "2021-05-19",
+  "cult_window": {
+    "from": "2022-09-19",
+    "through": "2025-09-18"
+  },
+  "new_cases": {
+    "count": 59,
+    "before_database_start": 48,
+    "cult_leads_confirmed": 11,
+    "ids": [
+      "FAIL-056",
+      "FAIL-057",
+      "FAIL-058",
+      "FAIL-059",
+      "FAIL-060",
+      "FAIL-061",
+      "FAIL-062",
+      "FAIL-063",
+      "FAIL-064",
+      "FAIL-065",
+      "FAIL-066",
+      "FAIL-067",
+      "FAIL-068",
+      "FAIL-069",
+      "FAIL-070",
+      "FAIL-071",
+      "FAIL-072",
+      "FAIL-073",
+      "FAIL-074",
+      "FAIL-075",
+      "FAIL-076",
+      "FAIL-077",
+      "FAIL-078",
+      "FAIL-079",
+      "FAIL-080",
+      "FAIL-081",
+      "FAIL-082",
+      "FAIL-083",
+      "FAIL-084",
+      "FAIL-085",
+      "FAIL-086",
+      "FAIL-087",
+      "FAIL-088",
+      "FAIL-089",
+      "FAIL-090",
+      "FAIL-091",
+      "FAIL-092",
+      "FAIL-093",
+      "FAIL-094",
+      "FAIL-095",
+      "FAIL-096",
+      "FAIL-097",
+      "FAIL-098",
+      "FAIL-099",
+      "FAIL-100",
+      "FAIL-101",
+      "FAIL-102",
+      "FAIL-103",
+      "FAIL-104",
+      "FAIL-105",
+      "FAIL-106",
+      "FAIL-107",
+      "FAIL-108",
+      "FAIL-109",
+      "FAIL-110",
+      "FAIL-111",
+      "FAIL-112",
+      "FAIL-113",
+      "FAIL-114"
+    ]
+  },
+  "cult": {
+    "archive_months": 37,
+    "posts_found": 57,
+    "expected_comment_pages": 887,
+    "available_comment_pages": 887,
+    "unavailable_comment_pages": 0,
+    "unique_comment_nodes": 71234,
+    "full_html_bodies_in_date_window": 23048,
+    "candidate_comments": 868,
+    "months": [
+      {
+        "month": "2022-09",
+        "full_html_bodies": 245,
+        "archive_url": "https://exler-cult.livejournal.com/2022/09/"
+      },
+      {
+        "month": "2022-10",
+        "full_html_bodies": 553,
+        "archive_url": "https://exler-cult.livejournal.com/2022/10/"
+      },
+      {
+        "month": "2022-11",
+        "full_html_bodies": 540,
+        "archive_url": "https://exler-cult.livejournal.com/2022/11/"
+      },
+      {
+        "month": "2022-12",
+        "full_html_bodies": 591,
+        "archive_url": "https://exler-cult.livejournal.com/2022/12/"
+      },
+      {
+        "month": "2023-01",
+        "full_html_bodies": 604,
+        "archive_url": "https://exler-cult.livejournal.com/2023/01/"
+      },
+      {
+        "month": "2023-02",
+        "full_html_bodies": 528,
+        "archive_url": "https://exler-cult.livejournal.com/2023/02/"
+      },
+      {
+        "month": "2023-03",
+        "full_html_bodies": 755,
+        "archive_url": "https://exler-cult.livejournal.com/2023/03/"
+      },
+      {
+        "month": "2023-04",
+        "full_html_bodies": 680,
+        "archive_url": "https://exler-cult.livejournal.com/2023/04/"
+      },
+      {
+        "month": "2023-05",
+        "full_html_bodies": 599,
+        "archive_url": "https://exler-cult.livejournal.com/2023/05/"
+      },
+      {
+        "month": "2023-06",
+        "full_html_bodies": 635,
+        "archive_url": "https://exler-cult.livejournal.com/2023/06/"
+      },
+      {
+        "month": "2023-07",
+        "full_html_bodies": 641,
+        "archive_url": "https://exler-cult.livejournal.com/2023/07/"
+      },
+      {
+        "month": "2023-08",
+        "full_html_bodies": 591,
+        "archive_url": "https://exler-cult.livejournal.com/2023/08/"
+      },
+      {
+        "month": "2023-09",
+        "full_html_bodies": 683,
+        "archive_url": "https://exler-cult.livejournal.com/2023/09/"
+      },
+      {
+        "month": "2023-10",
+        "full_html_bodies": 645,
+        "archive_url": "https://exler-cult.livejournal.com/2023/10/"
+      },
+      {
+        "month": "2023-11",
+        "full_html_bodies": 505,
+        "archive_url": "https://exler-cult.livejournal.com/2023/11/"
+      },
+      {
+        "month": "2023-12",
+        "full_html_bodies": 582,
+        "archive_url": "https://exler-cult.livejournal.com/2023/12/"
+      },
+      {
+        "month": "2024-01",
+        "full_html_bodies": 582,
+        "archive_url": "https://exler-cult.livejournal.com/2024/01/"
+      },
+      {
+        "month": "2024-02",
+        "full_html_bodies": 835,
+        "archive_url": "https://exler-cult.livejournal.com/2024/02/"
+      },
+      {
+        "month": "2024-03",
+        "full_html_bodies": 689,
+        "archive_url": "https://exler-cult.livejournal.com/2024/03/"
+      },
+      {
+        "month": "2024-04",
+        "full_html_bodies": 630,
+        "archive_url": "https://exler-cult.livejournal.com/2024/04/"
+      },
+      {
+        "month": "2024-05",
+        "full_html_bodies": 710,
+        "archive_url": "https://exler-cult.livejournal.com/2024/05/"
+      },
+      {
+        "month": "2024-06",
+        "full_html_bodies": 686,
+        "archive_url": "https://exler-cult.livejournal.com/2024/06/"
+      },
+      {
+        "month": "2024-07",
+        "full_html_bodies": 692,
+        "archive_url": "https://exler-cult.livejournal.com/2024/07/"
+      },
+      {
+        "month": "2024-08",
+        "full_html_bodies": 645,
+        "archive_url": "https://exler-cult.livejournal.com/2024/08/"
+      },
+      {
+        "month": "2024-09",
+        "full_html_bodies": 772,
+        "archive_url": "https://exler-cult.livejournal.com/2024/09/"
+      },
+      {
+        "month": "2024-10",
+        "full_html_bodies": 695,
+        "archive_url": "https://exler-cult.livejournal.com/2024/10/"
+      },
+      {
+        "month": "2024-11",
+        "full_html_bodies": 726,
+        "archive_url": "https://exler-cult.livejournal.com/2024/11/"
+      },
+      {
+        "month": "2024-12",
+        "full_html_bodies": 647,
+        "archive_url": "https://exler-cult.livejournal.com/2024/12/"
+      },
+      {
+        "month": "2025-01",
+        "full_html_bodies": 712,
+        "archive_url": "https://exler-cult.livejournal.com/2025/01/"
+      },
+      {
+        "month": "2025-02",
+        "full_html_bodies": 771,
+        "archive_url": "https://exler-cult.livejournal.com/2025/02/"
+      },
+      {
+        "month": "2025-03",
+        "full_html_bodies": 764,
+        "archive_url": "https://exler-cult.livejournal.com/2025/03/"
+      },
+      {
+        "month": "2025-04",
+        "full_html_bodies": 625,
+        "archive_url": "https://exler-cult.livejournal.com/2025/04/"
+      },
+      {
+        "month": "2025-05",
+        "full_html_bodies": 731,
+        "archive_url": "https://exler-cult.livejournal.com/2025/05/"
+      },
+      {
+        "month": "2025-06",
+        "full_html_bodies": 517,
+        "archive_url": "https://exler-cult.livejournal.com/2025/06/"
+      },
+      {
+        "month": "2025-07",
+        "full_html_bodies": 440,
+        "archive_url": "https://exler-cult.livejournal.com/2025/07/"
+      },
+      {
+        "month": "2025-08",
+        "full_html_bodies": 499,
+        "archive_url": "https://exler-cult.livejournal.com/2025/08/"
+      },
+      {
+        "month": "2025-09",
+        "full_html_bodies": 303,
+        "archive_url": "https://exler-cult.livejournal.com/2025/09/"
+      }
+    ],
+    "all_comments_manually_read": false,
+    "all_collapsed_replies_expanded": false,
+    "all_images_read": false,
+    "september_2025_pages_reused_from_previous_run": 18
+  },
+  "site": {
+    "search_pages_available": 203,
+    "unique_search_results_before_database_start": 993,
+    "primary_pages_available": 136,
+    "parsed_primary_article_bodies": 131,
+    "author_replies_parsed_without_reader_quotes": 823,
+    "all_discovered_posts_manually_read": false
+  },
+  "restoration": {
+    "basis": "Сохранённые выводы завершённого обхода и проверки в разговоре. Итоговые конспекты восстановлены после отключения рабочей среды.",
+    "raw_html_available_in_current_environment": false,
+    "page_sha256_manifest_available": false,
+    "limitation": "Исходный подробный новый журнал с SHA-256 не удалось перенести. Контрольные суммы не восстанавливались по догадке; эта сводка не заменяет утраченный манифест."
+  },
+  "constraints": {
+    "aliexpress_visited": false,
+    "merchant_links_followed": false,
+    "database_credentials_published": false
+  }
+}

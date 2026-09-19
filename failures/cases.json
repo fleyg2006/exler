@@ -3,9 +3,9 @@
   "checked_at": "2026-09-18",
   "scope": "Публичные неудачные покупки, лишние расходы, ошибки, исправления и разочарования; тематическая выборка, не полный счёт провалов.",
   "counts": {
-    "episodes": 55,
-    "main": 38,
-    "secondary": 17
+    "episodes": 114,
+    "main": 94,
+    "secondary": 20
   },
   "cases": [
     {
@@ -1631,6 +1631,1789 @@
           "url": "https://exler.es/blog/dlya-uluchsheniya-kachestva-obsluzhivaniya.htm"
         }
       ]
+    },
+    {
+      "id": "FAIL-056",
+      "published_at": "2006-04-24",
+      "title": "Второй Epson куплен из-за стены за первым",
+      "category": "purchase",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "Epson R200 перестал печатать на дисках. Купленный вместо него R220 дал ту же ошибку. Проверка в магазине показала: дома лоток упирался в стенку шкафа.",
+      "outcome": "Причина выяснена; новая модель для её устранения не требовалась.",
+      "limits": "Возврат второго принтера не сообщён. $180 в тексте — прежняя цена R200, не установленная потеря.",
+      "satire": {
+        "type": "satire",
+        "scene": "Меняются принтер и диагноз; стена остаётся прежней."
+      },
+      "money": {
+        "status": "not_quantified",
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/anekdotichnaya-istoriya-s-printerom.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-057",
+      "published_at": "2020-08-26",
+      "title": "Подписка до обнаружения кнопки скачивания",
+      "category": "technology",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "Сохраняя превью через браузер, решил, что Google Фото уменьшает оригиналы. Купил 100 ГБ и потратил 30–40 минут на поддержку.",
+      "outcome": "Штатная команда скачивания выдала оригинал; в дополнении объяснил ошибку.",
+      "limits": "Цена и отмена подписки неизвестны; дополнительное место могло иметь другую пользу.",
+      "satire": {
+        "type": "satire",
+        "scene": "Сто гигабайт помогают найти одну кнопку."
+      },
+      "money": {
+        "status": "not_quantified",
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/kak-poborot-google-photo.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-058",
+      "published_at": "2016-03-01",
+      "title": "После ремонта ноутбук по-прежнему без батареи",
+      "category": "service",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "Отдал ASUS в сервис из-за батареи. Первоначальную смету 26 200 рублей после торга снизили примерно до 6000.",
+      "outcome": "Батарею не заменили; ноутбук работал от сети, как до обращения.",
+      "limits": "Расчёт описан приблизительно; выполненные работы независимо не проверены. Вторую историю родственницы не прибавляем.",
+      "satire": {
+        "type": "satire",
+        "scene": "Смета худеет, неисправность остаётся."
+      },
+      "money": {
+        "status": "self_reported_payment_unresolved_problem",
+        "currency": "RUB",
+        "amount_approx": 6000,
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/razvod-s-remontom-elektroniki.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-059",
+      "published_at": "2016-02-09",
+      "title": "Шире по диагонали, теснее по высоте",
+      "category": "purchase",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "Купил LG 29UM67-P 2560×1080, забыв о 1200 пикселях по вертикали у прежнего Dell. Новый экран оказался ниже и неудобнее.",
+      "outcome": "Вернул LG и заказал 34UM95C-P; заменой доволен.",
+      "limits": "Денежная потеря не установлена.",
+      "satire": {
+        "type": "satire",
+        "scene": "Экран расширяется, рабочее пространство сжимается."
+      },
+      "money": {
+        "status": "not_quantified",
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/novyj-monitor.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-060",
+      "published_at": "2006-07-10",
+      "title": "Silent Tower потребовал регулятора и замены",
+      "category": "purchase",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "Купленный как тихий Silent Tower шумел. Докупил регулятор Zalman; затем кулер ещё и затрещал.",
+      "outcome": "Заменил на Zalman 7000B-CU, отдельный регулятор убрал.",
+      "limits": "Цены и возвраты неизвестны. Это покупка 2006 года, отдельная от Noctua 2023.",
+      "satire": {
+        "type": "satire",
+        "scene": "Для тихого кулера нужны прибор тишины и другой кулер."
+      },
+      "money": {
+        "status": "not_quantified",
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/novyj-kuler-dlya-processora.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-061",
+      "published_at": "2009-11-30",
+      "title": "Два неудобных паровых увлажнителя",
+      "category": "purchase",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "Купил Boneco 2031 и Delonghi UH800E. Описал шум и горячий пар у первого, неудобный тяжёлый бак у второго.",
+      "outcome": "Решил вернуться к испарительной модели прежнего типа.",
+      "limits": "Замена в посте ещё намерение; сумма потерь не названа. Две покупки — одна сравнительная история.",
+      "satire": {
+        "type": "satire",
+        "scene": "После двух новинок перспективным становится прежнее устройство."
+      },
+      "money": {
+        "status": "not_quantified",
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/uvlazhniteli-vozduha.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-062",
+      "published_at": "2017-06-01",
+      "title": "Galaxy S8+: снятая плёнка и треснувший экран",
+      "category": "loss",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "После удаления защитной плёнки экран S8+ треснул. Автор описывает лёгкий контакт угла с клавиатурой; телефон был в бампере.",
+      "outcome": "Опубликовал повреждение и пересмотрел отношение к защите.",
+      "limits": "Сила удара и причина — его версия. 7000 рублей за страховку и около 25 000 за ремонт — предложения и оценки, не подтверждённые платежи.",
+      "satire": {
+        "type": "satire",
+        "scene": "Обзор защиты встречается с собственной клавиатурой."
+      },
+      "money": {
+        "status": "not_quantified",
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/sluhi-o-chrezvychajnoj-hrupkosti-displeev-galaxy-s8.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-063",
+      "published_at": "2017-03-30",
+      "title": "Bluetooth-трекер за $30 не оправдал ожиданий",
+      "category": "purchase",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "Заказал увиденный в Facebook трекер. Проверка выявила ограниченную дальность и функции.",
+      "outcome": "Опубликовал отрицательный отзыв, объясняя покупку исследовательской целью.",
+      "limits": "Признаёт пользу поблизости. $30 — цена покупки; возврат неизвестен.",
+      "satire": {
+        "type": "satire",
+        "scene": "Трекер ищет ключи там, где эксперт почти видит их сам."
+      },
+      "money": {
+        "status": "purchase_price",
+        "currency": "USD",
+        "amount": 30,
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/treker-figeker.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-064",
+      "published_at": "2019-09-04",
+      "title": "ez Share: передача снимков с ножницами",
+      "category": "purchase",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "Купил Wi-Fi-адаптер карты за €15. Описал неудачную загрузку архива на двух компьютерах и извлечение тугой microSD ножницами.",
+      "outcome": "Задача не решена, отзыв отрицательный.",
+      "limits": "Объяснение о необходимости Wi-Fi в самой камере не подтверждаем. Возврат не указан.",
+      "satire": {
+        "type": "satire",
+        "scene": "Беспроводное удобство заканчивается ножницами."
+      },
+      "money": {
+        "status": "purchase_price",
+        "currency": "EUR",
+        "amount": 15,
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/adapter-s-wi-fi-dlya-karty-pamyati.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-065",
+      "published_at": "2020-07-20",
+      "title": "Redmi AC2100 и китайская панель настроек",
+      "category": "purchase",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "Заказал Redmi AC2100 за $36, рассчитывая на опыт предыдущего Xiaomi. Китайские инструкция и интерфейс затруднили настройку; приложение не помогло.",
+      "outcome": "К моменту поста решения не нашёл и опубликовал предупреждение.",
+      "limits": "Не доказано, что роутер сломан или вообще не поддаётся настройке. Дальнейший исход неизвестен.",
+      "satire": {
+        "type": "satire",
+        "scene": "Цена понятна на любом языке, панель управления — на одном."
+      },
+      "money": {
+        "status": "purchase_price",
+        "currency": "USD",
+        "amount": 36,
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/marshrutizator-redmi-ac2100.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-066",
+      "published_at": "2016-04-21",
+      "title": "Leagoo: обвинение в ёмкости пришлось уточнять",
+      "category": "public_correction",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "После показания зарядного прибора 3800 вместо заявленных 6300 мА·ч объявил обман.",
+      "outcome": "При медленной зарядке получил близкое к 6000 показание и смягчил обвинение, сохранив претензию к автономности.",
+      "limits": "Это присланный тестовый телефон. USB-измерение не выдаём за лабораторную ёмкость.",
+      "satire": {
+        "type": "satire",
+        "scene": "Приговор батарее оглашён раньше окончания зарядки."
+      },
+      "money": {
+        "status": "not_quantified",
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/duryat-nashego-brata.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-067",
+      "published_at": "2013-03-12",
+      "title": "«Хамелеоны» сначала приняты за обман",
+      "category": "misunderstanding",
+      "tier": "secondary",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "В Москве не увидел потемнения новых фотохромных очков и решил, что его обманули.",
+      "outcome": "В Испании линзы затемнялись на солнце; автор пересмотрел вывод.",
+      "limits": "Причину различия условий независимо не проверяли.",
+      "satire": {
+        "type": "satire",
+        "scene": "Очкам выносится вердикт до испытания на втором солнце."
+      },
+      "money": {
+        "status": "not_quantified",
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/nastoyashie-hameleony.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-068",
+      "published_at": "2013-06-18",
+      "title": "Возврат €12 принят за новое списание",
+      "category": "money",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "После поездки разбирался с операциями ресторана и гостиницы. Затем пожаловался ещё на снятые €12.",
+      "outcome": "В дополнении признал: €12,02 были возвращены, он невнимательно посмотрел.",
+      "limits": "Не все операции были окончательными списаниями; спор о цене гостиницы не доказывает мошенничество.",
+      "satire": {
+        "type": "satire",
+        "scene": "Пока расследуют исчезновение денег, деньги возвращаются."
+      },
+      "money": {
+        "status": "not_quantified",
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/shvedskie-denezhnye-strannosti.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-069",
+      "published_at": "2008-06-07",
+      "title": "Новый ресивер не заменил старый HDMI-хаб",
+      "category": "purchase",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "Купил Sony STR-DG700 после поломки Denon. DVD работал, но Blu-ray и TViX через встроенный HDMI-хаб дали проблемы изображения.",
+      "outcome": "Вернул прежний внешний хаб, с ним всё заработало.",
+      "limits": "Это совместимость его комплекта, не доказанный дефект всех ресиверов модели.",
+      "satire": {
+        "type": "satire",
+        "scene": "Новому центру системы выдают старый костыль."
+      },
+      "money": {
+        "status": "not_quantified",
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/hdmi-hab-na-resivere-i-hd.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-070",
+      "published_at": "2012-04-23",
+      "title": "Яма в асфальте и расходы на колёса",
+      "category": "loss",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "После попадания в яму сообщил о повреждённых колесе и шине, почти $700 за комплект новых дисков; один диск был повреждён раньше.",
+      "outcome": "Планировал замену зимней резины и оценивал совокупные траты примерно в $1500.",
+      "limits": "$700 — сообщённые расходы; $1500 — прогноз. Цена комплекта не равна ущербу одному колесу.",
+      "satire": {
+        "type": "satire",
+        "scene": "Небольшая яма проводит большой обзор бюджета."
+      },
+      "money": {
+        "status": "mixed_paid_and_estimate",
+        "currency": "USD",
+        "paid_approx": 700,
+        "total_estimate_approx": 1500,
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/mashinnobytovoe.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-071",
+      "published_at": "2017-11-15",
+      "title": "Mavic влетел в лес при возвращении задом",
+      "category": "technology",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "В Шабли возвращал Mavic задом в спортивном режиме, не учёл рельеф и отклонение курса. Коптер врезался в ветки.",
+      "outcome": "Нашёл по координатам почти целым; аппарат снова полетел. Признал ошибку.",
+      "limits": "Это не потеря навсегда. Прежний утраченный коптер — отдельный эпизод FAIL-086.",
+      "satire": {
+        "type": "satire",
+        "scene": "Пока камера прощается с городом, лес встречает оператора."
+      },
+      "money": {
+        "status": "not_quantified",
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/grustnyj-odinokij-kvadrokopter-v-surovyh-burgundskih-lesah.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-072",
+      "published_at": "2020-09-26",
+      "title": "Amazon предупредил после возвратов",
+      "category": "service",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "Рассказал о 148 заказах за неполный год и возвратах смартфонов после обзоров. Получил предупреждение о количестве возвратов и состоянии вещей.",
+      "outcome": "Деньги уже вернули; он спрашивал, грозит ли блокировка.",
+      "limits": "Блокировка не подтверждена. Состояние возвращённых товаров — спор сторон.",
+      "satire": {
+        "type": "satire",
+        "scene": "После обзоров смартфонов магазин начинает обзор обозревателя."
+      },
+      "money": {
+        "status": "not_quantified",
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/chernyy-lebed-ili-net.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-073",
+      "published_at": "2012-06-03",
+      "title": "Репитер куплен до обнаружения розетки",
+      "category": "purchase",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "Купил Cisco RE1000 для покрытия дома Wi-Fi. Затем обнаружил телефонную розетку на втором этаже и перенёс туда старый роутер.",
+      "outcome": "Покрытие улучшилось без репитера; в ответе читателю сообщил о намерении вернуть покупку.",
+      "limits": "Состоявшийся возврат денег не подтверждён.",
+      "satire": {
+        "type": "satire",
+        "scene": "Апгрейд сети завершается открытием розетки."
+      },
+      "money": {
+        "status": "not_quantified",
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/voznya-s-repiterami-wi-fi.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-074",
+      "published_at": "2015-11-23",
+      "title": "Код разблокировки Samsung не понадобился",
+      "category": "purchase",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "Заплатил за код снятия региональной блокировки Samsung S6 edge+.",
+      "outcome": "После использования европейской SIM российская заработала без купленного кода.",
+      "limits": "Сумма и возврат не указаны; универсальную техническую инструкцию из случая не выводим.",
+      "satire": {
+        "type": "satire",
+        "scene": "Решение уже оплачено, телефон справился без него."
+      },
+      "money": {
+        "status": "not_quantified",
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/blokirovka-simkarty-telefona-samsung.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-075",
+      "published_at": "2018-01-13",
+      "title": "Велокомпьютер без нужного каденса",
+      "category": "purchase",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "Купил велокомпьютер, у которого не оказалось нужной функции каденса.",
+      "outcome": "Вернул и выбрал Garmin.",
+      "limits": "€740 в тексте — отвергнутое предложение, а не состоявшаяся трата.",
+      "satire": {
+        "type": "satire",
+        "scene": "Главная функция обнаруживается в следующем заказе."
+      },
+      "money": {
+        "status": "not_quantified",
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/velosipednoe-1.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-076",
+      "published_at": "2018-09-19",
+      "title": "Мышь Sculpt отправилась в стол из-за следов",
+      "category": "purchase",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "Мышь Microsoft Sculpt оставляла следы на столе.",
+      "outcome": "Вернулся к старой Logitech; клавиатурой комплекта продолжил пользоваться.",
+      "limits": "Возврат комплекта и денежная потеря не установлены.",
+      "satire": {
+        "type": "satire",
+        "scene": "Обновление рабочего места оставляет на нём слишком заметный след."
+      },
+      "money": {
+        "status": "not_quantified",
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/vy-konechno-zhe-budete-smeyatsya.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-077",
+      "published_at": "2019-01-08",
+      "title": "TP-Link Deco M5 вернулся в коробку",
+      "category": "purchase",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "Купил комплект Deco M5 и столкнулся с нестабильной работой сети в своих условиях.",
+      "outcome": "Вернул систему.",
+      "limits": "В URL стоит m3, но обсуждаемый комплект — M5. Не переносим его опыт на все установки этой модели.",
+      "satire": {
+        "type": "satire",
+        "scene": "Бесшовная сеть проходит обратный маршрут до коробки."
+      },
+      "money": {
+        "status": "not_quantified",
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/besshovnaya-set-wi-fi-dlya-doma-tp-link-deco-m3.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-078",
+      "published_at": "2014-12-17",
+      "title": "Конвертация рублей дала около €1000 разницы",
+      "category": "money",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "Сравнил конвертацию почти одинаковых рублёвых сумм утром и через несколько часов на фоне резкого изменения курса.",
+      "outcome": "По его рассказу, разница составила примерно €1000.",
+      "limits": "Это сравнение результатов обмена, не отдельная комиссия банка или независимо рассчитанный ущерб.",
+      "satire": {
+        "type": "satire",
+        "scene": "Курс успевает провести собственный обзор раньше владельца денег."
+      },
+      "money": {
+        "status": "exchange_comparison_self_report",
+        "currency": "EUR",
+        "amount_approx": 1000,
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/vse-budet-horosho.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-079",
+      "published_at": "2016-01-30",
+      "title": "Поехал подключать оптику, которой не было",
+      "category": "service",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "После предложения Orange отправился оформлять оптический интернет, но в офисе сообщили, что в городе его нет.",
+      "outcome": "Пользовался мобильным Vodafone.",
+      "limits": "€60 — плата за работающий мобильный сервис, не потеря на несостоявшемся подключении.",
+      "satire": {
+        "type": "satire",
+        "scene": "У оптики отличная рекламная скорость и нулевая география."
+      },
+      "money": {
+        "status": "not_quantified",
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/kogda-mobilnyj-internet-luchshe-provodnogo.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-080",
+      "published_at": "2015-09-04",
+      "title": "Ресторан помнил, выход и спутников перепутал",
+      "category": "travel",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "На IFA повёл коллегу к знакомому ресторану через сложный выход. Затем решил, что перепутал Берлин с Барселоной и прежнего спутника.",
+      "outcome": "Вернувшись к предложенному коллегой Block House, узнал свой берлинский ресторан.",
+      "limits": "Ресторан был в Берлине. 20 тысяч шагов — за весь день, не за одну ошибочную прогулку; направления выходов в тексте непоследовательны.",
+      "satire": {
+        "type": "satire",
+        "scene": "Гид дважды меняет воспоминания, пока коллега ведёт к исходному предложению."
+      },
+      "money": {
+        "status": "not_quantified",
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/ifa-2015-den-predvaritelnyj.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-081",
+      "published_at": "2022-11-08",
+      "title": "Год эксплуатации осмоса без мембраны",
+      "category": "service",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": 6579,
+      "fact": "После замены установки очистки воды терпел шум. Спустя год новый мастер обнаружил неправильное подключение и отсутствие мембраны обратного осмоса.",
+      "outcome": "Мастер исправил установку.",
+      "limits": "Обычные фильтры были. Утверждение Культа о краже мембраны не доказано; не называем воду совсем неочищенной.",
+      "satire": {
+        "type": "satire",
+        "scene": "Годовая проверка находит деталь, ради которой покупалась установка."
+      },
+      "money": {
+        "status": "not_quantified",
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/manyana-dlinoy-v-god.htm"
+        },
+        {
+          "role": "cult_lead",
+          "url": "https://exler-cult.livejournal.com/1550449.html?thread=84575857#t84575857"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-082",
+      "published_at": "2012-08-13",
+      "title": "«Морской бой»: настоящие протезы приняты за эффект",
+      "category": "public_correction",
+      "tier": "main",
+      "evidence_type": "direct_observation",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "Читатель указал, что протезы Грегори Гэдсона настоящие, а не нарисованные. Сохранился собственный ответ Экслера с благодарностью и подтверждением правки.",
+      "outcome": "Ошибка и принятие поправки подтверждаются первичной веткой.",
+      "limits": "Полную редакцию рецензии до исправления не восстановили; не опираемся лишь на легенду Неолурка.",
+      "satire": {
+        "type": "satire",
+        "scene": "Спецэффектом оказывается объяснение рецензента."
+      },
+      "money": {
+        "status": "not_quantified",
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/films/morskoj-boj.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/films/comments/morskoj-boj.htm#65dd"
+        },
+        {
+          "role": "satirical_wiki_context",
+          "url": "https://neolurk.org/w/index.php?title=Алекс_Экслер&oldid=1847740"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-083",
+      "published_at": "2012-10-19",
+      "title": "Искал кнопку клавиатуры, которую заменяет «Назад»",
+      "category": "technology",
+      "tier": "secondary",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "Искал Android-клавиатуру с отдельной кнопкой скрытия.",
+      "outcome": "В дополнении выяснилось, что задачу решает системная кнопка «Назад».",
+      "limits": "Небольшое открытие интерфейса, не денежный провал.",
+      "satire": {
+        "type": "satire",
+        "scene": "Нужная функция ждёт за пределами самой клавиатуры."
+      },
+      "money": {
+        "status": "not_quantified",
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.livejournal.com/2396175.html"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-084",
+      "published_at": "2016-04-29",
+      "title": "Два перевода по 20 тысяч при лимите 10 тысяч",
+      "category": "money",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "Дважды пытался перевести по 20 тысяч рублей при действующем лимите 10 тысяч.",
+      "outcome": "Описал зависшую операцию; сервис признал проблему.",
+      "limits": "Не считаем 20 или 40 тысяч окончательной потерей: завершение возврата в записи не установлено.",
+      "satire": {
+        "type": "satire",
+        "scene": "Лимит останавливает перевод, но не останавливает расследование перевода."
+      },
+      "money": {
+        "status": "not_quantified",
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/yandeks-dengi-osobennosti.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-085",
+      "published_at": "2013-07-25",
+      "title": "HTC One: неподходящая версия стоила 4700 рублей",
+      "category": "purchase",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "Неверно расслышал версию поставки HTC One Dual SIM. Получил аппарат с проблемной прошивкой; перепрошивка продавцом не решила все сбои. При возврате обнаружилась царапина.",
+      "outcome": "Согласился на удержание 3100 рублей; общие расходы с доставкой оценил в 4700 и почти рабочий день. Купил нужную версию.",
+      "limits": "Происхождение царапины не установлено. 3100 входят в 4700, их нельзя складывать.",
+      "satire": {
+        "type": "satire",
+        "scene": "Рейтинг магазина проверен, версия телефона — на слух."
+      },
+      "money": {
+        "status": "self_reported_net_cost",
+        "currency": "RUB",
+        "amount": 4700,
+        "includes_deduction": 3100,
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/htc-one-dual-sim-ne-povtoryajte-moih-oshibok-pri-pokupke.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-086",
+      "published_at": "2014-07-17",
+      "title": "Первый коптер улетел после пропущенной проверки",
+      "category": "loss",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "Запустил коптер, не убедившись в нормальной работе GPS и фиксации точки возврата; показатель дистанции был N/A.",
+      "outcome": "Аппарат улетел; позднее вспоминал его как потерянный.",
+      "limits": "Цена не названа. Это другой эпизод, чем найденный Mavic 2017 года.",
+      "satire": {
+        "type": "satire",
+        "scene": "Возвращение домой начинается без согласования, где находится дом."
+      },
+      "money": {
+        "status": "not_quantified",
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/ya-hotel-ego-pojmat-uletel-mop-tvoyu-yat.htm"
+        },
+        {
+          "role": "supporting_primary",
+          "url": "https://exler.es/blog/grustnyj-odinokij-kvadrokopter-v-surovyh-burgundskih-lesah.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-087",
+      "published_at": "2014-07-28",
+      "title": "В США без собранного рюкзака с электроникой",
+      "category": "travel",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "Перед поездкой забыл дома подготовленный рюкзак с электронной техникой.",
+      "outcome": "Брат дал ноутбук, пришлось покупать кабели.",
+      "limits": "Покупка камеры была намерением, не подтверждённым расходом. Причину забывчивости не диагностируем.",
+      "satire": {
+        "type": "satire",
+        "scene": "Багаж готов к поездке лучше хозяина: остаётся ждать дома."
+      },
+      "money": {
+        "status": "not_quantified",
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/nu-ya-molodec.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-088",
+      "published_at": "2018-01-14",
+      "title": "Пропущенные письма и полгода без AdSense",
+      "category": "money",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "В рассказе об итогах сайта связал блокировку AdSense 2017 года с пропущенными письмами и уведомлением о cookie.",
+      "outcome": "Сообщил о восстановлении через полгода и потере начислений за два месяца.",
+      "limits": "Сумма не названа, причина блокировки известна только с его слов. Не превращаем весь недополученный доход в точный ущерб.",
+      "satire": {
+        "type": "satire",
+        "scene": "Сообщение о необходимости уведомления теряется среди уведомлений."
+      },
+      "money": {
+        "status": "not_quantified",
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/sajtu-exler-ru-ispolnilos-19-let.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-089",
+      "published_at": "2014-06-03",
+      "title": "Не те GoPro и монитор: два возвращённых товара",
+      "category": "purchase",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "Вернул GoPro HERO 3+, рассчитывая на характеристики Black Edition, и ASUS MX279H, решив взять больший экран с большим разрешением.",
+      "outcome": "В посте оценил удержание за транспорт примерно в €12, но в ответе признал, что не проверил, удержали ли их вообще.",
+      "limits": "€12 нельзя записывать как подтверждённый расход. Два возврата образуют одну описанную цепочку.",
+      "satire": {
+        "type": "satire",
+        "scene": "Характеристики удобнее выбирать до оплаты двух коробок."
+      },
+      "money": {
+        "status": "possible_return_fee_author_uncertain",
+        "currency": "EUR",
+        "amount_approx": 12,
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/vozvrat-tovarov-v-amazon.htm"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/blog/comments/vozvrat-tovarov-v-amazon.htm#8zit"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-090",
+      "published_at": "2013-03-24",
+      "title": "Ругал магазин до обнаружения удаления позиции",
+      "category": "technology",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "После оплаты узнал, что клавиатуру придётся ждать месяц, и считал задержанным весь заказ.",
+      "outcome": "Нашёл удаление позиции; примерно через час деньги вернулись на PayPal. Пересмотрел оценку магазина.",
+      "limits": "Не утверждаем, что сведения об остатках изначально отображались корректно.",
+      "satire": {
+        "type": "satire",
+        "scene": "Международный конфликт разрешается значком корзины."
+      },
+      "money": {
+        "status": "not_quantified",
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/chertovy-nemcy.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-091",
+      "published_at": "2011-06-13",
+      "title": "Погодное приложение за $9,99 сразу закрывалось",
+      "category": "purchase",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "Купил погодное приложение Ned Kubica за $9,99, но оно закрывалось после запуска.",
+      "outcome": "Поддержка согласовала возврат.",
+      "limits": "Одобрение возврата не равно проверенной банковской проводке; прежняя история с iGo не считается ещё одним случаем.",
+      "satire": {
+        "type": "satire",
+        "scene": "Купленная погода успевает показать только закрытие окна."
+      },
+      "money": {
+        "status": "refund_authorized",
+        "currency": "USD",
+        "purchase_price": 9.99,
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/vozvrat-pokupok-v-itunes-store.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-092",
+      "published_at": "2018-01-07",
+      "title": "Avast Пароли куплен и удалён через полчаса",
+      "category": "purchase",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "Купил Avast Пароли и быстро остался недоволен.",
+      "outcome": "Удалил примерно через полчаса и получил возврат.",
+      "limits": "Цена не указана; полную цену возвращённого продукта не считаем убытком.",
+      "satire": {
+        "type": "satire",
+        "scene": "Жизненный цикл покупки короче чтения её обзора."
+      },
+      "money": {
+        "status": "not_quantified",
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/uyazvimosti-v-sovremennyh-processorah.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-093",
+      "published_at": "2017-02-03",
+      "title": "Стойка придвинула монитор слишком близко",
+      "category": "purchase",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "Приобретённая стойка оказалась неудобной по расстоянию до экрана.",
+      "outcome": "Вернул её и использовал крепление к стене.",
+      "limits": "Денежная потеря не установлена.",
+      "satire": {
+        "type": "satire",
+        "scene": "Долгий выбор конструкции заканчивается знакомством монитора со стеной."
+      },
+      "money": {
+        "status": "not_quantified",
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/povesil-svoj-syurtuk.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-094",
+      "published_at": "2025-08-04",
+      "title": "Две недели с двумя наушниками из-за настройки",
+      "category": "technology",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": 1036,
+      "fact": "Использовал два комплекта наушников, не обнаружив, что multipoint у Shokz OpenRun Pro 2 выключен.",
+      "outcome": "Включение режима позволило подключать нужные устройства.",
+      "limits": "Не утверждаем, что второй комплект специально куплен из-за этой ошибки.",
+      "satire": {
+        "type": "satire",
+        "scene": "Один переключатель объединяет работу двух наушников."
+      },
+      "money": {
+        "status": "not_quantified",
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/multipoynt.htm"
+        },
+        {
+          "role": "cult_lead",
+          "url": "https://exler-cult.livejournal.com/1563635.html?thread=105259251#t105259251"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-095",
+      "published_at": "2017-03-16",
+      "title": "Неподходящий адаптер к автохолодильнику",
+      "category": "purchase",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "К Waeco CoolFreeze CDF 18 купил дешёвый сетевой адаптер, не проверив параметры. По его словам, тот выдавал неподходящий ток.",
+      "outcome": "Прочитал инструкцию и купил Waeco CoolPower EPS100; с ним холодильник заработал.",
+      "limits": "€354 — цена исправного холодильника, не потери на адаптере. Цена и возврат первого адаптера неизвестны.",
+      "satire": {
+        "type": "satire",
+        "scene": "Холодильник выбран после исследования, питание — до инструкции."
+      },
+      "money": {
+        "status": "not_quantified",
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/holodilnik-dlya-avtomobilya.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-096",
+      "published_at": "2012-11-20",
+      "title": "Свитч оправдан после проверки двух цветов",
+      "category": "technology",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "После подключения D-Link DGS-1005D пропала сеть. Менял роутер и несколько раз проверял самостоятельно обжатый конец 20-метрового кабеля, сначала объявляя его правильным.",
+      "outcome": "Признал, что перепутал сине-белую и зелено-белую жилы. Правильный обжим сразу решил проблему.",
+      "limits": "Не установлена поломка оборудования; покупка второго роутера не заявлена.",
+      "satire": {
+        "type": "satire",
+        "scene": "Несколько дополнений приводят комиссию к двум проводкам."
+      },
+      "money": {
+        "status": "not_quantified",
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/strannye-problemy-so-svitchem-mozhet-kto-podskazhet.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-097",
+      "published_at": "2011-07-30",
+      "title": "Объектив для iPhone 3G у владельца iPhone 4",
+      "category": "purchase",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "Купленный за $8 китайский объектив оказался рассчитан на iPhone 3G, тогда как у автора был iPhone 4.",
+      "outcome": "Аксессуар не подошёл; покупку описал иронически.",
+      "limits": "Возврат неизвестен. Шутку о замене объектива зеркалки не считаем серьёзным техническим ожиданием.",
+      "satire": {
+        "type": "satire",
+        "scene": "Первый тест оптики проверяет поколение телефона."
+      },
+      "money": {
+        "status": "purchase_price",
+        "currency": "USD",
+        "amount": 8,
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/kupil-televichok.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-098",
+      "published_at": "2012-10-02",
+      "title": "Acer после обновления стал временным «кирпичом»",
+      "category": "technology",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "После ошибки установки BIOS перезагрузил Aspire Ethos 8951G. Ноутбук перестал загружаться и штатно выключаться.",
+      "outcome": "Нашёл способ восстановления предыдущего BIOS с флешки; машина заработала.",
+      "limits": "Сбой обновления описан автором, не доказана его единоличная вина. Платный сервис остался предположением.",
+      "satire": {
+        "type": "satire",
+        "scene": "Несколько мегабайт обновления требуют спасательной операции."
+      },
+      "money": {
+        "status": "not_quantified",
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/nichego-sebe-za-hlebushkom-pereproshilsya.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-099",
+      "published_at": "2009-04-11",
+      "title": "Прошивка NAS закрыла доступ к двум терабайтам",
+      "category": "technology",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "Обновление полученной от ZyXEL прошивки NAS-220EE зависло; после перезапуска устройство не обнаруживалось в сети.",
+      "outcome": "Искал способ вернуть прошивку, данные пока недоступны.",
+      "limits": "Автор отделяет недоступность от уничтожения данных. Окончательный исход не найден.",
+      "satire": {
+        "type": "satire",
+        "scene": "Улучшенный архив мечтает вернуться в прежнее состояние."
+      },
+      "money": {
+        "status": "not_quantified",
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/rabotaet-ne-trozh.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-100",
+      "published_at": "2018-04-08",
+      "title": "Резервное копирование стёрло новый текст",
+      "category": "loss",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "Ночью перепутал панели Total Commander и заменил свежие главы старой копией. Все три копии оказались старыми; затронуто около 20 тысяч знаков.",
+      "outcome": "Сначала нашёл только половину в журнале клавиатуры, затем понял, что писал по обе стороны полуночи, и извлёк остальное за предыдущую дату.",
+      "limits": "Текст требовал правки, но 20 тысяч знаков не были окончательно утрачены.",
+      "satire": {
+        "type": "satire",
+        "scene": "Три копии берегут вчерашний день, журнал прячет половину романа за полуночью."
+      },
+      "money": {
+        "status": "not_quantified",
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/cto-delat-esli-v-golove-s-mozgami-ploho.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-101",
+      "published_at": "2013-04-15",
+      "title": "Вторая видеокарта до отключения встроенной",
+      "category": "purchase",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "После установки GT 610 с драйверами получил чёрный экран. Решил, что карта бракованная, и заказал другую; проблема повторилась.",
+      "outcome": "На чистой системе первая карта работала. Отключение встроенной графики решило проблему на основной.",
+      "limits": "Стоимость и судьба второй карты неизвестны. Замена материнской платы была только мыслью.",
+      "satire": {
+        "type": "satire",
+        "scene": "Два чёрных экрана убеждают заглянуть в настройки одного компьютера."
+      },
+      "money": {
+        "status": "not_quantified",
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/borba-s-videokartami.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-102",
+      "published_at": "2013-02-09",
+      "title": "Чартерные билеты пропали после смены планов",
+      "category": "travel",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "Выбрал чартер ради экономии. При переносе возвращения на 20 дней оказалось, что билеты нельзя вернуть или обменять.",
+      "outcome": "Сообщил, что билеты пропали; затем пользовался регулярными рейсами.",
+      "limits": "€200 — цена одного билета в одну сторону. Точное число пропавших билетов неизвестно. Задержка обратного чартера относится к родственникам.",
+      "satire": {
+        "type": "satire",
+        "scene": "Экономия на билете не пережила изменения даты."
+      },
+      "money": {
+        "status": "unused_nonrefundable_tickets",
+        "currency": "EUR",
+        "unit_price_reported": 200,
+        "quantity_unknown": true,
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/nemnogo-pozitiva-ob-quot-aeroflote-quot.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-103",
+      "published_at": "2011-10-21",
+      "title": "Галочка QIP отправила рекламу от его имени",
+      "category": "technology",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "При подключении Twitter оставил опцию «Поделиться с друзьями»; по его рассказу, QIP опубликовал рекламное сообщение от его имени.",
+      "outcome": "Предупредил читателей отключать эту опцию.",
+      "limits": "Само сообщение отдельно не восстановлено; это не установленный взлом аккаунта.",
+      "satire": {
+        "type": "satire",
+        "scene": "Приложение понимает «поделиться» раньше пользователя."
+      },
+      "money": {
+        "status": "not_quantified",
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/qip-2012.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-104",
+      "published_at": "2025-08-17",
+      "title": "Пятна на посуде и перепутанная марка кастрюли",
+      "category": "purchase",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": 956,
+      "fact": "Через три дня заметил пятна на новой посуде. Сначала назвал кастрюлю KOPF, затем уточнил: показанная — FLORINA, куплены две разные.",
+      "outcome": "Исправил марку. Следующий пост обсуждает чужие отзывы, но не подтверждает возврат его комплекта.",
+      "limits": "Причина пятен и состав металла не исследованы. Чужие €1000 из отзывов ему не приписываем.",
+      "satire": {
+        "type": "satire",
+        "scene": "Вердикт национальной промышленности приходится сверять с этикеткой."
+      },
+      "money": {
+        "status": "not_quantified",
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/kastryuli-i-pribory.htm"
+        },
+        {
+          "role": "cult_lead",
+          "url": "https://exler-cult.livejournal.com/1563635.html?thread=105444339#t105444339"
+        },
+        {
+          "role": "supporting_primary",
+          "url": "https://exler.es/blog/poluchayetsya-chto-eto-vse-lotereya.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-105",
+      "published_at": "2022-12-27",
+      "title": "Рождественский автобус: пробки, холод и разочарование",
+      "category": "travel",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": 6278,
+      "fact": "Заранее купили специальный тур по Барселоне. Автор описал почти час в пробке, двухчасовую поездку и мало увиденных украшений.",
+      "outcome": "Опубликовал отрицательный отзыв и фотографии.",
+      "limits": "Цена и возврат неизвестны. Его оценка «разводилово» не устанавливает мошенничество; версия Культа о самых дешёвых билетах не подтверждена.",
+      "satire": {
+        "type": "satire",
+        "scene": "Экскурсия показывает ожидание праздника в пробке."
+      },
+      "money": {
+        "status": "not_quantified",
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/rozhdestvenskaya-barselona.htm"
+        },
+        {
+          "role": "cult_lead",
+          "url": "https://exler-cult.livejournal.com/1551416.html?thread=85792824#t85792824"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-106",
+      "published_at": "2023-02-22",
+      "title": "«Фотоконвертер» куплен до проверки портретных снимков",
+      "category": "purchase",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": 5930,
+      "fact": "Для большого RAW-архива купил «Фотоконвертер», после чего обнаружил поворот портретных снимков. Ограниченная демоверсия помогла пропустить проблему.",
+      "outcome": "Задачу выполнил через ACDSee, оригиналы сохранил. В ответах признал, что настройка Camera Raw решает проблему полного размера в XnView, а Lightroom умеет экспортировать в исходные папки.",
+      "limits": "Цена и возврат лицензии неизвестны. Прежние категорические ограничения программ не повторяем как факт; это одна задача.",
+      "satire": {
+        "type": "satire",
+        "scene": "Покупка автоматизации заканчивается обнаружением настроек прежних программ."
+      },
+      "money": {
+        "status": "not_quantified",
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/konvertirovaniye-vsekh-raw-v-fotoalbome.htm"
+        },
+        {
+          "role": "cult_lead",
+          "url": "https://exler-cult.livejournal.com/1552173.html?thread=87194413#t87194413"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/blog/comments/konvertirovaniye-vsekh-raw-v-fotoalbome.htm#14t5t"
+        },
+        {
+          "role": "author_reply",
+          "url": "https://exler.es/blog/comments/konvertirovaniye-vsekh-raw-v-fotoalbome.htm#14t9o"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-107",
+      "published_at": "2023-08-18",
+      "title": "Очки: неправильная форма и таможенный счёт €72",
+      "category": "service",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": 4897,
+      "fact": "Для очков Zenni за $164 неверно указал категорию отправления. Таможня потребовала исправление; сначала загрузить новые документы было некуда.",
+      "outcome": "Через поддержку добился возможности загрузки и оплатил €72.",
+      "limits": "Не установлено, что это штраф или доплата именно из-за ошибки; без ошибки пошлина могла быть такой же. Валюты цены и счёта различаются.",
+      "satire": {
+        "type": "satire",
+        "scene": "Очки для ясного зрения требуют разглядеть категорию отправления."
+      },
+      "money": {
+        "status": "customs_payment_self_report",
+        "currency": "EUR",
+        "amount": 72,
+        "purchase_currency": "USD",
+        "purchase_amount": 164,
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/zagadochnaya-ispanskaya-tamozhnya.htm"
+        },
+        {
+          "role": "cult_lead",
+          "url": "https://exler-cult.livejournal.com/1555057.html?thread=91709297#t91709297"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-108",
+      "published_at": "2024-08-22",
+      "title": "Звонок «своей компании» сменил поставщика",
+      "category": "service",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Публикация 22.08.2024; событие примерно семью годами ранее, около 2017 года.",
+      "db_post_id": 2957,
+      "fact": "Рассказал, как примерно семью годами ранее принял звонящих за сотрудников своей электрической компании, подтвердил данные и заключил договор с другой.",
+      "outcome": "С помощью прежнего поставщика отменил новый договор и вернулся обратно.",
+      "limits": "Сумма расходов неизвестна. Оценка действий звонящих как мошеннических принадлежит автору.",
+      "satire": {
+        "type": "satire",
+        "scene": "В тарифе незаметно меняется прежде всего собеседник."
+      },
+      "money": {
+        "status": "not_quantified",
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/obsluzhivayushchiye-kompanii-v-ispanii.htm"
+        },
+        {
+          "role": "cult_lead",
+          "url": "https://exler-cult.livejournal.com/1558310.html?thread=98886438#t98886438"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-109",
+      "published_at": "2024-06-29",
+      "title": "В ресторане подменили сумку и потратили €60",
+      "category": "loss",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Публикация 29.06.2024; событие примерно десятью годами ранее, около 2014 года.",
+      "db_post_id": 3228,
+      "fact": "Вспомнил, как примерно десятью годами ранее сумку на спинке стула подменили похожей. По его словам, картой успели оплатить €60.",
+      "outcome": "Стал держать сумку при себе. Телефоны и ключи заранее выложил, поэтому их не потерял.",
+      "limits": "Возмещение банком и возврат сумки неизвестны; личности похитителей не установлены.",
+      "satire": {
+        "type": "satire",
+        "scene": "Сумка на месте, но проверку подлинности не проходит."
+      },
+      "money": {
+        "status": "unauthorized_card_spend_self_report",
+        "currency": "EUR",
+        "amount": 60,
+        "reimbursement_unknown": true,
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/kak-zashchititsya-ot-vorovstva-sumki.htm"
+        },
+        {
+          "role": "cult_lead",
+          "url": "https://exler-cult.livejournal.com/1557825.html?thread=97727809#t97727809"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-110",
+      "published_at": "2024-03-13",
+      "title": "Часы ночью вызвали экстренную службу",
+      "category": "technology",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": 3788,
+      "fact": "Проснулся около пяти утра от голосов из часов и обнаружил экстренный вызов.",
+      "outcome": "Сбросил звонок и изменил настройки SOS; точную причину не установил.",
+      "limits": "Штраф и выезд служб были опасениями, не событиями. Его рассуждения об определении адреса не подтверждены; отключение SOS не наша рекомендация.",
+      "satire": {
+        "type": "satire",
+        "scene": "Часы первыми начинают утренний созвон."
+      },
+      "money": {
+        "status": "not_quantified",
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/ekstrennyy-vyzov.htm"
+        },
+        {
+          "role": "cult_lead",
+          "url": "https://exler-cult.livejournal.com/1556874.html?thread=95872906#t95872906"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-111",
+      "published_at": "2018-09-03",
+      "title": "3000 рублей на чужой номер из-за одной цифры",
+      "category": "money",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "При пополнении московского телефона на 3000 рублей ошибся в последней цифре. Попросил получателя вернуть деньги, предложив оставить 500.",
+      "outcome": "Прямо сказал, что не помнит развязку; по его впечатлению, возврата не было.",
+      "limits": "Окончательная потеря не установлена из-за его неуверенности. Предложенные 500 рублей не дополнительный платёж.",
+      "satire": {
+        "type": "satire",
+        "scene": "Инструкция против телефонного обмана вспоминает собственную последнюю цифру."
+      },
+      "money": {
+        "status": "wrong_recipient_transfer_outcome_uncertain",
+        "currency": "RUB",
+        "amount": 3000,
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/telefonnoye-razvodilovo.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-112",
+      "published_at": "2007-06-20",
+      "title": "Шторы задержались, затем появились с компенсацией",
+      "category": "service",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": null,
+      "fact": "После полной предоплаты ткани неоднократно переносили поставку, кабинет оставался без штор.",
+      "outcome": "Сначала сообщил о немедленном возврате. В продолжении 02.07.2007 — о вмешательстве директора, выполнении заказа за неделю и бесплатном пошиве.",
+      "limits": "Это задержка с положительным исходом, не потеря всей предоплаты. Цена неизвестна.",
+      "satire": {
+        "type": "satire",
+        "scene": "Занавес первого акта приезжает ко второму вместе с директором."
+      },
+      "money": {
+        "status": "not_quantified",
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/ne-daj-bog-vam-zakazyvat-shtory-v-quot-starike-hottabyche-quot.htm"
+        },
+        {
+          "role": "supporting_primary",
+          "url": "https://exler.es/blog/quot-starik-hottabych-quot-reabilitirovalsya.htm"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-113",
+      "published_at": "2024-12-24",
+      "title": "«Никогда не готовил» после рассказа о пулярке",
+      "category": "public_correction",
+      "tier": "secondary",
+      "evidence_type": "direct_observation",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": 2271,
+      "fact": "В декабре 2024 написал, что пулярок никогда не готовил. В январе 2017 уже рассказывал, как лично жарил пулярку и сравнивал способы приготовления.",
+      "outcome": "Опубликованные самоописания буквально расходятся; объяснение расхождения в проверенных ответах не найдено.",
+      "limits": "В 2024 речь о целой птице, в 2017 — о частях; «никогда» этого не оговаривает. Не делаем вывода о намеренном обмане или здоровье.",
+      "satire": {
+        "type": "satire",
+        "scene": "Архив знает вкус блюда, которое рассказчик готовит впервые."
+      },
+      "money": {
+        "status": "not_quantified",
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/pulyarno-rozhdestvenskoye.htm"
+        },
+        {
+          "role": "supporting_primary",
+          "url": "https://exler.es/blog/sudba-pulyarki.htm"
+        },
+        {
+          "role": "cult_lead",
+          "url": "https://exler-cult.livejournal.com/1559691.html?thread=101440651#t101440651"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025"
+    },
+    {
+      "id": "FAIL-114",
+      "published_at": "2024-12-15",
+      "title": "Настройка тишины почти вдвое замедлила Ryzen",
+      "category": "technology",
+      "tier": "main",
+      "evidence_type": "self_report",
+      "date_scope": "Дата публикации; само событие могло произойти раньше, как указано в рассказе автора.",
+      "db_post_id": 2320,
+      "fact": "Собирался менять охлаждение на жидкостное, затем занялся BIOS. Признал, что настройками почти вдвое снизил быстродействие.",
+      "outcome": "После обновления и Ryzen Master восстановил работу; обнаружил переопределение настроек кулера в Gigabyte Control Center и настроил его там. От нового охлаждения отказался.",
+      "limits": "Падение — его оценка. Это цепочка настроек декабря 2024, не повтор покупки Noctua из FAIL-006. Версия Культа об антеннах не доказана.",
+      "satire": {
+        "type": "satire",
+        "scene": "Тишина сначала достигается замедлением компьютера, затем находится управляющая вентилятором программа."
+      },
+      "money": {
+        "status": "not_quantified",
+        "confirmed_loss_eur": null
+      },
+      "sources": [
+        {
+          "role": "primary",
+          "url": "https://exler.es/blog/amd-ryzen-7-7700-final.htm"
+        },
+        {
+          "role": "supporting_primary",
+          "url": "https://exler.es/blog/pogovorim-o-sistemakh-zhidkostnogo-okhlazhdeniya.htm"
+        },
+        {
+          "role": "supporting_primary",
+          "url": "https://exler.es/blog/problemy-s-kompom-i-s-bios.htm"
+        },
+        {
+          "role": "supporting_primary",
+          "url": "https://exler.es/blog/kompyuter-chem-serdtse-uspokoilos.htm"
+        },
+        {
+          "role": "cult_lead",
+          "url": "https://exler-cult.livejournal.com/1559347.html?thread=101145139#t101145139"
+        }
+      ],
+      "research_batch": "older-site-and-cult-2022-2025",
+      "related_case_ids": [
+        "FAIL-006"
+      ]
     }
-  ]
+  ],
+  "restored_at": "2026-09-19",
+  "restoration_note": "Новые конспекты восстановлены по сохранённым проверенным результатам разговора после отключения рабочей среды. Исходные 55 карточек сохранены без изменения."
 }
