@@ -1,0 +1,63 @@
+{
+  "updated_at": "2026-09-21",
+  "repo_base_commit": "7794fe7ccf352c4ec2a2c5fea8c47620ee02aefe",
+  "cards": {
+    "first_times": 10,
+    "promises": 36,
+    "mythology": 10
+  },
+  "first_time_groups": {
+    "published_version_discrepancies": 4,
+    "context_resolves_suspicion": 4,
+    "unresolved": 2
+  },
+  "promise_statuses": {
+    "published": 34,
+    "cancellation_reported_variant_uncertain": 1,
+    "partial_followup_full_review_not_found": 1
+  },
+  "promise_strengths": {
+    "review_announcement": 30,
+    "test_plan": 6
+  },
+  "published_intervals": {
+    "n": 34,
+    "median_days": 28.0,
+    "min_days": 0,
+    "max_days": 173,
+    "one_interval_approximate": true
+  },
+  "db": {
+    "posts": 10887,
+    "posts_from": "2021-05-19",
+    "posts_to": "2026-06-17",
+    "posts_with_fetch_errors": 483,
+    "alex_comment_rows": 19662
+  },
+  "candidate_counts": {
+    "never_candidates": 74,
+    "promise_candidates": 238,
+    "myth_candidates": 7,
+    "clean_author_comment_candidates": 3,
+    "cult_lead_urls": 149
+  },
+  "fresh_unique_pages": 161,
+  "fresh_unique_documents": 101,
+  "fresh_search_result_pages": 60,
+  "reused_biography_documents": 4,
+  "card_source_urls": 89,
+  "cult": {
+    "mode": "search_of_previously_saved_archive",
+    "older_comment_bodies": 23048,
+    "recent_comment_bodies": 4779,
+    "lead_matches": 149,
+    "new_full_crawl": false
+  },
+  "scope": {
+    "aliexpress_requests": 0,
+    "store_redirects_followed": 0,
+    "all_author_promises_audited": false,
+    "all_cult_comments_manually_read": false,
+    "psychiatric_diagnoses": false
+  }
+}

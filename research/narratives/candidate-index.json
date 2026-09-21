@@ -1,0 +1,2093 @@
+{
+  "never_candidates": [
+    {
+      "id": "10251",
+      "url": "https://exler.es/blog/prodolzhayetsya-zapis-v-nash-sentyabrskiy-tur-po-pyemontu-2.htm",
+      "published_at": "2026-05-10 11:00:00",
+      "title": "Продолжается запись в наш сентябрьский тур по Пьемонту"
+    },
+    {
+      "id": "10432",
+      "url": "https://exler.es/blog/strannyye-no-vpechatlyayushchiye-smartfony.htm",
+      "published_at": "2026-04-14 10:00:00",
+      "title": "Странные, но впечатляющие смартфоны"
+    },
+    {
+      "id": "10630",
+      "url": "https://exler.es/blog/finansirovaniye-ot-stran-yevrosoyuza.htm",
+      "published_at": "2026-03-12 12:00:00",
+      "title": "Финансирование от стран Евросоюза"
+    },
+    {
+      "id": "10711",
+      "url": "https://exler.es/blog/v-temu-rytsarya-semi-korolevstv.htm",
+      "published_at": "2026-02-27 10:20:00",
+      "title": "В тему \"Рыцаря семи королевств\""
+    },
+    {
+      "id": "10843",
+      "url": "https://exler.es/blog/vozdushnyy-omlet.htm",
+      "published_at": "2026-02-07 10:30:00",
+      "title": "Воздушный омлет"
+    },
+    {
+      "id": "10852",
+      "url": "https://exler.es/blog/on-somnevayetsya-chto-popadet-v-ray.htm",
+      "published_at": "2026-02-05 16:00:00",
+      "title": "Он сомневается, что попадет в рай"
+    },
+    {
+      "id": "10865",
+      "url": "https://exler.es/blog/shokiruyushcheye-otkrytiye-uchenykh.htm",
+      "published_at": "2026-02-03 11:30:00",
+      "title": "Шокирующее открытие ученых"
+    },
+    {
+      "id": "48",
+      "url": "https://exler.es/blog/v-irane-vse-v-poryadke.htm",
+      "published_at": "2026-01-20 10:00:00",
+      "title": "В Иране все в порядке"
+    },
+    {
+      "id": "161",
+      "url": "https://exler.es/blog/bozhestvennyye-zvuki-volynki.htm",
+      "published_at": "2025-12-31 11:20:00",
+      "title": "Божественные звуки волынки"
+    },
+    {
+      "id": "390",
+      "url": "https://exler.es/blog/tot-samyy-mirnyy-plan.htm",
+      "published_at": "2025-11-21 09:00:00",
+      "title": "Тот самый \"мирный план\""
+    },
+    {
+      "id": "422",
+      "url": "https://exler.es/blog/pochemu-yevrei-ispugalis-russkogo-filma.htm",
+      "published_at": "2025-11-15 10:00:00",
+      "title": "Почему евреи испугались русского фильма"
+    },
+    {
+      "id": "597",
+      "url": "https://exler.es/bannizm/nevinnye-nogotochechnye-kreativnyh-gribov.htm",
+      "published_at": "2025-10-17 12:20:00",
+      "title": "Баннизмы | Невинные ноготочечные креативных грибов"
+    },
+    {
+      "id": "655",
+      "url": "https://exler.es/blog/chto-nekotoryye-ispantsy-dumayut-pro-kolau-barbi-gazu-i-tunberg.htm",
+      "published_at": "2025-10-08 12:30:00",
+      "title": "Что некоторые испанцы думают про Колау, Барби Газу и Тунберг"
+    },
+    {
+      "id": "770",
+      "url": "https://exler.es/blog/upominayetsya-li-tramp-v-spiskakh-epshteyna-otvechayet-direktor-fbr.htm",
+      "published_at": "2025-09-18 13:00:00",
+      "title": "Упоминается ли Трамп в списках Эпштейна? Отвечает директор ФБР"
+    },
+    {
+      "id": "820",
+      "url": "https://exler.es/blog/vozrozhdennoy-volge-byt.htm",
+      "published_at": "2025-09-10 11:30:00",
+      "title": "Возрожденной \"Волге\" - быть!"
+    },
+    {
+      "id": "914",
+      "url": "https://exler.es/blog/nu-khoroshiy-zhe-paren.htm",
+      "published_at": "2025-08-26 14:00:00",
+      "title": "Ну, хороший же парень!"
+    },
+    {
+      "id": "1088",
+      "url": "https://exler.es/blog/nikto-i-ne-somnevalsya.htm",
+      "published_at": "2025-07-26 11:30:00",
+      "title": "Никто и не сомневался"
+    },
+    {
+      "id": "1336",
+      "url": "https://exler.es/blog/kogda-prosto-starayeshsya-sozdat-veseluyu-atmosferu.htm",
+      "published_at": "2025-06-11 12:10:00",
+      "title": "Когда просто стараешься создать веселую атмосферу в офисе"
+    },
+    {
+      "id": "1348",
+      "url": "https://exler.es/blog/erroll-mask-v-russkom-kosmose.htm",
+      "published_at": "2025-06-09 17:00:00",
+      "title": "Эррол Маск в русском космосе"
+    },
+    {
+      "id": "1485",
+      "url": "https://exler.es/blog/slava-bogu-katar-budet-zashchishchen.htm",
+      "published_at": "2025-05-16 14:00:00",
+      "title": "Слава богу, Катар будет защищен"
+    },
+    {
+      "id": "1734",
+      "url": "https://exler.es/blog/navigator-i-smertelnaya-trassa.htm",
+      "published_at": "2025-03-26 09:00:00",
+      "title": "Навигатор и смертельная трасса"
+    },
+    {
+      "id": "1868",
+      "url": "https://exler.es/blog/zvonok-v-rezhime-ne-disturbirovat.htm",
+      "published_at": "2025-02-28 08:57:00",
+      "title": "Звонок в режиме \"Не дистурбировать\""
+    },
+    {
+      "id": "1982",
+      "url": "https://exler.es/blog/padeniye-prodazh-tesla.htm",
+      "published_at": "2025-02-08 09:00:00",
+      "title": "Падение продаж Tesla"
+    },
+    {
+      "id": "2197",
+      "url": "https://exler.es/blog/zapechenaya-utka-pervyy-opyt.htm",
+      "published_at": "2025-01-05 12:00:00",
+      "title": "Запеченная утка - первый опыт"
+    },
+    {
+      "id": "2271",
+      "url": "https://exler.es/blog/pulyarno-rozhdestvenskoye.htm",
+      "published_at": "2024-12-24 12:50:00",
+      "title": "Пулярно-рождественское"
+    },
+    {
+      "id": "2324",
+      "url": "https://exler.es/blog/otzyv-o-seriale-sto-let-odinochestva.htm",
+      "published_at": "2024-12-14 13:00:00",
+      "title": "Отзыв о сериале \"Сто лет одиночества\""
+    },
+    {
+      "id": "2569",
+      "url": "https://exler.es/blog/podpishus-pod-kazhdym-slovom-2.htm",
+      "published_at": "2024-11-01 10:17:00",
+      "title": "Подпишусь под каждым словом"
+    },
+    {
+      "id": "2745",
+      "url": "https://exler.es/blog/post-dzhareda-kushnera-o-budushchem-livana.htm",
+      "published_at": "2024-09-29 11:00:00",
+      "title": "Пост Джареда Кушнера о будущем Ливана"
+    },
+    {
+      "id": "2746",
+      "url": "https://exler.es/blog/turin.htm",
+      "published_at": "2024-09-29 09:00:00",
+      "title": "Турин"
+    },
+    {
+      "id": "3060",
+      "url": "https://exler.es/blog/press-konferentsiya-obmenennykh-v-germanii.htm",
+      "published_at": "2024-08-02 22:00:00",
+      "title": "Пресс-конференция обмененных в Германии"
+    },
+    {
+      "id": "3109",
+      "url": "https://exler.es/blog/mukbang-video-obzhiratsya-za-dengi.htm",
+      "published_at": "2024-07-23 09:00:00",
+      "title": "Мукбанг-видео - обжираться за деньги"
+    },
+    {
+      "id": "3139",
+      "url": "https://exler.es/blog/tenacious-d-vse.htm",
+      "published_at": "2024-07-17 11:00:00",
+      "title": "Tenacious D - всё?"
+    },
+    {
+      "id": "3682",
+      "url": "https://exler.es/blog/odnazhdy-vo-frantsii.htm",
+      "published_at": "2024-04-05 10:42:00",
+      "title": "Однажды во Франции"
+    },
+    {
+      "id": "3714",
+      "url": "https://exler.es/blog/tam-na-nevedomykh-dorozhkakh.htm",
+      "published_at": "2024-03-28 10:00:00",
+      "title": "Там на неведомых дорожках"
+    },
+    {
+      "id": "3826",
+      "url": "https://exler.es/blog/produmannaya-pozitsiya-makrona.htm",
+      "published_at": "2024-03-06 10:30:00",
+      "title": "Продуманная позиция Макрона"
+    },
+    {
+      "id": "3856",
+      "url": "https://exler.es/bannizm/traktornye-radugi-dalnobojnyh-tradicij.htm",
+      "published_at": "2024-03-01 10:28:00",
+      "title": "Баннизмы | Тракторные радуги дальнобойных традиций"
+    },
+    {
+      "id": "4231",
+      "url": "https://exler.es/blog/rozygrysh-2.htm",
+      "published_at": "2023-12-27 09:30:00",
+      "title": "Розыгрыш"
+    },
+    {
+      "id": "4370",
+      "url": "https://exler.es/blog/vozmozhnyye-problemy-s-google-drive.htm",
+      "published_at": "2023-12-01 09:51:00",
+      "title": "Возможные проблемы с Google Drive"
+    },
+    {
+      "id": "4386",
+      "url": "https://exler.es/blog/nezavisimaya-pressa.htm",
+      "published_at": "2023-11-28 09:42:00",
+      "title": "Независимая пресса"
+    },
+    {
+      "id": "4529",
+      "url": "https://exler.es/blog/x-protiv-twitter.htm",
+      "published_at": "2023-11-02 09:00:00",
+      "title": "X против Twitter"
+    },
+    {
+      "id": "4729",
+      "url": "https://exler.es/blog/porucheniye-prezidenta-vypolneno.htm",
+      "published_at": "2023-09-21 09:00:00",
+      "title": "Поручение президента выполнено"
+    },
+    {
+      "id": "4770",
+      "url": "https://exler.es/blog/kak-ilon-mask-perenosil-servery-twitter.htm",
+      "published_at": "2023-09-12 13:30:00",
+      "title": "Как Илон Маск переносил серверы Twitter"
+    },
+    {
+      "id": "4890",
+      "url": "https://exler.es/blog/kh-set.htm",
+      "published_at": "2023-08-19 12:00:00",
+      "title": "Х-сеть"
+    },
+    {
+      "id": "4895",
+      "url": "https://exler.es/blog/istoriya-s-desnitskim.htm",
+      "published_at": "2023-08-18 11:49:00",
+      "title": "История с Десницким"
+    },
+    {
+      "id": "4897",
+      "url": "https://exler.es/blog/zagadochnaya-ispanskaya-tamozhnya.htm",
+      "published_at": "2023-08-18 09:09:00",
+      "title": "Загадочная испанская таможня"
+    },
+    {
+      "id": "5330",
+      "url": "https://exler.es/blog/ministersko-oboronnaya-proza.htm",
+      "published_at": "2023-06-02 08:20:00",
+      "title": "Министерско-оборонная проза"
+    },
+    {
+      "id": "5332",
+      "url": "https://exler.es/blog/net-dostatochnykh-dokazatelstv-dlya-obvineniya.htm",
+      "published_at": "2023-06-01 16:00:00",
+      "title": "Нет достаточных доказательств для обвинения"
+    },
+    {
+      "id": "5337",
+      "url": "https://exler.es/blog/ona-vybrala-svobodu.htm",
+      "published_at": "2023-06-01 08:00:00",
+      "title": "Она выбрала свободу!"
+    },
+    {
+      "id": "5659",
+      "url": "https://exler.es/blog/kurino-predvoskhititelnoye.htm",
+      "published_at": "2023-04-08 13:15:00",
+      "title": "Курино-предвосхитительное"
+    },
+    {
+      "id": "5720",
+      "url": "https://exler.es/blog/aeroflot-zakupit-4400-boeing-i-airbus.htm",
+      "published_at": "2023-03-30 09:00:00",
+      "title": "\"Аэрофлот\" закупит 4400 Boeing и Airbus"
+    },
+    {
+      "id": "5752",
+      "url": "https://exler.es/blog/150-let-odinochestva.htm",
+      "published_at": "2023-03-25 09:00:00",
+      "title": "150 лет одиночества"
+    },
+    {
+      "id": "5775",
+      "url": "https://exler.es/blog/po-norvegii-na-elektromobile.htm",
+      "published_at": "2023-03-22 08:35:00",
+      "title": "По Норвегии на электромобиле"
+    },
+    {
+      "id": "6010",
+      "url": "https://exler.es/blog/ofiget-logika.htm",
+      "published_at": "2023-02-09 09:12:00",
+      "title": "Офигеть логика"
+    },
+    {
+      "id": "6393",
+      "url": "https://exler.es/bannizm/ruchnye-zinicy-zabornyh-avantyuristok.htm",
+      "published_at": "2022-12-09 08:00:00",
+      "title": "Баннизмы | Ручные зиницы заборных авантюристок"
+    },
+    {
+      "id": "6467",
+      "url": "https://exler.es/blog/mikhalkov-veshchayet.htm",
+      "published_at": "2022-11-26 11:00:00",
+      "title": "Михалков вещает"
+    },
+    {
+      "id": "6822",
+      "url": "https://exler.es/blog/i-snova-manyana.htm",
+      "published_at": "2022-09-30 10:04:00",
+      "title": "И снова маньяна"
+    },
+    {
+      "id": "6872",
+      "url": "https://exler.es/blog/koltsa-neptuna.htm",
+      "published_at": "2022-09-22 13:04:00",
+      "title": "Кольца Нептуна"
+    },
+    {
+      "id": "6978",
+      "url": "https://exler.es/blog/liz-trass-novyy-premyer-ministr-velikobritanii.htm",
+      "published_at": "2022-09-07 09:56:00",
+      "title": "Лиз Трасс - новый премьер-министр Великобритании"
+    },
+    {
+      "id": "7404",
+      "url": "https://exler.es/blog/grozit-li-mirovoy-golod.htm",
+      "published_at": "2022-07-04 13:04:00",
+      "title": "Грозит ли мировой голод"
+    },
+    {
+      "id": "7427",
+      "url": "https://exler.es/blog/chempionka-rossii-po-fridayvingu-olga-davydova.htm",
+      "published_at": "2022-07-01 10:21:00",
+      "title": "Чемпионка России по фридайвингу Ольга Давыдова"
+    },
+    {
+      "id": "7821",
+      "url": "https://exler.es/blog/tainstvennyy-rossiyskiy-diplomat.htm",
+      "published_at": "2022-05-09 13:04:00",
+      "title": "Таинственный российский дипломат"
+    },
+    {
+      "id": "8024",
+      "url": "https://exler.es/blog/lev-shlosberg-pishet.htm",
+      "published_at": "2022-04-15 10:27:00",
+      "title": "Лев Шлосберг пишет"
+    },
+    {
+      "id": "8048",
+      "url": "https://exler.es/blog/kak-rabotayut-mekhanizmy-blokirovki-v-facebook.htm",
+      "published_at": "2022-04-12 17:04:00",
+      "title": "Как работают механизмы блокировки в Facebook"
+    },
+    {
+      "id": "8131",
+      "url": "https://exler.es/blog/dolgo-dumala-vzveshivala.htm",
+      "published_at": "2022-03-31 10:34:00",
+      "title": "Долго думала, взвешивала"
+    },
+    {
+      "id": "8249",
+      "url": "https://exler.es/blog/mitrich-obyavilsya.htm",
+      "published_at": "2022-03-16 14:34:00",
+      "title": "Митрич объявился"
+    },
+    {
+      "id": "8508",
+      "url": "https://exler.es/expromt/obzor-flagmanskih-gibridnyh-tws-naushnikov-soundcore-liberty-3-pro.htm",
+      "published_at": "2022-02-22 09:01:00",
+      "title": "Обзоры | Обзор флагманских гибридных TWS-наушников Soundcore Liberty 3 Pro"
+    },
+    {
+      "id": "8554",
+      "url": "https://exler.es/blog/ovoshchi-na-grile.htm",
+      "published_at": "2022-02-14 14:04:00",
+      "title": "Овощи на гриле"
+    },
+    {
+      "id": "8591",
+      "url": "https://exler.es/blog/spisok-verovaniy.htm",
+      "published_at": "2022-02-08 09:31:00",
+      "title": "Список верований"
+    },
+    {
+      "id": "8816",
+      "url": "https://exler.es/blog/a-vy-polzuyetes-lastpass.htm",
+      "published_at": "2021-12-29 20:33:00",
+      "title": "А вы пользуетесь LastPass?"
+    },
+    {
+      "id": "9281",
+      "url": "https://exler.es/blog/sergey-parkhomenko-o-vyborakh.htm",
+      "published_at": "2021-09-29 10:04:00",
+      "title": "Сергей Пархоменко о выборах"
+    },
+    {
+      "id": "9310",
+      "url": "https://exler.es/blog/poznaniye-iskusstva-vykhoda-zamuzh.htm",
+      "published_at": "2021-09-22 10:04:00",
+      "title": "Познание искусства выхода замуж"
+    },
+    {
+      "id": "9436",
+      "url": "https://exler.es/blog/poistine-istoricheskiy-shans.htm",
+      "published_at": "2021-08-26 09:32:00",
+      "title": "Поистине исторический шанс"
+    },
+    {
+      "id": "9754",
+      "url": "https://exler.es/blog/a-muzhiki-to-i-ne-znayut-2.htm",
+      "published_at": "2021-07-02 09:04:00",
+      "title": "А мужики-то и не знают!"
+    },
+    {
+      "id": "9932",
+      "url": "https://exler.es/blog/yeshche-odno-nezavisimoye-smi-v-rossii-zakryvayetsya.htm",
+      "published_at": "2021-05-31 11:34:00",
+      "title": "Еще одно независимое СМИ в России закрывается"
+    }
+  ],
+  "promise_candidates": [
+    {
+      "id": "10141",
+      "url": "https://exler.es/blog/otkazyvayetsya-uyti.htm",
+      "published_at": "2026-05-27 17:00:00",
+      "title": "Отказывается уйти!"
+    },
+    {
+      "id": "10170",
+      "url": "https://exler.es/blog/o-russkoy-punktuatsii.htm",
+      "published_at": "2026-05-23 14:00:00",
+      "title": "О русской пунктуации"
+    },
+    {
+      "id": "10241",
+      "url": "https://exler.es/expromt/obzor-smartfona-xiaomi-15t-pro-on-ochen-horosh.htm",
+      "published_at": "2026-05-12 11:00:00",
+      "title": "Обзоры | Обзор смартфона Xiaomi 15T Pro - он очень хорош!"
+    },
+    {
+      "id": "10315",
+      "url": "https://exler.es/blog/ii-i-meditsinskiye-diagnozy.htm",
+      "published_at": "2026-05-01 11:30:00",
+      "title": "ИИ и медицинские диагнозы"
+    },
+    {
+      "id": "10337",
+      "url": "https://exler.es/expromt/obzor-umnyh-ochkov-w630.htm",
+      "published_at": "2026-04-28 12:45:00",
+      "title": "Обзоры | Обзор умных очков W630"
+    },
+    {
+      "id": "10430",
+      "url": "https://exler.es/expromt/obzor-smartfona-realme-14-5g.htm",
+      "published_at": "2026-04-14 11:00:00",
+      "title": "Обзоры | Обзор смартфона Realme 14 5G"
+    },
+    {
+      "id": "10606",
+      "url": "https://exler.es/expromt/obzor-premialnyh-umnyh-chasov-huawei-watch-5.htm",
+      "published_at": "2026-03-17 11:00:00",
+      "title": "Обзоры | Обзор премиальных умных часов Huawei Watch 5"
+    },
+    {
+      "id": "10834",
+      "url": "https://exler.es/expromt/obzor-srednebyudzhetnika-redmi-note-15-5g.htm",
+      "published_at": "2026-02-10 10:10:00",
+      "title": "Обзоры | Обзор среднебюджетника Redmi Note 15 5G"
+    },
+    {
+      "id": "10836",
+      "url": "https://exler.es/blog/xiaomi-poco-m8.htm",
+      "published_at": "2026-02-09 12:00:00",
+      "title": "Xiaomi Poco M8"
+    },
+    {
+      "id": "4",
+      "url": "https://exler.es/ezhe/zoopark-loro-park-na-tenerife.htm",
+      "published_at": "2026-01-28 11:22:00",
+      "title": "Рассказы | Зоопарк \"Лоро-Парк\" на Тенерифе"
+    },
+    {
+      "id": "23",
+      "url": "https://exler.es/blog/elektrosedan-xiaomi-su7-ultra-protiv-ferrari-sf90-xx.htm",
+      "published_at": "2026-01-24 12:00:00",
+      "title": "Электроседан Xiaomi SU7 Ultra против Ferrari SF90 XX"
+    },
+    {
+      "id": "48",
+      "url": "https://exler.es/blog/v-irane-vse-v-poryadke.htm",
+      "published_at": "2026-01-20 10:00:00",
+      "title": "В Иране все в порядке"
+    },
+    {
+      "id": "57",
+      "url": "https://exler.es/blog/iranskiye-protesty-podavleny.htm",
+      "published_at": "2026-01-17 10:30:00",
+      "title": "Иранские протесты подавлены"
+    },
+    {
+      "id": "65",
+      "url": "https://exler.es/blog/taco.htm",
+      "published_at": "2026-01-15 07:40:00",
+      "title": "TACO?"
+    },
+    {
+      "id": "118",
+      "url": "https://exler.es/expromt/obzor-vpn-servisa-trackaway-konfidencialnost-v-evrope.htm",
+      "published_at": "2026-01-07 10:00:00",
+      "title": "Обзоры | Обзор VPN-сервиса Trackaway - конфиденциальность в Европе"
+    },
+    {
+      "id": "120",
+      "url": "https://exler.es/expromt/besprovodnoe-podklyuchenie-noutbuka-k-monitoru.htm",
+      "published_at": "2026-01-06 13:14:00",
+      "title": "Обзоры | Беспроводное подключение ноутбука к монитору"
+    },
+    {
+      "id": "178",
+      "url": "https://exler.es/blog/tur-vesennyaya-burgundiya-s-ekslerom-aprel-2026-goda.htm",
+      "published_at": "2025-12-27 11:30:00",
+      "title": "Тур \"Весенняя Бургундия с Экслером\" - апрель 2026 года"
+    },
+    {
+      "id": "337",
+      "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-248.htm",
+      "published_at": "2025-11-30 09:41:00",
+      "title": "Ali | Делимся находками из китайских магазинов"
+    },
+    {
+      "id": "366",
+      "url": "https://exler.es/expromt/obzor-brutalnogo-zashishennogo-smartfona-doogee-s200-ultra.htm",
+      "published_at": "2025-11-25 10:00:00",
+      "title": "Обзоры | Обзор брутального защищенного смартфона DOOGEE S200 Ultra"
+    },
+    {
+      "id": "406",
+      "url": "https://exler.es/expromt/obzor-byudzhetnogo-smartfona-poco-c85.htm",
+      "published_at": "2025-11-18 10:00:00",
+      "title": "Обзоры | Обзор бюджетного смартфона POCO C85"
+    },
+    {
+      "id": "567",
+      "url": "https://exler.es/expromt/obzor-byudzhetnogo-smartfona-cubot-x-100.htm",
+      "published_at": "2025-10-22 10:00:00",
+      "title": "Обзоры | Обзор бюджетного смартфона Cubot X 100"
+    },
+    {
+      "id": "572",
+      "url": "https://exler.es/blog/iphone-17-pro-max.htm",
+      "published_at": "2025-10-21 16:10:00",
+      "title": "iPhone 17 Pro Max"
+    },
+    {
+      "id": "584",
+      "url": "https://exler.es/blog/mnogomillionnyye-protesty-v-ssha.htm",
+      "published_at": "2025-10-19 11:50:00",
+      "title": "Многомиллионные протесты в США"
+    },
+    {
+      "id": "661",
+      "url": "https://exler.es/blog/godovshchina-rezni-7-oktyabrya-2023-goda.htm",
+      "published_at": "2025-10-07 14:00:00",
+      "title": "Годовщина резни 7 октября 2023 года"
+    },
+    {
+      "id": "684",
+      "url": "https://exler.es/blog/chasy-huawei-watch-gt-6.htm",
+      "published_at": "2025-10-03 17:30:00",
+      "title": "Часы Huawei Watch GT 6"
+    },
+    {
+      "id": "697",
+      "url": "https://exler.es/blog/raskol-v-blagorodnom-alyanse.htm",
+      "published_at": "2025-10-02 12:00:00",
+      "title": "Раскол в благородном альянсе"
+    },
+    {
+      "id": "712",
+      "url": "https://exler.es/expromt/soundcore-sleep-a20.htm",
+      "published_at": "2025-09-30 12:43:00",
+      "title": "Обзоры |  Soundcore Sleep A20 - одни из лучших наушников для засыпания"
+    },
+    {
+      "id": "754",
+      "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-239.htm",
+      "published_at": "2025-09-21 09:00:00",
+      "title": "Ali | Делимся находками из китайских магазинов"
+    },
+    {
+      "id": "784",
+      "url": "https://exler.es/expromt/obzor-flagmanskogo-smartfona-google-pixel-10-pro-xl.htm",
+      "published_at": "2025-09-16 10:14:00",
+      "title": "Обзоры | Обзор флагманского смартфона Google Pixel 10 Pro XL"
+    },
+    {
+      "id": "829",
+      "url": "https://exler.es/expromt/obzor-umnyh-chasov-huawei-watch-fit-4-pro.htm",
+      "published_at": "2025-09-09 10:43:00",
+      "title": "Обзоры | Обзор умных часов Huawei Watch FIT 4 Pro"
+    },
+    {
+      "id": "872",
+      "url": "https://exler.es/blog/elvis-pokinul-zdaniye-3.htm",
+      "published_at": "2025-09-02 08:00:00",
+      "title": "Элвис покинул здание"
+    },
+    {
+      "id": "1022",
+      "url": "https://exler.es/blog/nu-chto-poneslos.htm",
+      "published_at": "2025-08-07 11:00:00",
+      "title": "Ну что, понеслось?"
+    },
+    {
+      "id": "1026",
+      "url": "https://exler.es/blog/umnyye-chasy-oneplus-watch-3.htm",
+      "published_at": "2025-08-06 12:00:00",
+      "title": "Умные часы OnePlus Watch 3"
+    },
+    {
+      "id": "1031",
+      "url": "https://exler.es/expromt/vozmozhnosti-ii-v-smartfonah-samsung.htm",
+      "published_at": "2025-08-05 11:34:00",
+      "title": "Обзоры | Возможности ИИ в смартфонах Samsung"
+    },
+    {
+      "id": "1109",
+      "url": "https://exler.es/expromt/obzor-smartfona-samsung-galaxy-s25-kompaktnyj-i-moshnyj.htm",
+      "published_at": "2025-07-23 09:35:00",
+      "title": "Обзоры | Обзор смартфона Samsung Galaxy S25 - компактный и мощный"
+    },
+    {
+      "id": "1112",
+      "url": "https://exler.es/dieta/diabet-chto-eshe-nuzhno-znat-i-svodim-vse-voedino.htm",
+      "published_at": "2025-07-22 10:22:00",
+      "title": "Здоровье | Диабет - что еще нужно знать и сводим все воедино"
+    },
+    {
+      "id": "1153",
+      "url": "https://exler.es/blog/podlaya-bakteriya.htm",
+      "published_at": "2025-07-14 09:00:00",
+      "title": "Подлая бактерия"
+    },
+    {
+      "id": "1171",
+      "url": "https://exler.es/blog/a-chto-tak-mozhno-bylo-6.htm",
+      "published_at": "2025-07-10 12:30:00",
+      "title": "А что - так можно было?"
+    },
+    {
+      "id": "1228",
+      "url": "https://exler.es/expromt/obzor-smartfona-motorola-moto-g75-5g-otlichnyj-variant-za-235.htm",
+      "published_at": "2025-07-01 11:12:00",
+      "title": "Обзоры | Обзор смартфона Motorola Moto G75 5G - отличный вариант за €235"
+    },
+    {
+      "id": "1297",
+      "url": "https://exler.es/expromt/obzor-subflagmana-samsung-galaxy-s24-fe.htm",
+      "published_at": "2025-06-17 10:00:00",
+      "title": "Обзоры | Обзор субфлагмана Samsung Galaxy S24 FE"
+    },
+    {
+      "id": "1431",
+      "url": "https://exler.es/expromt/obzor-smartfona-realme-14-pro-interesnyj-subflagman.htm",
+      "published_at": "2025-05-27 09:04:00",
+      "title": "Обзоры | Обзор смартфона Realme 14 Pro+ - интересный субфлагман"
+    },
+    {
+      "id": "1508",
+      "url": "https://exler.es/expromt/obzor-smartfona-xiaomi-14t.htm",
+      "published_at": "2025-05-13 09:00:00",
+      "title": "Обзоры | Обзор смартфона Xiaomi 14T"
+    },
+    {
+      "id": "1578",
+      "url": "https://exler.es/blog/solnechnyye-batarei-v-ispanii.htm",
+      "published_at": "2025-04-30 09:00:00",
+      "title": "Солнечные батареи в Испании"
+    },
+    {
+      "id": "1601",
+      "url": "https://exler.es/blog/put-vostorzhennogo-yunoshi.htm",
+      "published_at": "2025-04-25 11:30:00",
+      "title": "Путь восторженного юноши"
+    },
+    {
+      "id": "1622",
+      "url": "https://exler.es/expromt/moj-spisok-rekomendovannyh-smartfonov-4.htm",
+      "published_at": "2025-04-22 08:02:00",
+      "title": "Обзоры | Мой список рекомендованных смартфонов"
+    },
+    {
+      "id": "1650",
+      "url": "https://exler.es/expromt/obzor-smartfona-redmi-note-14-pro-5g.htm",
+      "published_at": "2025-04-15 12:33:00",
+      "title": "Обзоры | Обзор смартфона Redmi Note 14 Pro 5G"
+    },
+    {
+      "id": "1705",
+      "url": "https://exler.es/blog/novaya-ulovka-moshennikov.htm",
+      "published_at": "2025-04-01 11:00:00",
+      "title": "Новая уловка мошенников"
+    },
+    {
+      "id": "1770",
+      "url": "https://exler.es/blog/tesla-i-vandalizm.htm",
+      "published_at": "2025-03-19 13:00:00",
+      "title": "Tesla и вандализм"
+    },
+    {
+      "id": "1776",
+      "url": "https://exler.es/expromt/obzor-novogo-topovogo-plansheta-xiaomi-pad-7.htm",
+      "published_at": "2025-03-18 10:00:00",
+      "title": "Обзоры | Обзор нового топового планшета Xiaomi Pad 7"
+    },
+    {
+      "id": "1805",
+      "url": "https://exler.es/dieta/gastroskopiya-i-kolonoskopiya-davajte-pogovorim.htm",
+      "published_at": "2025-03-11 11:00:00",
+      "title": "Здоровье | Гастроскопия и колоноскопия - давайте поговорим"
+    },
+    {
+      "id": "1914",
+      "url": "https://exler.es/blog/smartfon-xiaomi-redmi-note-14-pro-5g.htm",
+      "published_at": "2025-02-19 17:55:00",
+      "title": "Смартфон Xiaomi Redmi Note 14 Pro 5G"
+    },
+    {
+      "id": "1971",
+      "url": "https://exler.es/blog/strany-baltii-i-energeticheskaya-nezavisimost.htm",
+      "published_at": "2025-02-10 08:00:00",
+      "title": "Страны Балтии и энергетическая независимость"
+    },
+    {
+      "id": "2041",
+      "url": "https://exler.es/blog/nemnozhko-myaska-priyekhalo.htm",
+      "published_at": "2025-01-29 12:00:00",
+      "title": "Немножко мяска приехало"
+    },
+    {
+      "id": "2112",
+      "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-206.htm",
+      "published_at": "2025-01-19 09:00:00",
+      "title": "Ali | Делимся находками из китайских магазинов"
+    },
+    {
+      "id": "2442",
+      "url": "https://exler.es/blog/plany-po-obzoram-15.htm",
+      "published_at": "2024-11-26 09:50:00",
+      "title": "Планы по обзорам"
+    },
+    {
+      "id": "2474",
+      "url": "https://exler.es/blog/antivoyennyy-marsh-v-berline.htm",
+      "published_at": "2024-11-18 18:58:00",
+      "title": "Антивоенный марш в Берлине"
+    },
+    {
+      "id": "2540",
+      "url": "https://exler.es/expromt/obzor-smartfona-huawei-pura-70-ultra.htm",
+      "published_at": "2024-11-06 09:08:00",
+      "title": "Обзоры | Обзор смартфона Huawei Pura 70 Ultra"
+    },
+    {
+      "id": "2649",
+      "url": "https://exler.es/blog/zloveshchaya-degustatsiya.htm",
+      "published_at": "2024-10-17 15:50:00",
+      "title": "Зловещая дегустация"
+    },
+    {
+      "id": "2689",
+      "url": "https://exler.es/blog/huawei-pura-70-ultra.htm",
+      "published_at": "2024-10-07 16:23:00",
+      "title": "Huawei Pura 70 Ultra"
+    },
+    {
+      "id": "2764",
+      "url": "https://exler.es/expromt/obzor-naushnikov-kaffov-sanag-s6s.htm",
+      "published_at": "2024-09-24 11:00:00",
+      "title": "Обзоры | Обзор наушников-каффов Sanag S6S"
+    },
+    {
+      "id": "2835",
+      "url": "https://exler.es/expromt/just-esim-virtualnaya-simkarta-dlya-puteshestviy.htm",
+      "published_at": "2024-09-11 10:00:00",
+      "title": "Обзоры | Just eSIM - виртуальная симкарта для путешествий"
+    },
+    {
+      "id": "2843",
+      "url": "https://exler.es/expromt/naushniki-shokz-openrun-pro-2-realnye-uluchsheniya.htm",
+      "published_at": "2024-09-10 10:00:00",
+      "title": "Обзоры | Наушники Shokz OpenRun Pro 2 - реальные улучшения"
+    },
+    {
+      "id": "3013",
+      "url": "https://exler.es/ezhe/sad-i-muzej-uintertur-v-delavere.htm",
+      "published_at": "2024-08-13 10:00:00",
+      "title": "Рассказы | Сад и музей Уинтертур в Делавэре"
+    },
+    {
+      "id": "3040",
+      "url": "https://exler.es/blog/chestnyy-test-protsessorov.htm",
+      "published_at": "2024-08-08 09:00:00",
+      "title": "Честный тест процессоров"
+    },
+    {
+      "id": "3043",
+      "url": "https://exler.es/blog/podrobnosti-likvidatsii-khanii.htm",
+      "published_at": "2024-08-07 11:00:00",
+      "title": "Подробности ликвидации Хании"
+    },
+    {
+      "id": "3070",
+      "url": "https://exler.es/blog/umeniye-priznavat-oshibki.htm",
+      "published_at": "2024-07-30 19:31:00",
+      "title": "Умение признавать ошибки"
+    },
+    {
+      "id": "3169",
+      "url": "https://exler.es/likbez/esim-dlya-puteshestvij-kak-rabotaet-i-kakie-est-varianty.htm",
+      "published_at": "2024-07-10 14:50:00",
+      "title": "Ликбез | eSIM для путешествий - как работает и какие есть варианты"
+    },
+    {
+      "id": "3174",
+      "url": "https://exler.es/dieta/kak-zhit-s-diabetom-vtorogo-tipa-ii.htm",
+      "published_at": "2024-07-09 11:16:00",
+      "title": "Похудение | Как жить с диабетом второго типа - II"
+    },
+    {
+      "id": "3209",
+      "url": "https://exler.es/expromt/obzor-smartfona-poco-m6-pro.htm",
+      "published_at": "2024-07-02 12:29:00",
+      "title": "Обзоры | Обзор смартфона Poco M6 Pro"
+    },
+    {
+      "id": "3323",
+      "url": "https://exler.es/dieta/kak-zhit-s-diabetom-vtorogo-tipa.htm",
+      "published_at": "2024-06-11 11:31:00",
+      "title": "Похудение | Как жить с диабетом второго типа"
+    },
+    {
+      "id": "3332",
+      "url": "https://exler.es/blog/istoriya-s-testom-na-uroven-alkogolya-voditelya.htm",
+      "published_at": "2024-06-09 10:38:00",
+      "title": "История с тестом на уровень алкоголя"
+    },
+    {
+      "id": "3371",
+      "url": "https://exler.es/blog/mezhdunarodnyy-den-seks-rabotnika.htm",
+      "published_at": "2024-06-02 09:30:00",
+      "title": "Международный день секс-работника"
+    },
+    {
+      "id": "3381",
+      "url": "https://exler.es/blog/umnyye-vesy-2.htm",
+      "published_at": "2024-05-31 09:00:00",
+      "title": "Умные весы"
+    },
+    {
+      "id": "3382",
+      "url": "https://exler.es/blog/obvinitelnyy-verdikt-trampu.htm",
+      "published_at": "2024-05-31 08:00:00",
+      "title": "Обвинительный вердикт Трампу"
+    },
+    {
+      "id": "3394",
+      "url": "https://exler.es/blog/bystraya-fleshka-2.htm",
+      "published_at": "2024-05-28 10:42:00",
+      "title": "Быстрая флешка"
+    },
+    {
+      "id": "3396",
+      "url": "https://exler.es/expromt/obzor-flagmanskogo-smartfona-xiaomi-14-ultra.htm",
+      "published_at": "2024-05-28 09:00:00",
+      "title": "Обзоры | Обзор флагманского смартфона Xiaomi 14 Ultra"
+    },
+    {
+      "id": "3506",
+      "url": "https://exler.es/blog/chasy-huawei-watch-fit-3.htm",
+      "published_at": "2024-05-09 11:00:00",
+      "title": "Часы Huawei Watch Fit 3"
+    },
+    {
+      "id": "3564",
+      "url": "https://exler.es/dieta/minesotskij-eksperiment-po-golodaniyu.htm",
+      "published_at": "2024-04-30 12:26:00",
+      "title": "Похудение | Миннесотский эксперимент по голоданию"
+    },
+    {
+      "id": "3598",
+      "url": "https://exler.es/blog/plany-po-obzoram-13.htm",
+      "published_at": "2024-04-25 13:00:00",
+      "title": "Планы по обзорам"
+    },
+    {
+      "id": "3607",
+      "url": "https://exler.es/expromt/obzor-nedorogogo-routera-s-wifi-7-i-mesh-xiaomi-router-be3600-25g.htm",
+      "published_at": "2024-04-24 10:23:00",
+      "title": "Обзоры | Обзор недорогого роутера с WiFi 7 и MESH - Xiaomi Router BE3600 2.5G"
+    },
+    {
+      "id": "3688",
+      "url": "https://exler.es/expromt/obzor-naushnikov-otkrytogo-tipa-baseus-airgo-as01.htm",
+      "published_at": "2024-04-03 13:29:00",
+      "title": "Обзоры | Обзор наушников открытого типа Baseus AirGo AS01"
+    },
+    {
+      "id": "3891",
+      "url": "https://exler.es/blog/opticheskiye-diski-vernutsya-s-ogromnymi-obyemami.htm",
+      "published_at": "2024-02-24 10:00:00",
+      "title": "Оптические диски вернутся с огромными объемами?"
+    },
+    {
+      "id": "4030",
+      "url": "https://exler.es/blog/plany-po-obzoram-12.htm",
+      "published_at": "2024-01-31 16:43:00",
+      "title": "Планы по обзорам"
+    },
+    {
+      "id": "4036",
+      "url": "https://exler.es/expromt/obzor-polnoformatnyh-besprovodnyh-naushnikov-sony-wh-xb910n-extra-bass.htm",
+      "published_at": "2024-01-31 08:00:00",
+      "title": "Обзоры | Обзор полноформатных беспроводных наушников Sony WH-XB910N Extra Bass"
+    },
+    {
+      "id": "4070",
+      "url": "https://exler.es/expromt/obzor-umnyh-ochkov-ray-ban-meta.htm",
+      "published_at": "2024-01-23 14:31:00",
+      "title": "Обзоры | Обзор умных очков Ray-Ban Meta"
+    },
+    {
+      "id": "4081",
+      "url": "https://exler.es/blog/novyy-volshebnyy-gorshochek.htm",
+      "published_at": "2024-01-21 12:00:00",
+      "title": "Новый волшебный горшочек"
+    },
+    {
+      "id": "4271",
+      "url": "https://exler.es/expromt/obzor-novogo-topovogo-plansheta-xiaomi-pad-6.htm",
+      "published_at": "2023-12-19 12:16:00",
+      "title": "Обзоры | Обзор нового топового планшета Xiaomi Pad 6"
+    },
+    {
+      "id": "4288",
+      "url": "https://exler.es/blog/korolevskoye-obshchestvo-iskusstv-izvinilos.htm",
+      "published_at": "2023-12-16 12:00:00",
+      "title": "Королевское общество искусств извинилось"
+    },
+    {
+      "id": "4371",
+      "url": "https://exler.es/blog/chasy-huawei-watch-gt-4.htm",
+      "published_at": "2023-12-01 09:00:00",
+      "title": "Часы Huawei Watch GT 4"
+    },
+    {
+      "id": "4429",
+      "url": "https://exler.es/blog/planshetnoye.htm",
+      "published_at": "2023-11-21 08:54:00",
+      "title": "Планшетное"
+    },
+    {
+      "id": "4515",
+      "url": "https://exler.es/blog/politseyskiye-v-izraile-khasidov-byut.htm",
+      "published_at": "2023-11-04 09:00:00",
+      "title": "Полицейские в Израиле хасидов бьют?"
+    },
+    {
+      "id": "4545",
+      "url": "https://exler.es/blog/google-pixel-8-pro.htm",
+      "published_at": "2023-10-31 09:00:00",
+      "title": "Google Pixel 8 Pro"
+    },
+    {
+      "id": "4554",
+      "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-153.htm",
+      "published_at": "2023-10-29 09:00:00",
+      "title": "Ali | Делимся находками из китайских магазинов"
+    },
+    {
+      "id": "4593",
+      "url": "https://exler.es/blog/vernulsya-iz-frantsii.htm",
+      "published_at": "2023-10-22 22:44:00",
+      "title": "Вернулся из Франции"
+    },
+    {
+      "id": "4674",
+      "url": "https://exler.es/expromt/obzor-smartfona-nothing-phone-2.htm",
+      "published_at": "2023-10-03 08:30:00",
+      "title": "Обзоры | Обзор смартфона Nothing Phone (2)"
+    },
+    {
+      "id": "4697",
+      "url": "https://exler.es/blog/kak-proshel-nash-tur-po-pyemontu.htm",
+      "published_at": "2023-09-29 09:00:00",
+      "title": "Как прошел наш тур по Пьемонту"
+    },
+    {
+      "id": "4709",
+      "url": "https://exler.es/blog/chasy-apple-watch-ultra-2.htm",
+      "published_at": "2023-09-26 12:00:00",
+      "title": "Часы Apple Watch Ultra 2"
+    },
+    {
+      "id": "4720",
+      "url": "https://exler.es/blog/otpravlyayus-v-pyemont-2.htm",
+      "published_at": "2023-09-22 13:13:00",
+      "title": "Отправляюсь в Пьемонт"
+    },
+    {
+      "id": "4738",
+      "url": "https://exler.es/expromt/obzor-naushnikov-oneodio-openrock-s.htm",
+      "published_at": "2023-09-19 11:00:00",
+      "title": "Обзоры | Обзор наушников OneOdio OpenRock S"
+    },
+    {
+      "id": "4760",
+      "url": "https://exler.es/blog/avtomobil-s-peydzherami.htm",
+      "published_at": "2023-09-14 11:32:00",
+      "title": "Автомобиль с пейджерами"
+    },
+    {
+      "id": "4833",
+      "url": "https://exler.es/expromt/obzor-shestogo-pokoleniya-umnyh-chasov-samsung-galaxy-watch6.htm",
+      "published_at": "2023-08-29 12:49:00",
+      "title": "Обзоры | Обзор шестого поколения умных часов Samsung Galaxy Watch6"
+    },
+    {
+      "id": "4957",
+      "url": "https://exler.es/blog/predstavili-smartfon-poco-m6-pro.htm",
+      "published_at": "2023-08-08 09:04:00",
+      "title": "Представили смартфон Poco M6 Pro"
+    },
+    {
+      "id": "4982",
+      "url": "https://exler.es/blog/plany-po-obzoram-11.htm",
+      "published_at": "2023-08-02 11:00:00",
+      "title": "Планы по обзорам и сервис аренды гаджетов"
+    },
+    {
+      "id": "4984",
+      "url": "https://exler.es/blog/smartfon-sony-xperia-10-v.htm",
+      "published_at": "2023-08-02 09:00:00",
+      "title": "Смартфон Sony Xperia 10 V"
+    },
+    {
+      "id": "5017",
+      "url": "https://exler.es/expromt/obzor-tws-naushnikov-nothing-ear-2-tozhe-luchshe-airpods-pro.htm",
+      "published_at": "2023-07-26 12:57:00",
+      "title": "Обзоры | Обзор TWS-наушников Nothing Ear (2) - тоже лучше AirPods Pro"
+    },
+    {
+      "id": "5033",
+      "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-140.htm",
+      "published_at": "2023-07-23 09:00:00",
+      "title": "Ali | Делимся находками из китайских магазинов"
+    },
+    {
+      "id": "5224",
+      "url": "https://exler.es/expromt/obzor-flagmanskogo-smartfona-xiaomi-13-pro.htm",
+      "published_at": "2023-06-20 11:16:00",
+      "title": "Обзоры | Обзор флагманского смартфона Xiaomi 13 Pro"
+    },
+    {
+      "id": "5288",
+      "url": "https://exler.es/blog/nato-poigrayet-muskulami.htm",
+      "published_at": "2023-06-09 08:00:00",
+      "title": "НАТО поиграет мускулами"
+    },
+    {
+      "id": "5444",
+      "url": "https://exler.es/expromt/obzor-smartfona-redmi-note-12-pro-5g.htm",
+      "published_at": "2023-05-16 09:00:00",
+      "title": "Обзоры | Обзор смартфона Redmi Note 12 Pro+ 5G"
+    },
+    {
+      "id": "5502",
+      "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-129.htm",
+      "published_at": "2023-05-07 13:41:00",
+      "title": "Ali | Делимся находками из китайских магазинов"
+    },
+    {
+      "id": "5544",
+      "url": "https://exler.es/blog/trevozhno-u-nikh.htm",
+      "published_at": "2023-05-01 10:00:00",
+      "title": "Тревожно у них"
+    },
+    {
+      "id": "5566",
+      "url": "https://exler.es/blog/smartfon-redmi-note-12-pro.htm",
+      "published_at": "2023-04-27 10:00:00",
+      "title": "Смартфон Redmi Note 12 Pro+"
+    },
+    {
+      "id": "5584",
+      "url": "https://exler.es/blog/ya-vernulsya-5.htm",
+      "published_at": "2023-04-24 09:39:00",
+      "title": "Я вернулся"
+    },
+    {
+      "id": "5610",
+      "url": "https://exler.es/blog/informatsiya-po-rabote-sayta.htm",
+      "published_at": "2023-04-16 14:00:00",
+      "title": "Информация по работе сайта"
+    },
+    {
+      "id": "5646",
+      "url": "https://exler.es/ezhe/vse-chto-nuzhno-znat-o-reuse-stolice-vermuta-ispanii.htm",
+      "published_at": "2023-04-11 11:11:00",
+      "title": "Рассказы | Все что нужно знать о Реусе, столице вермута Испании"
+    },
+    {
+      "id": "5656",
+      "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-125.htm",
+      "published_at": "2023-04-09 10:00:00",
+      "title": "Ali | Делимся находками из китайских магазинов"
+    },
+    {
+      "id": "5687",
+      "url": "https://exler.es/blog/plany-po-smartfonam-2.htm",
+      "published_at": "2023-04-03 11:57:00",
+      "title": "Планы по смартфонам"
+    },
+    {
+      "id": "5743",
+      "url": "https://exler.es/blog/pokazatelnaya-istoriya-c-prigozhinym-akhmetovym.htm",
+      "published_at": "2023-03-26 18:08:00",
+      "title": "Показательная история c Пригожиным и Ахмедовым"
+    },
+    {
+      "id": "5787",
+      "url": "https://exler.es/blog/ya-vernulsya-4.htm",
+      "published_at": "2023-03-20 10:00:00",
+      "title": "Я вернулся"
+    },
+    {
+      "id": "5821",
+      "url": "https://exler.es/blog/vydvigayus-vo-frantsiyu.htm",
+      "published_at": "2023-03-12 10:00:00",
+      "title": "Выдвигаюсь во Францию"
+    },
+    {
+      "id": "5838",
+      "url": "https://exler.es/blog/protest-imeyet-znacheniye.htm",
+      "published_at": "2023-03-09 08:20:00",
+      "title": "Протест имеет значение"
+    },
+    {
+      "id": "5842",
+      "url": "https://exler.es/blog/smartfonnaya-strategiya-samsung.htm",
+      "published_at": "2023-03-08 10:00:00",
+      "title": "Смартфонная стратегия Samsung"
+    },
+    {
+      "id": "5847",
+      "url": "https://exler.es/blog/obzor-samsung-galaxy-s23-ultra.htm",
+      "published_at": "2023-03-07 09:00:00",
+      "title": "Обзор Samsung Galaxy S23 Ultra"
+    },
+    {
+      "id": "5859",
+      "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-120.htm",
+      "published_at": "2023-03-05 08:00:00",
+      "title": "Ali | Делимся находками из китайских магазинов"
+    },
+    {
+      "id": "5908",
+      "url": "https://exler.es/blog/vedushchiy-mobilnyy.htm",
+      "published_at": "2023-02-25 09:00:00",
+      "title": "Ведущий мобильный"
+    },
+    {
+      "id": "5934",
+      "url": "https://exler.es/blog/dekriminalizatsiya-zoofilii-v-ispanii.htm",
+      "published_at": "2023-02-21 10:00:00",
+      "title": "В Испании декриминализируют зоофилию?"
+    },
+    {
+      "id": "5935",
+      "url": "https://exler.es/expromt/kak-bystro-i-effektivno-moderirovat-chat-kommenty-telegram-kanala.htm",
+      "published_at": "2023-02-21 09:00:00",
+      "title": "Обзоры | Как быстро и эффективно модерировать чат (комменты) телеграм-канала"
+    },
+    {
+      "id": "5986",
+      "url": "https://exler.es/blog/avtonomnost-samsung-galaxy-s23-ultra.htm",
+      "published_at": "2023-02-13 08:25:00",
+      "title": "Автономность Samsung Galaxy S23 Ultra"
+    },
+    {
+      "id": "5987",
+      "url": "https://exler.es/blog/i-snova-o-kulere.htm",
+      "published_at": "2023-02-12 16:00:00",
+      "title": "И снова о кулере"
+    },
+    {
+      "id": "5996",
+      "url": "https://exler.es/blog/kulernyye-stradaniya.htm",
+      "published_at": "2023-02-11 10:00:00",
+      "title": "Кулерные страдания"
+    },
+    {
+      "id": "6016",
+      "url": "https://exler.es/blog/chelovek-kotoryy-ne-yel-382-dnya.htm",
+      "published_at": "2023-02-08 08:02:00",
+      "title": "Человек, который не ел 382 дня"
+    },
+    {
+      "id": "6192",
+      "url": "https://exler.es/blog/skandal-s-tesla-v-kitaye.htm",
+      "published_at": "2023-01-08 13:00:00",
+      "title": "Скандал с Tesla в Китае"
+    },
+    {
+      "id": "6314",
+      "url": "https://exler.es/expromt/obzor-13-dyujmovogo-plansheta-blackview-tab-13.htm",
+      "published_at": "2022-12-21 08:50:00",
+      "title": "Обзоры | Обзор бюджетного планшета BlackView Tab 13"
+    },
+    {
+      "id": "6340",
+      "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-110.htm",
+      "published_at": "2022-12-18 08:00:00",
+      "title": "Ali | Делимся находками из китайских магазинов"
+    },
+    {
+      "id": "6387",
+      "url": "https://exler.es/blog/da-neuzheli-2.htm",
+      "published_at": "2022-12-10 08:00:00",
+      "title": "Да неужели?!!"
+    },
+    {
+      "id": "6406",
+      "url": "https://exler.es/expromt/obzor-smartfona-xiaomi-12t.htm",
+      "published_at": "2022-12-07 08:00:00",
+      "title": "Обзоры | Обзор смартфона Xiaomi 12T"
+    },
+    {
+      "id": "6456",
+      "url": "https://exler.es/blog/chto-proiskhodit-v-kitaye.htm",
+      "published_at": "2022-11-28 07:58:00",
+      "title": "Что происходит в Китае"
+    },
+    {
+      "id": "6529",
+      "url": "https://exler.es/expromt/obzor-smartfona-iphone-14-pro-max.htm",
+      "published_at": "2022-11-15 10:52:00",
+      "title": "Обзоры | Обзор смартфона iPhone 14 Pro Max"
+    },
+    {
+      "id": "6652",
+      "url": "https://exler.es/blog/apellyatsiya-v-binance.htm",
+      "published_at": "2022-10-28 10:00:00",
+      "title": "Апелляция в Binance"
+    },
+    {
+      "id": "6670",
+      "url": "https://exler.es/blog/ne-nado-boyatsya-robota-politseyskogo.htm",
+      "published_at": "2022-10-25 10:04:00",
+      "title": "Не надо бояться робота-полицейского"
+    },
+    {
+      "id": "6875",
+      "url": "https://exler.es/blog/potentsial-mobilizatsii.htm",
+      "published_at": "2022-09-22 10:43:00",
+      "title": "Потенциал мобилизации"
+    },
+    {
+      "id": "6881",
+      "url": "https://exler.es/blog/vneshneye-ustroystvo-videozakhvata.htm",
+      "published_at": "2022-09-21 11:07:00",
+      "title": "Внешнее устройство видеозахвата"
+    },
+    {
+      "id": "6895",
+      "url": "https://exler.es/expromt/ustrojstva-kotorymi-ya-polzuyus-1.htm",
+      "published_at": "2022-09-20 12:04:00",
+      "title": "Обзоры | Устройства, которыми я пользуюсь"
+    },
+    {
+      "id": "6985",
+      "url": "https://exler.es/expromt/obzor-umnyh-chasov-samsung-galaxy-watch5-nakonec-to.htm",
+      "published_at": "2022-09-06 09:00:00",
+      "title": "Обзоры | Обзор умных часов Samsung Galaxy Watch5 - наконец-то!"
+    },
+    {
+      "id": "7071",
+      "url": "https://exler.es/blog/novyy-planshet-blackview-tab-13.htm",
+      "published_at": "2022-08-24 11:14:00",
+      "title": "Новый планшет Blackview Tab 13"
+    },
+    {
+      "id": "7077",
+      "url": "https://exler.es/expromt/obzor-umnoj-kolonki-xiaomi-mi-smart-speaker.htm",
+      "published_at": "2022-08-23 13:54:00",
+      "title": "Обзоры | Обзор умной колонки Xiaomi Mi Smart Speaker"
+    },
+    {
+      "id": "7079",
+      "url": "https://exler.es/blog/smartfony-dlya-obzora.htm",
+      "published_at": "2022-08-23 11:20:00",
+      "title": "Смартфоны для обзора"
+    },
+    {
+      "id": "7111",
+      "url": "https://exler.es/blog/samsung-galaxy-watch5.htm",
+      "published_at": "2022-08-18 11:34:00",
+      "title": "Samsung Galaxy Watch5"
+    },
+    {
+      "id": "7130",
+      "url": "https://exler.es/expromt/obzor-byudzhetnogo-plansheta-lenovo-tab-m10-plus-gen2.htm",
+      "published_at": "2022-08-16 11:44:00",
+      "title": "Обзоры | Обзор бюджетного планшета Lenovo Tab M10 Plus Gen2"
+    },
+    {
+      "id": "7169",
+      "url": "https://exler.es/blog/pogovorim-o-detskikh-umnykh-chasakh.htm",
+      "published_at": "2022-08-11 10:32:00",
+      "title": "Поговорим о детских умных часах"
+    },
+    {
+      "id": "7190",
+      "url": "https://exler.es/blog/kstati-ob-obede.htm",
+      "published_at": "2022-08-07 14:04:00",
+      "title": "Кстати, об обеде"
+    },
+    {
+      "id": "7207",
+      "url": "https://exler.es/blog/ya-vernulsya-2.htm",
+      "published_at": "2022-08-04 22:13:00",
+      "title": "Я вернулся"
+    },
+    {
+      "id": "7244",
+      "url": "https://exler.es/blog/obnovlennaya-versiya-huawei-watch-3-pro.htm",
+      "published_at": "2022-07-28 15:04:00",
+      "title": "Обновленная версия Huawei Watch 3 Pro"
+    },
+    {
+      "id": "7264",
+      "url": "https://exler.es/expromt/obzor-srednebyudzhetnogo-smartfona-samsung-galaxy-a53-5g.htm",
+      "published_at": "2022-07-26 09:00:00",
+      "title": "Обзоры | Обзор среднебюджетного смартфона Samsung Galaxy A53 5G"
+    },
+    {
+      "id": "7302",
+      "url": "https://exler.es/expromt/obzor-byudzhetnyh-umnyh-chasov-amazfit-bip-3-deshevo-i-horosho.htm",
+      "published_at": "2022-07-20 09:00:00",
+      "title": "Обзоры | Обзор бюджетных умных часов Amazfit Bip 3 - дешево и хорошо"
+    },
+    {
+      "id": "7321",
+      "url": "https://exler.es/blog/oppo-find-n-protiv-samsung-galaxy-fold-3.htm",
+      "published_at": "2022-07-17 11:36:00",
+      "title": "OPPO Find N против Samsung Galaxy Fold 3"
+    },
+    {
+      "id": "7354",
+      "url": "https://exler.es/blog/plany-po-obzoram-10.htm",
+      "published_at": "2022-07-12 10:34:00",
+      "title": "Планы по обзорам"
+    },
+    {
+      "id": "7403",
+      "url": "https://exler.es/expromt/obzor-smartfona-honor-50-lite.htm",
+      "published_at": "2022-07-05 10:02:00",
+      "title": "Обзоры | Обзор смартфона Honor 50 Lite"
+    },
+    {
+      "id": "7450",
+      "url": "https://exler.es/expromt/obzor-robota-pylesosa-xiaomi-robot-vacuum-mop-2c.htm",
+      "published_at": "2022-06-28 09:00:00",
+      "title": "Обзоры | Обзор робота-пылесоса Xiaomi Robot Vacuum-Mop 2C"
+    },
+    {
+      "id": "7499",
+      "url": "https://exler.es/blog/telegram-premium.htm",
+      "published_at": "2022-06-21 13:22:00",
+      "title": "Telegram Premium"
+    },
+    {
+      "id": "7502",
+      "url": "https://exler.es/blog/russkaya-kola.htm",
+      "published_at": "2022-06-21 11:34:00",
+      "title": "Русская кола"
+    },
+    {
+      "id": "7620",
+      "url": "https://exler.es/blog/noutbuk-chuwi-aerobook.htm",
+      "published_at": "2022-06-04 09:34:00",
+      "title": "Ноутбук CHUWI AeroBook"
+    },
+    {
+      "id": "7750",
+      "url": "https://exler.es/likbez/poleznye-hitrosti-pri-ispolzovanii-google-chrome-na-pk.htm",
+      "published_at": "2022-05-18 09:00:00",
+      "title": "Ликбез | Полезные хитрости при использовании Google Chrome на ПК"
+    },
+    {
+      "id": "7802",
+      "url": "https://exler.es/expromt/obzor-tws-naushnikov-s-aktivnym-shumopodavleniem-bose-quietcomfort-earbuds.htm",
+      "published_at": "2022-05-11 13:56:00",
+      "title": "Обзоры | Обзор TWS-наушников с активным шумоподавлением Bose QuietComfort Earbuds"
+    },
+    {
+      "id": "7864",
+      "url": "https://exler.es/expromt/obzor-routera-huawei-wi-fi-ax3-ws7200-wi-fi-6-i-besshovnaya-set.htm",
+      "published_at": "2022-05-04 09:48:00",
+      "title": "Обзоры | Обзор роутера Huawei Wi-Fi AX3 (WS7200) - Wi-Fi 6 и бесшовная сеть"
+    },
+    {
+      "id": "7992",
+      "url": "https://exler.es/expromt/osobennosti-obolochki-miui-13-dlya-smartfonov-xiaomi.htm",
+      "published_at": "2022-04-19 09:00:00",
+      "title": "Обзоры | Особенности оболочки MIUI 13 для смартфонов Xiaomi"
+    },
+    {
+      "id": "8001",
+      "url": "https://exler.es/blog/pomet-v-beshenstve.htm",
+      "published_at": "2022-04-17 18:34:00",
+      "title": "Помёт в бешенстве"
+    },
+    {
+      "id": "8041",
+      "url": "https://exler.es/blog/kak-vesti-sebya-nakhodyas-sredi-zombirovannykh.htm",
+      "published_at": "2022-04-13 13:04:00",
+      "title": "Как вести себя, находясь среди зомбированных"
+    },
+    {
+      "id": "8052",
+      "url": "https://exler.es/blog/tem-vremenem-v-shankhaye.htm",
+      "published_at": "2022-04-12 13:04:00",
+      "title": "Тем временем в Шанхае"
+    },
+    {
+      "id": "8071",
+      "url": "https://exler.es/blog/snyatiye-valyuty-v-rossiyskikh-bankakh.htm",
+      "published_at": "2022-04-09 14:04:00",
+      "title": "Снятие валюты в российских банках"
+    },
+    {
+      "id": "8099",
+      "url": "https://exler.es/expromt/opyt-ispolzovaniya-oled-televizora-v-kachestve-monitora.htm",
+      "published_at": "2022-04-05 12:22:00",
+      "title": "Обзоры | Опыт использования OLED-телевизора в качестве монитора"
+    },
+    {
+      "id": "8142",
+      "url": "https://exler.es/expromt/obzor-tws-naushnikov-apple-airpods-pro-magsafe.htm",
+      "published_at": "2022-03-30 09:00:00",
+      "title": "Обзоры | Обзор TWS-наушников Apple AirPods Pro MagSafe"
+    },
+    {
+      "id": "8195",
+      "url": "https://exler.es/blog/eto-prosto-nevoobrazimo.htm",
+      "published_at": "2022-03-23 11:35:00",
+      "title": "Это просто невообразимо"
+    },
+    {
+      "id": "8224",
+      "url": "https://exler.es/blog/sovety-psikhologa-lyudmily-petranovskoy.htm",
+      "published_at": "2022-03-19 15:04:00",
+      "title": "Советы психолога Людмилы Петрановской"
+    },
+    {
+      "id": "8345",
+      "url": "https://exler.es/blog/vozmozhen-li-cheburnet.htm",
+      "published_at": "2022-03-07 09:39:00",
+      "title": "Возможен ли Чебурнет"
+    },
+    {
+      "id": "8351",
+      "url": "https://exler.es/blog/insayd-ot-gulagunet.htm",
+      "published_at": "2022-03-06 10:15:00",
+      "title": "Инсайд от Gulagu.Net"
+    },
+    {
+      "id": "8377",
+      "url": "https://exler.es/blog/chto-tut-dalshe-budet-proiskhodit.htm",
+      "published_at": "2022-03-04 11:05:00",
+      "title": "Что тут дальше будет происходить"
+    },
+    {
+      "id": "8452",
+      "url": "https://exler.es/blog/antivoyennyye-protesty-v-barselone.htm",
+      "published_at": "2022-02-25 18:46:00",
+      "title": "Антивоенные протесты в Барселоне"
+    },
+    {
+      "id": "8501",
+      "url": "https://exler.es/expromt/obzor-smartfona-iphone-13-pro.htm",
+      "published_at": "2022-02-23 12:14:00",
+      "title": "Обзоры | Обзор смартфона iPhone 13 Pro"
+    },
+    {
+      "id": "8508",
+      "url": "https://exler.es/expromt/obzor-flagmanskih-gibridnyh-tws-naushnikov-soundcore-liberty-3-pro.htm",
+      "published_at": "2022-02-22 09:01:00",
+      "title": "Обзоры | Обзор флагманских гибридных TWS-наушников Soundcore Liberty 3 Pro"
+    },
+    {
+      "id": "8544",
+      "url": "https://exler.es/blog/putin-vsekh-pereigral.htm",
+      "published_at": "2022-02-16 10:04:00",
+      "title": "Путин всех переиграл"
+    },
+    {
+      "id": "8575",
+      "url": "https://exler.es/blog/a-chto-tam-v-shvetsii-s-2.htm",
+      "published_at": "2022-02-11 10:04:00",
+      "title": "А что там в Швеции? (с)"
+    },
+    {
+      "id": "8586",
+      "url": "https://exler.es/expromt/obzor-novogo-byudzhetnika-poco-m4-pro-5g.htm",
+      "published_at": "2022-02-09 11:24:00",
+      "title": "Обзоры | Обзор нового бюджетного смартфона Poco M4 Pro 5G"
+    },
+    {
+      "id": "8608",
+      "url": "https://exler.es/blog/programmisty-bolshe-ne-nuzhny.htm",
+      "published_at": "2022-02-04 13:06:00",
+      "title": "Программисты больше не нужны?"
+    },
+    {
+      "id": "8651",
+      "url": "https://exler.es/blog/apple-airpods-pro.htm",
+      "published_at": "2022-01-27 12:51:00",
+      "title": "Apple Airpods Pro"
+    },
+    {
+      "id": "8652",
+      "url": "https://exler.es/blog/chetyre-modeli-redmi-note-11.htm",
+      "published_at": "2022-01-27 12:01:00",
+      "title": "Четыре модели Redmi Note 11"
+    },
+    {
+      "id": "8705",
+      "url": "https://exler.es/blog/sravnitelnyy-obzor-pyati-samykh-populyarnykh-testov-na-antigen.htm",
+      "published_at": "2022-01-18 10:00:00",
+      "title": "Сравнительный обзор пяти самых популярных тестов на антиген"
+    },
+    {
+      "id": "8716",
+      "url": "https://exler.es/blog/chto-v-itoge-reshil-s-monitorom.htm",
+      "published_at": "2022-01-17 01:08:00",
+      "title": "Что в итоге решил с монитором"
+    },
+    {
+      "id": "8739",
+      "url": "https://exler.es/blog/chto-takoye-fudshering-v-germanii.htm",
+      "published_at": "2022-01-11 13:41:00",
+      "title": "Что такое фудшеринг в Германии"
+    },
+    {
+      "id": "8764",
+      "url": "https://exler.es/blog/samsung-galaxy-s21-fe-khaltura.htm",
+      "published_at": "2022-01-06 12:15:00",
+      "title": "Samsung Galaxy S21 FE - халтура?"
+    },
+    {
+      "id": "8827",
+      "url": "https://exler.es/expromt/obzor-smartfona-oneplus-nord-2-5g-srednebyudzhetnik-s-opticheskim-stabom.htm",
+      "published_at": "2021-12-28 11:39:00",
+      "title": "Обзоры | Обзор смартфона OnePlus Nord 2 5G - среднебюджетник с оптическим стабом"
+    },
+    {
+      "id": "8832",
+      "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-69.htm",
+      "published_at": "2021-12-26 09:01:00",
+      "title": "Ali | Делимся находками из китайских магазинов"
+    },
+    {
+      "id": "8863",
+      "url": "https://exler.es/expromt/obzor-smartfona-oppo-reno6.htm",
+      "published_at": "2021-12-21 11:01:00",
+      "title": "Обзоры | Обзор смартфона OPPO Reno6"
+    },
+    {
+      "id": "8878",
+      "url": "https://exler.es/blog/glebych-zhzhot-4.htm",
+      "published_at": "2021-12-17 12:37:00",
+      "title": "Глебыч жжот"
+    },
+    {
+      "id": "8890",
+      "url": "https://exler.es/blog/plany-po-obzoram-8.htm",
+      "published_at": "2021-12-15 11:24:00",
+      "title": "Планы по обзорам"
+    },
+    {
+      "id": "8893",
+      "url": "https://exler.es/blog/putin-i-yego-rol-v-istorii.htm",
+      "published_at": "2021-12-14 18:01:00",
+      "title": "Путин и его роль в истории"
+    },
+    {
+      "id": "8931",
+      "url": "https://exler.es/blog/nevzorov-o-putine-i-petre-i.htm",
+      "published_at": "2021-12-08 10:34:00",
+      "title": "Невзоров о Путине и Петре I"
+    },
+    {
+      "id": "8959",
+      "url": "https://exler.es/blog/umnyye-chasy-samsung-galaxy-watch-4.htm",
+      "published_at": "2021-12-02 12:27:00",
+      "title": "Умные часы Samsung Galaxy Watch 4"
+    },
+    {
+      "id": "8960",
+      "url": "https://exler.es/blog/neuzheli-vypustili-normalnyye-detskiye-chasy.htm",
+      "published_at": "2021-12-02 10:46:00",
+      "title": "Неужели выпустили нормальные детские часы?"
+    },
+    {
+      "id": "8970",
+      "url": "https://exler.es/likbez/ustanovka-windows-11-razlichnye-sposoby.htm",
+      "published_at": "2021-11-30 09:01:00",
+      "title": "Ликбез | Установка Windows 11 - различные способы"
+    },
+    {
+      "id": "8982",
+      "url": "https://exler.es/blog/subbotnyaya-muzyka.htm",
+      "published_at": "2021-11-28 00:46:00",
+      "title": "Субботняя музыка"
+    },
+    {
+      "id": "9021",
+      "url": "https://exler.es/blog/planshet-xiaomi-mediapad-5.htm",
+      "published_at": "2021-11-20 10:04:00",
+      "title": "Планшет Xiaomi Pad 5"
+    },
+    {
+      "id": "9028",
+      "url": "https://exler.es/blog/novosti-nauki.htm",
+      "published_at": "2021-11-19 11:36:00",
+      "title": "Новости науки"
+    },
+    {
+      "id": "9049",
+      "url": "https://exler.es/expromt/obzor-smartfona-xiaomi-11t-pochti-flagman.htm",
+      "published_at": "2021-11-16 09:01:00",
+      "title": "Обзоры | Обзор смартфона Xiaomi 11T - почти флагман"
+    },
+    {
+      "id": "9077",
+      "url": "https://exler.es/blog/itogi-starta-pervoy-nedeli-servisa-cinezen.htm",
+      "published_at": "2021-11-11 10:00:00",
+      "title": "Итоги старта первой недели сервиса Cinezen"
+    },
+    {
+      "id": "9082",
+      "url": "https://exler.es/blog/smartfon-xiaomi-11t.htm",
+      "published_at": "2021-11-10 10:32:00",
+      "title": "Смартфон Xiaomi 11T"
+    },
+    {
+      "id": "9165",
+      "url": "https://exler.es/blog/kak-odin-azerbaydzhanets-so-shvetsiyey-voyeval.htm",
+      "published_at": "2021-10-27 09:04:00",
+      "title": "Как один азербайджанец со Швецией воевал"
+    },
+    {
+      "id": "9168",
+      "url": "https://exler.es/expromt/obzor-smartfona-xiaomi-redmi-10-novyj-byudzhetnik.htm",
+      "published_at": "2021-10-26 11:01:00",
+      "title": "Обзоры | Обзор смартфона Xiaomi Redmi 10 - новый бюджетник"
+    },
+    {
+      "id": "9208",
+      "url": "https://exler.es/blog/domashniy-printer-chem-serdtse-uspokoilos.htm",
+      "published_at": "2021-10-18 13:04:00",
+      "title": "Домашний принтер - чем сердце успокоилось"
+    },
+    {
+      "id": "9216",
+      "url": "https://exler.es/blog/ne-ostalos-bolshe-muzhikov.htm",
+      "published_at": "2021-10-16 12:59:00",
+      "title": "Не осталось больше мужиков"
+    },
+    {
+      "id": "9249",
+      "url": "https://exler.es/blog/zakon-o-zhilye-v-ispanii.htm",
+      "published_at": "2021-10-07 10:36:00",
+      "title": "\"Закон о жилье\" в Испании"
+    },
+    {
+      "id": "9284",
+      "url": "https://exler.es/expromt/obzor-byudzhetnogo-10-dyujmovogo-plansheta-samsung-galaxy-tab-a7.htm",
+      "published_at": "2021-09-28 11:01:00",
+      "title": "Обзоры | Обзор бюджетного 10-дюймового планшета Samsung Galaxy Tab A7"
+    },
+    {
+      "id": "9295",
+      "url": "https://exler.es/blog/gadzhety-na-prodazhu-v-moskve.htm",
+      "published_at": "2021-09-25 18:04:00",
+      "title": "Гаджеты на продажу в Москве"
+    },
+    {
+      "id": "9342",
+      "url": "https://exler.es/blog/sobrat-komp-rebenku.htm",
+      "published_at": "2021-09-15 14:04:00",
+      "title": "Собрать комп ребенку"
+    },
+    {
+      "id": "9347",
+      "url": "https://exler.es/expromt/onlajn-shkola-izucheniya-ispanskogo-yazyka-espanero.htm",
+      "published_at": "2021-09-15 09:01:00",
+      "title": "Обзоры | Онлайн-школа изучения испанского языка \"Эспаньеро\""
+    },
+    {
+      "id": "9351",
+      "url": "https://exler.es/expromt/obzor-flagmanskogo-smartfona-motorola-edge-20-pro.htm",
+      "published_at": "2021-09-14 10:01:00",
+      "title": "Обзоры | Обзор флагманского смартфона Motorola Edge 20 Pro"
+    },
+    {
+      "id": "9379",
+      "url": "https://exler.es/expromt/obzor-vozmozhnostej-magazina-elektronnyh-knig-books-pocketbook-ru.htm",
+      "published_at": "2021-09-08 09:01:00",
+      "title": "Обзоры | Обзор возможностей магазина электронных книг Books.PocketBook.ru"
+    },
+    {
+      "id": "9415",
+      "url": "https://exler.es/ezhe/banoles-kurortnyj-gorod-s-krasivejshim-ozerom.htm",
+      "published_at": "2021-08-31 13:11:00",
+      "title": "Рассказы | Баньолес - курортный город с красивейшим озером"
+    },
+    {
+      "id": "9423",
+      "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-53.htm",
+      "published_at": "2021-08-29 09:01:00",
+      "title": "Ali | Делимся находками из китайских магазинов"
+    },
+    {
+      "id": "9451",
+      "url": "https://exler.es/expromt/obzor-fitnes-brasleta-huawei-band-6.htm",
+      "published_at": "2021-08-24 09:01:00",
+      "title": "Обзоры | Обзор фитнес-браслета Huawei Band 6"
+    },
+    {
+      "id": "9470",
+      "url": "https://exler.es/blog/po-opisaniyu-pryam-bomba.htm",
+      "published_at": "2021-08-20 09:55:00",
+      "title": "По описанию прям бомба"
+    },
+    {
+      "id": "9479",
+      "url": "https://exler.es/blog/smartfon-nokia-xr20.htm",
+      "published_at": "2021-08-18 10:55:00",
+      "title": "Смартфон Nokia XR20"
+    },
+    {
+      "id": "9486",
+      "url": "https://exler.es/expromt/moj-spisok-rekomendovannyh-smartfonov-2.htm",
+      "published_at": "2021-08-17 09:01:00",
+      "title": "Обзоры | Мой список рекомендованных смартфонов"
+    },
+    {
+      "id": "9488",
+      "url": "https://exler.es/blog/10-minutnaya-trenirovka.htm",
+      "published_at": "2021-08-16 17:35:00",
+      "title": "10-минутная тренировка"
+    },
+    {
+      "id": "9513",
+      "url": "https://exler.es/expromt/obzor-tws-naushnikov-ugreen-hitune-x5.htm",
+      "published_at": "2021-08-11 11:41:00",
+      "title": "Обзоры | Обзор TWS-наушников Ugreen Hitune X5"
+    },
+    {
+      "id": "9519",
+      "url": "https://exler.es/expromt/obzor-byudzhetnogo-smartfona-realme-narzo-30-5g.htm",
+      "published_at": "2021-08-10 09:01:00",
+      "title": "Обзоры | Обзор бюджетного смартфона Realme Narzo 30 5G"
+    },
+    {
+      "id": "9556",
+      "url": "https://exler.es/expromt/moj-spisok-rekomendovannyh-umnyh-chasov.htm",
+      "published_at": "2021-08-04 09:01:00",
+      "title": "Обзоры | Мой список рекомендованных умных часов"
+    },
+    {
+      "id": "9583",
+      "url": "https://exler.es/blog/huawei-watch-4-pro-neuzheli-normalnyye-detskiye-chasy.htm",
+      "published_at": "2021-07-30 10:23:00",
+      "title": "HUAWEI Watch 4 Pro - неужели нормальные детские часы?"
+    },
+    {
+      "id": "9593",
+      "url": "https://exler.es/expromt/obzor-huawei-watch-3-nbsp-umnye-chasy-na-harmony-os.htm",
+      "published_at": "2021-07-28 09:01:00",
+      "title": "Обзоры | Обзор Huawei Watch 3  - умные часы на Harmony OS"
+    },
+    {
+      "id": "9632",
+      "url": "https://exler.es/blog/plany-po-obzoram-6.htm",
+      "published_at": "2021-07-20 15:34:00",
+      "title": "Планы по обзорам"
+    },
+    {
+      "id": "9636",
+      "url": "https://exler.es/expromt/obzor-byudzhetnogo-10-dyujmovogo-plansheta-teclast-m40.htm",
+      "published_at": "2021-07-20 11:42:00",
+      "title": "Обзоры | Обзор бюджетного 10-дюймового планшета Teclast M40"
+    },
+    {
+      "id": "9708",
+      "url": "https://exler.es/expromt/obzor-smartfona-xiaomi-mi-11-lite.htm",
+      "published_at": "2021-07-08 11:16:00",
+      "title": "Обзоры | Обзор смартфона Xiaomi Mi 11 Lite"
+    },
+    {
+      "id": "9810",
+      "url": "https://exler.es/expromt/smartfon-poco-m3-pro-5g-nfc-moshnee-luchshe-i-vse-ravno-deshevo.htm",
+      "published_at": "2021-06-23 09:01:00",
+      "title": "Обзоры | Смартфон Poco M3 Pro 5G NFC - мощнее, лучше и все равно дешево"
+    },
+    {
+      "id": "9925",
+      "url": "https://exler.es/expromt/obzor-superflagmana-xiaomi-mi-11-ultra-luchshaya-kamera-na-rynke.htm",
+      "published_at": "2021-06-02 09:01:00",
+      "title": "Обзоры | Обзор суперфлагмана Xiaomi Mi 11 Ultra - лучшая камера на рынке?"
+    },
+    {
+      "id": "9955",
+      "url": "https://exler.es/expromt/obzor-flagmanskogo-smartfona-poco-f3-5g.htm",
+      "published_at": "2021-05-27 09:08:00",
+      "title": "Обзоры | Обзор флагманского смартфона Poco F3 5G"
+    },
+    {
+      "id": "9963",
+      "url": "https://exler.es/expromt/nedorogie-besprovodnye-tws-naushniki-xiaomi-redmi-airdots-3-obzor.htm",
+      "published_at": "2021-05-25 09:01:00",
+      "title": "Обзоры | Недорогие беспроводные TWS-наушники Xiaomi Redmi AirDots 3 - обзор"
+    },
+    {
+      "id": "9965",
+      "url": "https://exler.es/blog/moya-preles-s-s-s-st-2.htm",
+      "published_at": "2021-05-24 14:04:00",
+      "title": "Моя прелес-с-с-с-сть..."
+    },
+    {
+      "id": "9990",
+      "url": "https://exler.es/blog/mirovaya-premyera-poco-m5-pro-5g.htm",
+      "published_at": "2021-05-20 11:04:00",
+      "title": "Мировая премьера Poco M3 Pro 5G"
+    }
+  ],
+  "myth_candidates": [
+    {
+      "id": "194",
+      "url": "https://exler.es/blog/s-rozhdestvom-3.htm",
+      "published_at": "2025-12-25 09:50:00",
+      "title": "С Рождеством!"
+    },
+    {
+      "id": "7689",
+      "url": "https://exler.es/blog/rabota-moyego-sayta.htm",
+      "published_at": "2022-05-26 11:09:00",
+      "title": "Работа моего сайта"
+    },
+    {
+      "id": "7911",
+      "url": "https://exler.es/blog/tetya-valya-razbushevalas.htm",
+      "published_at": "2022-04-28 09:53:00",
+      "title": "Тётя Валя разбушевалась"
+    },
+    {
+      "id": "8324",
+      "url": "https://exler.es/blog/zarubezhnyy-khosting.htm",
+      "published_at": "2022-03-08 10:59:00",
+      "title": "Зарубежный хостинг"
+    },
+    {
+      "id": "8591",
+      "url": "https://exler.es/blog/spisok-verovaniy.htm",
+      "published_at": "2022-02-08 09:31:00",
+      "title": "Список верований"
+    },
+    {
+      "id": "9838",
+      "url": "https://exler.es/blog/temnaya-storona-ispanii.htm",
+      "published_at": "2021-06-18 16:33:00",
+      "title": "Тёмная сторона Испании"
+    },
+    {
+      "id": "9892",
+      "url": "https://exler.es/blog/blestyashchaya-operatsiya-po-poimke-ukrainskogo-shpiona.htm",
+      "published_at": "2021-06-07 17:25:00",
+      "title": "Блестящая операция по поимке украинского шпиона"
+    }
+  ],
+  "clean_author_comment_candidates": [
+    {
+      "post_id": "2229",
+      "anchor": "1fvfs",
+      "url": "https://exler.es/blog/comments/obedennoye-4.htm#1fvfs",
+      "display_date": "10.01.25 22:55"
+    },
+    {
+      "post_id": "5736",
+      "anchor": "15d83",
+      "url": "https://exler.es/blog/comments/samyy-perevodimyy-ispanoyazychnyy-pisatel.htm#15d83",
+      "display_date": "28.03.23 09:16"
+    },
+    {
+      "post_id": "7382",
+      "anchor": "10sx2",
+      "url": "https://exler.es/blog/comments/vy-budete-smeyatsya-2.htm#10sx2",
+      "display_date": "08.07.22 11:12"
+    }
+  ],
+  "cult_lead_urls": [
+    "https://exler-cult.livejournal.com/1549217.html?thread=83162785#t83162785",
+    "https://exler-cult.livejournal.com/1550148.html?thread=84095812#t84095812",
+    "https://exler-cult.livejournal.com/1550148.html?thread=84281156#t84281156",
+    "https://exler-cult.livejournal.com/1550148.html?thread=84282436#t84282436",
+    "https://exler-cult.livejournal.com/1550148.html?thread=84346948#t84346948",
+    "https://exler-cult.livejournal.com/1550449.html?thread=84843889#t84843889",
+    "https://exler-cult.livejournal.com/1551416.html?thread=85219896#t85219896",
+    "https://exler-cult.livejournal.com/1551416.html?thread=85590328#t85590328",
+    "https://exler-cult.livejournal.com/1551812.html?thread=85998532#t85998532",
+    "https://exler-cult.livejournal.com/1551812.html?thread=86025412#t86025412",
+    "https://exler-cult.livejournal.com/1551812.html?thread=86069700#t86069700",
+    "https://exler-cult.livejournal.com/1551812.html?thread=86127044#t86127044",
+    "https://exler-cult.livejournal.com/1551812.html?thread=86253764#t86253764",
+    "https://exler-cult.livejournal.com/1552173.html?thread=86715949#t86715949",
+    "https://exler-cult.livejournal.com/1552173.html?thread=86786093#t86786093",
+    "https://exler-cult.livejournal.com/1552173.html?thread=86810413#t86810413",
+    "https://exler-cult.livejournal.com/1552173.html?thread=87039533#t87039533",
+    "https://exler-cult.livejournal.com/1552834.html?thread=87367618#t87367618",
+    "https://exler-cult.livejournal.com/1552834.html?thread=87520962#t87520962",
+    "https://exler-cult.livejournal.com/1552834.html?thread=87912386#t87912386",
+    "https://exler-cult.livejournal.com/1552834.html?thread=87912898#t87912898",
+    "https://exler-cult.livejournal.com/1552834.html?thread=88179138#t88179138",
+    "https://exler-cult.livejournal.com/1553643.html?thread=88540139#t88540139",
+    "https://exler-cult.livejournal.com/1553643.html?thread=88574187#t88574187",
+    "https://exler-cult.livejournal.com/1553643.html?thread=88675819#t88675819",
+    "https://exler-cult.livejournal.com/1553643.html?thread=89039083#t89039083",
+    "https://exler-cult.livejournal.com/1553743.html?thread=89320015#t89320015",
+    "https://exler-cult.livejournal.com/1553743.html?thread=89336143#t89336143",
+    "https://exler-cult.livejournal.com/1553743.html?thread=89487183#t89487183",
+    "https://exler-cult.livejournal.com/1553743.html?thread=89566799#t89566799",
+    "https://exler-cult.livejournal.com/1554178.html?thread=89883650#t89883650",
+    "https://exler-cult.livejournal.com/1554178.html?thread=89892354#t89892354",
+    "https://exler-cult.livejournal.com/1554178.html?thread=90125314#t90125314",
+    "https://exler-cult.livejournal.com/1554178.html?thread=90379522#t90379522",
+    "https://exler-cult.livejournal.com/1554178.html?thread=90408962#t90408962",
+    "https://exler-cult.livejournal.com/1554480.html?thread=90694192#t90694192",
+    "https://exler-cult.livejournal.com/1554480.html?thread=90805552#t90805552",
+    "https://exler-cult.livejournal.com/1554480.html?thread=90816816#t90816816",
+    "https://exler-cult.livejournal.com/1554480.html?thread=90888752#t90888752",
+    "https://exler-cult.livejournal.com/1554480.html?thread=91060528#t91060528",
+    "https://exler-cult.livejournal.com/1554480.html?thread=91226928#t91226928",
+    "https://exler-cult.livejournal.com/1554480.html?thread=91287856#t91287856",
+    "https://exler-cult.livejournal.com/1555057.html?thread=91491953#t91491953",
+    "https://exler-cult.livejournal.com/1555057.html?thread=91606897#t91606897",
+    "https://exler-cult.livejournal.com/1555319.html?thread=92071543#t92071543",
+    "https://exler-cult.livejournal.com/1555319.html?thread=92136311#t92136311",
+    "https://exler-cult.livejournal.com/1555319.html?thread=92557943#t92557943",
+    "https://exler-cult.livejournal.com/1555319.html?thread=92670583#t92670583",
+    "https://exler-cult.livejournal.com/1555619.html?thread=92731811#t92731811",
+    "https://exler-cult.livejournal.com/1555619.html?thread=92754083#t92754083",
+    "https://exler-cult.livejournal.com/1555619.html?thread=92874915#t92874915",
+    "https://exler-cult.livejournal.com/1555619.html?thread=92996515#t92996515",
+    "https://exler-cult.livejournal.com/1555619.html?thread=93299875#t93299875",
+    "https://exler-cult.livejournal.com/1556036.html?thread=93966148#t93966148",
+    "https://exler-cult.livejournal.com/1556036.html?thread=94152772#t94152772",
+    "https://exler-cult.livejournal.com/1556036.html?thread=94210116#t94210116",
+    "https://exler-cult.livejournal.com/1556473.html?thread=94271481#t94271481",
+    "https://exler-cult.livejournal.com/1556473.html?thread=94310137#t94310137",
+    "https://exler-cult.livejournal.com/1556473.html?thread=94424825#t94424825",
+    "https://exler-cult.livejournal.com/1556473.html?thread=94595065#t94595065",
+    "https://exler-cult.livejournal.com/1556473.html?thread=94862073#t94862073",
+    "https://exler-cult.livejournal.com/1556643.html?thread=95633315#t95633315",
+    "https://exler-cult.livejournal.com/1556874.html?thread=95686538#t95686538",
+    "https://exler-cult.livejournal.com/1556874.html?thread=95697802#t95697802",
+    "https://exler-cult.livejournal.com/1556874.html?thread=95928458#t95928458",
+    "https://exler-cult.livejournal.com/1556874.html?thread=96038794#t96038794",
+    "https://exler-cult.livejournal.com/1556874.html?thread=96141962#t96141962",
+    "https://exler-cult.livejournal.com/1557056.html?thread=96173632#t96173632",
+    "https://exler-cult.livejournal.com/1557056.html?thread=96369984#t96369984",
+    "https://exler-cult.livejournal.com/1557056.html?thread=96432448#t96432448",
+    "https://exler-cult.livejournal.com/1557056.html?thread=96438848#t96438848",
+    "https://exler-cult.livejournal.com/1557704.html?thread=96634568#t96634568",
+    "https://exler-cult.livejournal.com/1557704.html?thread=96992456#t96992456",
+    "https://exler-cult.livejournal.com/1557825.html?thread=97385281#t97385281",
+    "https://exler-cult.livejournal.com/1557825.html?thread=97390657#t97390657",
+    "https://exler-cult.livejournal.com/1557825.html?thread=97416001#t97416001",
+    "https://exler-cult.livejournal.com/1557825.html?thread=97645377#t97645377",
+    "https://exler-cult.livejournal.com/1557825.html?thread=97667137#t97667137",
+    "https://exler-cult.livejournal.com/1557825.html?thread=97727297#t97727297",
+    "https://exler-cult.livejournal.com/1558103.html?thread=97925463#t97925463",
+    "https://exler-cult.livejournal.com/1558103.html?thread=98141783#t98141783",
+    "https://exler-cult.livejournal.com/1558103.html?thread=98178647#t98178647",
+    "https://exler-cult.livejournal.com/1558103.html?thread=98270551#t98270551",
+    "https://exler-cult.livejournal.com/1558310.html?thread=98422310#t98422310",
+    "https://exler-cult.livejournal.com/1558310.html?thread=98524710#t98524710",
+    "https://exler-cult.livejournal.com/1558310.html?thread=98730022#t98730022",
+    "https://exler-cult.livejournal.com/1558664.html?thread=99422088#t99422088",
+    "https://exler-cult.livejournal.com/1558664.html?thread=99462792#t99462792",
+    "https://exler-cult.livejournal.com/1558829.html?thread=99974445#t99974445",
+    "https://exler-cult.livejournal.com/1558829.html?thread=100174893#t100174893",
+    "https://exler-cult.livejournal.com/1558829.html?thread=100193325#t100193325",
+    "https://exler-cult.livejournal.com/1559236.html?thread=100438980#t100438980",
+    "https://exler-cult.livejournal.com/1559236.html?thread=100457668#t100457668",
+    "https://exler-cult.livejournal.com/1559236.html?thread=100496324#t100496324",
+    "https://exler-cult.livejournal.com/1559347.html?thread=101069619#t101069619",
+    "https://exler-cult.livejournal.com/1559691.html?thread=101440651#t101440651",
+    "https://exler-cult.livejournal.com/1559691.html?thread=101691019#t101691019",
+    "https://exler-cult.livejournal.com/1560975.html?thread=102420879#t102420879",
+    "https://exler-cult.livejournal.com/1560975.html?thread=102490511#t102490511",
+    "https://exler-cult.livejournal.com/1560975.html?thread=102508175#t102508175",
+    "https://exler-cult.livejournal.com/1560975.html?thread=102578831#t102578831",
+    "https://exler-cult.livejournal.com/1560975.html?thread=102687375#t102687375",
+    "https://exler-cult.livejournal.com/1561482.html?thread=102761354#t102761354",
+    "https://exler-cult.livejournal.com/1561482.html?thread=103063946#t103063946",
+    "https://exler-cult.livejournal.com/1561482.html?thread=103242890#t103242890",
+    "https://exler-cult.livejournal.com/1561646.html?thread=103650350#t103650350",
+    "https://exler-cult.livejournal.com/1561646.html?thread=103652398#t103652398",
+    "https://exler-cult.livejournal.com/1562206.html?thread=104183390#t104183390",
+    "https://exler-cult.livejournal.com/1562491.html?thread=104672123#t104672123",
+    "https://exler-cult.livejournal.com/1562491.html?thread=104778107#t104778107",
+    "https://exler-cult.livejournal.com/1563220.html?thread=104878164#t104878164",
+    "https://exler-cult.livejournal.com/1563635.html?thread=105448179#t105448179",
+    "https://exler-cult.livejournal.com/1563635.html?thread=105490675#t105490675",
+    "https://exler-cult.livejournal.com/1563635.html?thread=105529331#t105529331",
+    "https://exler-cult.livejournal.com/1563707.html?thread=105671995#t105671995",
+    "https://exler-cult.livejournal.com/1563707.html?thread=105752379#t105752379",
+    "https://exler-cult.livejournal.com/1563707.html?thread=105763899#t105763899",
+    "https://exler-cult.livejournal.com/1563707.html?thread=105777979#t105777979",
+    "https://exler-cult.livejournal.com/1563707.html?thread=105974331#t105974331",
+    "https://exler-cult.livejournal.com/1564126.html?thread=106235870#t106235870",
+    "https://exler-cult.livejournal.com/1564126.html?thread=106261470#t106261470",
+    "https://exler-cult.livejournal.com/1564126.html?thread=106265822#t106265822",
+    "https://exler-cult.livejournal.com/1564731.html?thread=107204923#t107204923",
+    "https://exler-cult.livejournal.com/1564731.html?thread=107282491#t107282491",
+    "https://exler-cult.livejournal.com/1564731.html?thread=107326523#t107326523",
+    "https://exler-cult.livejournal.com/1564731.html?thread=107460155#t107460155",
+    "https://exler-cult.livejournal.com/1564731.html?thread=107715131#t107715131",
+    "https://exler-cult.livejournal.com/1565796.html?thread=107831140#t107831140",
+    "https://exler-cult.livejournal.com/1565796.html?thread=107842660#t107842660",
+    "https://exler-cult.livejournal.com/1565796.html?thread=107925348#t107925348",
+    "https://exler-cult.livejournal.com/1566258.html?thread=108266546#t108266546",
+    "https://exler-cult.livejournal.com/1566258.html?thread=108518962#t108518962",
+    "https://exler-cult.livejournal.com/1566858.html?thread=108663946#t108663946",
+    "https://exler-cult.livejournal.com/1566858.html?thread=108740490#t108740490",
+    "https://exler-cult.livejournal.com/1566858.html?thread=108933514#t108933514",
+    "https://exler-cult.livejournal.com/1567707.html?thread=109437915#t109437915",
+    "https://exler-cult.livejournal.com/1567707.html?thread=109461467#t109461467",
+    "https://exler-cult.livejournal.com/1567707.html?thread=109474011#t109474011",
+    "https://exler-cult.livejournal.com/1567707.html?thread=109511387#t109511387",
+    "https://exler-cult.livejournal.com/1568140.html?thread=109912460#t109912460",
+    "https://exler-cult.livejournal.com/1568331.html?thread=110298443#t110298443",
+    "https://exler-cult.livejournal.com/1568331.html?thread=110368075#t110368075",
+    "https://exler-cult.livejournal.com/1568331.html?thread=110512459#t110512459",
+    "https://exler-cult.livejournal.com/1568331.html?thread=110569291#t110569291",
+    "https://exler-cult.livejournal.com/1568331.html?thread=110635851#t110635851",
+    "https://exler-cult.livejournal.com/1568331.html?thread=110650955#t110650955",
+    "https://exler-cult.livejournal.com/1568596.html?thread=110740564#t110740564",
+    "https://exler-cult.livejournal.com/1568596.html?thread=110761812#t110761812",
+    "https://exler-cult.livejournal.com/1568596.html?thread=110760532#t110760532"
+  ]
+}

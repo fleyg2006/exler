@@ -1,0 +1,1459 @@
+[
+  {
+    "id": "PROMISE-001",
+    "item": "CMF Phone 1",
+    "promise_strength": "review_announcement",
+    "status": "published",
+    "announcements": [
+      {
+        "url": "https://exler.es/blog/plany-po-obzoram-15.htm",
+        "published_at": "2024-11-26",
+        "title": "Планы по обзорам",
+        "role": "announcement",
+        "db_post_id": 2442
+      }
+    ],
+    "delivery": {
+      "url": "https://exler.es/expromt/obzor-byudzhetnogo-smartfona-nothing-cmf-phone-1.htm",
+      "published_at": "2024-12-17",
+      "title": "Обзор бюджетного смартфона Nothing CMF Phone 1",
+      "role": "delivery",
+      "db_post_id": 2312
+    },
+    "continuation": [],
+    "elapsed_days": 21,
+    "elapsed_basis": "От первого выбранного анонса; это не доказательство самого раннего обещания во всём архиве.",
+    "elapsed_precision": "calendar_days",
+    "timing": {
+      "kind": "no_calendar_deadline",
+      "assessment": "Считается время до найденной публикации, не просрочка."
+    },
+    "finding": "Две новинки CMF пришли одновременно; телефон получил статью заметно раньше часов.",
+    "limits": "Подборка тематическая; по ней нельзя вычислять процент исполнения всех обещаний автора.",
+    "satire": {
+      "type": "satire",
+      "scene": "Коробка уже стала героем анонса; следующий выход назначен после испытаний.",
+      "fictional_line": "CMF Phone 1: сначала распакуем будущее, потом опубликуем результат.",
+      "note": "Сцена и реплика придуманы; это не цитата и не описание реального события."
+    },
+    "overlaps": []
+  },
+  {
+    "id": "PROMISE-002",
+    "item": "CMF Watch Pro 2",
+    "promise_strength": "review_announcement",
+    "status": "published",
+    "announcements": [
+      {
+        "url": "https://exler.es/blog/plany-po-obzoram-15.htm",
+        "published_at": "2024-11-26",
+        "title": "Планы по обзорам",
+        "role": "announcement",
+        "db_post_id": 2442
+      }
+    ],
+    "delivery": {
+      "url": "https://exler.es/expromt/obzor-umnyh-chasov-nothing-cmf-watch-pro-2.htm",
+      "published_at": "2025-05-06",
+      "title": "Обзор умных часов Nothing CMF Watch Pro 2",
+      "role": "delivery",
+      "db_post_id": 1543
+    },
+    "continuation": [],
+    "elapsed_days": 161,
+    "elapsed_basis": "От первого выбранного анонса; это не доказательство самого раннего обещания во всём архиве.",
+    "elapsed_precision": "calendar_days",
+    "timing": {
+      "kind": "no_calendar_deadline",
+      "assessment": "Считается время до найденной публикации, не просрочка."
+    },
+    "finding": "Один анонс с телефоном, но отдельная модель и отдельный обзор. Дата не обещана, слово «скоро» не превращаем в договорный срок.",
+    "limits": "Подборка тематическая; по ней нельзя вычислять процент исполнения всех обещаний автора.",
+    "satire": {
+      "type": "satire",
+      "scene": "В одной коробке приезжают телефон и часы; телефон уже дал интервью, часы ещё ждут своей очереди.",
+      "fictional_line": "Телефон успел стать публикацией. Часы пока проверяют терпение.",
+      "note": "Сцена и реплика придуманы; это не цитата и не описание реального события."
+    },
+    "overlaps": []
+  },
+  {
+    "id": "PROMISE-003",
+    "item": "Huawei Watch GT 5",
+    "promise_strength": "review_announcement",
+    "status": "published",
+    "announcements": [
+      {
+        "url": "https://exler.es/blog/plany-po-obzoram-15.htm",
+        "published_at": "2024-11-26",
+        "title": "Планы по обзорам",
+        "role": "announcement",
+        "db_post_id": 2442
+      }
+    ],
+    "delivery": {
+      "url": "https://exler.es/expromt/obzor-umnyh-chasov-huawei-watch-gt-5.htm",
+      "published_at": "2024-12-03",
+      "title": "Обзор умных часов Huawei Watch GT 5",
+      "role": "delivery",
+      "db_post_id": 2398
+    },
+    "continuation": [],
+    "elapsed_days": 7,
+    "elapsed_basis": "От первого выбранного анонса; это не доказательство самого раннего обещания во всём архиве.",
+    "elapsed_precision": "calendar_days",
+    "timing": {
+      "kind": "no_calendar_deadline",
+      "assessment": "Считается время до найденной публикации, не просрочка."
+    },
+    "finding": "В анонсе тестирование уже названо законченным.",
+    "limits": "Подборка тематическая; по ней нельзя вычислять процент исполнения всех обещаний автора.",
+    "satire": {
+      "type": "satire",
+      "scene": "Коробка уже стала героем анонса; следующий выход назначен после испытаний.",
+      "fictional_line": "Huawei Watch GT 5: сначала распакуем будущее, потом опубликуем результат.",
+      "note": "Сцена и реплика придуманы; это не цитата и не описание реального события."
+    },
+    "overlaps": []
+  },
+  {
+    "id": "PROMISE-004",
+    "item": "Xiaomi 14 Ultra",
+    "promise_strength": "review_announcement",
+    "status": "published",
+    "announcements": [
+      {
+        "url": "https://exler.es/blog/plany-po-obzoram-13.htm",
+        "published_at": "2024-04-25",
+        "title": "Планы по обзорам",
+        "role": "announcement",
+        "db_post_id": 3598
+      }
+    ],
+    "delivery": {
+      "url": "https://exler.es/expromt/obzor-flagmanskogo-smartfona-xiaomi-14-ultra.htm",
+      "published_at": "2024-05-28",
+      "title": "Обзор флагманского смартфона Xiaomi 14 Ultra",
+      "role": "delivery",
+      "db_post_id": 3396
+    },
+    "continuation": [],
+    "elapsed_days": 33,
+    "elapsed_basis": "От первого выбранного анонса; это не доказательство самого раннего обещания во всём архиве.",
+    "elapsed_precision": "calendar_days",
+    "timing": {
+      "kind": "no_calendar_deadline",
+      "assessment": "Считается время до найденной публикации, не просрочка."
+    },
+    "finding": "Устройство едет в аренду; аренду не называем покупкой.",
+    "limits": "Подборка тематическая; по ней нельзя вычислять процент исполнения всех обещаний автора.",
+    "satire": {
+      "type": "satire",
+      "scene": "Коробка уже стала героем анонса; следующий выход назначен после испытаний.",
+      "fictional_line": "Xiaomi 14 Ultra: сначала распакуем будущее, потом опубликуем результат.",
+      "note": "Сцена и реплика придуманы; это не цитата и не описание реального события."
+    },
+    "overlaps": []
+  },
+  {
+    "id": "PROMISE-005",
+    "item": "Samsung Galaxy A55",
+    "promise_strength": "review_announcement",
+    "status": "published",
+    "announcements": [
+      {
+        "url": "https://exler.es/blog/plany-po-obzoram-13.htm",
+        "published_at": "2024-04-25",
+        "title": "Планы по обзорам",
+        "role": "announcement",
+        "db_post_id": 3598
+      }
+    ],
+    "delivery": {
+      "url": "https://exler.es/expromt/obzor-smartfona-samsung-galaxy-a55-5g.htm",
+      "published_at": "2024-06-19",
+      "title": "Обзор смартфона Samsung Galaxy A55 5G",
+      "role": "delivery",
+      "db_post_id": 3282
+    },
+    "continuation": [],
+    "elapsed_days": 55,
+    "elapsed_basis": "От первого выбранного анонса; это не доказательство самого раннего обещания во всём архиве.",
+    "elapsed_precision": "calendar_days",
+    "timing": {
+      "kind": "no_calendar_deadline",
+      "assessment": "Считается время до найденной публикации, не просрочка."
+    },
+    "finding": "Другой аппарат из того же анонса; не отдельный финансовый провал.",
+    "limits": "Подборка тематическая; по ней нельзя вычислять процент исполнения всех обещаний автора.",
+    "satire": {
+      "type": "satire",
+      "scene": "Коробка уже стала героем анонса; следующий выход назначен после испытаний.",
+      "fictional_line": "Samsung Galaxy A55: сначала распакуем будущее, потом опубликуем результат.",
+      "note": "Сцена и реплика придуманы; это не цитата и не описание реального события."
+    },
+    "overlaps": []
+  },
+  {
+    "id": "PROMISE-006",
+    "item": "POCO X6",
+    "promise_strength": "review_announcement",
+    "status": "published",
+    "announcements": [
+      {
+        "url": "https://exler.es/blog/plany-po-obzoram-12.htm",
+        "published_at": "2024-01-31",
+        "title": "Планы по обзорам",
+        "role": "announcement",
+        "db_post_id": 4030
+      }
+    ],
+    "delivery": {
+      "url": "https://exler.es/expromt/obzor-smartfona-poco-x6.htm",
+      "published_at": "2024-02-06",
+      "title": "Обзор смартфона Poco X6",
+      "role": "delivery",
+      "db_post_id": 4001
+    },
+    "continuation": [],
+    "elapsed_days": 6,
+    "elapsed_basis": "От первого выбранного анонса; это не доказательство самого раннего обещания во всём архиве.",
+    "elapsed_precision": "calendar_days",
+    "timing": {
+      "kind": "no_calendar_deadline",
+      "assessment": "Считается время до найденной публикации, не просрочка."
+    },
+    "finding": "В анонсе тестирование уже идёт; обзор появился первым из объявленной пары.",
+    "limits": "Подборка тематическая; по ней нельзя вычислять процент исполнения всех обещаний автора.",
+    "satire": {
+      "type": "satire",
+      "scene": "Коробка уже стала героем анонса; следующий выход назначен после испытаний.",
+      "fictional_line": "POCO X6: сначала распакуем будущее, потом опубликуем результат.",
+      "note": "Сцена и реплика придуманы; это не цитата и не описание реального события."
+    },
+    "overlaps": []
+  },
+  {
+    "id": "PROMISE-007",
+    "item": "Redmi Note 13 Pro",
+    "promise_strength": "review_announcement",
+    "status": "published",
+    "announcements": [
+      {
+        "url": "https://exler.es/blog/plany-po-obzoram-12.htm",
+        "published_at": "2024-01-31",
+        "title": "Планы по обзорам",
+        "role": "announcement",
+        "db_post_id": 4030
+      }
+    ],
+    "delivery": {
+      "url": "https://exler.es/expromt/obzor-smartfona-redmi-note-13-pro.htm",
+      "published_at": "2024-03-05",
+      "title": "Обзор смартфона Redmi Note 13 Pro",
+      "role": "delivery",
+      "db_post_id": 3835
+    },
+    "continuation": [],
+    "elapsed_days": 34,
+    "elapsed_basis": "От первого выбранного анонса; это не доказательство самого раннего обещания во всём архиве.",
+    "elapsed_precision": "calendar_days",
+    "timing": {
+      "kind": "no_calendar_deadline",
+      "assessment": "Считается время до найденной публикации, не просрочка."
+    },
+    "finding": "Следует после POCO X6, как и сказано в плане.",
+    "limits": "Подборка тематическая; по ней нельзя вычислять процент исполнения всех обещаний автора.",
+    "satire": {
+      "type": "satire",
+      "scene": "Коробка уже стала героем анонса; следующий выход назначен после испытаний.",
+      "fictional_line": "Redmi Note 13 Pro: сначала распакуем будущее, потом опубликуем результат.",
+      "note": "Сцена и реплика придуманы; это не цитата и не описание реального события."
+    },
+    "overlaps": []
+  },
+  {
+    "id": "PROMISE-008",
+    "item": "Samsung Galaxy S24 Ultra",
+    "promise_strength": "test_plan",
+    "status": "published",
+    "announcements": [
+      {
+        "url": "https://exler.es/blog/plany-po-obzoram-12.htm",
+        "published_at": "2024-01-31",
+        "title": "Планы по обзорам",
+        "role": "announcement",
+        "db_post_id": 4030
+      }
+    ],
+    "delivery": {
+      "url": "https://exler.es/expromt/obzor-flagmanskogo-smartfona-samsung-galaxy-s24-ultra.htm",
+      "published_at": "2024-03-26",
+      "title": "Обзор флагманского смартфона Samsung Galaxy S24 Ultra",
+      "role": "delivery",
+      "db_post_id": 3724
+    },
+    "continuation": [],
+    "elapsed_days": 55,
+    "elapsed_basis": "От первого выбранного анонса; это не доказательство самого раннего обещания во всём архиве.",
+    "elapsed_precision": "calendar_days",
+    "timing": {
+      "kind": "no_calendar_deadline",
+      "assessment": "Считается время до найденной публикации, не просрочка."
+    },
+    "finding": "Заказанный в аренду аппарат ещё не приехал. Это план обзора по контексту рубрики, без отдельного обещания даты.",
+    "limits": "Подборка тематическая; по ней нельзя вычислять процент исполнения всех обещаний автора.",
+    "satire": {
+      "type": "satire",
+      "scene": "Коробка уже стала героем анонса; следующий выход назначен после испытаний.",
+      "fictional_line": "Samsung Galaxy S24 Ultra: сначала распакуем будущее, потом опубликуем результат.",
+      "note": "Сцена и реплика придуманы; это не цитата и не описание реального события."
+    },
+    "overlaps": []
+  },
+  {
+    "id": "PROMISE-009",
+    "item": "Nothing Phone (2)",
+    "promise_strength": "test_plan",
+    "status": "published",
+    "announcements": [
+      {
+        "url": "https://exler.es/blog/plany-po-obzoram-11.htm",
+        "published_at": "2023-08-02",
+        "title": "Планы по обзорам и сервис аренды гаджетов",
+        "role": "announcement",
+        "db_post_id": 4982
+      }
+    ],
+    "delivery": {
+      "url": "https://exler.es/expromt/obzor-smartfona-nothing-phone-2.htm",
+      "published_at": "2023-10-03",
+      "title": "Обзор смартфона Nothing Phone (2)",
+      "role": "delivery",
+      "db_post_id": 4674
+    },
+    "continuation": [],
+    "elapsed_days": 62,
+    "elapsed_basis": "От первого выбранного анонса; это не доказательство самого раннего обещания во всём архиве.",
+    "elapsed_precision": "calendar_days",
+    "timing": {
+      "kind": "no_calendar_deadline",
+      "assessment": "Считается время до найденной публикации, не просрочка."
+    },
+    "finding": "Сообщение о получении в рубрике планов; точная дата статьи не названа.",
+    "limits": "Подборка тематическая; по ней нельзя вычислять процент исполнения всех обещаний автора.",
+    "satire": {
+      "type": "satire",
+      "scene": "Коробка уже стала героем анонса; следующий выход назначен после испытаний.",
+      "fictional_line": "Nothing Phone (2): сначала распакуем будущее, потом опубликуем результат.",
+      "note": "Сцена и реплика придуманы; это не цитата и не описание реального события."
+    },
+    "overlaps": []
+  },
+  {
+    "id": "PROMISE-010",
+    "item": "Galaxy Watch 6",
+    "promise_strength": "test_plan",
+    "status": "published",
+    "announcements": [
+      {
+        "url": "https://exler.es/blog/plany-po-obzoram-11.htm",
+        "published_at": "2023-08-02",
+        "title": "Планы по обзорам и сервис аренды гаджетов",
+        "role": "announcement",
+        "db_post_id": 4982
+      }
+    ],
+    "delivery": {
+      "url": "https://exler.es/expromt/obzor-shestogo-pokoleniya-umnyh-chasov-samsung-galaxy-watch6.htm",
+      "published_at": "2023-08-29",
+      "title": "Обзор шестого поколения умных часов Samsung Galaxy Watch6",
+      "role": "delivery",
+      "db_post_id": 4833
+    },
+    "continuation": [],
+    "elapsed_days": 27,
+    "elapsed_basis": "От первого выбранного анонса; это не доказательство самого раннего обещания во всём архиве.",
+    "elapsed_precision": "calendar_days",
+    "timing": {
+      "kind": "no_calendar_deadline",
+      "assessment": "Считается время до найденной публикации, не просрочка."
+    },
+    "finding": "Прямо обещаны тесты следующего поколения часов; наличие статьи подтверждено отдельно.",
+    "limits": "Подборка тематическая; по ней нельзя вычислять процент исполнения всех обещаний автора.",
+    "satire": {
+      "type": "satire",
+      "scene": "Коробка уже стала героем анонса; следующий выход назначен после испытаний.",
+      "fictional_line": "Galaxy Watch 6: сначала распакуем будущее, потом опубликуем результат.",
+      "note": "Сцена и реплика придуманы; это не цитата и не описание реального события."
+    },
+    "overlaps": []
+  },
+  {
+    "id": "PROMISE-011",
+    "item": "Pixel 8 Pro",
+    "promise_strength": "review_announcement",
+    "status": "published",
+    "announcements": [
+      {
+        "url": "https://exler.es/blog/google-pixel-8-pro.htm",
+        "published_at": "2023-10-31",
+        "title": "Google Pixel 8 Pro",
+        "role": "announcement",
+        "db_post_id": 4545
+      }
+    ],
+    "delivery": {
+      "url": "https://exler.es/expromt/obzor-smartfona-google-pixel-8-pro.htm",
+      "published_at": "2023-11-14",
+      "title": "Обзор смартфона Google Pixel 8 Pro",
+      "role": "delivery",
+      "db_post_id": 4463
+    },
+    "continuation": [],
+    "elapsed_days": 14,
+    "elapsed_basis": "От первого выбранного анонса; это не доказательство самого раннего обещания во всём архиве.",
+    "elapsed_precision": "calendar_days",
+    "timing": {
+      "kind": "approximate_range_days",
+      "days_min": 14,
+      "days_max": 21,
+      "assessment": "within_stated_range"
+    },
+    "finding": "Ориентир — две-три недели; публикация через 14 дней попадает в обозначенный интервал.",
+    "limits": "Подборка тематическая; по ней нельзя вычислять процент исполнения всех обещаний автора.",
+    "satire": {
+      "type": "satire",
+      "scene": "Коробка уже стала героем анонса; следующий выход назначен после испытаний.",
+      "fictional_line": "Pixel 8 Pro: сначала распакуем будущее, потом опубликуем результат.",
+      "note": "Сцена и реплика придуманы; это не цитата и не описание реального события."
+    },
+    "overlaps": []
+  },
+  {
+    "id": "PROMISE-012",
+    "item": "Redmi Note 14 Pro 5G",
+    "promise_strength": "review_announcement",
+    "status": "published",
+    "announcements": [
+      {
+        "url": "https://exler.es/blog/smartfon-xiaomi-redmi-note-14-pro-5g.htm",
+        "published_at": "2025-02-19",
+        "title": "Смартфон Xiaomi Redmi Note 14 Pro 5G",
+        "role": "announcement",
+        "db_post_id": 1914
+      }
+    ],
+    "delivery": {
+      "url": "https://exler.es/expromt/obzor-smartfona-redmi-note-14-pro-5g.htm",
+      "published_at": "2025-04-15",
+      "title": "Обзор смартфона Redmi Note 14 Pro 5G",
+      "role": "delivery",
+      "db_post_id": 1650
+    },
+    "continuation": [],
+    "elapsed_days": 55,
+    "elapsed_basis": "От первого выбранного анонса; это не доказательство самого раннего обещания во всём архиве.",
+    "elapsed_precision": "calendar_days",
+    "timing": {
+      "kind": "approximate_days",
+      "days": 14,
+      "assessment": "later_than_stated_estimate",
+      "difference_from_estimate_days": 41
+    },
+    "finding": "Ориентир — около двух недель; обзор появился через 55 дней, примерно на 41 день позже двухнедельного ориентира.",
+    "limits": "Подборка тематическая; по ней нельзя вычислять процент исполнения всех обещаний автора.",
+    "satire": {
+      "type": "satire",
+      "scene": "На испытательном стенде стоит календарь, который не прошёл тест двухнедельной автономности.",
+      "fictional_line": "Две недели измерялись в редакционных единицах.",
+      "note": "Сцена и реплика придуманы; это не цитата и не описание реального события."
+    },
+    "overlaps": []
+  },
+  {
+    "id": "PROMISE-013",
+    "item": "Huawei Watch Fit 3",
+    "promise_strength": "review_announcement",
+    "status": "published",
+    "announcements": [
+      {
+        "url": "https://exler.es/blog/chasy-huawei-watch-fit-3.htm",
+        "published_at": "2024-05-09",
+        "title": "Часы Huawei Watch Fit 3",
+        "role": "announcement",
+        "db_post_id": 3506
+      }
+    ],
+    "delivery": {
+      "url": "https://exler.es/expromt/obzor-nedorogih-umnyh-chasov-huawei-watch-fit-3.htm",
+      "published_at": "2024-06-04",
+      "title": "Обзор недорогих умных часов Huawei Watch Fit 3",
+      "role": "delivery",
+      "db_post_id": 3358
+    },
+    "continuation": [],
+    "elapsed_days": 26,
+    "elapsed_basis": "От первого выбранного анонса; это не доказательство самого раннего обещания во всём архиве.",
+    "elapsed_precision": "calendar_days",
+    "timing": {
+      "kind": "no_calendar_deadline",
+      "assessment": "Считается время до найденной публикации, не просрочка."
+    },
+    "finding": "Уже заказал; публикация обещана без календарной даты.",
+    "limits": "Подборка тематическая; по ней нельзя вычислять процент исполнения всех обещаний автора.",
+    "satire": {
+      "type": "satire",
+      "scene": "Коробка уже стала героем анонса; следующий выход назначен после испытаний.",
+      "fictional_line": "Huawei Watch Fit 3: сначала распакуем будущее, потом опубликуем результат.",
+      "note": "Сцена и реплика придуманы; это не цитата и не описание реального события."
+    },
+    "overlaps": []
+  },
+  {
+    "id": "PROMISE-014",
+    "item": "Huawei Watch GT 4",
+    "promise_strength": "review_announcement",
+    "status": "published",
+    "announcements": [
+      {
+        "url": "https://exler.es/blog/chasy-huawei-watch-gt-4.htm",
+        "published_at": "2023-12-01",
+        "title": "Часы Huawei Watch GT 4",
+        "role": "announcement",
+        "db_post_id": 4371
+      }
+    ],
+    "delivery": {
+      "url": "https://exler.es/expromt/obzor-umnyh-chasov-huawei-watch-gt-4.htm",
+      "published_at": "2023-12-05",
+      "title": "Обзор умных часов Huawei Watch GT 4",
+      "role": "delivery",
+      "db_post_id": 4350
+    },
+    "continuation": [],
+    "elapsed_days": 4,
+    "elapsed_basis": "От первого выбранного анонса; это не доказательство самого раннего обещания во всём архиве.",
+    "elapsed_precision": "calendar_days",
+    "timing": {
+      "kind": "possible_next_calendar_week",
+      "assessment": "within_soft_forecast"
+    },
+    "finding": "Возможна публикация на следующей неделе; статья действительно вышла во вторник следующей недели.",
+    "limits": "Подборка тематическая; по ней нельзя вычислять процент исполнения всех обещаний автора.",
+    "satire": {
+      "type": "satire",
+      "scene": "Коробка уже стала героем анонса; следующий выход назначен после испытаний.",
+      "fictional_line": "Huawei Watch GT 4: сначала распакуем будущее, потом опубликуем результат.",
+      "note": "Сцена и реплика придуманы; это не цитата и не описание реального события."
+    },
+    "overlaps": []
+  },
+  {
+    "id": "PROMISE-015",
+    "item": "Xiaomi Pad 6",
+    "promise_strength": "review_announcement",
+    "status": "published",
+    "announcements": [
+      {
+        "url": "https://exler.es/blog/planshetnoye.htm",
+        "published_at": "2023-11-21",
+        "title": "Планшетное",
+        "role": "announcement",
+        "db_post_id": 4429
+      }
+    ],
+    "delivery": {
+      "url": "https://exler.es/expromt/obzor-novogo-topovogo-plansheta-xiaomi-pad-6.htm",
+      "published_at": "2023-12-19",
+      "title": "Обзор нового топового планшета Xiaomi Pad 6",
+      "role": "delivery",
+      "db_post_id": 4271
+    },
+    "continuation": [],
+    "elapsed_days": 28,
+    "elapsed_basis": "От первого выбранного анонса; это не доказательство самого раннего обещания во всём архиве.",
+    "elapsed_precision": "calendar_days",
+    "timing": {
+      "kind": "no_calendar_deadline",
+      "assessment": "Считается время до найденной публикации, не просрочка."
+    },
+    "finding": "Обзор обещан; оставить устройство себе — отдельное условие, зависящее от впечатлений. Его выполнение здесь не подсчитано.",
+    "limits": "Подборка тематическая; по ней нельзя вычислять процент исполнения всех обещаний автора.",
+    "satire": {
+      "type": "satire",
+      "scene": "Коробка уже стала героем анонса; следующий выход назначен после испытаний.",
+      "fictional_line": "Xiaomi Pad 6: сначала распакуем будущее, потом опубликуем результат.",
+      "note": "Сцена и реплика придуманы; это не цитата и не описание реального события."
+    },
+    "overlaps": []
+  },
+  {
+    "id": "PROMISE-016",
+    "item": "Samsung Galaxy Watch 4",
+    "promise_strength": "review_announcement",
+    "status": "published",
+    "announcements": [
+      {
+        "url": "https://exler.es/blog/umnyye-chasy-samsung-galaxy-watch-4.htm",
+        "published_at": "2021-12-02",
+        "title": "Умные часы Samsung Galaxy Watch 4",
+        "role": "announcement",
+        "db_post_id": 8959
+      },
+      {
+        "url": "https://exler.es/blog/plany-po-obzoram-8.htm",
+        "published_at": "2021-12-15",
+        "title": "Планы по обзорам",
+        "role": "announcement",
+        "db_post_id": 8890
+      },
+      {
+        "url": "https://exler.es/blog/plany-po-obzoram-9.htm",
+        "published_at": "2021-12-30",
+        "title": "Планы по обзорам",
+        "role": "announcement",
+        "db_post_id": 8813
+      }
+    ],
+    "delivery": {
+      "url": "https://exler.es/expromt/obzor-chasov-samsung-galaxy-watch4.htm",
+      "published_at": "2022-03-22",
+      "title": "Обзор часов Samsung Galaxy Watch4",
+      "role": "delivery",
+      "db_post_id": 8200
+    },
+    "continuation": [],
+    "elapsed_days": 110,
+    "elapsed_basis": "От первого выбранного анонса; это не доказательство самого раннего обещания во всём архиве.",
+    "elapsed_precision": "calendar_days",
+    "timing": {
+      "kind": "no_calendar_deadline",
+      "assessment": "Считается время до найденной публикации, не просрочка."
+    },
+    "finding": "В трёх анонсах прослеживается очередь. Первая выбранная запись говорит о скором обзоре, вторая — что часы ещё не распакованы.",
+    "limits": "Подборка тематическая; по ней нельзя вычислять процент исполнения всех обещаний автора.",
+    "satire": {
+      "type": "satire",
+      "scene": "Перед кабинетом автора сидит очередь умных часов; каждые сообщают, что их обзор уже скоро.",
+      "fictional_line": "Пожалуйста, не занимайте очередь часами Garmin: их уже приняли.",
+      "note": "Сцена и реплика придуманы; это не цитата и не описание реального события."
+    },
+    "overlaps": []
+  },
+  {
+    "id": "PROMISE-017",
+    "item": "Garmin Venu 2",
+    "promise_strength": "review_announcement",
+    "status": "published",
+    "announcements": [
+      {
+        "url": "https://exler.es/blog/umnyye-chasy-samsung-galaxy-watch-4.htm",
+        "published_at": "2021-12-02",
+        "title": "Умные часы Samsung Galaxy Watch 4",
+        "role": "announcement",
+        "db_post_id": 8959
+      }
+    ],
+    "delivery": {
+      "url": "https://exler.es/expromt/obzor-umnyh-chasov-garmin-venu-2-daleko-ne-tolko-sport.htm",
+      "published_at": "2021-12-07",
+      "title": "Обзор умных часов Garmin Venu 2 - далеко не только спорт",
+      "role": "delivery",
+      "db_post_id": 8935
+    },
+    "continuation": [],
+    "elapsed_days": 5,
+    "elapsed_basis": "От первого выбранного анонса; это не доказательство самого раннего обещания во всём архиве.",
+    "elapsed_precision": "calendar_days",
+    "timing": {
+      "kind": "no_calendar_deadline",
+      "assessment": "Считается время до найденной публикации, не просрочка."
+    },
+    "finding": "Первыми в очереди 02.12.2021 названы Garmin; их статья и вышла первой среди четырёх перечисленных моделей.",
+    "limits": "Подборка тематическая; по ней нельзя вычислять процент исполнения всех обещаний автора.",
+    "satire": {
+      "type": "satire",
+      "scene": "Коробка уже стала героем анонса; следующий выход назначен после испытаний.",
+      "fictional_line": "Garmin Venu 2: сначала распакуем будущее, потом опубликуем результат.",
+      "note": "Сцена и реплика придуманы; это не цитата и не описание реального события."
+    },
+    "overlaps": []
+  },
+  {
+    "id": "PROMISE-018",
+    "item": "Amazfit GTR 3 Pro",
+    "promise_strength": "review_announcement",
+    "status": "published",
+    "announcements": [
+      {
+        "url": "https://exler.es/blog/umnyye-chasy-samsung-galaxy-watch-4.htm",
+        "published_at": "2021-12-02",
+        "title": "Умные часы Samsung Galaxy Watch 4",
+        "role": "announcement",
+        "db_post_id": 8959
+      },
+      {
+        "url": "https://exler.es/blog/plany-po-obzoram-8.htm",
+        "published_at": "2021-12-15",
+        "title": "Планы по обзорам",
+        "role": "announcement",
+        "db_post_id": 8890
+      }
+    ],
+    "delivery": {
+      "url": "https://exler.es/expromt/obzor-umnyh-chasov-amazfit-gtr-3-pro-vse-luchshe-i-luchshe.htm",
+      "published_at": "2022-02-15",
+      "title": "Обзор умных часов Amazfit GTR 3 Pro - все лучше и лучше",
+      "role": "delivery",
+      "db_post_id": 8548
+    },
+    "continuation": [],
+    "elapsed_days": 75,
+    "elapsed_basis": "От первого выбранного анонса; это не доказательство самого раннего обещания во всём архиве.",
+    "elapsed_precision": "calendar_days",
+    "timing": {
+      "kind": "no_calendar_deadline",
+      "assessment": "Считается время до найденной публикации, не просрочка."
+    },
+    "finding": "Модель Pro прямо названа 02.12 и 15.12; сокращённое GTR 3 в другом посте не используем как доказательство точного суффикса.",
+    "limits": "Подборка тематическая; по ней нельзя вычислять процент исполнения всех обещаний автора.",
+    "satire": {
+      "type": "satire",
+      "scene": "Коробка уже стала героем анонса; следующий выход назначен после испытаний.",
+      "fictional_line": "Amazfit GTR 3 Pro: сначала распакуем будущее, потом опубликуем результат.",
+      "note": "Сцена и реплика придуманы; это не цитата и не описание реального события."
+    },
+    "overlaps": []
+  },
+  {
+    "id": "PROMISE-019",
+    "item": "Xiaomi Mi Watch",
+    "promise_strength": "review_announcement",
+    "status": "published",
+    "announcements": [
+      {
+        "url": "https://exler.es/blog/umnyye-chasy-samsung-galaxy-watch-4.htm",
+        "published_at": "2021-12-02",
+        "title": "Умные часы Samsung Galaxy Watch 4",
+        "role": "announcement",
+        "db_post_id": 8959
+      },
+      {
+        "url": "https://exler.es/blog/plany-po-obzoram-9.htm",
+        "published_at": "2021-12-30",
+        "title": "Планы по обзорам",
+        "role": "announcement",
+        "db_post_id": 8813
+      }
+    ],
+    "delivery": {
+      "url": "https://exler.es/expromt/obzor-umnyh-chasov-xiaomi-mi-watch.htm",
+      "published_at": "2022-05-24",
+      "title": "Обзор умных часов Xiaomi Mi Watch",
+      "role": "delivery",
+      "db_post_id": 7707
+    },
+    "continuation": [],
+    "elapsed_days": 173,
+    "elapsed_basis": "От первого выбранного анонса; это не доказательство самого раннего обещания во всём архиве.",
+    "elapsed_precision": "calendar_days",
+    "timing": {
+      "kind": "no_calendar_deadline",
+      "assessment": "Считается время до найденной публикации, не просрочка."
+    },
+    "finding": "В исходной очереди модель названа наименее интересной и поставлена последней; самый длинный интервал этой выборки не означает нарушенной календарной даты.",
+    "limits": "Подборка тематическая; по ней нельзя вычислять процент исполнения всех обещаний автора.",
+    "satire": {
+      "type": "satire",
+      "scene": "Последние часы в очереди успевают изучить календарь лучше самого обозревателя.",
+      "fictional_line": "Точность хода проверена. Сто семьдесят три дня от анонса.",
+      "note": "Сцена и реплика придуманы; это не цитата и не описание реального события."
+    },
+    "overlaps": []
+  },
+  {
+    "id": "PROMISE-020",
+    "item": "Xiaomi Pad 5",
+    "promise_strength": "review_announcement",
+    "status": "published",
+    "announcements": [
+      {
+        "url": "https://exler.es/blog/plany-po-obzoram-8.htm",
+        "published_at": "2021-12-15",
+        "title": "Планы по обзорам",
+        "role": "announcement",
+        "db_post_id": 8890
+      }
+    ],
+    "delivery": {
+      "url": "https://exler.es/expromt/obzor-moshnogo-11-dyujmovogo-plansheta-xiaomi-pad-5.htm",
+      "published_at": "2022-01-12",
+      "title": "Обзор мощного 11-дюймового планшета Xiaomi Pad 5",
+      "role": "delivery",
+      "db_post_id": 8738
+    },
+    "continuation": [],
+    "elapsed_days": 28,
+    "elapsed_basis": "От первого выбранного анонса; это не доказательство самого раннего обещания во всём архиве.",
+    "elapsed_precision": "calendar_days",
+    "timing": {
+      "kind": "no_calendar_deadline",
+      "assessment": "Считается время до найденной публикации, не просрочка."
+    },
+    "finding": "20.11.2021 был вопрос аудитории, заказывать ли планшет. Отсчёт начинается 15.12, когда устройство уже приехало и обещан обзор.",
+    "limits": "Подборка тематическая; по ней нельзя вычислять процент исполнения всех обещаний автора.",
+    "satire": {
+      "type": "satire",
+      "scene": "Коробка уже стала героем анонса; следующий выход назначен после испытаний.",
+      "fictional_line": "Xiaomi Pad 5: сначала распакуем будущее, потом опубликуем результат.",
+      "note": "Сцена и реплика придуманы; это не цитата и не описание реального события."
+    },
+    "overlaps": []
+  },
+  {
+    "id": "PROMISE-021",
+    "item": "Huawei Watch GT 3",
+    "promise_strength": "review_announcement",
+    "status": "published",
+    "announcements": [
+      {
+        "url": "https://exler.es/blog/plany-po-obzoram-8.htm",
+        "published_at": "2021-12-15",
+        "title": "Планы по обзорам",
+        "role": "announcement",
+        "db_post_id": 8890
+      }
+    ],
+    "delivery": {
+      "url": "https://exler.es/expromt/obzor-umnyh-chasov-huawei-watch-gt-3.htm",
+      "published_at": "2022-01-19",
+      "title": "Обзор умных часов Huawei Watch GT 3",
+      "role": "delivery",
+      "db_post_id": 8697
+    },
+    "continuation": [],
+    "elapsed_days": 35,
+    "elapsed_basis": "От первого выбранного анонса; это не доказательство самого раннего обещания во всём архиве.",
+    "elapsed_precision": "approximate_post_date_for_undated_update",
+    "timing": {
+      "kind": "no_calendar_deadline",
+      "assessment": "Считается время до найденной публикации, не просрочка."
+    },
+    "finding": "Покупка и будущий обзор добавлены в UPD поста 15.12.2021; отдельное время правки не установлено, поэтому интервал по дате поста приблизителен.",
+    "limits": "Подборка тематическая; по ней нельзя вычислять процент исполнения всех обещаний автора.",
+    "satire": {
+      "type": "satire",
+      "scene": "Коробка уже стала героем анонса; следующий выход назначен после испытаний.",
+      "fictional_line": "Huawei Watch GT 3: сначала распакуем будущее, потом опубликуем результат.",
+      "note": "Сцена и реплика придуманы; это не цитата и не описание реального события."
+    },
+    "overlaps": []
+  },
+  {
+    "id": "PROMISE-022",
+    "item": "OPPO Reno6",
+    "promise_strength": "review_announcement",
+    "status": "published",
+    "announcements": [
+      {
+        "url": "https://exler.es/blog/plany-po-obzoram-8.htm",
+        "published_at": "2021-12-15",
+        "title": "Планы по обзорам",
+        "role": "announcement",
+        "db_post_id": 8890
+      }
+    ],
+    "delivery": {
+      "url": "https://exler.es/expromt/obzor-smartfona-oppo-reno6.htm",
+      "published_at": "2021-12-21",
+      "title": "Обзор смартфона OPPO Reno6",
+      "role": "delivery",
+      "db_post_id": 8863
+    },
+    "continuation": [],
+    "elapsed_days": 6,
+    "elapsed_basis": "От первого выбранного анонса; это не доказательство самого раннего обещания во всём архиве.",
+    "elapsed_precision": "calendar_days",
+    "timing": {
+      "kind": "next_calendar_week",
+      "assessment": "within_stated_week"
+    },
+    "finding": "В анонсе 15.12 обещана следующая неделя; статья вышла 21.12, в пределах этой недели.",
+    "limits": "Подборка тематическая; по ней нельзя вычислять процент исполнения всех обещаний автора.",
+    "satire": {
+      "type": "satire",
+      "scene": "Коробка уже стала героем анонса; следующий выход назначен после испытаний.",
+      "fictional_line": "OPPO Reno6: сначала распакуем будущее, потом опубликуем результат.",
+      "note": "Сцена и реплика придуманы; это не цитата и не описание реального события."
+    },
+    "overlaps": []
+  },
+  {
+    "id": "PROMISE-023",
+    "item": "Huawei WiFi AX3",
+    "promise_strength": "review_announcement",
+    "status": "published",
+    "announcements": [
+      {
+        "url": "https://exler.es/blog/plany-po-obzoram-9.htm",
+        "published_at": "2021-12-30",
+        "title": "Планы по обзорам",
+        "role": "announcement",
+        "db_post_id": 8813
+      }
+    ],
+    "delivery": {
+      "url": "https://exler.es/expromt/obzor-routera-huawei-wi-fi-ax3-ws7200-wi-fi-6-i-besshovnaya-set.htm",
+      "published_at": "2022-05-04",
+      "title": "Обзор роутера Huawei Wi-Fi AX3 (WS7200) - Wi-Fi 6 и бесшовная сеть",
+      "role": "delivery",
+      "db_post_id": 7864
+    },
+    "continuation": [],
+    "elapsed_days": 125,
+    "elapsed_basis": "От первого выбранного анонса; это не доказательство самого раннего обещания во всём архиве.",
+    "elapsed_precision": "calendar_days",
+    "timing": {
+      "kind": "no_calendar_deadline",
+      "assessment": "Считается время до найденной публикации, не просрочка."
+    },
+    "finding": "Обзор включает роутер и Mesh; совпадение не ограничено одним названием в заголовке.",
+    "limits": "Подборка тематическая; по ней нельзя вычислять процент исполнения всех обещаний автора.",
+    "satire": {
+      "type": "satire",
+      "scene": "Коробка уже стала героем анонса; следующий выход назначен после испытаний.",
+      "fictional_line": "Huawei WiFi AX3: сначала распакуем будущее, потом опубликуем результат.",
+      "note": "Сцена и реплика придуманы; это не цитата и не описание реального события."
+    },
+    "overlaps": []
+  },
+  {
+    "id": "PROMISE-024",
+    "item": "POCO M4 Pro 5G",
+    "promise_strength": "review_announcement",
+    "status": "published",
+    "announcements": [
+      {
+        "url": "https://exler.es/blog/plany-po-obzoram-9.htm",
+        "published_at": "2021-12-30",
+        "title": "Планы по обзорам",
+        "role": "announcement",
+        "db_post_id": 8813
+      }
+    ],
+    "delivery": {
+      "url": "https://exler.es/expromt/obzor-novogo-byudzhetnika-poco-m4-pro-5g.htm",
+      "published_at": "2022-02-09",
+      "title": "Обзор нового бюджетного смартфона Poco M4 Pro 5G",
+      "role": "delivery",
+      "db_post_id": 8586
+    },
+    "continuation": [],
+    "elapsed_days": 41,
+    "elapsed_basis": "От первого выбранного анонса; это не доказательство самого раннего обещания во всём архиве.",
+    "elapsed_precision": "calendar_days",
+    "timing": {
+      "kind": "no_calendar_deadline",
+      "assessment": "Считается время до найденной публикации, не просрочка."
+    },
+    "finding": "В планах назван только что приехавший аппарат; конкретной даты нет.",
+    "limits": "Подборка тематическая; по ней нельзя вычислять процент исполнения всех обещаний автора.",
+    "satire": {
+      "type": "satire",
+      "scene": "Коробка уже стала героем анонса; следующий выход назначен после испытаний.",
+      "fictional_line": "POCO M4 Pro 5G: сначала распакуем будущее, потом опубликуем результат.",
+      "note": "Сцена и реплика придуманы; это не цитата и не описание реального события."
+    },
+    "overlaps": []
+  },
+  {
+    "id": "PROMISE-025",
+    "item": "Logitech Brio 4K Stream Edition",
+    "promise_strength": "review_announcement",
+    "status": "cancellation_reported_variant_uncertain",
+    "announcements": [
+      {
+        "url": "https://exler.es/blog/plany-po-obzoram-9.htm",
+        "published_at": "2021-12-30",
+        "title": "Планы по обзорам",
+        "role": "announcement",
+        "db_post_id": 8813
+      }
+    ],
+    "delivery": null,
+    "continuation": [
+      {
+        "url": "https://exler.es/expromt/obzor-veb-kamery-ankerwork-powerconf-c200.htm",
+        "published_at": "2023-08-22",
+        "title": "Обзор веб-камеры Anker PowerConf C200",
+        "role": "primary",
+        "observation": "22.08.2023 объясняет, что обзор разочаровавшей Brio 4K Pro писать не стал."
+      },
+      {
+        "url": "https://exler.es/expromt/obzor-vebkamery-ugreen-4k-webcam.htm",
+        "published_at": "2025-10-07",
+        "title": "Обзор веб-камеры UGREEN 4K Webcam",
+        "role": "primary",
+        "observation": "07.10.2025 повторяет отрицательный опыт Brio при выборе другой камеры."
+      }
+    ],
+    "elapsed_days": null,
+    "elapsed_basis": "От первого выбранного анонса; это не доказательство самого раннего обещания во всём архиве.",
+    "elapsed_precision": "calendar_days",
+    "timing": {
+      "kind": "no_calendar_deadline",
+      "assessment": "Считается время до найденной публикации, не просрочка."
+    },
+    "finding": "В анонсе — Brio 4K Stream Edition, в позднем объяснении — Brio 4K Pro. Совпадение семейства сильное, но тождество комплектации не установлено.",
+    "limits": "Подборка тематическая; по ней нельзя вычислять процент исполнения всех обещаний автора.",
+    "satire": {
+      "type": "satire",
+      "scene": "Приговор веб-камере оглашается внутри обзора её преемницы.",
+      "fictional_line": "Обзор не вышел. Отрицательная рецензия переехала к конкуренту.",
+      "note": "Сцена и реплика придуманы; это не цитата и не описание реального события."
+    },
+    "overlaps": []
+  },
+  {
+    "id": "PROMISE-026",
+    "item": "Synology DS920+",
+    "promise_strength": "review_announcement",
+    "status": "partial_followup_full_review_not_found",
+    "announcements": [
+      {
+        "url": "https://exler.es/blog/plany-po-obzoram-9.htm",
+        "published_at": "2021-12-30",
+        "title": "Планы по обзорам",
+        "role": "announcement",
+        "db_post_id": 8813
+      }
+    ],
+    "delivery": null,
+    "continuation": [
+      {
+        "url": "https://exler.es/blog/strannyye-problemy-s-nas.htm",
+        "published_at": "2024-11-11",
+        "title": "Странные проблемы с NAS",
+        "role": "primary",
+        "observation": "11.11.2024 сообщает о четырёх дисках и RAID5 в используемом DS920+."
+      },
+      {
+        "url": "https://exler.es/blog/skolko-kushayet-nas.htm",
+        "published_at": "2026-07-05",
+        "title": "Сколько кушает NAS",
+        "role": "primary",
+        "observation": "05.07.2026 обсуждает энергопотребление двух работающих дома NAS, включая DS920+."
+      }
+    ],
+    "elapsed_days": null,
+    "elapsed_basis": "От первого выбранного анонса; это не доказательство самого раннего обещания во всём архиве.",
+    "elapsed_precision": "calendar_days",
+    "timing": {
+      "kind": "no_calendar_deadline",
+      "assessment": "Считается время до найденной публикации, не просрочка."
+    },
+    "finding": "Поздние тексты подтверждают использование DS920+ с четырьмя дисками и RAID5. Полный отдельный обзор с проверкой виртуальной машины и SSD-кеша не найден.",
+    "limits": "Подборка тематическая; по ней нельзя вычислять процент исполнения всех обещаний автора.",
+    "satire": {
+      "type": "satire",
+      "scene": "Сетевой накопитель хранит очередь будущих материалов, включая папку с собственным обзором.",
+      "fictional_line": "Файлы доступны по сети. Обзор пока ищется.",
+      "note": "Сцена и реплика придуманы; это не цитата и не описание реального события."
+    },
+    "overlaps": []
+  },
+  {
+    "id": "PROMISE-027",
+    "item": "Honor Earbuds 3 Pro",
+    "promise_strength": "review_announcement",
+    "status": "published",
+    "announcements": [
+      {
+        "url": "https://exler.es/blog/plany-po-obzoram-10.htm",
+        "published_at": "2022-07-12",
+        "title": "Планы по обзорам",
+        "role": "announcement",
+        "db_post_id": 7354
+      }
+    ],
+    "delivery": {
+      "url": "https://exler.es/expromt/obzor-tws-naushnikov-honor-earbuds-3-pro-luchshe-chem-airpods-pro.htm",
+      "published_at": "2022-07-12",
+      "title": "Обзор TWS-наушников Honor Earbuds 3 Pro - лучше, чем AirPods Pro",
+      "role": "delivery",
+      "db_post_id": 7352
+    },
+    "continuation": [],
+    "elapsed_days": 0,
+    "elapsed_basis": "От первого выбранного анонса; это не доказательство самого раннего обещания во всём архиве.",
+    "elapsed_precision": "calendar_days",
+    "timing": {
+      "kind": "same_day",
+      "assessment": "same_day"
+    },
+    "finding": "Обзор обещан на тот же день и опубликован в этот день; по времени записей — позднее анонса.",
+    "limits": "Подборка тематическая; по ней нельзя вычислять процент исполнения всех обещаний автора.",
+    "satire": {
+      "type": "satire",
+      "scene": "Утреннее обещание застало готовую статью за последней вычиткой.",
+      "fictional_line": "Сегодня — это сегодня. Иногда календарь работает буквально.",
+      "note": "Сцена и реплика придуманы; это не цитата и не описание реального события."
+    },
+    "overlaps": []
+  },
+  {
+    "id": "PROMISE-028",
+    "item": "Samsung Galaxy A53 5G",
+    "promise_strength": "review_announcement",
+    "status": "published",
+    "announcements": [
+      {
+        "url": "https://exler.es/blog/plany-po-obzoram-10.htm",
+        "published_at": "2022-07-12",
+        "title": "Планы по обзорам",
+        "role": "announcement",
+        "db_post_id": 7354
+      }
+    ],
+    "delivery": {
+      "url": "https://exler.es/expromt/obzor-srednebyudzhetnogo-smartfona-samsung-galaxy-a53-5g.htm",
+      "published_at": "2022-07-26",
+      "title": "Обзор среднебюджетного смартфона Samsung Galaxy A53 5G",
+      "role": "delivery",
+      "db_post_id": 7264
+    },
+    "continuation": [],
+    "elapsed_days": 14,
+    "elapsed_basis": "От первого выбранного анонса; это не доказательство самого раннего обещания во всём архиве.",
+    "elapsed_precision": "calendar_days",
+    "timing": {
+      "kind": "possible_next_calendar_week",
+      "assessment": "later_than_soft_forecast"
+    },
+    "finding": "Следующая неделя названа с оговоркой «возможно»; обзор вышел через две недели. Это сдвиг мягкого прогноза.",
+    "limits": "Подборка тематическая; по ней нельзя вычислять процент исполнения всех обещаний автора.",
+    "satire": {
+      "type": "satire",
+      "scene": "Коробка уже стала героем анонса; следующий выход назначен после испытаний.",
+      "fictional_line": "Samsung Galaxy A53 5G: сначала распакуем будущее, потом опубликуем результат.",
+      "note": "Сцена и реплика придуманы; это не цитата и не описание реального события."
+    },
+    "overlaps": []
+  },
+  {
+    "id": "PROMISE-029",
+    "item": "Amazfit Bip 3",
+    "promise_strength": "test_plan",
+    "status": "published",
+    "announcements": [
+      {
+        "url": "https://exler.es/blog/plany-po-obzoram-10.htm",
+        "published_at": "2022-07-12",
+        "title": "Планы по обзорам",
+        "role": "announcement",
+        "db_post_id": 7354
+      }
+    ],
+    "delivery": {
+      "url": "https://exler.es/expromt/obzor-byudzhetnyh-umnyh-chasov-amazfit-bip-3-deshevo-i-horosho.htm",
+      "published_at": "2022-07-20",
+      "title": "Обзор бюджетных умных часов Amazfit Bip 3 - дешево и хорошо",
+      "role": "delivery",
+      "db_post_id": 7302
+    },
+    "continuation": [],
+    "elapsed_days": 8,
+    "elapsed_basis": "От первого выбранного анонса; это не доказательство самого раннего обещания во всём архиве.",
+    "elapsed_precision": "calendar_days",
+    "timing": {
+      "kind": "no_calendar_deadline",
+      "assessment": "Считается время до найденной публикации, не просрочка."
+    },
+    "finding": "Сообщено о приезде и намерении изучить; отдельной жёсткой обязанности публиковать к сроку нет.",
+    "limits": "Подборка тематическая; по ней нельзя вычислять процент исполнения всех обещаний автора.",
+    "satire": {
+      "type": "satire",
+      "scene": "Коробка уже стала героем анонса; следующий выход назначен после испытаний.",
+      "fictional_line": "Amazfit Bip 3: сначала распакуем будущее, потом опубликуем результат.",
+      "note": "Сцена и реплика придуманы; это не цитата и не описание реального события."
+    },
+    "overlaps": []
+  },
+  {
+    "id": "PROMISE-030",
+    "item": "Huawei Watch 3",
+    "promise_strength": "review_announcement",
+    "status": "published",
+    "announcements": [
+      {
+        "url": "https://exler.es/blog/plany-po-obzoram-6.htm",
+        "published_at": "2021-07-20",
+        "title": "Планы по обзорам",
+        "role": "announcement",
+        "db_post_id": 9632
+      }
+    ],
+    "delivery": {
+      "url": "https://exler.es/expromt/obzor-huawei-watch-3-nbsp-umnye-chasy-na-harmony-os.htm",
+      "published_at": "2021-07-28",
+      "title": "Обзор Huawei Watch 3  - умные часы на Harmony OS",
+      "role": "delivery",
+      "db_post_id": 9593
+    },
+    "continuation": [],
+    "elapsed_days": 8,
+    "elapsed_basis": "От первого выбранного анонса; это не доказательство самого раннего обещания во всём архиве.",
+    "elapsed_precision": "calendar_days",
+    "timing": {
+      "kind": "no_calendar_deadline",
+      "assessment": "Считается время до найденной публикации, не просрочка."
+    },
+    "finding": "Часы из анонса совпадают с моделью обзора; подарочные FreeBuds не считаются самостоятельным обещанием.",
+    "limits": "Подборка тематическая; по ней нельзя вычислять процент исполнения всех обещаний автора.",
+    "satire": {
+      "type": "satire",
+      "scene": "Коробка уже стала героем анонса; следующий выход назначен после испытаний.",
+      "fictional_line": "Huawei Watch 3: сначала распакуем будущее, потом опубликуем результат.",
+      "note": "Сцена и реплика придуманы; это не цитата и не описание реального события."
+    },
+    "overlaps": []
+  },
+  {
+    "id": "PROMISE-031",
+    "item": "Realme Narzo 30",
+    "promise_strength": "review_announcement",
+    "status": "published",
+    "announcements": [
+      {
+        "url": "https://exler.es/blog/plany-po-obzoram-6.htm",
+        "published_at": "2021-07-20",
+        "title": "Планы по обзорам",
+        "role": "announcement",
+        "db_post_id": 9632
+      }
+    ],
+    "delivery": {
+      "url": "https://exler.es/expromt/obzor-byudzhetnogo-smartfona-realme-narzo-30-5g.htm",
+      "published_at": "2021-08-10",
+      "title": "Обзор бюджетного смартфона Realme Narzo 30 5G",
+      "role": "delivery",
+      "db_post_id": 9519
+    },
+    "continuation": [],
+    "elapsed_days": 21,
+    "elapsed_basis": "От первого выбранного анонса; это не доказательство самого раннего обещания во всём архиве.",
+    "elapsed_precision": "calendar_days",
+    "timing": {
+      "kind": "possible_next_calendar_week",
+      "assessment": "later_than_soft_forecast"
+    },
+    "finding": "Следующая неделя — вероятный ориентир, а не безусловная дата; статья вышла через три недели.",
+    "limits": "Подборка тематическая; по ней нельзя вычислять процент исполнения всех обещаний автора.",
+    "satire": {
+      "type": "satire",
+      "scene": "Коробка уже стала героем анонса; следующий выход назначен после испытаний.",
+      "fictional_line": "Realme Narzo 30: сначала распакуем будущее, потом опубликуем результат.",
+      "note": "Сцена и реплика придуманы; это не цитата и не описание реального события."
+    },
+    "overlaps": []
+  },
+  {
+    "id": "PROMISE-032",
+    "item": "Apple AirPods Pro",
+    "promise_strength": "review_announcement",
+    "status": "published",
+    "announcements": [
+      {
+        "url": "https://exler.es/blog/apple-airpods-pro.htm",
+        "published_at": "2022-01-27",
+        "title": "Apple Airpods Pro",
+        "role": "announcement",
+        "db_post_id": 8651
+      }
+    ],
+    "delivery": {
+      "url": "https://exler.es/expromt/obzor-tws-naushnikov-apple-airpods-pro-magsafe.htm",
+      "published_at": "2022-03-30",
+      "title": "Обзор TWS-наушников Apple AirPods Pro MagSafe",
+      "role": "delivery",
+      "db_post_id": 8142
+    },
+    "continuation": [],
+    "elapsed_days": 62,
+    "elapsed_basis": "От первого выбранного анонса; это не доказательство самого раннего обещания во всём архиве.",
+    "elapsed_precision": "calendar_days",
+    "timing": {
+      "kind": "no_calendar_deadline",
+      "assessment": "Считается время до найденной публикации, не просрочка."
+    },
+    "finding": "Анонс называет AirPods Pro, итоговая статья уточняет версию с кейсом MagSafe. Серийный номер устройства не сопоставлялся.",
+    "limits": "Подборка тематическая; по ней нельзя вычислять процент исполнения всех обещаний автора.",
+    "satire": {
+      "type": "satire",
+      "scene": "Коробка уже стала героем анонса; следующий выход назначен после испытаний.",
+      "fictional_line": "Apple AirPods Pro: сначала распакуем будущее, потом опубликуем результат.",
+      "note": "Сцена и реплика придуманы; это не цитата и не описание реального события."
+    },
+    "overlaps": []
+  },
+  {
+    "id": "PROMISE-033",
+    "item": "Huawei Watch 5",
+    "promise_strength": "test_plan",
+    "status": "published",
+    "announcements": [
+      {
+        "url": "https://exler.es/blog/plany-po-obzoram-17.htm",
+        "published_at": "2026-03-11",
+        "title": "Планы по обзорам",
+        "role": "announcement",
+        "db_post_id": 10638
+      }
+    ],
+    "delivery": {
+      "url": "https://exler.es/expromt/obzor-premialnyh-umnyh-chasov-huawei-watch-5.htm",
+      "published_at": "2026-03-17",
+      "title": "Обзор премиальных умных часов Huawei Watch 5",
+      "role": "delivery",
+      "db_post_id": 10606
+    },
+    "continuation": [],
+    "elapsed_days": 6,
+    "elapsed_basis": "От первого выбранного анонса; это не доказательство самого раннего обещания во всём архиве.",
+    "elapsed_precision": "calendar_days",
+    "timing": {
+      "kind": "no_calendar_deadline",
+      "assessment": "Считается время до найденной публикации, не просрочка."
+    },
+    "finding": "План попробовать новую модель; пауза в подготовке больших материалов объяснена автором заранее. Личные медицинские подробности для подсчёта не нужны.",
+    "limits": "Подборка тематическая; по ней нельзя вычислять процент исполнения всех обещаний автора.",
+    "satire": {
+      "type": "satire",
+      "scene": "Коробка уже стала героем анонса; следующий выход назначен после испытаний.",
+      "fictional_line": "Huawei Watch 5: сначала распакуем будущее, потом опубликуем результат.",
+      "note": "Сцена и реплика придуманы; это не цитата и не описание реального события."
+    },
+    "overlaps": []
+  },
+  {
+    "id": "PROMISE-034",
+    "item": "Soundcore Sleep A30",
+    "promise_strength": "test_plan",
+    "status": "published",
+    "announcements": [
+      {
+        "url": "https://exler.es/blog/plany-po-obzoram-17.htm",
+        "published_at": "2026-03-11",
+        "title": "Планы по обзорам",
+        "role": "announcement",
+        "db_post_id": 10638
+      }
+    ],
+    "delivery": {
+      "url": "https://exler.es/expromt/soundcore-sleep-a30-prodvinutye-naushniki-dlya-zasypaniya.htm",
+      "published_at": "2026-03-31",
+      "title": "Soundcore Sleep A30 - продвинутые наушники для засыпания",
+      "role": "delivery",
+      "db_post_id": 10537
+    },
+    "continuation": [],
+    "elapsed_days": 20,
+    "elapsed_basis": "От первого выбранного анонса; это не доказательство самого раннего обещания во всём архиве.",
+    "elapsed_precision": "calendar_days",
+    "timing": {
+      "kind": "no_calendar_deadline",
+      "assessment": "Считается время до найденной публикации, не просрочка."
+    },
+    "finding": "План следующего теста после Sleep A20; A20 и A30 считаются разными моделями.",
+    "limits": "Подборка тематическая; по ней нельзя вычислять процент исполнения всех обещаний автора.",
+    "satire": {
+      "type": "satire",
+      "scene": "Коробка уже стала героем анонса; следующий выход назначен после испытаний.",
+      "fictional_line": "Soundcore Sleep A30: сначала распакуем будущее, потом опубликуем результат.",
+      "note": "Сцена и реплика придуманы; это не цитата и не описание реального события."
+    },
+    "overlaps": []
+  },
+  {
+    "id": "PROMISE-035",
+    "item": "Ninja Foodi SmartLid",
+    "promise_strength": "review_announcement",
+    "status": "published",
+    "announcements": [
+      {
+        "url": "https://exler.es/blog/novyy-volshebnyy-gorshochek.htm",
+        "published_at": "2024-01-21",
+        "title": "Новый волшебный горшочек",
+        "role": "announcement",
+        "db_post_id": 4081
+      }
+    ],
+    "delivery": {
+      "url": "https://exler.es/expromt/obzor-skorovarki-aerogrilya-ninja-foodi-smartlid-eshe-bolee-volshebnyj-gorshochek.htm",
+      "published_at": "2024-03-12",
+      "title": "Обзор скороварки-аэрогриля Ninja Foodi SmartLid - еще более волшебный горшочек",
+      "role": "delivery",
+      "db_post_id": 3793
+    },
+    "continuation": [],
+    "elapsed_days": 51,
+    "elapsed_basis": "От первого выбранного анонса; это не доказательство самого раннего обещания во всём архиве.",
+    "elapsed_precision": "calendar_days",
+    "timing": {
+      "kind": "after_testing",
+      "assessment": "no_calendar_deadline"
+    },
+    "finding": "Срок привязан к завершению изучения режимов; обзор относится к выбранной модели OL550EU с крышкой SmartLid.",
+    "limits": "Подборка тематическая; по ней нельзя вычислять процент исполнения всех обещаний автора.",
+    "satire": {
+      "type": "satire",
+      "scene": "Коробка уже стала героем анонса; следующий выход назначен после испытаний.",
+      "fictional_line": "Ninja Foodi SmartLid: сначала распакуем будущее, потом опубликуем результат.",
+      "note": "Сцена и реплика придуманы; это не цитата и не описание реального события."
+    },
+    "overlaps": []
+  },
+  {
+    "id": "PROMISE-036",
+    "item": "OLED-телевизор вместо монитора",
+    "promise_strength": "review_announcement",
+    "status": "published",
+    "announcements": [
+      {
+        "url": "https://exler.es/blog/chto-v-itoge-reshil-s-monitorom.htm",
+        "published_at": "2022-01-17",
+        "title": "Что в итоге решил с монитором",
+        "role": "announcement",
+        "db_post_id": 8716
+      }
+    ],
+    "delivery": {
+      "url": "https://exler.es/expromt/opyt-ispolzovaniya-oled-televizora-v-kachestve-monitora.htm",
+      "published_at": "2022-04-05",
+      "title": "Опыт использования OLED-телевизора в качестве монитора",
+      "role": "delivery",
+      "db_post_id": 8099
+    },
+    "continuation": [],
+    "elapsed_days": 78,
+    "elapsed_basis": "От первого выбранного анонса; это не доказательство самого раннего обещания во всём архиве.",
+    "elapsed_precision": "calendar_days",
+    "timing": {
+      "kind": "no_calendar_deadline",
+      "assessment": "Считается время до найденной публикации, не просрочка."
+    },
+    "finding": "Обещано доложить об опыте Philips 55OLED706 как монитора; итоговая статья рассматривает тот же Philips. Поздние изменения рабочего места — отдельная цепочка.",
+    "limits": "Подборка тематическая; по ней нельзя вычислять процент исполнения всех обещаний автора.",
+    "satire": {
+      "type": "satire",
+      "scene": "Огромный телевизор становится рабочим столом, а маленькое «попробую» — длинным отчётом.",
+      "fictional_line": "Чтобы доложиться, сначала понадобился экран побольше.",
+      "note": "Сцена и реплика придуманы; это не цитата и не описание реального события."
+    },
+    "overlaps": [
+      "FAIL-012",
+      "CHAIN-012"
+    ]
+  }
+]
