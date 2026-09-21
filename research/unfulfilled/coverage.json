@@ -1,0 +1,47 @@
+{
+  "updated_at": "2026-09-21",
+  "base_commit": "54d1706ca6f1fe58e9f56f37a5303c151564f507",
+  "cases": 7,
+  "statuses": {
+    "not_found": 3,
+    "author_abandoned": 1,
+    "author_declined": 1,
+    "variant_identity_caveat": 1,
+    "not_found_undated": 1
+  },
+  "confirmed_author_nonpublication": 2,
+  "variant_caveat": 1,
+  "not_found": 4,
+  "initial_db": {
+    "posts": 10887,
+    "from_date": "2021-05-19",
+    "to_date": "2026-06-17",
+    "fetch_errors": 483,
+    "alex_comment_rows": 19662
+  },
+  "comment_search": {
+    "reminder_and_nonpublication_candidates": 25,
+    "refusal_candidates": 15,
+    "sets_overlap": true
+  },
+  "corpus_cupra": {
+    "post_matches": 9,
+    "alex_comment_matches": 2,
+    "cult_mentions": 80,
+    "cult_review_or_promise_leads": 55,
+    "new_cult_crawl": false
+  },
+  "pages": {
+    "new_documents": 17,
+    "new_search_pages": 26,
+    "reused_documents": 2
+  },
+  "known_overlap": [
+    "PROMISE-025",
+    "PROMISE-026"
+  ],
+  "scope": {
+    "complete_archive": false,
+    "aliexpress_requests": 0
+  }
+}

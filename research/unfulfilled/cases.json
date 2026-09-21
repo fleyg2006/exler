@@ -1,0 +1,346 @@
+[
+  {
+    "id": "UNFULFILLED-001",
+    "title": "Cupra Formentor: обещанный обзор прокатной машины",
+    "status": "not_found",
+    "evidence_type": "primary_text_and_followup",
+    "promised_at": "2023-03-20",
+    "promise": "Отдельная публикация о машине после поездки; позднее прямо подтверждён будущий обзор.",
+    "deadline": null,
+    "sources": [
+      {
+        "url": "https://exler.es/blog/ya-vernulsya-4.htm",
+        "published_at": "2023-03-20",
+        "title": "Я вернулся",
+        "role": "announcement",
+        "db_post_id": 5787,
+        "observation": "20.03.2023 обещает отдельный пост о Cupra Formentor после возвращения из Шампани."
+      },
+      {
+        "url": "https://exler.es/blog/comments/ya-vernulsya-5.htm#15ubl",
+        "published_at": "2023-04-24",
+        "title": "Ответ Alex Exler читателю",
+        "role": "author_reply",
+        "anchor": "15ubl",
+        "observation": "24.04.2023 на просьбу читателя дать обзор отвечает: «Будет обзор Cupra». Это собственный ответ, без вложенной цитаты.",
+        "quotation_excluded": true
+      },
+      {
+        "url": "https://exler.es/blog/kak-ya-bral-mashinu-naprokat-v-barselone.htm",
+        "published_at": "2023-03-14",
+        "title": "Как я брал машину напрокат в Барселоне",
+        "role": "not_fulfillment",
+        "db_post_id": 5811,
+        "observation": "14.03.2023 вышел рассказ о получении машины в прокате — раньше рассматриваемого обещания."
+      },
+      {
+        "url": "https://exler.es/blog/adapter-motorola-android-auto.htm",
+        "published_at": "2023-05-16",
+        "title": "Адаптер Motorola Android Auto",
+        "role": "partial_mention",
+        "db_post_id": 5442,
+        "observation": "16.05.2023 вспоминает использование Android Auto в арендованной Cupra."
+      },
+      {
+        "url": "https://exler.es/blog/novaya-tekhnologiya-volkswagens-emergency-assist.htm",
+        "published_at": "2024-11-04",
+        "title": "Новая технология Volkswagen's Emergency Assist",
+        "role": "partial_mention",
+        "db_post_id": 2545,
+        "observation": "04.11.2024 описывает эпизод с водительским ассистентом Cupra в посте о технологии Volkswagen."
+      }
+    ],
+    "finding": "Собственное обещание и его повтор подтверждены. Отдельный обзор автомобиля не найден по Cupra/Formentor/русским вариантам ни в корпусе, ни в текущем поиске сайта.",
+    "limits": "Заметки об автомобиле существуют. Они не названы отсутствующими: история проката предшествует обещанию, поздние посты посвящены отдельным функциям. Дедлайн не назван. Неполная БД и поиск не доказывают отсутствие публикации на любой площадке.",
+    "checked_at": "2026-09-21",
+    "elapsed_days": 1281,
+    "elapsed_to": "2026-09-21",
+    "elapsed_meaning": "До даты проверки, не число дней просрочки",
+    "search_terms": [
+      "Cupra",
+      "Formentor",
+      "Купра",
+      "купры"
+    ],
+    "overlaps": [],
+    "satire": {
+      "type": "satire",
+      "scene": "Машина уехала обратно в прокат, а её обзор продолжает стоять в редакционном гараже.",
+      "fictional_line": "Автомобиль вернул. Обзор продлил ещё на один срок.",
+      "note": "Придуманная сцена и реплика, не реальная цитата."
+    }
+  },
+  {
+    "id": "UNFULFILLED-002",
+    "title": "Synology DS920+: модель успела устареть до обещанного обзора",
+    "status": "author_abandoned",
+    "evidence_type": "primary_text_and_followup",
+    "promised_at": "2021-12-30",
+    "promise": "Обзор NAS с четырьмя дисками, RAID5 и пробами дополнительной памяти/SSD-кеша.",
+    "deadline": null,
+    "sources": [
+      {
+        "url": "https://exler.es/blog/plany-po-obzoram-9.htm",
+        "published_at": "2021-12-30",
+        "title": "Планы по обзорам",
+        "role": "announcement",
+        "db_post_id": 8813,
+        "observation": "30.12.2021 включает DS920+ в готовящиеся обзоры и описывает купленную конфигурацию."
+      },
+      {
+        "url": "https://exler.es/blog/comments/nuzhna-li-doma-10-gigabitnaya-set.htm#1bshf",
+        "published_at": "2024-04-25",
+        "title": "Ответ Alex Exler читателю",
+        "role": "author_reply",
+        "anchor": "1bshf",
+        "observation": "25.04.2024 после напоминания читателя объясняет: сначала было не до обзора, затем модель устарела, возвращаться к ней он смысла не видит.",
+        "quotation_excluded": true
+      }
+    ],
+    "finding": "Обещанный отдельный обзор не сделан — это следует из собственного ответа автора; там же объяснён отказ возвращаться к теме.",
+    "limits": "Это отказ от обзора, не отказ от самого устройства. Поздние сообщения об использовании NAS не равны выполнению исходного обещания. Читатель датирует анонс сентябрём 2022, но найден первичный анонс от 30.12.2021; используем его.",
+    "checked_at": "2026-09-21",
+    "elapsed_days": 847,
+    "elapsed_to": "2024-04-25",
+    "elapsed_meaning": "До сообщения автора об отказе",
+    "search_terms": [
+      "DS920",
+      "DS720",
+      "Synology"
+    ],
+    "overlaps": [
+      "PROMISE-026"
+    ],
+    "satire": {
+      "type": "satire",
+      "scene": "В очереди на обзор сетевой накопитель пересекает границу между новой техникой и историей вычислительной техники.",
+      "fictional_line": "Пока обзор готовился, устройство вышло из актуальности.",
+      "note": "Придуманная сцена и реплика, не реальная цитата."
+    }
+  },
+  {
+    "id": "UNFULFILLED-003",
+    "title": "POCO C40: обзор анонсирован, потом решено его не писать",
+    "status": "author_declined",
+    "evidence_type": "primary_text_and_followup",
+    "promised_at": "2023-02-11",
+    "promise": "Обзор POCO C40 назван одним из ближайших готовящихся материалов.",
+    "deadline": null,
+    "sources": [
+      {
+        "url": "https://exler.es/blog/smartfon-nothing-phone-1.htm",
+        "published_at": "2023-02-11",
+        "title": "Смартфон Nothing Phone (1)",
+        "role": "announcement",
+        "db_post_id": 5997,
+        "observation": "11.02.2023 вместе с Nothing Phone (1) и Redmi 10 2022 обещает близкий обзор POCO C40."
+      },
+      {
+        "url": "https://exler.es/expromt/obzor-smartfona-poco-x6.htm",
+        "published_at": "2024-02-06",
+        "title": "Обзор смартфона Poco X6",
+        "role": "author_outcome",
+        "db_post_id": 4001,
+        "observation": "06.02.2024 в обзоре POCO X6 объясняет: C40 был куплен для обзора, но писать его автор не стал, поскольку смартфон плох и медленно работает."
+      },
+      {
+        "url": "https://exler.es/expromt/obzor-smartfona-poco-m6-pro.htm",
+        "published_at": "2024-07-02",
+        "title": "Обзор смартфона Poco M6 Pro",
+        "role": "later_confirmation",
+        "db_post_id": 3209,
+        "observation": "02.07.2024 в обзоре POCO M6 Pro снова описывает решение не писать отдельный обзор C40."
+      },
+      {
+        "url": "https://exler.es/expromt/obzor-byudzhetnogo-smartfona-poco-c85.htm",
+        "published_at": "2025-11-18",
+        "title": "Обзор бюджетного смартфона POCO C85",
+        "role": "later_confirmation",
+        "db_post_id": 406,
+        "observation": "18.11.2025 в обзоре POCO C85 ещё раз вспоминает покупку, тестирование и отказ от выпуска обзора C40."
+      }
+    ],
+    "finding": "Есть ранний публичный анонс и три последующих собственных сообщения, что обзор не выпускался. Это одна история с повторными подтверждениями.",
+    "limits": "Причина отказа названа автором. Короткие отрицательные оценки C40 всё же опубликованы внутри других обзоров; речь об обещанной самостоятельной статье.",
+    "checked_at": "2026-09-21",
+    "elapsed_days": 360,
+    "elapsed_to": "2024-02-06",
+    "elapsed_meaning": "До сообщения автора об отказе",
+    "search_terms": [
+      "POCO C40",
+      "C40"
+    ],
+    "overlaps": [],
+    "satire": {
+      "type": "satire",
+      "scene": "Обзор отменён, но извещение об отмене переиздаётся вместе со следующими поколениями смартфонов.",
+      "fictional_line": "Отдельного обзора не будет. Историю о том, почему его не будет, повторим ещё трижды.",
+      "note": "Придуманная сцена и реплика, не реальная цитата."
+    }
+  },
+  {
+    "id": "UNFULFILLED-004",
+    "title": "Logitech Brio: обещание и позднее объяснение отказа",
+    "status": "variant_identity_caveat",
+    "evidence_type": "primary_text_and_followup",
+    "promised_at": "2021-12-30",
+    "promise": "Обзор Logitech Brio 4K Stream Edition.",
+    "deadline": null,
+    "sources": [
+      {
+        "url": "https://exler.es/blog/plany-po-obzoram-9.htm",
+        "published_at": "2021-12-30",
+        "title": "Планы по обзорам",
+        "role": "announcement",
+        "db_post_id": 8813,
+        "observation": "30.12.2021 обещает обзор Brio 4K Stream Edition."
+      },
+      {
+        "url": "https://exler.es/expromt/obzor-veb-kamery-ankerwork-powerconf-c200.htm",
+        "published_at": "2023-08-22",
+        "title": "Обзор веб-камеры Anker PowerConf C200",
+        "role": "author_outcome",
+        "observation": "22.08.2023 пишет, что не стал делать обзор разочаровавшей Logitech Brio 4K Pro, которую не мог рекомендовать."
+      }
+    ],
+    "finding": "Публичный анонс Brio и признание отказа от обзора Brio найдены; поздний отрицательный вердикт помещён в статью о другой камере.",
+    "limits": "Stream Edition в анонсе и Pro в объяснении — разные обозначения. Пока не доказано, что это одна комплектация, связь остаётся оговорённой и не входит в два безоговорочно подтверждённых отказа.",
+    "checked_at": "2026-09-21",
+    "elapsed_days": 600,
+    "elapsed_to": "2023-08-22",
+    "elapsed_meaning": "До сообщения автора об отказе",
+    "search_terms": [
+      "Brio",
+      "Logitech Brio 4K"
+    ],
+    "overlaps": [
+      "PROMISE-025"
+    ],
+    "satire": {
+      "type": "satire",
+      "scene": "Веб-камера появляется в чужом обзоре исключительно для оглашения собственного приговора.",
+      "fictional_line": "Для отрицательного обзора отдельную статью не выделили.",
+      "note": "Придуманная сцена и реплика, не реальная цитата."
+    }
+  },
+  {
+    "id": "UNFULFILLED-005",
+    "title": "Vivanco: обещанный отдельный отчёт о Музее винной культуры",
+    "status": "not_found",
+    "evidence_type": "primary_text_and_followup",
+    "promised_at": "2022-08-04",
+    "promise": "Отчёт о поездке в Риоху и отдельный материал о музее Vivanco.",
+    "deadline": null,
+    "sources": [
+      {
+        "url": "https://exler.es/blog/ya-vernulsya-2.htm",
+        "published_at": "2022-08-04",
+        "title": "Я вернулся",
+        "role": "announcement",
+        "db_post_id": 7207,
+        "observation": "04.08.2022 обещает на следующей неделе отчёт о Риохе и отдельно отчёт о Музее вина."
+      },
+      {
+        "url": "https://exler.es/ezhe/rioha-vinodelcheskij-centr-ispanii.htm",
+        "published_at": "2022-08-09",
+        "title": "Риоха - винодельческий центр Испании",
+        "role": "repeat_announcement",
+        "db_post_id": 7180,
+        "observation": "09.08.2022 общий отчёт о Риохе выходит; в месте о Vivanco автор снова откладывает рассказ о музее в отдельную статью."
+      }
+    ],
+    "finding": "Общая часть выполнена. Отдельный музейный материал обещан повторно и не найден в проверенном корпусе и поиске по Vivanco.",
+    "limits": "Срок «на следующей неделе» мог относиться к общему отчёту; для музейной части точный дедлайн не вычисляется. Не объявляем невыполненным весь отчёт о Риохе.",
+    "checked_at": "2026-09-21",
+    "elapsed_days": 1509,
+    "elapsed_to": "2026-09-21",
+    "elapsed_meaning": "До даты проверки, не число дней просрочки",
+    "search_terms": [
+      "Vivanco",
+      "Музей вина",
+      "Музей винной культуры",
+      "Риоха"
+    ],
+    "overlaps": [],
+    "satire": {
+      "type": "satire",
+      "scene": "Посетитель проходит весь винный музей, но к последнему залу обещанного отчёта экскурсия так и не доходит.",
+      "fictional_line": "Общий отчёт уже выдержан. Отдельный всё ещё дозревает.",
+      "note": "Придуманная сцена и реплика, не реальная цитата."
+    }
+  },
+  {
+    "id": "UNFULFILLED-006",
+    "title": "Laurent-Perrier: отдельная статья после дегустации",
+    "status": "not_found",
+    "evidence_type": "primary_text_and_followup",
+    "promised_at": "2024-10-17",
+    "promise": "Отдельная статья об экскурсии и дегустации в шампанском доме Laurent-Perrier.",
+    "deadline": null,
+    "sources": [
+      {
+        "url": "https://exler.es/blog/zloveshchaya-degustatsiya.htm",
+        "published_at": "2024-10-17",
+        "title": "Зловещая дегустация",
+        "role": "announcement",
+        "db_post_id": 2649,
+        "observation": "17.10.2024 после посещения Laurent-Perrier обещает рассказать об экскурсии и дегустации в отдельной статье."
+      }
+    ],
+    "finding": "Анонс установлен. Соответствующая отдельная статья после этой поездки не найдена по названию дома и его русскому варианту.",
+    "limits": "Общая статья «Как делается шампанское» вышла 07.06.2023, до этой экскурсии, и не подменяет обещанный рассказ октября 2024. Другой заголовок или отсутствие индексации остаются возможными.",
+    "checked_at": "2026-09-21",
+    "elapsed_days": 704,
+    "elapsed_to": "2026-09-21",
+    "elapsed_meaning": "До даты проверки, не число дней просрочки",
+    "search_terms": [
+      "Laurent-Perrier",
+      "Лоран-Перрье"
+    ],
+    "overlaps": [],
+    "satire": {
+      "type": "satire",
+      "scene": "Бокалы после дегустации опустели, но обещанная статья всё ещё сохраняет полный потенциал.",
+      "fictional_line": "Шампанское раскрывается в бокале. Статья пока закрыта.",
+      "note": "Придуманная сцена и реплика, не реальная цитата."
+    }
+  },
+  {
+    "id": "UNFULFILLED-007",
+    "title": "Клан Дюпонов: история для отдельной статьи",
+    "status": "not_found_undated",
+    "evidence_type": "primary_text_and_followup",
+    "promised_at": "2024-08-13",
+    "promise": "Отдельная статья о первом Дюпоне и истории клана.",
+    "deadline": null,
+    "sources": [
+      {
+        "url": "https://exler.es/ezhe/sad-i-muzej-uintertur-v-delavere.htm",
+        "published_at": "2024-08-13",
+        "title": "Сад и музей Уинтертур в Делавэре",
+        "role": "announcement",
+        "db_post_id": 3013,
+        "observation": "13.08.2024 в рассказе об Уинтертуре говорит, что историю первого Дюпона и клана расскажет отдельно когда-нибудь."
+      }
+    ],
+    "finding": "Обещание отдельного материала найдено; его выполнение в проверенных источниках не установлено.",
+    "limits": "Формулировка изначально без срока. Это открытый давний анонс, а не доказанный срыв дедлайна. Упоминание Дюпонов в рецензии или небольшой новости не автоматически является обещанной историей семьи.",
+    "checked_at": "2026-09-21",
+    "elapsed_days": 769,
+    "elapsed_to": "2026-09-21",
+    "elapsed_meaning": "До даты проверки, не число дней просрочки",
+    "search_terms": [
+      "Дюпон",
+      "Дюпоны",
+      "DuPont",
+      "Du Pont"
+    ],
+    "overlaps": [],
+    "satire": {
+      "type": "satire",
+      "scene": "В семейном древе Дюпонов появляется дополнительная ветвь — ещё не написанная статья о семейном древе.",
+      "fictional_line": "Династия многолетняя. Срок подготовки соответствует.",
+      "note": "Придуманная сцена и реплика, не реальная цитата."
+    }
+  }
+]

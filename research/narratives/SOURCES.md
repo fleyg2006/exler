@@ -97,6 +97,7 @@
 | [FFAD: интервью, часть 1](https://web.archive.org/web/20220606233001/https://ffad.ru/blog/ogromnoe-intervyu-s-aleksom-ekslerom-o-0304190836) | 2019-04 | MYTH-004 |
 | [Как сделать себя в Интернете: советы от Алекса Экслера](https://www.golosameriki.com/a/internet-bloger-alex-ekler-2011-04-25-120645839/233595.html) | 2011-04-25 | MYTH-005 |
 | [Интервью ЛитРес](https://www.litres.ru/cms/intervju/aleks-eksler/) | не установлена | FIRST-003, MYTH-005 |
+| [Собственный ответ о несделанном обзоре DS920+](https://exler.es/blog/comments/nuzhna-li-doma-10-gigabitnaya-set.htm#1bshf) | 2024-04-25 | PROMISE-026; дополнение из отдельного раздела невыполненных обещаний |
 
 Техническое происхождение и SHA-256 сохранённых HTML: [pages.json](pages.json). Это манифест проверяемых снимков, не копия полного содержимого страниц.
 

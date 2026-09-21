@@ -1013,13 +1013,15 @@
       "fictional_line": "Обзор не вышел. Отрицательная рецензия переехала к конкуренту.",
       "note": "Сцена и реплика придуманы; это не цитата и не описание реального события."
     },
-    "overlaps": []
+    "overlaps": [
+      "UNFULFILLED-004"
+    ]
   },
   {
     "id": "PROMISE-026",
     "item": "Synology DS920+",
     "promise_strength": "review_announcement",
-    "status": "partial_followup_full_review_not_found",
+    "status": "author_abandoned",
     "announcements": [
       {
         "url": "https://exler.es/blog/plany-po-obzoram-9.htm",
@@ -1031,6 +1033,15 @@
     ],
     "delivery": null,
     "continuation": [
+      {
+        "url": "https://exler.es/blog/comments/nuzhna-li-doma-10-gigabitnaya-set.htm#1bshf",
+        "published_at": "2024-04-25",
+        "title": "Собственный ответ о несделанном обзоре Synology DS920+",
+        "role": "author_nonpublication_explanation",
+        "anchor": "1bshf",
+        "author": "Alex Exler",
+        "observation": "В ответ на напоминание объясняет, что после покупки было не до обзора, затем модель устарела и возвращаться к ней он не считает нужным. Цитата читателя отделена по DOM."
+      },
       {
         "url": "https://exler.es/blog/strannyye-problemy-s-nas.htm",
         "published_at": "2024-11-11",
@@ -1053,7 +1064,7 @@
       "kind": "no_calendar_deadline",
       "assessment": "Считается время до найденной публикации, не просрочка."
     },
-    "finding": "Поздние тексты подтверждают использование DS920+ с четырьмя дисками и RAID5. Полный отдельный обзор с проверкой виртуальной машины и SSD-кеша не найден.",
+    "finding": "25.04.2024 автор объяснил, что обещанный обзор не сделал: сначала было не до него, затем модель устарела. Возвращаться к теме не считает нужным. Поздние заметки подтверждают использование устройства, а не выполнение обещанного обзора.",
     "limits": "Подборка тематическая; по ней нельзя вычислять процент исполнения всех обещаний автора.",
     "satire": {
       "type": "satire",
@@ -1061,7 +1072,10 @@
       "fictional_line": "Файлы доступны по сети. Обзор пока ищется.",
       "note": "Сцена и реплика придуманы; это не цитата и не описание реального события."
     },
-    "overlaps": []
+    "overlaps": [
+      "UNFULFILLED-002"
+    ],
+    "evidence_updated_at": "2026-09-21"
   },
   {
     "id": "PROMISE-027",

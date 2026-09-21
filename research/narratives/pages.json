@@ -2143,5 +2143,18 @@
     "page_type": "document",
     "used_in_cards": true,
     "read_scope": "selected_relevant_passages"
+  },
+  {
+    "url": "https://exler.es/blog/nuzhna-li-doma-10-gigabitnaya-set.htm",
+    "final_url": "https://exler.es/blog/nuzhna-li-doma-10-gigabitnaya-set.htm",
+    "http": 200,
+    "key": "db_3599",
+    "sha256": "74a207f583329dcc2d614679e0a8238f502ed85508e7acb3fee3706c6699f485",
+    "bytes": 461878,
+    "fetched_at": "2026-09-21T21:19:51.900679+00:00",
+    "page_type": "document",
+    "acquisition": "unfulfilled_addendum_direct_fetch",
+    "read_scope": "selected_post_and_comment_passages",
+    "used_in_cards": true
   }
 ]
