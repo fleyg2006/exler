@@ -289,6 +289,285 @@
         }
       ],
       "supporting_sources": []
+    },
+    {
+      "id": "RAGE-007",
+      "title": "Telegram: реальная защита от скриншотов объявлена чушью",
+      "group": "Проверяемое техническое возражение",
+      "sanction_status": "not_established",
+      "announced_duration": null,
+      "post_id": "2931",
+      "response_db_id": "358929",
+      "response_date": "2024-08-29 09:33:00",
+      "page_url": "https://exler.es/blog/sotrudnichayet-ili-ne-sotrudnichayet-durov-s-vlastyami-rf.htm",
+      "page_sha256": "533dcace685fa085811e73a629bc06430c349f2a41904e78fad79e05182bc95a",
+      "comments": [
+        {
+          "anchor": "1do1i",
+          "url": "https://exler.es/blog/comments/sotrudnichayet-ili-ne-sotrudnichayet-durov-s-vlastyami-rf.htm#1do1i",
+          "author": "malik",
+          "parent_anchor": null,
+          "date_display": "malik 28.08.24 12:47 0 0",
+          "body_sha256": "fbf7d929ce9e43ceafaf5349bcd15d231b4aa267b73a58f3300078f5a9e782ab",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        },
+        {
+          "anchor": "1dok5",
+          "url": "https://exler.es/blog/comments/sotrudnichayet-ili-ne-sotrudnichayet-durov-s-vlastyami-rf.htm#1dok5",
+          "author": "Alex Exler",
+          "parent_anchor": "1do1i",
+          "date_display": "Alex Exler malik 29.08.24 09:33 0 0",
+          "body_sha256": "e52728baecd47e1eb93b38324e9ca776f535f308498d1ae7ed9d9c1faf060887",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        }
+      ],
+      "supporting_sources": [
+        "https://telegram.org/blog/protected-content-delete-by-date-and-more"
+      ]
+    },
+    {
+      "id": "RAGE-008",
+      "title": "КПД зарядки опровергается временем зарядки",
+      "group": "Категорическое возражение с ошибкой в аргументе",
+      "sanction_status": "not_established",
+      "announced_duration": null,
+      "post_id": "2185",
+      "response_db_id": "266534",
+      "response_date": "2025-01-08 10:39:00",
+      "page_url": "https://exler.es/likbez/besprovodnaya-zaryadka-ustrojstv-chto-nuzhno-znat.htm",
+      "page_sha256": "6892c022eb7d6127572e0090c8b774be98af7b1bdd94f74778e29941d1050bbc",
+      "comments": [
+        {
+          "anchor": "1ft08",
+          "url": "https://exler.es/likbez/comments/besprovodnaya-zaryadka-ustrojstv-chto-nuzhno-znat.htm#1ft08",
+          "author": "BOFH",
+          "parent_anchor": "1ft03",
+          "date_display": "BOFH Dmitry 777 08.01.25 06:04 0 3",
+          "body_sha256": "ba1187af25ffdda2d9b9d628a13daf4657fab11a4be05c1fa54d05483799844c",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        },
+        {
+          "anchor": "1ft7p",
+          "url": "https://exler.es/likbez/comments/besprovodnaya-zaryadka-ustrojstv-chto-nuzhno-znat.htm#1ft7p",
+          "author": "Alex Exler",
+          "parent_anchor": "1ft08",
+          "date_display": "Alex Exler BOFH 08.01.25 10:39 0 0",
+          "body_sha256": "d249b2151313a1fde32f013ebe8ab2962e04a09668b03ed01f492182cc2a6d64",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        }
+      ],
+      "supporting_sources": [
+        "https://www.ti.com/product/BQ51013B"
+      ]
+    },
+    {
+      "id": "RAGE-009",
+      "title": "Одна буква, затем разговор о минусующих врагах",
+      "group": "Поправка принята после насмешки",
+      "sanction_status": "not_established",
+      "announced_duration": null,
+      "post_id": "2036",
+      "response_db_id": "245987",
+      "response_date": "2025-01-31 16:20:00",
+      "page_url": "https://exler.es/films/kriminalnyj-shef.htm",
+      "page_sha256": "b73fd7b24ef778b65fd08b1a8561fffb8dfcaf8f0cddd55927ff6712d1045aba",
+      "comments": [
+        {
+          "anchor": "1g9pm",
+          "url": "https://exler.es/films/comments/kriminalnyj-shef.htm#1g9pm",
+          "author": "kardamon2007",
+          "parent_anchor": null,
+          "date_display": "kardamon2007 30.01.25 09:27 3 7",
+          "body_sha256": "0d253d0d561086823359d14260fc0672134939b02377a5d50b57172d9d63b83b",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        },
+        {
+          "anchor": "1g9qr",
+          "url": "https://exler.es/films/comments/kriminalnyj-shef.htm#1g9qr",
+          "author": "Alex Exler",
+          "parent_anchor": "1g9pm",
+          "date_display": "Alex Exler kardamon2007 30.01.25 10:01 9 1",
+          "body_sha256": "bb7b2f4d2ab8e70fbebc2445aba5b5e2cf5375c737bbb5a15790a6b513363bb3",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        },
+        {
+          "anchor": "1g9rn",
+          "url": "https://exler.es/films/comments/kriminalnyj-shef.htm#1g9rn",
+          "author": "Tyler",
+          "parent_anchor": "1g9qr",
+          "date_display": "Tyler Alex Exler 30.01.25 10:32 1 3",
+          "body_sha256": "4e4627b864e8e6bc996401dd278018f397bd09a98f85c22990231a89c7dc297d",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        },
+        {
+          "anchor": "1g9s0",
+          "url": "https://exler.es/films/comments/kriminalnyj-shef.htm#1g9s0",
+          "author": "Alex Exler",
+          "parent_anchor": "1g9rn",
+          "date_display": "Alex Exler Tyler 30.01.25 10:39 4 0",
+          "body_sha256": "e2a7ab718adec4ca707e9d873cf60f703c354d9869f31a20ecd411bc9f120651",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        },
+        {
+          "anchor": "1ga4a",
+          "url": "https://exler.es/films/comments/kriminalnyj-shef.htm#1ga4a",
+          "author": "Alex Exler",
+          "parent_anchor": "1g9x0",
+          "date_display": "Alex Exler kardamon2007 30.01.25 16:39 0 1",
+          "body_sha256": "579819334d7e76caf7c9dbb828a1de88493319198ca2bc5e3fa6c554cd74077b",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        },
+        {
+          "anchor": "1gatt",
+          "url": "https://exler.es/films/comments/kriminalnyj-shef.htm#1gatt",
+          "author": "Vinny_The_Poo",
+          "parent_anchor": "1g9s0",
+          "date_display": "Vinny_The_Poo Alex Exler 31.01.25 15:19 4 0",
+          "body_sha256": "bea81421467b6cbf0af8845ca9f076b4cbb8e53da0b2b0302e809acd0d9f318b",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        },
+        {
+          "anchor": "1gav4",
+          "url": "https://exler.es/films/comments/kriminalnyj-shef.htm#1gav4",
+          "author": "Alex Exler",
+          "parent_anchor": "1gatt",
+          "date_display": "Alex Exler Vinny_The_Poo 31.01.25 16:20 0 0",
+          "body_sha256": "9800d5697180a9079c19a0416abc17779b0272f093c6973a24494b13a9bc6ae0",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        }
+      ],
+      "supporting_sources": []
+    },
+    {
+      "id": "RAGE-010",
+      "title": "Жалоба на спам оборачивается тремя днями заявителю",
+      "group": "Бан после критики",
+      "sanction_status": "announced_ban",
+      "announced_duration": "3 дня",
+      "post_id": "8607",
+      "response_db_id": "1061388",
+      "response_date": "2022-02-04 23:16:00",
+      "page_url": "https://exler.es/blog/pyatnishnaya-pesenka-255.htm",
+      "page_sha256": "61c7762a1f861ea7f2d943965e24d4119056da7d2147aed3f9e6d85ce680109b",
+      "comments": [
+        {
+          "anchor": "xli3",
+          "url": "https://exler.es/blog/comments/pyatnishnaya-pesenka-255.htm#xli3",
+          "author": "Олег Евгеньевич",
+          "parent_anchor": null,
+          "date_display": "Олег Евгеньевич 04.02.22 22:45 10 10",
+          "body_sha256": "e3702f55c259b1f232335e19e744a67040cdc1de3fd785e76565898f4ad6f8fd",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        },
+        {
+          "anchor": "xlir",
+          "url": "https://exler.es/blog/comments/pyatnishnaya-pesenka-255.htm#xlir",
+          "author": "Alex Exler",
+          "parent_anchor": "xli3",
+          "date_display": "Alex Exler Олег Евгеньевич 04.02.22 23:16 9 7",
+          "body_sha256": "a409c947ccc42289bd68667176cf7702a40d05938935a064059ba484a37ddd10",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        },
+        {
+          "anchor": "xll2",
+          "url": "https://exler.es/blog/comments/pyatnishnaya-pesenka-255.htm#xll2",
+          "author": "Alex Exler",
+          "parent_anchor": "xljw",
+          "date_display": "Alex Exler bort777 05.02.22 00:49 4 2",
+          "body_sha256": "e0177d467d8c30be730614b1f865b351052f387c2cf6bb0d5a7aa946cd05f5b1",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        },
+        {
+          "anchor": "xll6",
+          "url": "https://exler.es/blog/comments/pyatnishnaya-pesenka-255.htm#xll6",
+          "author": "xM2k",
+          "parent_anchor": "xlir",
+          "date_display": "xM2k Alex Exler 05.02.22 00:54 0 7",
+          "body_sha256": "886714b73cd581975950a68d420bd21be2fa8af618081c5f401763c740547ba7",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": true
+        },
+        {
+          "anchor": "xlll",
+          "url": "https://exler.es/blog/comments/pyatnishnaya-pesenka-255.htm#xlll",
+          "author": "Alex Exler",
+          "parent_anchor": "xll6",
+          "date_display": "Alex Exler xM2k 05.02.22 01:22 1 6",
+          "body_sha256": "4b8054c9a424cfff1d63309e175809175238859fb4dbd0f237c0cf3c86e4d867",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        },
+        {
+          "anchor": "xlyf",
+          "url": "https://exler.es/blog/comments/pyatnishnaya-pesenka-255.htm#xlyf",
+          "author": "Android",
+          "parent_anchor": "xli3",
+          "date_display": "Android Олег Евгеньевич 05.02.22 16:53 1 1",
+          "body_sha256": "a4850e7ec9c8aca80752c015d98136e232ffdeee224bf48bbe8e434c86e2e3d1",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        }
+      ],
+      "supporting_sources": []
+    },
+    {
+      "id": "RAGE-011",
+      "title": "Наказание за повторяющуюся шутку об электромопеде",
+      "group": "Автор объясняет отстранение",
+      "sanction_status": "announced_time_out_unspecified",
+      "announced_duration": "срок не назван",
+      "post_id": "3355",
+      "response_db_id": "412318",
+      "response_date": "2024-06-05 11:16:00",
+      "page_url": "https://exler.es/blog/vsemirnyy-den-velosipeda-2.htm",
+      "page_sha256": "5f19b741456e28f82bddee04a4b9346971061e3a68120fb3d5f0277f6084bb18",
+      "comments": [
+        {
+          "anchor": "1ceus",
+          "url": "https://exler.es/blog/comments/vsemirnyy-den-velosipeda-2.htm#1ceus",
+          "author": "runcyclexcski",
+          "parent_anchor": null,
+          "date_display": "runcyclexcski 05.06.24 09:47 4 3",
+          "body_sha256": "3f007a0e70e5f2b142e814e2c0d5fc3952fbea292823d89bb0721859852315f9",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        },
+        {
+          "anchor": "1cewg",
+          "url": "https://exler.es/blog/comments/vsemirnyy-den-velosipeda-2.htm#1cewg",
+          "author": "Zmitrok",
+          "parent_anchor": "1cew7",
+          "date_display": "Zmitrok Пафнутий Залипако 05.06.24 11:00 0 1",
+          "body_sha256": "fb76f2bd70175b296abcda9de13488e3762747279909d74d14120c4a62b45d04",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        },
+        {
+          "anchor": "1cex2",
+          "url": "https://exler.es/blog/comments/vsemirnyy-den-velosipeda-2.htm#1cex2",
+          "author": "Alex Exler",
+          "parent_anchor": "1cewg",
+          "date_display": "Alex Exler Zmitrok 05.06.24 11:16 0 1",
+          "body_sha256": "b3245c2d9c1ac07398ba870b8cb3a1cbed7ae93815c9715ba529a38c030205e7",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        }
+      ],
+      "supporting_sources": []
     }
   ]
 }

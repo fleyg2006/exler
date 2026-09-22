@@ -1,0 +1,28 @@
+{
+  "archive_author_rows": 19662,
+  "unique_ids": 19662,
+  "author_dates": [
+    "2021-05-19 11:47:00",
+    "2026-06-17 13:43:00"
+  ],
+  "author_export_sha256": "31ae2be3ec962ffcb6bc5fa27e5b877f50dbda642a508a13f88dc7897113668b",
+  "explicit_ban_keyword_candidates": 80,
+  "implicit_timeout_candidates": 57,
+  "correction_tone_candidates": 137,
+  "unique_candidates_total": 256,
+  "cached_post_contexts": 35,
+  "fetched_pages": 61,
+  "primary_case_pages": 11,
+  "selected_comment_refs": 39,
+  "main_cases": 11,
+  "sanctions_by_status": {
+    "announced_time_out_unspecified": 1,
+    "announced_ban": 4,
+    "not_established": 6
+  },
+  "unique_archived_post_contexts": 34,
+  "context_notes": 4,
+  "rejected_versions": 8,
+  "satirical_scenes": 7,
+  "unconfirmed_leads": 4
+}

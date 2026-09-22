@@ -1,0 +1,622 @@
+{
+  "as_of": "2026-09-22",
+  "pages": [
+    {
+      "url": "https://club443.ru/t/189994/p/33012925",
+      "final_url": "https://club443.ru/t/189994/p/33012925",
+      "status": 200,
+      "title": "",
+      "bytes": 183,
+      "sha256": "79bd1a13f86dc6a645b7e24f08561e8a8f15581e657fbdf98a30a12e39cc1437",
+      "fetched_at": "2026-09-22T21:22:33.849856+00:00",
+      "role": "no_discussion_body_returned"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1160874.html",
+      "final_url": "https://exler-cult.livejournal.com/1160874.html",
+      "status": 200,
+      "title": "Урок рускава езыка: exler_cult — LiveJournal",
+      "bytes": 827117,
+      "sha256": "1437fa17c82f95724855af9fb140e9fe7d6a6a98f07ef0d8fa652010fda36007",
+      "fetched_at": "2026-09-22T21:12:40.506840+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1210474.html",
+      "final_url": "https://exler-cult.livejournal.com/1210474.html",
+      "status": 200,
+      "title": "Нельзя фотографировать: exler_cult — LiveJournal",
+      "bytes": 825275,
+      "sha256": "51e3afcd122fe8983d6d2d8e953d0f06bb45dc4fc1a118ead6d087bdf140ae7d",
+      "fetched_at": "2026-09-22T21:12:40.243495+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1345998.html",
+      "final_url": "https://exler-cult.livejournal.com/1345998.html",
+      "status": 200,
+      "title": "Возрадуйтесь, культяне! Гравитация все-таки существует, my ass!: exler_cult — LiveJournal",
+      "bytes": 825247,
+      "sha256": "b0aba7ccce4dd68ae7c508dbebd48212ecf689d83ed8dd114f889a31a6e9c9ca",
+      "fetched_at": "2026-09-22T21:12:49.883536+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1367052.html",
+      "final_url": "https://exler-cult.livejournal.com/1367052.html",
+      "status": 200,
+      "title": "Фу быть таким профаном!: exler_cult — LiveJournal",
+      "bytes": 817925,
+      "sha256": "af3b2c76565d5f77078404eab6a91f9f6b4959227f9d9f1e6d2e88d5c1e6d7a8",
+      "fetched_at": "2026-09-22T21:12:49.602367+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1418149.html",
+      "final_url": "https://exler-cult.livejournal.com/1418149.html",
+      "status": 200,
+      "title": "Комплекс неполноценности: exler_cult — LiveJournal",
+      "bytes": 830347,
+      "sha256": "8e5150ff901048dec8c448226bbfc41d6108c0f8b45c86212816dbee62f975f8",
+      "fetched_at": "2026-09-22T21:12:29.560366+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1418537.html",
+      "final_url": "https://exler-cult.livejournal.com/1418537.html",
+      "status": 200,
+      "title": "Вести из уютного загончика: exler_cult — LiveJournal",
+      "bytes": 822685,
+      "sha256": "def28374f12757c9dfaaf216fe3d66b74e9f3321ff2456070810ec641cf4e442",
+      "fetched_at": "2026-09-22T21:12:29.916947+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1437867.html",
+      "final_url": "https://exler-cult.livejournal.com/1437867.html",
+      "status": 200,
+      "title": "Пукан порван - подрыв пошел: exler_cult — LiveJournal",
+      "bytes": 810032,
+      "sha256": "8760a3178045885efac8d8af66b8a73c2fa924cdcf75fda474a2cb754c127d75",
+      "fetched_at": "2026-09-22T21:12:29.383438+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1450863.html",
+      "final_url": "https://exler-cult.livejournal.com/1450863.html",
+      "status": 200,
+      "title": "Уязвленный Экслер: exler_cult — LiveJournal",
+      "bytes": 809629,
+      "sha256": "1fc20de6506deb3b38aa4b3c95df62c1d4abca43ddb6f66097751402c271d6fd",
+      "fetched_at": "2026-09-22T21:12:29.677605+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1493193.html",
+      "final_url": "https://exler-cult.livejournal.com/1493193.html",
+      "status": 200,
+      "title": "Ассенизаторное, my ass: exler_cult — LiveJournal",
+      "bytes": 736787,
+      "sha256": "a0009d34415914e6c8f83d12c0d8aa98f9784d1af8c3125764e09240fe862fcc",
+      "fetched_at": "2026-09-22T20:57:54.832962+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1519653.html",
+      "final_url": "https://exler-cult.livejournal.com/1519653.html",
+      "status": 200,
+      "title": "Чисто понимания для: exler_cult — LiveJournal",
+      "bytes": 826127,
+      "sha256": "122d937ccc9003917ea5f33367fd1efdec5fdb51ecb7b08b9fbc6d3587f7595c",
+      "fetched_at": "2026-09-22T21:12:40.037747+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1522072.html",
+      "final_url": "https://exler-cult.livejournal.com/1522072.html",
+      "status": 200,
+      "title": "старый матершинник: exler_cult — LiveJournal",
+      "bytes": 820514,
+      "sha256": "201a8ff5fccea8b2b191723b7dd67fe27475a13048b616d00ef7420b2c05a479",
+      "fetched_at": "2026-09-22T21:12:39.756462+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/292533.html",
+      "final_url": "https://exler-cult.livejournal.com/292533.html",
+      "status": 200,
+      "title": "Изменения Правил Форума Экслера: exler_cult — LiveJournal",
+      "bytes": 745158,
+      "sha256": "30a3fb0e6462e7ebe2f18d81879bd40f5a4c31a4d4388fb360b5b27a0be1abc4",
+      "fetched_at": "2026-09-22T20:57:55.776763+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/592123.html",
+      "final_url": "https://exler-cult.livejournal.com/592123.html",
+      "status": 200,
+      "title": "История одного бана: exler_cult — LiveJournal",
+      "bytes": 749910,
+      "sha256": "33dd4a65726d7b76a3ee74eaa1b344001738989be393fb44e1da991a960e6607",
+      "fetched_at": "2026-09-22T20:57:55.575139+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/592123.html?thread=7270907#t7270907",
+      "final_url": "https://exler-cult.livejournal.com/592123.html?thread=7270907#t7270907",
+      "status": 200,
+      "title": "История одного бана: exler_cult — LiveJournal",
+      "bytes": 737095,
+      "sha256": "f80969eebb870c2eb762e46d6bb458b5426a88d8a32b0519b66c8c8538d0d236",
+      "fetched_at": "2026-09-22T21:03:06.565855+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/954427.html",
+      "final_url": "https://exler-cult.livejournal.com/954427.html",
+      "status": 200,
+      "title": "Культянами уже неоднократно замечалась нездоровая любовь гуру к…: exler_cult — LiveJournal",
+      "bytes": 741975,
+      "sha256": "0eb0b7653700a1ce58eef8a947c7a875ef8ae37da73f8ae499a736da96fcfcac",
+      "fetched_at": "2026-09-22T20:58:04.470577+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/tag/",
+      "final_url": "https://exler-cult.livejournal.com/tag/",
+      "status": 200,
+      "title": "Метки - Экслер, Бублик и уютная веселая компашка — ЖЖ",
+      "bytes": 702773,
+      "sha256": "5a27140bf9cc47b74932a745c7fe789ae722daca19e7cbbfe2f9f56635ea6a2c",
+      "fetched_at": "2026-09-22T21:03:06.488002+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/tag/%D0%B2%D0%BE%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D1%83%D1%8E%D1%89%D0%B8%D0%B9%20%D0%A3%D1%87%D0%B4%D1%83%D0%BA/",
+      "final_url": "https://exler-cult.livejournal.com/tag/%D0%B2%D0%BE%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D1%83%D1%8E%D1%89%D0%B8%D0%B9%20%D0%A3%D1%87%D0%B4%D1%83%D0%BA/",
+      "status": 200,
+      "title": "exler_cult, записи по тегу воинствующий Учдук — Живой Журнал — ЖЖ",
+      "bytes": 829237,
+      "sha256": "f46afed5e43375239fa8248d83919f1ab4f427f723659bf8585cd4542efe1306",
+      "fetched_at": "2026-09-22T21:05:04.038579+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/tag/%D0%B3%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B2%20%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81%D0%B5%20-%20%D0%BD%D0%B5%D1%82%21/",
+      "final_url": "https://exler-cult.livejournal.com/tag/%D0%B3%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B2%20%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81%D0%B5%20-%20%D0%BD%D0%B5%D1%82%21/",
+      "status": 200,
+      "title": "exler_cult, записи по тегу гравитации в космосе - нет! — Живой Журнал — ЖЖ",
+      "bytes": 761900,
+      "sha256": "a7f2048bf2c32ea2794c05b411bdbd7684c65336180f2e4b2b8ff693ccb905dc",
+      "fetched_at": "2026-09-22T21:05:16.510436+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/tag/%D0%BA%D1%83%D0%BD%D1%81%D1%82%D0%BA%D0%B0%D0%BC%D0%B5%D1%80%D0%B0%20%D0%AD%D0%BA%D1%81%D0%BB%D0%B5%D1%80%D0%B0/",
+      "final_url": "https://exler-cult.livejournal.com/tag/%D0%BA%D1%83%D0%BD%D1%81%D1%82%D0%BA%D0%B0%D0%BC%D0%B5%D1%80%D0%B0%20%D0%AD%D0%BA%D1%81%D0%BB%D0%B5%D1%80%D0%B0/",
+      "status": 200,
+      "title": "exler_cult, записи по тегу кунсткамера Экслера — Живой Журнал — ЖЖ",
+      "bytes": 779439,
+      "sha256": "57f725102ad0fbed943dc2663d513ed2ab2a442652788fb6b9d9942ff3eb68e8",
+      "fetched_at": "2026-09-22T21:05:03.803419+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/tag/%D0%BC%D0%BE%D0%B4%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D0%B0%D0%BB/",
+      "final_url": "https://exler-cult.livejournal.com/tag/%D0%BC%D0%BE%D0%B4%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D0%B0%D0%BB/",
+      "status": 200,
+      "title": "exler_cult, записи по тегу модераториал — Живой Журнал — ЖЖ",
+      "bytes": 786116,
+      "sha256": "65de6463be262d9c09c3c49ab10dd7bfdc80b0b87176265991038b6d3294c034",
+      "fetched_at": "2026-09-22T21:05:16.368855+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/tag/%D0%BF%D1%83%D0%BA%20%D0%B2%20%D0%BB%D1%83%D0%B6%D1%83/",
+      "final_url": "https://exler-cult.livejournal.com/tag/%D0%BF%D1%83%D0%BA%20%D0%B2%20%D0%BB%D1%83%D0%B6%D1%83/",
+      "status": 200,
+      "title": "exler_cult, записи по тегу пук в лужу — Живой Журнал — ЖЖ",
+      "bytes": 784476,
+      "sha256": "58814369ec84110070aa9dc2fe051e1ed78e6b7c8042859c8a3bda8796843a19",
+      "fetched_at": "2026-09-22T21:05:03.884068+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/tag/old_%D0%B6%D0%BE%D0%BF%D0%B0/",
+      "final_url": "https://exler-cult.livejournal.com/tag/old_%D0%B6%D0%BE%D0%BF%D0%B0/",
+      "status": 200,
+      "title": "exler_cult, записи по тегу old_жопа — Живой Журнал — ЖЖ",
+      "bytes": 827426,
+      "sha256": "db79de5c991d8df998594d190f51c8e38cc96a419f13b36053f44167463f84c3",
+      "fetched_at": "2026-09-22T21:05:16.510538+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/tag/old_%D1%81%D0%BC%D0%B5%D1%88%D0%BD%D1%8B%D0%B5%20%D0%B4%D1%83%D1%80%D0%B0%D1%87%D0%BA%D0%B8/",
+      "final_url": "https://exler-cult.livejournal.com/tag/old_%D1%81%D0%BC%D0%B5%D1%88%D0%BD%D1%8B%D0%B5%20%D0%B4%D1%83%D1%80%D0%B0%D1%87%D0%BA%D0%B8/",
+      "status": 200,
+      "title": "exler_cult, записи по тегу old_смешные дурачки — Живой Журнал — ЖЖ",
+      "bytes": 824680,
+      "sha256": "5e1a1a15e5281d29705775d0ec98a2b64a669cd1577d67732ff85dece71bee73",
+      "fetched_at": "2026-09-22T21:05:04.851534+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/tag/yes%20shure/",
+      "final_url": "https://exler-cult.livejournal.com/tag/yes%20shure/",
+      "status": 200,
+      "title": "exler_cult, записи по тегу yes shure — Живой Журнал — ЖЖ",
+      "bytes": 758957,
+      "sha256": "ce9062fe9d63d5b9c7d337bc9622dd9bea693add782cd74b7586ec127c73bc54",
+      "fetched_at": "2026-09-22T21:05:16.455250+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-51.htm",
+      "final_url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-51.htm",
+      "status": 200,
+      "title": "Делимся находками из китайских магазинов",
+      "bytes": 859373,
+      "sha256": "aa55e273170a6168d3e6b06789892e00ae0eb4b0bf092ebe1fb53360ad7228a4",
+      "fetched_at": "2026-09-22T21:12:36.462122+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler.es/blog/beregites-deti-bakenboksy.htm",
+      "final_url": "https://exler.es/blog/beregites-deti-bakenboksy.htm",
+      "status": 200,
+      "title": "Берегитесь, дети, бакенбоксов!",
+      "bytes": 202341,
+      "sha256": "b2880debe85d1ce12dd66353df3e108c3178bd2284c6b023f0e73e15d880d0fd",
+      "fetched_at": "2026-09-22T20:58:04.234205+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler.es/blog/denis-chuzhoy-o-chate-inoagentov.htm",
+      "final_url": "https://exler.es/blog/denis-chuzhoy-o-chate-inoagentov.htm",
+      "status": 200,
+      "title": "Денис Чужой о чате иноагентов",
+      "bytes": 464174,
+      "sha256": "ef869bbb882c69c79dcd1cdc194227de9ee4f21ec3fafbedb1fa4b6e1a6b9f7b",
+      "fetched_at": "2026-09-22T21:03:03.290948+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler.es/blog/eksler-stydites.htm",
+      "final_url": "https://exler.es/blog/eksler-stydites.htm",
+      "status": 200,
+      "title": "Экслер, стыдитесь!",
+      "bytes": 506804,
+      "sha256": "e0a850ff1a2ac0b123cc52a24991ecfbc5c2a1d70d5fb83935cfebbf4915fb78",
+      "fetched_at": "2026-09-22T21:03:03.136693+00:00",
+      "role": "primary_case"
+    },
+    {
+      "url": "https://exler.es/blog/general-kellog-o-ramkakh-prilichiy.htm",
+      "final_url": "https://exler.es/blog/general-kellog-o-ramkakh-prilichiy.htm",
+      "status": 200,
+      "title": "Генерал Келлог о рамках приличий",
+      "bytes": 906789,
+      "sha256": "3fe6ccf4df4ad598cf01289e051b7fb4db1eda444850bfc29213410fe885178a",
+      "fetched_at": "2026-09-22T21:32:28.587375+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler.es/blog/gogi-abramovich-chingachguk-iz-kazakhstana.htm",
+      "final_url": "https://exler.es/blog/gogi-abramovich-chingachguk-iz-kazakhstana.htm",
+      "status": 200,
+      "title": "Гоги Абрамович Чингачгук из Казахстана",
+      "bytes": 1846582,
+      "sha256": "68067fe58026d50108af07d0305015005552f1572a24858a399b0d0080d6cdbd",
+      "fetched_at": "2026-09-22T21:14:15.475913+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler.es/blog/ispanskiye-budni.htm",
+      "final_url": "https://exler.es/blog/ispanskiye-budni.htm",
+      "status": 200,
+      "title": "Испанские будни",
+      "bytes": 430222,
+      "sha256": "bbdc089a81d53eef5903e30fe0821db95b19375ee01acab37f631abcef00fcb2",
+      "fetched_at": "2026-09-22T21:14:14.803702+00:00",
+      "role": "primary_case"
+    },
+    {
+      "url": "https://exler.es/blog/item/18423/",
+      "final_url": "https://exler.es/blog/nu-chto-kupacca.htm",
+      "status": 200,
+      "title": "Ну что - купацца?!!",
+      "bytes": 247674,
+      "sha256": "d513aea9e2e5239d60a9ae3efd21b8d5847ba5d2e94812e50af0cf00512ef951",
+      "fetched_at": "2026-09-22T21:22:34.768911+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler.es/blog/item/20538/",
+      "final_url": "https://exler.es/blog/vesti-iz-krasivogo-prudika.htm",
+      "status": 200,
+      "title": "Вести из красивого прудика",
+      "bytes": 369722,
+      "sha256": "f27d458fb333f81a1446aeca2853b3d8c1c7633048b8535b29a892a9cac8932a",
+      "fetched_at": "2026-09-22T21:15:24.938901+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler.es/blog/item/21198/",
+      "final_url": "https://exler.es/blog/podryv-poshel.htm",
+      "status": 200,
+      "title": "Подрыв пошел",
+      "bytes": 175363,
+      "sha256": "10d2e97d4b7da283085093bb3257d3c5b25d5933dc2e6feb0295b31c73c37851",
+      "fetched_at": "2026-09-22T21:15:17.022494+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler.es/blog/kak-stimulirovat-perekhod-rossiyan-na-messendzher-max.htm",
+      "final_url": "https://exler.es/blog/kak-stimulirovat-perekhod-rossiyan-na-messendzher-max.htm",
+      "status": 200,
+      "title": "Как стимулировать переход россиян на мессенджер Max",
+      "bytes": 578876,
+      "sha256": "398ab282c486a7604a50bee2927c8b72db8dc61fca867a51209ae7a8a5cf1d24",
+      "fetched_at": "2026-09-22T21:12:28.419932+00:00",
+      "role": "primary_case"
+    },
+    {
+      "url": "https://exler.es/blog/klimenko-zakryl-internet.htm",
+      "final_url": "https://exler.es/blog/klimenko-zakryl-internet.htm",
+      "status": 200,
+      "title": "Клименко закрыл Интернет",
+      "bytes": 289039,
+      "sha256": "86fe320ea4935b17b74f9484352f16b5bbaf321d3f3ec5c662d650d4038e0b3b",
+      "fetched_at": "2026-09-22T21:15:09.181516+00:00",
+      "role": "supporting_source"
+    },
+    {
+      "url": "https://exler.es/blog/menya-podstavili.htm",
+      "final_url": "https://exler.es/blog/menya-podstavili.htm",
+      "status": 200,
+      "title": "Меня подставили",
+      "bytes": 360292,
+      "sha256": "115402b03131c27d6a95c043b4ccf5feb6b4c6a3316317e1684f4c5c390b0582",
+      "fetched_at": "2026-09-22T20:57:54.084897+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler.es/blog/nemnogo-shabli.htm",
+      "final_url": "https://exler.es/blog/nemnogo-shabli.htm",
+      "status": 200,
+      "title": "Немного Шабли",
+      "bytes": 211497,
+      "sha256": "231f000678f6e9877a3d39297fadba333f6b70eb1df7630b9fb8018140534d7d",
+      "fetched_at": "2026-09-22T21:12:28.241493+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler.es/blog/novyy-sensor-v-smartfone-xiaomi-16-pro-max.htm",
+      "final_url": "https://exler.es/blog/novyy-sensor-v-smartfone-xiaomi-16-pro-max.htm",
+      "status": 200,
+      "title": "Новый сенсор в смартфоне Xiaomi 16 Pro Max",
+      "bytes": 208954,
+      "sha256": "546a3c4b2eb9b7caadcfba6b2689155f8d5b903855081aecf0d5695dbe8b875d",
+      "fetched_at": "2026-09-22T21:16:45.983245+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler.es/blog/olivye-eto-kaloriynaya-bomba.htm",
+      "final_url": "https://exler.es/blog/olivye-eto-kaloriynaya-bomba.htm",
+      "status": 200,
+      "title": "Оливье — это калорийная бомба?",
+      "bytes": 425883,
+      "sha256": "6dd013f71100a9a855b72cda06e04a7aeaf9231cb4b0ac52116d3e8df0fedd8a",
+      "fetched_at": "2026-09-22T21:12:44.222245+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler.es/blog/poslableniya-dlya-nelegalov-v-ispanii.htm",
+      "final_url": "https://exler.es/blog/poslableniya-dlya-nelegalov-v-ispanii.htm",
+      "status": 200,
+      "title": "Послабления для нелегалов в Испании",
+      "bytes": 321276,
+      "sha256": "649d021a5ad50c789c454392e952afd368662a79a3b60d419f4edd72a0b8a6a1",
+      "fetched_at": "2026-09-22T21:16:45.813703+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler.es/blog/pravila-kommentirovaniya-na-etom-sayte-2.htm",
+      "final_url": "https://exler.es/blog/pravila-kommentirovaniya-na-etom-sayte-2.htm",
+      "status": 200,
+      "title": "Правила комментирования на этом сайте",
+      "bytes": 678228,
+      "sha256": "4a001cd8a9f4d4f1b001a2925ccfbf76be35853fc598f3d791b06eccc631a45f",
+      "fetched_at": "2026-09-22T21:14:22.515801+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler.es/blog/pyatnishnaya-pesenka-255.htm",
+      "final_url": "https://exler.es/blog/pyatnishnaya-pesenka-255.htm",
+      "status": 200,
+      "title": "Пятнишная песенка",
+      "bytes": 298637,
+      "sha256": "61c7762a1f861ea7f2d943965e24d4119056da7d2147aed3f9e6d85ce680109b",
+      "fetched_at": "2026-09-22T21:12:36.013189+00:00",
+      "role": "primary_case"
+    },
+    {
+      "url": "https://exler.es/blog/sajtu-exler-ru-14-let.htm",
+      "final_url": "https://exler.es/blog/sajtu-exler-ru-14-let.htm",
+      "status": 200,
+      "title": "Сайту Exler.ru - 14 лет",
+      "bytes": 234929,
+      "sha256": "04391dde5886adbe17b5c06b92cc98858e27b7e5cede16747d681e54cbdc8747",
+      "fetched_at": "2026-09-22T21:15:09.019193+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler.es/blog/skolko-lyudey-otkazalis-vaktsinirovatsya-v-katalonii.htm",
+      "final_url": "https://exler.es/blog/skolko-lyudey-otkazalis-vaktsinirovatsya-v-katalonii.htm",
+      "status": 200,
+      "title": "Сколько людей отказались вакцинироваться в Каталонии",
+      "bytes": 780816,
+      "sha256": "2fe0b7b484b5a7891bf9e37bddc6d2697dc2907d85a6cf243120cb2e386636f8",
+      "fetched_at": "2026-09-22T21:14:22.146282+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler.es/blog/smeshnoy-ispanskiy.htm",
+      "final_url": "https://exler.es/blog/smeshnoy-ispanskiy.htm",
+      "status": 200,
+      "title": "Смешной испанский",
+      "bytes": 272621,
+      "sha256": "d0f65f6cb6c2df31cf886ae24c32838e79bb6137636a4b4e747275995ff44caa",
+      "fetched_at": "2026-09-22T21:12:36.078742+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler.es/blog/sotrudnichayet-ili-ne-sotrudnichayet-durov-s-vlastyami-rf.htm",
+      "final_url": "https://exler.es/blog/sotrudnichayet-ili-ne-sotrudnichayet-durov-s-vlastyami-rf.htm",
+      "status": 200,
+      "title": "Сотрудничает или не сотрудничает Дуров с властями РФ",
+      "bytes": 738206,
+      "sha256": "533dcace685fa085811e73a629bc06430c349f2a41904e78fad79e05182bc95a",
+      "fetched_at": "2026-09-22T21:16:46.309108+00:00",
+      "role": "primary_case"
+    },
+    {
+      "url": "https://exler.es/blog/vsemirnyy-den-velosipeda-2.htm",
+      "final_url": "https://exler.es/blog/vsemirnyy-den-velosipeda-2.htm",
+      "status": 200,
+      "title": "Всемирный день велосипеда",
+      "bytes": 615270,
+      "sha256": "5f19b741456e28f82bddee04a4b9346971061e3a68120fb3d5f0277f6084bb18",
+      "fetched_at": "2026-09-22T21:14:15.005073+00:00",
+      "role": "primary_case"
+    },
+    {
+      "url": "https://exler.es/blog/znakomtes.htm",
+      "final_url": "https://exler.es/blog/znakomtes.htm",
+      "status": 200,
+      "title": "Знакомьтесь",
+      "bytes": 370587,
+      "sha256": "e8178ef9fad80f2ac81ae2273780e989133ab7b0113e868af6dac3283a010e9c",
+      "fetched_at": "2026-09-22T21:03:03.472920+00:00",
+      "role": "primary_case"
+    },
+    {
+      "url": "https://exler.es/expromt/obzor-smartfona-oneplus-nord-2-5g-srednebyudzhetnik-s-opticheskim-stabom.htm",
+      "final_url": "https://exler.es/expromt/obzor-smartfona-oneplus-nord-2-5g-srednebyudzhetnik-s-opticheskim-stabom.htm",
+      "status": 200,
+      "title": "Обзор смартфона OnePlus Nord 2 5G - среднебюджетник с оптическим стабом",
+      "bytes": 401347,
+      "sha256": "c1b5119b55fc4f7579debe7c61c7f5a9dda579c37d6f08c386e3644cb2f65210",
+      "fetched_at": "2026-09-22T21:14:14.412573+00:00",
+      "role": "primary_case"
+    },
+    {
+      "url": "https://exler.es/films/10-08-2015.htm",
+      "final_url": "https://exler.es/films/interstellar.htm",
+      "status": 200,
+      "title": "Интерстеллар",
+      "bytes": 959250,
+      "sha256": "64fa49e84c44f6399973841a7feeee863ff70bf1fe3edd78a3b3eb19d89d240a",
+      "fetched_at": "2026-09-22T21:22:35.329724+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler.es/films/kriminalnyj-shef.htm",
+      "final_url": "https://exler.es/films/kriminalnyj-shef.htm",
+      "status": 200,
+      "title": "Криминальный шеф",
+      "bytes": 381301,
+      "sha256": "b73fd7b24ef778b65fd08b1a8561fffb8dfcaf8f0cddd55927ff6712d1045aba",
+      "fetched_at": "2026-09-22T21:12:27.387598+00:00",
+      "role": "primary_case"
+    },
+    {
+      "url": "https://exler.es/films/rasplata-2.htm",
+      "final_url": "https://exler.es/films/rasplata-2.htm",
+      "status": 200,
+      "title": "Расплата 2",
+      "bytes": 404048,
+      "sha256": "e7a616488a2553cf62060b42461d9c4454d9d15037650cd99041c34bb45e063d",
+      "fetched_at": "2026-09-22T21:12:28.175843+00:00",
+      "role": "primary_case"
+    },
+    {
+      "url": "https://exler.es/films/rasplata.htm",
+      "final_url": "https://exler.es/films/rasplata.htm",
+      "status": 200,
+      "title": "Расплата",
+      "bytes": 319035,
+      "sha256": "3c2b3bd10f7cf77e37de745edb76d850e77b623532ce58c675095dfd33348325",
+      "fetched_at": "2026-09-22T21:15:09.126669+00:00",
+      "role": "supporting_source"
+    },
+    {
+      "url": "https://exler.es/likbez/besprovodnaya-zaryadka-ustrojstv-chto-nuzhno-znat.htm",
+      "final_url": "https://exler.es/likbez/besprovodnaya-zaryadka-ustrojstv-chto-nuzhno-znat.htm",
+      "status": 200,
+      "title": "Беспроводная зарядка устройств - что нужно знать",
+      "bytes": 356458,
+      "sha256": "6892c022eb7d6127572e0090c8b774be98af7b1bdd94f74778e29941d1050bbc",
+      "fetched_at": "2026-09-22T21:12:35.932593+00:00",
+      "role": "primary_case"
+    },
+    {
+      "url": "https://exler.livejournal.com/3700017.html",
+      "final_url": "https://exler.livejournal.com/3700017.html",
+      "status": 200,
+      "title": "Ну что - купацца?!!: exler — LiveJournal",
+      "bytes": 740024,
+      "sha256": "d2eb220be208d0b07593703537cee36c4a297fb2db7cea3b4f8ea29f7535e349",
+      "fetched_at": "2026-09-22T21:15:03.124641+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://polet-fantazii.livejournal.com/562480.html",
+      "final_url": "https://polet-fantazii.livejournal.com/562480.html",
+      "status": 200,
+      "title": "Почему-то многих заинтересовало именно то, за что меня забанили на…: polet_fantazii — LiveJournal",
+      "bytes": 764805,
+      "sha256": "86a8126024b80f8c908a97f487038ab05291cf3755c7be0a4a7694bfb63a5971",
+      "fetched_at": "2026-09-22T21:14:27.962922+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://telegram.me/s/eschulmann?after=4417",
+      "final_url": "https://telegram.me/s/eschulmann?after=4417",
+      "status": 200,
+      "title": "Екатерина Шульман – Telegram",
+      "bytes": 135047,
+      "sha256": "78cf546335cf45d12939b0f14eae01206cf698a2ef0dc082ab712f68ebd0307b",
+      "fetched_at": "2026-09-22T21:10:00.686361+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://telegram.org/blog/protected-content-delete-by-date-and-more",
+      "final_url": "https://telegram.org/blog/protected-content-delete-by-date-and-more",
+      "status": 200,
+      "title": "Protected Content, Delete by Date, Device Management and More",
+      "bytes": 27261,
+      "sha256": "93ea3dc323d0fa4a639bbb9c193210a59c874b56139c1e6b354f668aa1021863",
+      "fetched_at": "2026-09-22T21:21:00.675476+00:00",
+      "role": "supporting_source"
+    },
+    {
+      "url": "https://www.ti.com/product/BQ51013B",
+      "final_url": "https://www.ti.com/product/BQ51013B",
+      "status": 200,
+      "title": "BQ51013B data sheet, product information and support | TI.com",
+      "bytes": 259161,
+      "sha256": "9703fe9b3d8431f8503cc41e03a99b1a798b50bf68fd31b95ab0a4b0a6ca63fe",
+      "fetched_at": "2026-09-22T21:21:00.675677+00:00",
+      "role": "supporting_source"
+    }
+  ],
+  "errors": [
+    {
+      "url": "https://travel.state.gov/content/travel/en/us-visas/immigrate/diversity-visa-program-entry/diversity-visa-selection-of-applicants.html",
+      "status": 403,
+      "used_as_evidence": false
+    }
+  ]
+}
