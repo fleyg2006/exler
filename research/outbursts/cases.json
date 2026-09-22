@@ -1,0 +1,294 @@
+{
+  "title": "Алекс разбушевался",
+  "checked_at": "2026-09-22",
+  "unit": "episode",
+  "cases": [
+    {
+      "id": "RAGE-001",
+      "title": "Месяц за критику разбора непросмотренного фильма",
+      "group": "Бан после критики",
+      "sanction_status": "announced_ban",
+      "announced_duration": "1 месяц",
+      "post_id": "764",
+      "response_db_id": "87125",
+      "response_date": "2025-09-20 11:15:00",
+      "page_url": "https://exler.es/blog/eksler-stydites.htm",
+      "page_sha256": "e0a850ff1a2ac0b123cc52a24991ecfbc5c2a1d70d5fb83935cfebbf4915fb78",
+      "comments": [
+        {
+          "anchor": "1jxn6",
+          "url": "https://exler.es/blog/comments/eksler-stydites.htm#1jxn6",
+          "author": "Филин",
+          "parent_anchor": null,
+          "date_display": "Филин 19.09.25 20:48 16 2",
+          "body_sha256": "db1afa619d887f6298b662fa3cb753b2c0fa5de6ff81a4897a5191f6e9dad53b",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": true
+        },
+        {
+          "anchor": "1jxtm",
+          "url": "https://exler.es/blog/comments/eksler-stydites.htm#1jxtm",
+          "author": "Alex Exler",
+          "parent_anchor": "1jxn6",
+          "date_display": "Alex Exler Филин 20.09.25 11:15 0 5",
+          "body_sha256": "98aba463d5fac582e14e339c4d03f3c8062ed2972b80797afa1fdf8216d711bf",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        }
+      ],
+      "supporting_sources": []
+    },
+    {
+      "id": "RAGE-002",
+      "title": "Прежние слова о Клименко нельзя подносить к автору",
+      "group": "Ответ на проверяемое напоминание",
+      "sanction_status": "not_established",
+      "announced_duration": null,
+      "post_id": "1328",
+      "response_db_id": "152547",
+      "response_date": "2025-06-12 19:24:00",
+      "page_url": "https://exler.es/blog/kak-stimulirovat-perekhod-rossiyan-na-messendzher-max.htm",
+      "page_sha256": "398ab282c486a7604a50bee2927c8b72db8dc61fca867a51209ae7a8a5cf1d24",
+      "comments": [
+        {
+          "anchor": "1ig5u",
+          "url": "https://exler.es/blog/comments/kak-stimulirovat-perekhod-rossiyan-na-messendzher-max.htm#1ig5u",
+          "author": "Alex Exler",
+          "parent_anchor": "1ig4u",
+          "date_display": "Alex Exler Вглук 12.06.25 18:13 2 29",
+          "body_sha256": "946501b3f3fd48791b39b882ec3b860ef2fe135251e52f04c6e5f42e169b1272",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        },
+        {
+          "anchor": "1ig6n",
+          "url": "https://exler.es/blog/comments/kak-stimulirovat-perekhod-rossiyan-na-messendzher-max.htm#1ig6n",
+          "author": "Вглук",
+          "parent_anchor": "1ig5u",
+          "date_display": "Вглук Alex Exler 12.06.25 18:37 2 27",
+          "body_sha256": "6e0e57f70eb26f6aa74444c6315de10304684d01d50618d5f0877650bd6d1165",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        },
+        {
+          "anchor": "1ig7d",
+          "url": "https://exler.es/blog/comments/kak-stimulirovat-perekhod-rossiyan-na-messendzher-max.htm#1ig7d",
+          "author": "Alex Exler",
+          "parent_anchor": "1ig6n",
+          "date_display": "Alex Exler Вглук 12.06.25 19:24 31 7",
+          "body_sha256": "4c3adef6eb5f6f52ef44ef0a2964b2963306af37c63fa05184403c98c47cdfaf",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        }
+      ],
+      "supporting_sources": [
+        "https://exler.es/blog/klimenko-zakryl-internet.htm"
+      ]
+    },
+    {
+      "id": "RAGE-003",
+      "title": "«Расплата»: собственная цитата становится тратой времени",
+      "group": "Ответ на проверяемое напоминание",
+      "sanction_status": "not_established",
+      "announced_duration": null,
+      "post_id": "1283",
+      "response_db_id": "148096",
+      "response_date": "2025-06-28 10:12:00",
+      "page_url": "https://exler.es/films/rasplata-2.htm",
+      "page_sha256": "e7a616488a2553cf62060b42461d9c4454d9d15037650cd99041c34bb45e063d",
+      "comments": [
+        {
+          "anchor": "1inlo",
+          "url": "https://exler.es/films/comments/rasplata-2.htm#1inlo",
+          "author": "Sabiko",
+          "parent_anchor": "1ijvg",
+          "date_display": "Sabiko Alex Exler 28.06.25 08:28 0 0",
+          "body_sha256": "c15dc17425c72a265b3ddc4825ac037c6c5696628f372da1da1854a2c43dd43f",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        },
+        {
+          "anchor": "1inlq",
+          "url": "https://exler.es/films/comments/rasplata-2.htm#1inlq",
+          "author": "Alex Exler",
+          "parent_anchor": "1inlo",
+          "date_display": "Alex Exler Sabiko 28.06.25 08:34 0 0",
+          "body_sha256": "32b820648303e17e6f1a5ce90aa88e36adcb0f15b0f6231f888ab08568b9af80",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        },
+        {
+          "anchor": "1inm6",
+          "url": "https://exler.es/films/comments/rasplata-2.htm#1inm6",
+          "author": "Sabiko",
+          "parent_anchor": "1inlq",
+          "date_display": "Sabiko Alex Exler 28.06.25 09:18 0 0",
+          "body_sha256": "2f5168e63d4f6dce24986effa437c322905229fa5993a483f56f962ff680e14d",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        },
+        {
+          "anchor": "1inn0",
+          "url": "https://exler.es/films/comments/rasplata-2.htm#1inn0",
+          "author": "Alex Exler",
+          "parent_anchor": "1inm6",
+          "date_display": "Alex Exler Sabiko 28.06.25 10:12 0 0",
+          "body_sha256": "137d7c6c51bab193e445c389c0888ebdef77f5fb8cba4e4c13adad8c242018e5",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        }
+      ],
+      "supporting_sources": [
+        "https://exler.es/films/rasplata.htm"
+      ]
+    },
+    {
+      "id": "RAGE-004",
+      "title": "Шульман: видеоссылка получает ответ про «лапы»",
+      "group": "Ответ на проверяемое напоминание",
+      "sanction_status": "not_established",
+      "announced_duration": null,
+      "post_id": "430",
+      "response_db_id": "52209",
+      "response_date": "2025-11-14 06:48:00",
+      "page_url": "https://exler.es/blog/znakomtes.htm",
+      "page_sha256": "e8178ef9fad80f2ac81ae2273780e989133ab7b0113e868af6dac3283a010e9c",
+      "comments": [
+        {
+          "anchor": "1kpgi",
+          "url": "https://exler.es/blog/comments/znakomtes.htm#1kpgi",
+          "author": "BigHead",
+          "parent_anchor": null,
+          "date_display": "BigHead 13.11.25 18:31 37 15",
+          "body_sha256": "8ac397a51203afffdcec5993f3cef4c727a838e2ce44d00c0ff5a8486ecacda8",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": true
+        },
+        {
+          "anchor": "1kpkb",
+          "url": "https://exler.es/blog/comments/znakomtes.htm#1kpkb",
+          "author": "Alex Exler",
+          "parent_anchor": "1kpgi",
+          "date_display": "Alex Exler BigHead 13.11.25 21:39 22 7",
+          "body_sha256": "8c97ca992ac574cd3a0c45ce2525040e5f9f6c012d7f97a471cec97f72f539b7",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        },
+        {
+          "anchor": "1kpkd",
+          "url": "https://exler.es/blog/comments/znakomtes.htm#1kpkd",
+          "author": "BigHead",
+          "parent_anchor": "1kpkb",
+          "date_display": "BigHead Alex Exler 13.11.25 21:42 9 13",
+          "body_sha256": "d4f531721a19ec9178291e8b140d86085403617ce7b1acd2801df4b6966e6fd2",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": true
+        },
+        {
+          "anchor": "1kpp5",
+          "url": "https://exler.es/blog/comments/znakomtes.htm#1kpp5",
+          "author": "Alex Exler",
+          "parent_anchor": "1kpkd",
+          "date_display": "Alex Exler BigHead 14.11.25 06:48 3 12",
+          "body_sha256": "22c4be60fad1db102ec69c6875d9e8df8494d6e562f6b8d1e7c5c11ee1e6e6c9",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        }
+      ],
+      "supporting_sources": [
+        "https://youtu.be/w_j8voVDDMM?t=435",
+        "https://t.me/eschulmann/4430"
+      ]
+    },
+    {
+      "id": "RAGE-005",
+      "title": "Сутки за непризнанную полезность Always-On Display",
+      "group": "Бан после критики",
+      "sanction_status": "announced_ban",
+      "announced_duration": "1 сутки",
+      "post_id": "8827",
+      "response_db_id": "1089509",
+      "response_date": "2021-12-28 14:19:00",
+      "page_url": "https://exler.es/expromt/obzor-smartfona-oneplus-nord-2-5g-srednebyudzhetnik-s-opticheskim-stabom.htm",
+      "page_sha256": "c1b5119b55fc4f7579debe7c61c7f5a9dda579c37d6f08c386e3644cb2f65210",
+      "comments": [
+        {
+          "anchor": "wwj7",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-oneplus-nord-2-5g-srednebyudzhetnik-s-opticheskim-stabom.htm#wwj7",
+          "author": "Regs",
+          "parent_anchor": "wwip",
+          "date_display": "Regs Злодей 28.12.21 14:17 3 1",
+          "body_sha256": "60e1c2a09847a2561e1b19f38613a949a2be69a50da87f50917b4e1865871f0e",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        },
+        {
+          "anchor": "wwj8",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-oneplus-nord-2-5g-srednebyudzhetnik-s-opticheskim-stabom.htm#wwj8",
+          "author": "Alex Exler",
+          "parent_anchor": "wwiz",
+          "date_display": "Alex Exler Regs 28.12.21 14:18 2 2",
+          "body_sha256": "b588b5db02a28e85d04973419ef574f26328948a7d2c06d32a9f4d8be2bc9e7e",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        },
+        {
+          "anchor": "wwj9",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-oneplus-nord-2-5g-srednebyudzhetnik-s-opticheskim-stabom.htm#wwj9",
+          "author": "Alex Exler",
+          "parent_anchor": "wwj7",
+          "date_display": "Alex Exler Regs 28.12.21 14:19 4 3",
+          "body_sha256": "1e35a8610ee44c8f7f174327c2e3dd8358a6bc061fe93ea0ffc1194ba0b82ace",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        },
+        {
+          "anchor": "wwje",
+          "url": "https://exler.es/expromt/comments/obzor-smartfona-oneplus-nord-2-5g-srednebyudzhetnik-s-opticheskim-stabom.htm#wwje",
+          "author": "Stuntman",
+          "parent_anchor": "wwj7",
+          "date_display": "Stuntman Regs 28.12.21 14:21 1 2",
+          "body_sha256": "42cfa95115cf740a9120b8aeb64276a24365cca7dcfd504e0f01edec9dc1881b",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        }
+      ],
+      "supporting_sources": []
+    },
+    {
+      "id": "RAGE-006",
+      "title": "Две недели за сарказм об испанских буднях",
+      "group": "Бан после критики",
+      "sanction_status": "announced_ban",
+      "announced_duration": "2 недели",
+      "post_id": "10338",
+      "response_db_id": "1273458",
+      "response_date": "2026-04-28 16:42:00",
+      "page_url": "https://exler.es/blog/ispanskiye-budni.htm",
+      "page_sha256": "bbdc089a81d53eef5903e30fe0821db95b19375ee01acab37f631abcef00fcb2",
+      "comments": [
+        {
+          "anchor": "1n2vz",
+          "url": "https://exler.es/blog/comments/ispanskiye-budni.htm#1n2vz",
+          "author": "Regs",
+          "parent_anchor": "1n2v1",
+          "date_display": "Regs 4izbyrg 28.04.26 14:19 2 1",
+          "body_sha256": "0eaf3b8403e30415f8587569429e8cfecc7200f6f1c7db9217071a579a8e74d5",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        },
+        {
+          "anchor": "1n2z5",
+          "url": "https://exler.es/blog/comments/ispanskiye-budni.htm#1n2z5",
+          "author": "Alex Exler",
+          "parent_anchor": "1n2vz",
+          "date_display": "Alex Exler Regs 28.04.26 16:42 0 5",
+          "body_sha256": "357c040ebf2af08e33f71ce28ed754de2b73446dcbf9120ef358d73ca5905040",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        }
+      ],
+      "supporting_sources": []
+    }
+  ]
+}
