@@ -1,0 +1,68 @@
+{
+  "format": "ordered-json-array-parts-gzip-v1",
+  "record_count": 345,
+  "original_json_sha256": "1af78707f57f6bc29102556e26a97040e038d3adbf9061eb231348f779ec2b33",
+  "reconstruction": "Decompress parts in the listed order; concatenate their JSON arrays. Record values and order are preserved; original whitespace is not.",
+  "parts": [
+    {
+      "path": "search-audit-parts/part-001.json.gz",
+      "records": 108,
+      "bytes": 47642,
+      "sha256": "98e8275a1c5d6d0413a3c88a2171d1c0d67d4f6c93a14a8b79b81278ed659883"
+    },
+    {
+      "path": "search-audit-parts/part-002.json.gz",
+      "records": 54,
+      "bytes": 46451,
+      "sha256": "82ea0b47b0e275d8e42d7526621e76401ae6e2a947eac3a2637ee453f7c1a9e2"
+    },
+    {
+      "path": "search-audit-parts/part-003.json.gz",
+      "records": 32,
+      "bytes": 47334,
+      "sha256": "fb26f4b3539d09f3d9602e07323b17ed5ca31273aa57bed1098183dfa026ebf6"
+    },
+    {
+      "path": "search-audit-parts/part-004.json.gz",
+      "records": 22,
+      "bytes": 47844,
+      "sha256": "8391a2bffa25584f1425bb4fa396361f1da07ed22d32a73bc641b5bccc1568ac"
+    },
+    {
+      "path": "search-audit-parts/part-005.json.gz",
+      "records": 23,
+      "bytes": 46439,
+      "sha256": "46fb88a9ca882a3e474920641fe3e284f5feaa37d7ab81902b1ba71450302220"
+    },
+    {
+      "path": "search-audit-parts/part-006.json.gz",
+      "records": 22,
+      "bytes": 46377,
+      "sha256": "23c545c99777b712eda25d22c8ab1a85187883d8c9e0089957e1ddbc9fecd53a"
+    },
+    {
+      "path": "search-audit-parts/part-007.json.gz",
+      "records": 26,
+      "bytes": 47445,
+      "sha256": "610ae2d885e03e6386e7b00e0f4f09dd01e8cbd2dd5d041dbf2a979c6a095911"
+    },
+    {
+      "path": "search-audit-parts/part-008.json.gz",
+      "records": 21,
+      "bytes": 46403,
+      "sha256": "f990fee5ff2ca4de6b4fb12feebabca77426c3dccc0991a23690593f6792e62f"
+    },
+    {
+      "path": "search-audit-parts/part-009.json.gz",
+      "records": 23,
+      "bytes": 47994,
+      "sha256": "e7a5f21a428b76e7c4b38c7fabfd24cd9feabf92ab17937bfe8d05e5cc915ea8"
+    },
+    {
+      "path": "search-audit-parts/part-010.json.gz",
+      "records": 14,
+      "bytes": 30102,
+      "sha256": "b17b863cec1a5b585d1215f077d94c7ebd76e00bbdeab161be92dade1e463a36"
+    }
+  ]
+}

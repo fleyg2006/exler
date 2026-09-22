@@ -1,0 +1,566 @@
+{
+  "schema_version": 2,
+  "checked_at": "2026-09-21T23:37:13.758114+00:00",
+  "cases": [
+    {
+      "id": "FORECAST-001",
+      "grade": "numeric",
+      "source": "https://exler.es/blog/on-ot-babushki-ushel.htm",
+      "date": "2026-08-10",
+      "outcome_url": "https://ekinobilet.fond-kino.ru/films/detail/111177626/",
+      "outcome": {
+        "gross_rub": 1023008875,
+        "weekend_1": 245842724,
+        "weekend_2": 192873458
+      },
+      "limits": "Один эпизод с двумя порогами: 300 млн и 1 млрд. Сборы не равны прибыли. Отдельная дата UPD неизвестна.",
+      "title": "Колобок: два порога сборов",
+      "scope": "core",
+      "primary_sources": [
+        "https://exler.es/blog/on-ot-babushki-ushel.htm",
+        "https://exler.es/blog/on-posmotrel-kolobok.htm",
+        "https://exler.es/blog/tak-vot-chego-kolobok-raskruchivayut.htm"
+      ],
+      "outcome_sources": [
+        "https://ekinobilet.fond-kino.ru/films/detail/111177626/"
+      ],
+      "checked_at": "2026-09-21T22:58:11.741692+00:00",
+      "document": "CASES.md#forecast-001",
+      "evidence_type": "direct_observation_of_publications",
+      "satire_is_fiction": true
+    },
+    {
+      "id": "FORECAST-002",
+      "grade": "categorical",
+      "db_ids": [
+        5732,
+        2838,
+        2577,
+        2539
+      ],
+      "limits": "31 октября уверенность уже была смягчена до исхода выборов. Обе ранние формулировки относятся к одним выборам.",
+      "title": "Трамп: два уверенных прогноза об одних выборах",
+      "scope": "core",
+      "primary_sources": [
+        "https://exler.es/blog/yest-li-u-vas-plan-mister-tramp.htm",
+        "https://exler.es/blog/debaty-kharris-i-trampa.htm",
+        "https://exler.es/blog/navstrechu-vyboram-3.htm",
+        "https://exler.es/blog/47-y-prezident-ssha.htm"
+      ],
+      "outcome_sources": [
+        "https://www.archives.gov/electoral-college/2024"
+      ],
+      "checked_at": "2026-09-21T22:58:11.741692+00:00",
+      "document": "CASES.md#forecast-002",
+      "evidence_type": "direct_observation_of_publications",
+      "satire_is_fiction": true
+    },
+    {
+      "id": "FORECAST-003",
+      "grade": "numeric",
+      "date": "2013-11-21",
+      "forecast": 500,
+      "outcome_date": "2014-01-19",
+      "actual_web": 3502,
+      "actual_catalogs": 1443,
+      "limits": "20 тысяч подписок не достигнуты; редакция прямо сообщает о спонсорах. Самоокупаемость исключительно на подписке не доказана.",
+      "title": "The New Times: 500 против тысяч",
+      "scope": "core",
+      "primary_sources": [
+        "https://exler.es/blog/dorogaya-svoboda-slova.htm"
+      ],
+      "outcome_sources": [
+        "https://newtimes.ru/articles/detail/77210/"
+      ],
+      "checked_at": "2026-09-21T22:58:11.741692+00:00",
+      "document": "CASES.md#forecast-003",
+      "evidence_type": "direct_observation_of_publications",
+      "satire_is_fiction": true
+    },
+    {
+      "id": "FORECAST-004",
+      "grade": "overgeneralization",
+      "date": "2009-11-18",
+      "actual_digital_subscribers": 640000,
+      "actual_date": "2025-06-30",
+      "limits": "640 тысяч включают Times Literary Supplement. Не установлена прибыль при альтернативной рекламной модели; результат блога hectop не проверен.",
+      "title": "Мердок и невозможный платный интернет",
+      "scope": "core",
+      "primary_sources": [
+        "https://exler.es/blog/platnyj-dostup-k-sajtam.htm"
+      ],
+      "outcome_sources": [
+        "https://newscorp.com/wp-content/uploads/2025/08/Q4-FY2025-Earnings-Release_FINAL_5-August-2025.pdf",
+        "https://www.thetimes.co.uk/article/times-media-profits-rise-on-digital-subscriber-growth-vz8kzfcr5"
+      ],
+      "checked_at": "2026-09-21T22:58:11.741692+00:00",
+      "document": "CASES.md#forecast-004",
+      "evidence_type": "direct_observation_of_publications",
+      "satire_is_fiction": true
+    },
+    {
+      "id": "FORECAST-005",
+      "grade": "premature_terminal",
+      "date": "2020-09-08",
+      "db_ids": [
+        2689,
+        2540
+      ],
+      "limits": "Проблемы сервисов Google вне Китая сохраняются; поздний обзор тоже критичен. Новые продукты опровергают окончательность вывода, а не все предупреждения об ущербе.",
+      "title": "Huawei: преждевременное завершение перспектив",
+      "scope": "core",
+      "primary_sources": [
+        "https://exler.es/blog/huawei-vse.htm",
+        "https://exler.es/blog/huawei-pura-70-ultra.htm",
+        "https://exler.es/expromt/obzor-smartfona-huawei-pura-70-ultra.htm"
+      ],
+      "outcome_sources": [
+        "https://exler.es/expromt/obzor-smartfona-huawei-pura-70-ultra.htm"
+      ],
+      "checked_at": "2026-09-21T22:58:11.741692+00:00",
+      "document": "CASES.md#forecast-005",
+      "evidence_type": "direct_observation_of_publications",
+      "satire_is_fiction": true
+    },
+    {
+      "id": "FORECAST-006",
+      "grade": "own_reassessment",
+      "date": "2025-06-16",
+      "db_ids": [
+        1299,
+        814
+      ],
+      "actual_date": "2025-09-11",
+      "rating": 7,
+      "limits": "Субъективное ожидание сравнивается с собственной последующей оценкой. Прибыль и объективное качество фильма не устанавливаются.",
+      "title": "Голый пистолет: 99% до просмотра",
+      "scope": "core",
+      "primary_sources": [
+        "https://exler.es/blog/vtoroy-treyler-gologo-pistoleta.htm",
+        "https://exler.es/films/golyj-pistolet.htm"
+      ],
+      "outcome_sources": [
+        "https://exler.es/films/golyj-pistolet.htm"
+      ],
+      "checked_at": "2026-09-21T22:58:11.741692+00:00",
+      "document": "CASES.md#forecast-006",
+      "evidence_type": "direct_observation_of_publications",
+      "satire_is_fiction": true
+    },
+    {
+      "id": "FORECAST-007",
+      "grade": "bounded_nonrealization",
+      "db_ids": [
+        5054
+      ],
+      "date": "2023-07-20",
+      "checkpoint": "2024-07-12",
+      "limits": "Мягкое предположение без срока. Контрольная дата исхода — 12 июля 2024 года. Старая сделка не тождественна отдельному украинскому коридору.",
+      "title": "Зерновая сделка: мягкое предположение без срока",
+      "scope": "context",
+      "primary_sources": [
+        "https://exler.es/blog/zernovaya-sdelka.htm"
+      ],
+      "outcome_sources": [
+        "https://www.reuters.com/world/europe/russia-does-not-rule-anything-regarding-possible-resumption-black-sea-grain-deal-2024-07-12/"
+      ],
+      "checked_at": "2026-09-21T22:58:11.741692+00:00",
+      "document": "CONTEXT.md#forecast-007",
+      "evidence_type": "direct_observation_of_publications",
+      "satire_is_fiction": true
+    },
+    {
+      "id": "FORECAST-008",
+      "grade": "relayed_deadline",
+      "db_ids": [
+        9968
+      ],
+      "date": "2021-05-24",
+      "deadline": "2021-06-07",
+      "checkpoint": "2021-06-18",
+      "limits": "Дата принадлежит пересказу слов консула у Небылицкого. Экслер публикует его и добавляет сообщение как похожее подтверждение; это не его личный разговор с консулом.",
+      "title": "Спутник: пересказ даты от консула",
+      "scope": "context",
+      "primary_sources": [
+        "https://exler.es/blog/priznaniye-sputnika-v-v-yevrope.htm"
+      ],
+      "outcome_sources": [
+        "https://www.ema.europa.eu/en/news/highlights-management-board-june-2021-meeting"
+      ],
+      "checked_at": "2026-09-21T22:58:11.741692+00:00",
+      "document": "CONTEXT.md#forecast-008",
+      "evidence_type": "direct_observation_of_publications",
+      "satire_is_fiction": true
+    },
+    {
+      "id": "FORECAST-009",
+      "grade": "retrospective",
+      "date": "2011-01-23",
+      "limits": "Есть признание прежнего скепсиса; предварительная датированная публичная формулировка не найдена.",
+      "title": "Facebook: признание прежнего неверия",
+      "scope": "context",
+      "primary_sources": [
+        "https://exler.es/blog/moe-intervyu-po-povodu-vkontakte-i-facebook.htm"
+      ],
+      "outcome_sources": [
+        "https://exler.es/blog/moe-intervyu-po-povodu-vkontakte-i-facebook.htm"
+      ],
+      "checked_at": "2026-09-21T22:58:11.741692+00:00",
+      "document": "CONTEXT.md#forecast-009",
+      "evidence_type": "direct_observation_of_publications",
+      "satire_is_fiction": true
+    },
+    {
+      "id": "FORECAST-010",
+      "grade": "wish_later_called_forecast",
+      "before": "2007-03-19",
+      "after": "2007-05-13",
+      "limits": "До конкурса выражена надежда; после него автор называет ожидание прогнозом. Надежда не превращается в гарантию первого места.",
+      "title": "Евровидение: надежда, позднее названная прогнозом",
+      "scope": "context",
+      "primary_sources": [
+        "https://exler.es/blog/evrovidenie.htm",
+        "https://exler.es/blog/evrovidenie-1.htm"
+      ],
+      "outcome_sources": [
+        "https://eurovisionworld.com/eurovision/2007/ukraine",
+        "https://exler.es/blog/evrovidenie-1.htm"
+      ],
+      "checked_at": "2026-09-21T22:58:11.741692+00:00",
+      "document": "CONTEXT.md#forecast-010",
+      "evidence_type": "direct_observation_of_publications",
+      "satire_is_fiction": true
+    },
+    {
+      "id": "FORECAST-011",
+      "grade": "retrospective",
+      "db_ids": [
+        9908,
+        9853
+      ],
+      "dates": [
+        "2021-06-05",
+        "2021-06-16"
+      ],
+      "limits": "Один тематический эпизод с двумя ожиданиями. Не найдены ранние публичные прогнозы; знаменатели долей отказов различаются. Медицинские выводы не делаются.",
+      "title": "Испания: два пересмотренных ожидания о вакцинации",
+      "scope": "context",
+      "primary_sources": [
+        "https://exler.es/blog/chipizirovalsya.htm",
+        "https://exler.es/blog/skolko-lyudey-otkazalis-vaktsinirovatsya-v-katalonii.htm"
+      ],
+      "outcome_sources": [
+        "https://exler.es/blog/chipizirovalsya.htm",
+        "https://exler.es/blog/skolko-lyudey-otkazalis-vaktsinirovatsya-v-katalonii.htm"
+      ],
+      "checked_at": "2026-09-21T22:58:11.741692+00:00",
+      "document": "CONTEXT.md#forecast-011",
+      "evidence_type": "direct_observation_of_publications",
+      "satire_is_fiction": true
+    },
+    {
+      "id": "FORECAST-012",
+      "grade": "retrospective",
+      "db_ids": [
+        1199
+      ],
+      "date": "2025-07-05",
+      "limits": "Речь о круге знакомых автора, а не обо всех избирателях. Предварительный публичный прогноз не найден.",
+      "title": "Ожидаемое разочарование знакомых трампистов",
+      "scope": "context",
+      "primary_sources": [
+        "https://exler.es/blog/chto-tam-v-golovakh-u-russkoyazychnykh-trampistov.htm"
+      ],
+      "outcome_sources": [
+        "https://exler.es/blog/chto-tam-v-golovakh-u-russkoyazychnykh-trampistov.htm"
+      ],
+      "checked_at": "2026-09-21T22:58:11.741692+00:00",
+      "document": "CONTEXT.md#forecast-012",
+      "evidence_type": "direct_observation_of_publications",
+      "satire_is_fiction": true
+    },
+    {
+      "id": "FORECAST-013",
+      "title": "Машинный перевод: не при нашей жизни — а потом ежедневный инструмент",
+      "grade": "self_contradicted_technology_forecast",
+      "scope": "core",
+      "date": "2016-05-30",
+      "prediction": "В споре с прогнозом о пяти годах до профессионального автоматического перевода автор выдвигает значительно более сильное собственное возражение: «И даже просто пристойно переводить компьютер вряд ли начнет при нашей жизни». Далее предполагает ожидание многих десятилетий, хотя и выражает надежду ошибиться.",
+      "outcome": "01.09.2021, через пять лет и три месяца, сам отмечает заметный прогресс, работу со сложными временами и своё преимущественное использование Яндекс.Переводчика. 18.04.2023 прямо хвалит качество автоматического перевода видео с английского и испанского. 17.04.2024 начинает практическую инструкцию с утверждения о быстром и качественном машинном переводе. 22.02.2025 сообщает о постоянном использовании переводчиков и платной подписке DeepL.",
+      "limits": "Широкое ожидание автора не совпало с его собственными последующими оценками качества. Исходная формулировка смягчена словами «вряд ли» и надеждой ошибиться. Это НЕ доказательство исчезновения профессии, безошибочного перевода любых текстов или полного исполнения исходного пятилетнего прогноза собеседника. Публикации 2021–2025 годов — одна цепочка, а не четыре новых ошибки.",
+      "primary_sources": [
+        "https://exler.es/blog/nevostrebovannaya-professiya-perevodchika.htm"
+      ],
+      "outcome_sources": [
+        "https://exler.es/blog/sovremennyy-mashinnyy-perevod.htm",
+        "https://exler.es/blog/neyroset-yandeksa-teper-perevodit-s-kitayskogo.htm",
+        "https://exler.es/likbez/kak-raspoznavat-tekst-na-kartinkah-i-kak-perevodit-ego.htm",
+        "https://exler.es/blog/reyting-razlichnykh-servisov-mashinnogo-perevoda.htm"
+      ],
+      "checked_at": "2026-09-21T23:35:52.846260+00:00",
+      "document": "CASES.md#forecast-013",
+      "evidence_type": "direct_observation_of_publications",
+      "satire_is_fiction": true,
+      "scene": "Вымышленная сцена: эксперт переводит собственный прогноз о невозможности машинного перевода платным машинным переводчиком. Кнопка оплаты подписки оказывается кнопкой продления жизни."
+    },
+    {
+      "id": "FORECAST-014",
+      "title": "ICQ: почти немедленная смерть в QIP, которым сам пользовался ещё полтора года",
+      "grade": "categorical_near_term",
+      "scope": "core",
+      "date": "2010-11-10",
+      "prediction": "На фоне отключения ICQ в Nimbuzz предсказывает, что аналогичное произойдёт с QIP почти наверняка и совсем скоро: «аське в QIP жить осталось очень и очень недолго». Распространяет ожидание на прочие крупные альтернативные клиенты.",
+      "outcome": "29.05.2012 сам описывает продолжавшееся использование ICQ через QIP Infium и план ухода в Skype в конце недели. Причины — неудобная синхронизация, несколько устройств и потеря сообщений, а не предсказанный запрет клиента. В собственном тексте 10.07.2013 подтверждает, что пользовался этой связкой до мая 2012-го. Независимая первичная проверка: журнал Miranda NG 0.94.1 от 27.02.2013 описывает развитие поддержки ICQ.",
+      "limits": "У прогноза нет календарного дедлайна, но речь именно о ближайшем времени, а не о смерти сервиса когда-нибудь. С 10.11.2010 до 29.05.2012 прошло 566 дней. Позднейшая потеря аудитории ICQ, проблемы старого протокола и закрытие сервиса не превращают ранний прогноз о немедленном отключении QIP в точный. Реальный эпизод Nimbuzz не оспаривается.",
+      "primary_sources": [
+        "https://exler.es/blog/icq-vsyo-i-ne-govorite-chto-vas-ne-preduprezhdali.htm"
+      ],
+      "outcome_sources": [
+        "https://exler.es/blog/proshaj-aska.htm",
+        "https://exler.es/blog/qip-vse.htm",
+        "https://wiki.miranda-ng.org/index.php?title=Changelog%2F0.94.1"
+      ],
+      "checked_at": "2026-09-21T23:35:52.846260+00:00",
+      "document": "CASES.md#forecast-014",
+      "evidence_type": "direct_observation_of_publications",
+      "satire_is_fiction": true,
+      "scene": "Вымышленная сцена: объявив о неминуемой кончине ICQ, эксперт ещё полтора года отправляет приглашения на её поминки через ICQ."
+    },
+    {
+      "id": "FORECAST-015",
+      "title": "Следующий iPad: попомните название",
+      "grade": "specific_product_prediction",
+      "scope": "core",
+      "date": "2013-12-11",
+      "prediction": "В обзоре iPad Air, прямо названного пятым iPad, пишет: «Шестой iPad, я уверен, будет называться iPad Pro, вот попомните мои слова!»",
+      "outcome": "16.10.2014 Apple представила следующее поколение этой линии под названием iPad Air 2.",
+      "limits": "Небольшой, отчасти шутливый прогноз о названии продукта. Существование более поздней отдельной линии iPad Pro не подтверждает предсказание именно следующего, шестого большого iPad. Не следует представлять этот эпизод как провал обзора в целом.",
+      "primary_sources": [
+        "https://exler.es/expromt/planshet-ipad-air-ipad-5-obzor.htm"
+      ],
+      "outcome_sources": [
+        "https://www.apple.com/newsroom/2014/10/16Apple-Introduces-iPad-Air-2-The-Thinnest-Most-Powerful-iPad-Ever/"
+      ],
+      "checked_at": "2026-09-21T23:35:52.846260+00:00",
+      "document": "CASES.md#forecast-015",
+      "evidence_type": "direct_observation_of_publications",
+      "satire_is_fiction": true,
+      "scene": "Вымышленная сцена: покупатель приходит за шестым iPad Pro, вооружившись распечаткой «попомните». Продавец предлагает Air 2 и сохраняет распечатку на память."
+    },
+    {
+      "id": "FORECAST-016",
+      "title": "Надеждин: полтора процента в бюллетене, до которого он не дошёл",
+      "grade": "scenario_revised_before_outcome",
+      "scope": "core",
+      "date": "2023-12-26",
+      "prediction": "После приёма документов ЦИК автор описывает определённый будущий сценарий: «Этот кандидат наберет свои процента полтора». Из этого результата затем должна была строиться пропагандистская демонстрация слабой поддержки антивоенного кандидата.",
+      "outcome": "25.01.2024 автор уже допускает отказ на этапе подписей; 05.02 рассматривает оба исхода. 08.02 ЦИК отказал Надеждину в регистрации, 12.02 Экслер объяснил это одной из двух возможных веток. 21.02 Верховный суд оставил отказ в силе, о чём сообщил корреспондент Интерфакса из суда.",
+      "limits": "Не сбылся первоначальный конкретный сценарий участия с малым процентом. Автор изменил прогноз ДО окончательного решения, и это существенная оговорка. По этим источникам нельзя доказать или опровергнуть тайные договорённости с Кремлём; нельзя выдавать их за установленный факт. Приём документов и окончательная регистрация различаются.",
+      "primary_sources": [
+        "https://exler.es/blog/v-dobryy-put.htm",
+        "https://exler.es/blog/vladilenych-prifigel-ot-nadezhdina.htm",
+        "https://exler.es/blog/kto-by-mog-podumat.htm"
+      ],
+      "outcome_sources": [
+        "https://exler.es/blog/podpisi-za-nadezhdina.htm",
+        "https://www.interfax.ru/russia/947229"
+      ],
+      "checked_at": "2026-09-21T23:35:52.846260+00:00",
+      "document": "CASES.md#forecast-016",
+      "evidence_type": "direct_observation_of_publications",
+      "satire_is_fiction": true,
+      "scene": "Вымышленная сцена: готовая диаграмма с полутора процентами висит над пустым местом в бюллетене. Аналитик достраивает к ней развилку, на которой оба выхода подписаны «что и требовалось доказать»."
+    },
+    {
+      "id": "FORECAST-017",
+      "title": "Российский нефтегазовый рынок: обещанное полное исчезновение",
+      "grade": "overgeneralization",
+      "scope": "core",
+      "date": "2022-08-23",
+      "prediction": "В собственном заключении к публикации об оружейном экспорте утверждает о рынке сбыта российских нефти и газа: «достаточно скоро будет уничтожен совсем». Это авторский вывод после большой цитаты, а не прогноз эксперта внутри неё.",
+      "outcome": "IEA сообщает: в 2023 году Россия оставалась вторым в мире экспортёром нефти и крупнейшим нетто-экспортёром. Объём экспорта нефти и нефтепродуктов — 7,5 млн баррелей в сутки, примерно на уровне 2022 года; значительные поставки были перенаправлены в другие страны.",
+      "limits": "Ошибочна всеобщность «совсем», а не сам факт ущерба. IEA одновременно фиксирует падение нефтяной выручки в 2023-м и резкое сокращение российского трубопроводного газа в ЕС. Нельзя подменять мировой рынок европейским, нефть газом, объём выручкой. Срок «достаточно скоро» нечёткий. Майский прогноз катастрофических нефтяных доходов именно за 2022 год оставлен отдельной непроверенной частью той же цепочки: сопоставимая годовая цифра по сырой нефти не установлена.",
+      "primary_sources": [
+        "https://exler.es/blog/demilitarizatsiya.htm",
+        "https://exler.es/blog/neftyanoye-embargo.htm"
+      ],
+      "outcome_sources": [
+        "https://www.iea.org/topics/russias-war-on-ukraine"
+      ],
+      "checked_at": "2026-09-21T23:35:52.846260+00:00",
+      "document": "CASES.md#forecast-017",
+      "evidence_type": "direct_observation_of_publications",
+      "satire_is_fiction": true,
+      "scene": "Вымышленная сцена: аналитик стирает Европу с карты покупателей и объявляет, что карта мира закончилась. За краем листа выстраивается очередь танкеров."
+    },
+    {
+      "id": "FORECAST-018",
+      "title": "Шантажные письма: недооценил число тех, кто заплатит",
+      "grade": "self_reported_error",
+      "scope": "context",
+      "date": "2018-07-27",
+      "prediction": "Считает маловероятным, что описанная рассылка с угрозой публикации интимного видео позволит обмануть сотни людей; несколько десятков допускает.",
+      "outcome": "В UPD признаёт ошибку и сообщает о поступлениях мошенникам свыше четверти миллиона. В собственном ответе читателю 27.07.2018 13:09 также прямо признаёт, что недооценил число обманутых.",
+      "limits": "Это собственное признание автора, а не независимо пересчитанное число жертв. Сумма поступлений сама по себе не даёт точного числа людей и не доказывает именно сотни. У UPD нет отдельной временной метки. Возможно тематическое пересечение с реестром исправлений; не складывать числа реестров.",
+      "primary_sources": [
+        "https://exler.es/blog/novyy-vid-razvoda-ne-popadites.htm"
+      ],
+      "outcome_sources": [
+        "https://exler.es/blog/comments/novyy-vid-razvoda-ne-popadites.htm#g7v3"
+      ],
+      "checked_at": "2026-09-21T23:35:52.846260+00:00",
+      "document": "CONTEXT.md#forecast-018",
+      "evidence_type": "direct_observation_of_publications",
+      "satire_is_fiction": true,
+      "scene": "Вымышленная сцена: эксперт устанавливает допустимый лимит доверчивых людей; биткоин-кошелёк отказывается соблюдать лимит."
+    },
+    {
+      "id": "FORECAST-019",
+      "title": "Финал Италия — Англия: победитель угадан, счёт нет",
+      "grade": "partial_sports_miss",
+      "scope": "context",
+      "date": "2021-07-11",
+      "prediction": "Называет конкретный счёт будущего финала: Италия — Англия 2:1.",
+      "outcome": "По UEFA матч закончился 1:1 после дополнительного времени, Италия выиграла серию пенальти 3:2. В собственном UPD автор признаёт несовпадение счёта и радуется победе Италии.",
+      "limits": "Небольшой обычный спортивный прогноз. Победитель турнира указан верно; неверен только точный счёт. Это не свидетельство провала всей футбольной аналитики. Обе правки находятся в одной странице, отдельные даты не установлены.",
+      "primary_sources": [
+        "https://exler.es/blog/nu-chto-segodnya-final-angliya-protiv-italii.htm"
+      ],
+      "outcome_sources": [
+        "https://www.uefa.com/uefaeuro/match/2024491--italy-vs-england/"
+      ],
+      "checked_at": "2026-09-21T23:35:52.846260+00:00",
+      "document": "CONTEXT.md#forecast-019",
+      "evidence_type": "direct_observation_of_publications",
+      "satire_is_fiction": true,
+      "scene": "Вымышленная сцена: табло показывает 1:1, эксперт держит 2:1, а кубок у нужной команды. Секретарь ставит половину печати «Я же говорил»."
+    },
+    {
+      "id": "FORECAST-020",
+      "title": "Samsung S22 FE: поддержанный слух о несостоявшейся модели",
+      "grade": "endorsed_rumour",
+      "scope": "context",
+      "date": "2022-12-28",
+      "prediction": "После обсуждения S21 FE пишет: «Однако, судя по всему, новому Samsung Galaxy S22 FE — быть». Затем пересказывает чужую утечку об Exynos 2300 и 108-Мп камере; в конце оставляет оговорку ожидания.",
+      "outcome": "Следующий официальный FE-флагман, представленный Samsung 04.10.2023, — Galaxy S23 FE. Официальный анонс указывает основную камеру 50 Мп.",
+      "limits": "Это благожелательное принятие чужого слуха с оговорками, а не собственное инсайдерское обещание или гарантия. Само наличие S23 FE логически не доказывает отсутствия всяких внутренних прототипов S22 FE; речь о публично выпущенной модели. Характеристики цитируемой утечки нельзя приписывать собственным измерениям автора.",
+      "primary_sources": [
+        "https://exler.es/blog/oni-vypustyat-samsung-s22-fe.htm"
+      ],
+      "outcome_sources": [
+        "https://news.samsung.com/global/samsung-galaxy-s23-fe-galaxy-tab-s9-fe-and-galaxy-buds-fe-bring-standout-features-to-even-more-users"
+      ],
+      "checked_at": "2026-09-21T23:35:52.846260+00:00",
+      "document": "CONTEXT.md#forecast-020",
+      "evidence_type": "direct_observation_of_publications",
+      "satire_is_fiction": true,
+      "scene": "Вымышленная сцена: на обзор доставляют коробку S23 FE, а аналитик уже напечатал план обзора S22 FE. Стирает одну цифру, сохраняя уверенный заголовок."
+    },
+    {
+      "id": "FORECAST-021",
+      "title": "iPhone 13 без порта: чужая утечка как основа насмешки",
+      "grade": "endorsed_rumour",
+      "scope": "context",
+      "date": "2020-11-29",
+      "prediction": "С одобрительной иронической подводкой пересказывает прогноз Джона Проссера: самая дорогая модель iPhone 13 останется без зарядного разъёма. Собственную гиперболу про наклейку iPhone 16 вместо телефона добавляет как очевидную шутку.",
+      "outcome": "Официальные характеристики iPhone 13 Pro Max показывают разъём Lightning и зарядку через USB; отсутствие порта у самой дорогой модели не подтвердилось.",
+      "limits": "Изначальная техническая информация принадлежит Проссеру. Экслеру принадлежит доверительная подводка и построенная на слухе насмешка. Шутку о наклейке в коробке iPhone 16 нельзя проверять как серьёзный прогноз.",
+      "primary_sources": [
+        "https://exler.es/blog/akh-kha-a-a-a-a-a-a-2.htm"
+      ],
+      "outcome_sources": [
+        "https://support.apple.com/en-us/111870"
+      ],
+      "checked_at": "2026-09-21T23:35:52.846260+00:00",
+      "document": "CONTEXT.md#forecast-021",
+      "evidence_type": "direct_observation_of_publications",
+      "satire_is_fiction": true,
+      "scene": "Вымышленная сцена: автор пишет эпитафию разъёму, подключив кабель к телефону, который должен был выйти без разъёма."
+    },
+    {
+      "id": "FORECAST-022",
+      "title": "Два года очень дорогой энергии: признанная переоценка длительности",
+      "grade": "retrospective_expectation",
+      "scope": "context",
+      "date": "2024-03-13",
+      "prediction": "В ретроспективе сообщает, что ожидал примерно двух лет жизни при очень высоких ценах на газ и бензин в Европе.",
+      "outcome": "В той же публикации пишет, что ситуация стабилизировалась существенно быстрее его ожиданий.",
+      "limits": "Исходная публикация до события с таким сроком не найдена. Это признание прежнего ожидания, а не найденный заблаговременный прогноз. Разные виды энергии, страны и потребительские тарифы нельзя смешивать в один точный показатель.",
+      "primary_sources": [
+        "https://exler.es/blog/kak-v-yevrope-s-gazkom.htm"
+      ],
+      "outcome_sources": [
+        "https://exler.es/blog/kak-v-yevrope-s-gazkom.htm"
+      ],
+      "checked_at": "2026-09-21T23:35:52.846260+00:00",
+      "document": "CONTEXT.md#forecast-022",
+      "evidence_type": "direct_observation_of_publications",
+      "satire_is_fiction": true,
+      "scene": "Вымышленная сцена: на стене календарь двухлетнего энергетического апокалипсиса; счёт за газ перестаёт следовать сценарию раньше последнего листка."
+    },
+    {
+      "id": "FORECAST-023",
+      "title": "Оскар-2019: политическая формула выбрала не тот фильм",
+      "grade": "qualified_award_prediction",
+      "scope": "core",
+      "date": "2019-01-23",
+      "prediction": "Разбирая номинацию «Чёрного клановца» на лучший фильм, связывает вероятную победу с темой сегрегации и выпадами против Трампа: «я думаю, будет победителем».",
+      "outcome": "24.02.2019 награду за лучший фильм получила «Зелёная книга». «Чёрный клановец» получил другую награду — за адаптированный сценарий.",
+      "limits": "Прогноз смягчён словами о личном мнении. Проиграна конкретная номинация, не все номинации вообще. Политическую мотивировку Академии невозможно установить по одному исходу. Сам результат проверен по реестру Академии.",
+      "primary_sources": [
+        "https://exler.es/blog/oskarnoye.htm"
+      ],
+      "outcome_sources": [
+        "https://www.oscars.org/oscars/ceremonies/2019"
+      ],
+      "checked_at": "2026-09-21T23:35:52.846260+00:00",
+      "document": "CASES.md#forecast-023",
+      "evidence_type": "direct_observation_of_publications",
+      "satire_is_fiction": true,
+      "scene": "Вымышленная сцена: эксперт вставляет в оскарный калькулятор имя Трампа и тему расизма. Конверт Академии не совпадает с результатом вычислений."
+    },
+    {
+      "id": "FORECAST-024",
+      "title": "Оскар-2020: фаворит — Тарантино, победитель — Паразиты",
+      "grade": "qualified_award_prediction",
+      "scope": "core",
+      "date": "2020-01-17",
+      "prediction": "До вручения премии предполагает наиболее вероятную победу «Однажды… в Голливуде» в категории лучшего фильма. Одновременно сомневается в уместности присутствия корейских «Паразитов» в этой общей категории и предсказывает, что «Джокер» её не выиграет.",
+      "outcome": "09.02.2020 лучшим фильмом Академия назвала «Паразитов». У «Однажды… в Голливуде» были другие победы — мужская роль второго плана и работа художника-постановщика. Прогноз об отсутствии главной награды у «Джокера» оказался верным.",
+      "limits": "Формулировка вероятностная, а не гарантия. В одном посте есть неверный и верный прогноз; нельзя объявлять весь пост ошибочным. Это отдельная церемония, отличная от 2019 года. Вопрос о корейском фильме — показательная часть рассуждения, но сам по себе не прогноз.",
+      "primary_sources": [
+        "https://exler.es/blog/nominanty-na-oskar-2020.htm"
+      ],
+      "outcome_sources": [
+        "https://www.oscars.org/oscars/ceremonies/2020"
+      ],
+      "checked_at": "2026-09-21T23:35:52.846260+00:00",
+      "document": "CASES.md#forecast-024",
+      "evidence_type": "direct_observation_of_publications",
+      "satire_is_fiction": true,
+      "scene": "Вымышленная сцена: эксперт отправляет «Паразитов» в отдельную очередь для иностранцев; фильм возвращается из главной очереди с главным призом."
+    },
+    {
+      "id": "FORECAST-025",
+      "title": "Московские камеры: система никогда не заработает",
+      "grade": "categorical_technology_forecast",
+      "scope": "core",
+      "date": "2009-10-11",
+      "prediction": "В сатирическом тексте о московской автоматической фиксации нарушений пишет: «И не будет никогда работать». Объясняет это интересами влиятельных автомобилистов; объявляет систему обречённой и камеры нестрашными. Подводка о прежнем предчувствии ретроспективна, но утверждение о невозможности будущей работы прямо опубликовано.",
+      "outcome": "25.10.2024 агентство «Москва» передало сообщение пресс-службы Дептранса: московские камеры с начала года зафиксировали 17,6 млн превышений скорости; в городе работали 3,8 тыс. комплексов. Это конкретное свидетельство масштабной работы той самой системы автоматической фиксации.",
+      "limits": "Опровергается всеобщий вывод о невозможности работы камер в Москве. Не проверены отсутствие привилегий для отдельных водителей, честность каждого штрафа или детали сбоя пилотной системы в 2009 году. 17,6 млн — число зафиксированных превышений, не уникальных водителей, не оплаченных штрафов и не вся сумма нарушений. Сатирический тон исходной записи сохранён; вложенная анонимная история не объявлена доказанным устройством ГИБДД.",
+      "primary_sources": [
+        "https://exler.es/blog/ya-tak-i-dumal-gospoda-projdemte-2.htm"
+      ],
+      "outcome_sources": [
+        "https://www.mskagency.ru/materials/3427167"
+      ],
+      "checked_at": "2026-09-21T23:35:52.846260+00:00",
+      "document": "CASES.md#forecast-025",
+      "evidence_type": "direct_observation_of_publications",
+      "satire_is_fiction": true,
+      "scene": "Вымышленная сцена: под табличкой «Камеры нам не страшны» принтер печатает семнадцать миллионов уведомлений. Эксперт уточняет, что он предсказывал невозможность справедливости, а не невозможность печати."
+    }
+  ],
+  "counting_rule": "6 основных сопоставлений + 6 контекстных историй; не 12 независимых доказанных публичных ошибок. Внутри одного события повторные формулировки объединены."
+}

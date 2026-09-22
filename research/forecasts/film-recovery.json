@@ -1,0 +1,3767 @@
+{
+  "checked_at": "2026-09-21T23:37:13.758114+00:00",
+  "query_returned": 470,
+  "recovered_film_bodies": 468,
+  "records": [
+    {
+      "id": "13",
+      "url": "https://exler.es/films/semya-v-arendu.htm",
+      "published_at": "2026-01-26 10:00:00",
+      "title": "Кинорецензии | Семья в аренду | Мелодрама",
+      "html_sha256": "a0d2b9ead0c3da241a110d950fe40c0d80e011d1f84ea1f19e63dabe00395e40",
+      "extracted_characters": 8408
+    },
+    {
+      "id": "51",
+      "url": "https://exler.es/films/chto-sluchilos-osenyu.htm",
+      "published_at": "2026-01-19 09:00:00",
+      "title": "Кинорецензии | Что случилось осенью | Драма",
+      "html_sha256": "1a51ece4cd138ec478a0abc175ddf0d9b0b5e6c09588ea64ab14c1f454a93f38",
+      "extracted_characters": 5486
+    },
+    {
+      "id": "64",
+      "url": "https://exler.es/films/bugoniya.htm",
+      "published_at": "2026-01-15 08:00:00",
+      "title": "Кинорецензии | Бугония | Трагикомедия",
+      "html_sha256": "a44808acc32dcdbb028e3c47fa126ace4bd4aa3785cc5eef10c80b04bd69bd62",
+      "extracted_characters": 8787
+    },
+    {
+      "id": "86",
+      "url": "https://exler.es/films/hishnik-planeta-smerti.htm",
+      "published_at": "2026-01-12 09:00:00",
+      "title": "Кинорецензии | Хищник: Планета смерти | Черноюморной фантастическиий боевик",
+      "html_sha256": "33ae96664ffb5d3bab8beb5b1074ee63f54625a4c361eae5e746c6553995a1e8",
+      "extracted_characters": 10024
+    },
+    {
+      "id": "108",
+      "url": "https://exler.es/films/grabitel-s-kryshi.htm",
+      "published_at": "2026-01-08 10:48:00",
+      "title": "Кинорецензии | Грабитель с крыши | Криминальная комедия",
+      "html_sha256": "f705c70a2ebc641d8506a17af51aabe03d7ac375ce23f70f4995ab8c0f79a579",
+      "extracted_characters": 7892
+    },
+    {
+      "id": "131",
+      "url": "https://exler.es/films/odna-iz-mnogih.htm",
+      "published_at": "2026-01-05 09:14:00",
+      "title": "Кинорецензии | Одна из многих | Сериал",
+      "html_sha256": "ea6958be2e39105c44a0f11202618930b6334cd0c310648baf34fdd010399b67",
+      "extracted_characters": 11275
+    },
+    {
+      "id": "171",
+      "url": "https://exler.es/films/avatar-plamya-i-pepel.htm",
+      "published_at": "2025-12-29 09:00:00",
+      "title": "Кинорецензии | Аватар: Пламя и Пепел | Фантастический боевик",
+      "html_sha256": "aa88562383a085f2c570a12340a2c4f6cba16ca0646107cb37a1af51fcd677e6",
+      "extracted_characters": 11860
+    },
+    {
+      "id": "192",
+      "url": "https://exler.es/films/zadanie.htm",
+      "published_at": "2025-12-25 12:32:00",
+      "title": "Кинорецензии | Задание | Сериал",
+      "html_sha256": "72bfa0496e9c8bc13973d1ac27f219dd7fcf127bc6db5633664f350c7637cd4a",
+      "extracted_characters": 7232
+    },
+    {
+      "id": "211",
+      "url": "https://exler.es/films/begushij-chelovek.htm",
+      "published_at": "2025-12-22 10:00:00",
+      "title": "Кинорецензии | Бегущий человек | Фантастический боевик",
+      "html_sha256": "7bdc4f5a2013c976649bd7438bdc148c62a490a4bd26f19c581711a3dc8d63cf",
+      "extracted_characters": 9996
+    },
+    {
+      "id": "232",
+      "url": "https://exler.es/films/dostat-nozhi-voskreshenie-pokojnika.htm",
+      "published_at": "2025-12-18 10:31:00",
+      "title": "Кинорецензии | Достать ножи: Воскрешение покойника | Детектив",
+      "html_sha256": "f2fb6a2e238ad9d91355b7b4e877d43b11517b4b760a883ca1f65e5c11adef60",
+      "extracted_characters": 10333
+    },
+    {
+      "id": "255",
+      "url": "https://exler.es/films/umri-moya-lyubov.htm",
+      "published_at": "2025-12-15 09:00:00",
+      "title": "Кинорецензии | Умри, моя любовь | Артхаусный триллер",
+      "html_sha256": "7a62d1ea6241dff696ca43e6e6ad6f44214dc1191878d48aab628f2355a92ceb",
+      "extracted_characters": 12892
+    },
+    {
+      "id": "276",
+      "url": "https://exler.es/films/dzhej-kelli.htm",
+      "published_at": "2025-12-11 09:11:00",
+      "title": "Кинорецензии | Джей Келли | Сентиментальная комедия",
+      "html_sha256": "aad7118beb7f53ac8103911e03d68529d2751657670bb5b7a0713fb3e1f9f44c",
+      "extracted_characters": 12968
+    },
+    {
+      "id": "295",
+      "url": "https://exler.es/films/dolgaya-progulka.htm",
+      "published_at": "2025-12-08 10:00:00",
+      "title": "Кинорецензии | Долгая прогулка | Триллер",
+      "html_sha256": "3db4319c57893b0772e48acee2ddaca05e3d5ff7b17b223d63d1422f8ea996f0",
+      "extracted_characters": 7517
+    },
+    {
+      "id": "319",
+      "url": "https://exler.es/films/rezidentsiya.htm",
+      "published_at": "2025-12-04 08:00:00",
+      "title": "Кинорецензии | Резиденция | Сериал",
+      "html_sha256": "98092907389a77d7d0bfef7e83f748091ad8fff99837c083493a738b9934388c",
+      "extracted_characters": 9033
+    },
+    {
+      "id": "332",
+      "url": "https://exler.es/films/frankenshtejn.htm",
+      "published_at": "2025-12-01 10:00:00",
+      "title": "Кинорецензии | Франкенштейн | Фантастическая драма",
+      "html_sha256": "29ae30b5873456534a5c7a9b7194e9771b5826e173a5e7c1c01f230b1d7b10c9",
+      "extracted_characters": 9573
+    },
+    {
+      "id": "370",
+      "url": "https://exler.es/films/bitva-za-bitvoj.htm",
+      "published_at": "2025-11-24 10:00:00",
+      "title": "Кинорецензии | Битва за битвой | Криминальная драмеди",
+      "html_sha256": "9a1884f9cd151999773d5aa28d773f3c700d6147d136ccf4924beff693a20dfc",
+      "extracted_characters": 9657
+    },
+    {
+      "id": "393",
+      "url": "https://exler.es/films/cveta-vremeni.htm",
+      "published_at": "2025-11-20 11:59:00",
+      "title": "Кинорецензии | Цвета времени | Драмеди",
+      "html_sha256": "03501f6b737dd71d5c3b9e8671b5b746c3767187fcd7e26626af10eca6774379",
+      "extracted_characters": 8053
+    },
+    {
+      "id": "411",
+      "url": "https://exler.es/films/dom-iz-dinamita.htm",
+      "published_at": "2025-11-17 10:00:00",
+      "title": "Кинорецензии | Дом из динамита | Триллер",
+      "html_sha256": "b03e35682e24abd96f79817a388742c36fb4f14453c9f202d2a4b763270a10cb",
+      "extracted_characters": 8080
+    },
+    {
+      "id": "436",
+      "url": "https://exler.es/films/bolshoe-smeloe-krasivoe-puteshestvie.htm",
+      "published_at": "2025-11-13 08:00:00",
+      "title": "Кинорецензии | Большое смелое красивое путешествие | Фэнтезийная мелодрама",
+      "html_sha256": "82f0ce2dc67382a319cfce914eb6706b78662838cc2230e6b65f3147a02b5017",
+      "extracted_characters": 6457
+    },
+    {
+      "id": "451",
+      "url": "https://exler.es/films/krushashaya-mashina.htm",
+      "published_at": "2025-11-10 12:40:00",
+      "title": "Кинорецензии | Крушащая машина | Спортивная драма",
+      "html_sha256": "c9771ac30f5b5ae596cebd85acaa4ffac335ff4ed0d7667c212d7b4cac1aebc1",
+      "extracted_characters": 10369
+    },
+    {
+      "id": "477",
+      "url": "https://exler.es/films/gryaznaya-igra.htm",
+      "published_at": "2025-11-06 09:00:00",
+      "title": "Кинорецензии | Грязная игра | Черноюморной криминальный боевик",
+      "html_sha256": "93feae1c86ba99db21a20fddbb75209fe3dcf88570037b905d02561846064b63",
+      "extracted_characters": 9906
+    },
+    {
+      "id": "498",
+      "url": "https://exler.es/films/vremena-goda.htm",
+      "published_at": "2025-11-03 10:00:00",
+      "title": "Кинорецензии | Времена года | Сериал",
+      "html_sha256": "4f45087e290d75d1dafac3cde2ea074490ce243a824f478889b219567ce3b524",
+      "extracted_characters": 7159
+    },
+    {
+      "id": "519",
+      "url": "https://exler.es/films/suprugi-rouz.htm",
+      "published_at": "2025-10-30 10:00:00",
+      "title": "Кинорецензии | Супруги Роуз | Черноюморная комедия",
+      "html_sha256": "17fe3437f11e10e428e503859e049f7974374eb7da4500ea9bec3e5a2dfabd6c",
+      "extracted_characters": 7389
+    },
+    {
+      "id": "537",
+      "url": "https://exler.es/films/chumovaya-pyatnica-2.htm",
+      "published_at": "2025-10-27 10:00:00",
+      "title": "Кинорецензии | Чумовая пятница 2 | Комедия",
+      "html_sha256": "6d48e01a16e9002716022fd7726e7de850068fdccebe0bdafc540d940133252f",
+      "extracted_characters": 7018
+    },
+    {
+      "id": "559",
+      "url": "https://exler.es/films/shkolnyj-avtobus.htm",
+      "published_at": "2025-10-23 10:22:00",
+      "title": "Кинорецензии | Школьный автобус | Триллер",
+      "html_sha256": "1fa5f1617aba104fcab4fc7287631d185bf5c6ef91346fbb5424692795ecaeb2",
+      "extracted_characters": 9610
+    },
+    {
+      "id": "580",
+      "url": "https://exler.es/films/dispetcher.htm",
+      "published_at": "2025-10-20 10:00:00",
+      "title": "Кинорецензии | Диспетчер | Остросюжетный триллер",
+      "html_sha256": "1076ac32e5932c913084adeef06d8aa61643319adb0f4a8f48a53e05467cb30f",
+      "extracted_characters": 7253
+    },
+    {
+      "id": "604",
+      "url": "https://exler.es/films/pojman-s-polichnym.htm",
+      "published_at": "2025-10-16 09:00:00",
+      "title": "Кинорецензии | Пойман с поличным | Черноюморной криминальный триллер",
+      "html_sha256": "97b309cbbf913b79d07c36df87f7405da58f695f9797f00f06bad9a304c29ca1",
+      "extracted_characters": 7886
+    },
+    {
+      "id": "624",
+      "url": "https://exler.es/films/dekster-voskreshenie.htm",
+      "published_at": "2025-10-13 10:00:00",
+      "title": "Кинорецензии | Декстер: Воскрешение | Сериал",
+      "html_sha256": "dee9e3aa8c550ba171c7a6125b0d1e77fea9cadbc5c0483006dc98c349084b9f",
+      "extracted_characters": 12180
+    },
+    {
+      "id": "653",
+      "url": "https://exler.es/films/kod-3.htm",
+      "published_at": "2025-10-09 08:00:00",
+      "title": "Кинорецензии | Код 3 | Драмеди",
+      "html_sha256": "91716f33d732311488dd71d7c8b411e913a85ab21bdd042f6071e558b63a5299",
+      "extracted_characters": 7091
+    },
+    {
+      "id": "670",
+      "url": "https://exler.es/films/udivitelnaya-missis-mejzel-finalnyj-sezon.htm",
+      "published_at": "2025-10-06 10:00:00",
+      "title": "Кинорецензии | Удивительная миссис Мейзел. Финальный сезон | Сериал",
+      "html_sha256": "bb879dd8f0fe980aac1496a9717c41dbba4a9a93ceced00670d3b6c4ee3cd340",
+      "extracted_characters": 8728
+    },
+    {
+      "id": "699",
+      "url": "https://exler.es/films/the-fantastic-four-first-steps.htm",
+      "published_at": "2025-10-02 10:33:00",
+      "title": "Кинорецензии | Фантастическая четвёрка: Первые шаги | Фантастический боевик",
+      "html_sha256": "4b87111729b3cfe71866a4fb6282cd3fef67f6828bbec3d0d57300757bddee31",
+      "extracted_characters": 9735
+    },
+    {
+      "id": "721",
+      "url": "https://exler.es/films/desyat-procentov.htm",
+      "published_at": "2025-09-29 08:00:00",
+      "title": "Кинорецензии | Десять процентов | Сериал",
+      "html_sha256": "deeeedb8c1e3b3dcb927333135985037ddf8ef707b9e21538213747778e06c83",
+      "extracted_characters": 7630
+    },
+    {
+      "id": "750",
+      "url": "https://exler.es/films/sluzhba-dostavki-knig.htm",
+      "published_at": "2025-09-22 10:00:00",
+      "title": "Кинорецензии | Служба доставки книг | Трагикомедия",
+      "html_sha256": "3d1b8b100f5d4fef740676ce4231b3fbb37a5b5315b8a5699bbcba57f86ba8c4",
+      "extracted_characters": 5282
+    },
+    {
+      "id": "772",
+      "url": "https://exler.es/films/byt-prisyazhnym.htm",
+      "published_at": "2025-09-18 11:06:00",
+      "title": "Кинорецензии | Быть присяжным | Сериал",
+      "html_sha256": "a81fe1eba888826f4e95153716df082882a627502812e4e84ec08b0b28a9312a",
+      "extracted_characters": 9145
+    },
+    {
+      "id": "791",
+      "url": "https://exler.es/films/klub-ubijstv-po-chetvergam.htm",
+      "published_at": "2025-09-15 10:00:00",
+      "title": "Кинорецензии | Клуб убийств по четвергам | Ироничный детектив",
+      "html_sha256": "336e1e00f051244c68f76db17a33233bfb80433e5fefc4e8a95c8c0440d7a8aa",
+      "extracted_characters": 9437
+    },
+    {
+      "id": "814",
+      "url": "https://exler.es/films/golyj-pistolet.htm",
+      "published_at": "2025-09-11 09:58:00",
+      "title": "Кинорецензии | Голый пистолет | Пародийный боевик",
+      "html_sha256": "2290668252f75c237b665dff30452f146c667ee9a15330e040e1907340aed774",
+      "extracted_characters": 9261
+    },
+    {
+      "id": "834",
+      "url": "https://exler.es/films/otdel-neraskrytyh-del.htm",
+      "published_at": "2025-09-08 10:00:00",
+      "title": "Кинорецензии | Отдел нераскрытых дел | Сериал",
+      "html_sha256": "5721cc5963985825b2fd53ce2ba1f9dd1dfc527004106cf16eaf5a9a02bc52c0",
+      "extracted_characters": 7923
+    },
+    {
+      "id": "860",
+      "url": "https://exler.es/films/mikki-17.htm",
+      "published_at": "2025-09-04 12:09:00",
+      "title": "Кинорецензии | Микки 17 | Фантастическая трагикомедия",
+      "html_sha256": "3c3b0f37d6b90790cdbfc1a2e196513b1626730417088d2c5a056bc34a0e8da2",
+      "extracted_characters": 9120
+    },
+    {
+      "id": "878",
+      "url": "https://exler.es/films/-2.htm",
+      "published_at": "2025-09-01 10:00:00",
+      "title": "Кинорецензии | F1 | Спортивная драма",
+      "html_sha256": "3c79632e90c29a44f7a77614c274912ae0928245cc99f25140c879fdffc2e3bb",
+      "extracted_characters": 8130
+    },
+    {
+      "id": "904",
+      "url": "https://exler.es/films/supermen.htm",
+      "published_at": "2025-08-28 08:00:00",
+      "title": "Кинорецензии | Супермен | Фантастический боевик",
+      "html_sha256": "fd3891b10f3b705ded0e8232582c564e309e4051e863b119db3ad9f66ff6b99f",
+      "extracted_characters": 11056
+    },
+    {
+      "id": "920",
+      "url": "https://exler.es/films/missiya-nevypolnima-finalnaya-rasplata.htm",
+      "published_at": "2025-08-25 09:00:00",
+      "title": "Кинорецензии | Миссия невыполнима: Финальная расплата | Боевик",
+      "html_sha256": "b38e03989c84208bc7a2478721b8730c11bb969d6c81d9764abe4475aca9ab74",
+      "extracted_characters": 10858
+    },
+    {
+      "id": "937",
+      "url": "https://exler.es/films/to-chto-vnutri.htm",
+      "published_at": "2025-08-21 09:00:00",
+      "title": "Кинорецензии | То, что внутри | Черноюморной фантастический триллер",
+      "html_sha256": "e04ce135b201fbc5693a16ffbe437b310a4b662465a091bc24fa88effdd7b31b",
+      "extracted_characters": 6706
+    },
+    {
+      "id": "952",
+      "url": "https://exler.es/films/eddington.htm",
+      "published_at": "2025-08-18 10:00:00",
+      "title": "Кинорецензии | Эддингтон | Черноюморной нео-вестерн",
+      "html_sha256": "23ebd908d61dd345ef81e22949213ef7fe67c96a72ce1bdc0907a1d3cce57a17",
+      "extracted_characters": 8333
+    },
+    {
+      "id": "978",
+      "url": "https://exler.es/films/kak-priruchit-drakona-4.htm",
+      "published_at": "2025-08-14 08:00:00",
+      "title": "Кинорецензии | Как приручить дракона | Фэнтези, приключения",
+      "html_sha256": "e639075444c7c83d23833648f7d3d468ba95aa3d07f648d051e7a372850417e1",
+      "extracted_characters": 7761
+    },
+    {
+      "id": "996",
+      "url": "https://exler.es/films/zhizn-chaka.htm",
+      "published_at": "2025-08-11 10:00:00",
+      "title": "Кинорецензии | Жизнь Чака | фэнтезийная драма",
+      "html_sha256": "620ce1740ad30caadfffdc635402265295c5190ae0a4e2fa003812d2aa9eb13f",
+      "extracted_characters": 8370
+    },
+    {
+      "id": "1024",
+      "url": "https://exler.es/films/schastlivchik-gilmor-2.htm",
+      "published_at": "2025-08-07 08:00:00",
+      "title": "Кинорецензии | Счастливчик Гилмор 2 | Комедия",
+      "html_sha256": "05540a95353a9dca2b854d041ca1f4345034878e68c1b56e0fc36f40bb725403",
+      "extracted_characters": 8130
+    },
+    {
+      "id": "1037",
+      "url": "https://exler.es/films/edem.htm",
+      "published_at": "2025-08-04 09:00:00",
+      "title": "Кинорецензии | Эдем | Триллер",
+      "html_sha256": "888b2ab725c8e3f85bfdeb31b7679d3a023b60ea62eee27a719fb8a8c76c0d26",
+      "extracted_characters": 10471
+    },
+    {
+      "id": "1060",
+      "url": "https://exler.es/films/materialistka.htm",
+      "published_at": "2025-07-31 08:00:00",
+      "title": "Кинорецензии | Материалистка | Имитационный ромком",
+      "html_sha256": "61f8437429034175e0c64ba62c18dfeefba7dbd538cdc8e0ec5758c0ec64c153",
+      "extracted_characters": 8572
+    },
+    {
+      "id": "1078",
+      "url": "https://exler.es/films/veloputeshestvie.htm",
+      "published_at": "2025-07-28 10:00:00",
+      "title": "Кинорецензии | На велосипеде | Трагикомедия",
+      "html_sha256": "f6a8cf5f4f500a4c5f4e6d8e8ecda9ffad9910d33aab93e0705ad9af5e05904e",
+      "extracted_characters": 6176
+    },
+    {
+      "id": "1102",
+      "url": "https://exler.es/films/greshniki-1.htm",
+      "published_at": "2025-07-24 13:11:00",
+      "title": "Кинорецензии | Грешники | Готический блюз-хоррор",
+      "html_sha256": "b869f0fe02453411a3d96297eeee316945c7e6662e871110d24d1c15ae40153d",
+      "extracted_characters": 10433
+    },
+    {
+      "id": "1118",
+      "url": "https://exler.es/films/andor-vtoroj-sezon.htm",
+      "published_at": "2025-07-21 10:30:00",
+      "title": "Кинорецензии | Андор, второй сезон | Сериал",
+      "html_sha256": "8c0b9d373d24431b0896b732a6e9536a841b42963d45086bb912594e689671dd",
+      "extracted_characters": 9398
+    },
+    {
+      "id": "1141",
+      "url": "https://exler.es/films/balerina.htm",
+      "published_at": "2025-07-17 09:00:00",
+      "title": "Кинорецензии | Балерина | Боевик",
+      "html_sha256": "8714fe154827fbd692c2c2212d1ac3057791ea6c7b4c51a46bf631ac7f949509",
+      "extracted_characters": 9301
+    },
+    {
+      "id": "1152",
+      "url": "https://exler.es/films/glavy-gosudarstv.htm",
+      "published_at": "2025-07-14 10:00:00",
+      "title": "Кинорецензии | Главы государств | Комедийный боевик",
+      "html_sha256": "d3ebb66f97493a0d55e05defa262ef91951a13af119736abea5e65fed4929658",
+      "extracted_characters": 9041
+    },
+    {
+      "id": "1174",
+      "url": "https://exler.es/films/korol-talsy-vtoroj-sezon.htm",
+      "published_at": "2025-07-10 08:00:00",
+      "title": "Кинорецензии | Король Талсы. Второй сезон | Сериал",
+      "html_sha256": "49bb3229b70bef7be014942f2d4d0278d98d8d562abd38a9b903b9c1ec3ca325",
+      "extracted_characters": 6357
+    },
+    {
+      "id": "1191",
+      "url": "https://exler.es/films/gromoverzhcy.htm",
+      "published_at": "2025-07-07 09:00:00",
+      "title": "Кинорецензии | Громовержцы* | Фантастический боевик",
+      "html_sha256": "b34cddff2a67ec52c8609c659f231e662d82175e2e443c774a89c9b2d8778eee",
+      "extracted_characters": 9267
+    },
+    {
+      "id": "1216",
+      "url": "https://exler.es/films/kompanon-1.htm",
+      "published_at": "2025-07-03 08:00:00",
+      "title": "Кинорецензии | Компаньон | Фантастический триллер с элементами черноюморной комедии",
+      "html_sha256": "3ce8b67263b8a7b076f2e381dd592a092278cb7da7bc69936605439a4e327860",
+      "extracted_characters": 5881
+    },
+    {
+      "id": "1234",
+      "url": "https://exler.es/films/finikijskaya-shema.htm",
+      "published_at": "2025-06-30 10:00:00",
+      "title": "Кинорецензии | Финикийская схема | Артхаусная трагикомедия",
+      "html_sha256": "3c262328a683088247cc390678f42819656aae6fb17254150ded54bb5908d23f",
+      "extracted_characters": 9224
+    },
+    {
+      "id": "1260",
+      "url": "https://exler.es/films/warfare.htm",
+      "published_at": "2025-06-26 11:42:00",
+      "title": "Кинорецензии | Warfare | Военная драма",
+      "html_sha256": "8bda20f7b62297af069e47675d31070a4a87046389a66fc314fba21af26b1862",
+      "extracted_characters": 6169
+    },
+    {
+      "id": "1270",
+      "url": "https://exler.es/films/pod-prikrytiem.htm",
+      "published_at": "2025-06-23 09:33:00",
+      "title": "Кинорецензии | Под прикрытием | Комедийный боевик",
+      "html_sha256": "2b1f8afe74c18cabb5788230d8e1f61743ce937ca1537d2d8b372d17bc48e116",
+      "extracted_characters": 4661
+    },
+    {
+      "id": "1283",
+      "url": "https://exler.es/films/rasplata-2.htm",
+      "published_at": "2025-06-19 08:34:00",
+      "title": "Кинорецензии | Расплата 2 | Детективный боевик",
+      "html_sha256": "e0f53495a4760d01d7b7bf197bd3952f436205b6546a3374f59e63452b7cb3c7",
+      "extracted_characters": 5635
+    },
+    {
+      "id": "1303",
+      "url": "https://exler.es/films/novichok.htm",
+      "published_at": "2025-06-16 10:00:00",
+      "title": "Кинорецензии | Новичок | Шпионский боевик",
+      "html_sha256": "505822ed9c80fac91285289d6972b287a9efeb5bbbc5bff6bd7fa490a6b8f11f",
+      "extracted_characters": 6484
+    },
+    {
+      "id": "1332",
+      "url": "https://exler.es/films/kinostudiya.htm",
+      "published_at": "2025-06-12 08:00:00",
+      "title": "Кинорецензии | Киностудия | Сериал",
+      "html_sha256": "ded05ddb9b54335f8fd66a446803efbcf2cfbd9bef747cb47f90744c72582068",
+      "extracted_characters": 8567
+    },
+    {
+      "id": "1352",
+      "url": "https://exler.es/films/gangsterlend.htm",
+      "published_at": "2025-06-09 10:00:00",
+      "title": "Кинорецензии | Гангстерленд | Сериал",
+      "html_sha256": "3541d60187587ceefaf247b7fe2c59c3bba4b3ea1dc6236dac50e863704f19b5",
+      "extracted_characters": 7601
+    },
+    {
+      "id": "1374",
+      "url": "https://exler.es/films/istochnik-vechnoj-molodosti.htm",
+      "published_at": "2025-06-05 12:19:00",
+      "title": "Кинорецензии | Источник вечной молодости | Приключения",
+      "html_sha256": "1aaa9f1ad6e488ffc956fc0e6970bfe57de2b277650228d39944a9edd1302a6b",
+      "extracted_characters": 6096
+    },
+    {
+      "id": "1393",
+      "url": "https://exler.es/films/mister-blejk-k-vashim-uslugam.htm",
+      "published_at": "2025-06-02 10:00:00",
+      "title": "Кинорецензии | Мистер Блейк к вашим услугам | Трагикомедия",
+      "html_sha256": "d22441300595e8dfa81e4e1cd621274e1813b8416b1c4c860eeca0c4336968ce",
+      "extracted_characters": 6969
+    },
+    {
+      "id": "1420",
+      "url": "https://exler.es/films/mudrye-parni.htm",
+      "published_at": "2025-05-29 08:00:00",
+      "title": "Кинорецензии | Мудрые парни | Криминальная драма",
+      "html_sha256": "3ddc62ac8b6f091155021eae233e86753fe3a3536dfaeca923d9d6c51c13c94c",
+      "extracted_characters": 8887
+    },
+    {
+      "id": "1433",
+      "url": "https://exler.es/films/bolnica-pitt.htm",
+      "published_at": "2025-05-26 09:01:00",
+      "title": "Кинорецензии | Больница Питт | Сериал",
+      "html_sha256": "79173401358fc25ddad6d392fd4252dac00671610b9db90cebfac66b0f3c4df9",
+      "extracted_characters": 12463
+    },
+    {
+      "id": "1451",
+      "url": "https://exler.es/films/babuli.htm",
+      "published_at": "2025-05-22 18:00:00",
+      "title": "Кинорецензии | Бабули | Сентиментальная трагикомедия",
+      "html_sha256": "198a7536aac7cb02e93ab7050c4e6bb770479850bc40af5a2bc9fd3a812274a2",
+      "extracted_characters": 6375
+    },
+    {
+      "id": "1467",
+      "url": "https://exler.es/films/ballada-ob-ostrove-uollis.htm",
+      "published_at": "2025-05-19 10:00:00",
+      "title": "Кинорецензии | Баллада об острове Уоллис | Трагикомедия",
+      "html_sha256": "cc40e8cb1c2f979e494a37c0cf38eb8ccb95ec95d1d415f6925c6d4c8c409cc7",
+      "extracted_characters": 7745
+    },
+    {
+      "id": "1494",
+      "url": "https://exler.es/films/rejs-navylet.htm",
+      "published_at": "2025-05-15 08:00:00",
+      "title": "Кинорецензии | Рейс навылет | Черноюморной боевик",
+      "html_sha256": "34a35874c0aea32d5468e0a04a8068c3d233339c531a3f90f8da713b431cb8ec",
+      "extracted_characters": 6267
+    },
+    {
+      "id": "1512",
+      "url": "https://exler.es/films/chyornyj-chemodan-dvojnaya-igra.htm",
+      "published_at": "2025-05-12 09:00:00",
+      "title": "Кинорецензии | Чёрный чемодан - двойная игра | Шпионский детектив",
+      "html_sha256": "5d50d3013293e063a6082fdc6e2fba927046850f3a82f2e9dc57ce9502f71d5c",
+      "extracted_characters": 6918
+    },
+    {
+      "id": "1534",
+      "url": "https://exler.es/films/opustoshenie.htm",
+      "published_at": "2025-05-08 08:00:00",
+      "title": "Кинорецензии | Опустошение | Криминальный боевик",
+      "html_sha256": "07a3d901a04b322047d214de33239f72f18a958e623cb741fb96fe74f0f14327",
+      "extracted_characters": 9381
+    },
+    {
+      "id": "1549",
+      "url": "https://exler.es/films/belyj-lotos-vtoroj-sezon-1.htm",
+      "published_at": "2025-05-05 12:26:00",
+      "title": "Кинорецензии | Белый лотос. Третий сезон | Сериал",
+      "html_sha256": "64da14e68509fe92778062f83970f914c5cfc45d3ebc6c648e8d7b48a9df32e9",
+      "extracted_characters": 11103
+    },
+    {
+      "id": "1590",
+      "url": "https://exler.es/films/master-1.htm",
+      "published_at": "2025-04-28 10:14:00",
+      "title": "Кинорецензии | Мастер | Криминальный боевик",
+      "html_sha256": "e61a03a5236fef2d2a84392eca01ec0f3d12599aa09dff6fe3a7de73b94b4583",
+      "extracted_characters": 8285
+    },
+    {
+      "id": "1610",
+      "url": "https://exler.es/films/ubejte-zhokeya.htm",
+      "published_at": "2025-04-24 08:00:00",
+      "title": "Кинорецензии | Убейте жокея | Артхаус",
+      "html_sha256": "614760fb5808309a86b469447625eb78ae6f4e7e4dda03fbe2f7402730895d5b",
+      "extracted_characters": 5252
+    },
+    {
+      "id": "1644",
+      "url": "https://exler.es/films/igra-korolevy.htm",
+      "published_at": "2025-04-17 09:00:00",
+      "title": "Кинорецензии | Игра королевы | Историческая драма",
+      "html_sha256": "a0eaaf523ac79808be6f746f769db3566cf920d0ddf1433f73e5b9a37d032bdd",
+      "extracted_characters": 8054
+    },
+    {
+      "id": "1656",
+      "url": "https://exler.es/films/novokain.htm",
+      "published_at": "2025-04-14 10:00:00",
+      "title": "Кинорецензии | Новокаин | Черноюморной боевик",
+      "html_sha256": "894757dc6f3cb7ed64eaed3433f9895860f29afd6df06de2f93cc28655875f75",
+      "extracted_characters": 5748
+    },
+    {
+      "id": "1671",
+      "url": "https://exler.es/films/lyudvig.htm",
+      "published_at": "2025-04-10 09:19:00",
+      "title": "Кинорецензии | Людвиг | Сериал",
+      "html_sha256": "6dd735e0bc9044ae65730f555b17e3b0452c68a3cfe72f134cb78529d6e31092",
+      "extracted_characters": 6894
+    },
+    {
+      "id": "1695",
+      "url": "https://exler.es/films/bratya-po-notam.htm",
+      "published_at": "2025-04-03 08:00:00",
+      "title": "Кинорецензии | Братья по нотам | Драмеди",
+      "html_sha256": "47bbe294efd893cc7663a3a4466a9670736599c5c03ca332a06decff5a23c515",
+      "extracted_characters": 9685
+    },
+    {
+      "id": "1711",
+      "url": "https://exler.es/films/pervozdannaya-amerika.htm",
+      "published_at": "2025-03-31 10:46:00",
+      "title": "Кинорецензии | Первозданная Америка | Сериал",
+      "html_sha256": "f3edbd732821b64d9be9cafe25fcdaefe0b7f9db8bf3e365b425917fa25cf50a",
+      "extracted_characters": 9943
+    },
+    {
+      "id": "1728",
+      "url": "https://exler.es/films/maskarad.htm",
+      "published_at": "2025-03-27 11:15:00",
+      "title": "Кинорецензии | Маскарад | Криминальная трагикомедия",
+      "html_sha256": "9edfc5c3b5e87f41e01470702231c53d62ccd268b77c91a05c2e022d27b82235",
+      "extracted_characters": 10268
+    },
+    {
+      "id": "1742",
+      "url": "https://exler.es/films/perehodnyj-vozrast.htm",
+      "published_at": "2025-03-24 10:00:00",
+      "title": "Кинорецензии | Переходный возраст | Сериал",
+      "html_sha256": "37826b07325d157e634951e5a515122451eb366c4bfaa486207c2b6c82d4dbf6",
+      "extracted_characters": 13500
+    },
+    {
+      "id": "1767",
+      "url": "https://exler.es/films/milaya-villa.htm",
+      "published_at": "2025-03-20 08:00:00",
+      "title": "Кинорецензии | Милая вилла | Романтическая комедия",
+      "html_sha256": "830e778c9541f24efa56a797dcbaf72c86ad689d8a45dc6667ca4c30eb39dd4b",
+      "extracted_characters": 8642
+    },
+    {
+      "id": "1782",
+      "url": "https://exler.es/films/lendmen.htm",
+      "published_at": "2025-03-17 10:00:00",
+      "title": "Кинорецензии | Лэндмен | Сериал",
+      "html_sha256": "a54aec6c06dd9fe8b2cba6c481f381ed6726049b716abc68001b908647fe18c4",
+      "extracted_characters": 8591
+    },
+    {
+      "id": "1799",
+      "url": "https://exler.es/films/komnata-po-sosedstvu.htm",
+      "published_at": "2025-03-13 09:55:00",
+      "title": "Кинорецензии | Комната по соседству | Драма",
+      "html_sha256": "0647dc38416d739d0adc4b74eddd58ec489c776a63fef2b66bd342e66c44bef4",
+      "extracted_characters": 9363
+    },
+    {
+      "id": "1811",
+      "url": "https://exler.es/films/bob-dilan-nikomu-ne-izvestnyj-2024.htm",
+      "published_at": "2025-03-10 10:55:00",
+      "title": "Кинорецензии | Боб Дилан: Никому не известный (2024) | Биографический, музыкальная драма",
+      "html_sha256": "d9e80bf7fa91151ab8cc08089945fa1bc3020ad0ca793b30cfd05b5399907ec7",
+      "extracted_characters": 12448
+    },
+    {
+      "id": "1836",
+      "url": "https://exler.es/films/temnaya-materiya.htm",
+      "published_at": "2025-03-06 08:00:00",
+      "title": "Кинорецензии | Темная материя | Сериал",
+      "html_sha256": "851afab702c9e960a0d5f0f55c9f68077b119113e70848e837b1faed1fc1644f",
+      "extracted_characters": 8311
+    },
+    {
+      "id": "1847",
+      "url": "https://exler.es/films/ushele.htm",
+      "published_at": "2025-03-03 10:00:00",
+      "title": "Кинорецензии | Ущелье | Фантастический романтический триллер",
+      "html_sha256": "42bba7f2692d97aaff1d038c2ec44bf79aa96b6b8875469d13771cfcc0edea20",
+      "extracted_characters": 8710
+    },
+    {
+      "id": "1873",
+      "url": "https://exler.es/films/recept-lyubvi.htm",
+      "published_at": "2025-02-27 11:21:00",
+      "title": "Кинорецензии | Рецепт любви | Романтическая драма",
+      "html_sha256": "568d0070b6a6da84be310e4125ff9ac1a1689e1090660a1c7e44f5ff021de0be",
+      "extracted_characters": 13379
+    },
+    {
+      "id": "1888",
+      "url": "https://exler.es/films/dekster-pervorodnyj-greh.htm",
+      "published_at": "2025-02-24 10:00:00",
+      "title": "Кинорецензии | Декстер: Первородный грех | Сериал",
+      "html_sha256": "90b2e8141855a104494b0511597e563137f105731e0e5cc1b078c5c9f348f3e3",
+      "extracted_characters": 10464
+    },
+    {
+      "id": "1911",
+      "url": "https://exler.es/films/eretik.htm",
+      "published_at": "2025-02-20 12:01:00",
+      "title": "Кинорецензии | Еретик | Триллер",
+      "html_sha256": "475f5e361758edfc10fd058a72c767e8e67d3e94e1ea53f1e7c1222d29dba96f",
+      "extracted_characters": 7512
+    },
+    {
+      "id": "1929",
+      "url": "https://exler.es/films/ukrytie.htm",
+      "published_at": "2025-02-17 11:54:00",
+      "title": "Кинорецензии | Укрытие | Сериал",
+      "html_sha256": "4b8af7319361c5be6a266d3c867cd891f3ceced718acb2830af5e492d8baa45c",
+      "extracted_characters": 12108
+    },
+    {
+      "id": "1953",
+      "url": "https://exler.es/films/bezmolvnoe-bratstvo.htm",
+      "published_at": "2025-02-13 09:38:00",
+      "title": "Кинорецензии | Безмолвное братство | Криминальная драма",
+      "html_sha256": "c3503461daff10a4f8e918a38c3a6b58589b6a692b9fee22bf438d5f1a4bb2b8",
+      "extracted_characters": 9636
+    },
+    {
+      "id": "1969",
+      "url": "https://exler.es/films/konklav.htm",
+      "published_at": "2025-02-10 10:00:00",
+      "title": "Кинорецензии | Конклав | Драма",
+      "html_sha256": "847fecab6ffca0c7c412d8ceffb4069a2a8f31554c46314a02dbdba4c24c54b2",
+      "extracted_characters": 8991
+    },
+    {
+      "id": "2010",
+      "url": "https://exler.es/films/potok.htm",
+      "published_at": "2025-02-03 10:00:00",
+      "title": "Кинорецензии | Поток | Анимация",
+      "html_sha256": "ca8ed5b704a35b113aa6e0ab5d82c1c5ed482f8128ddc6c2b34252534ee9979c",
+      "extracted_characters": 6854
+    },
+    {
+      "id": "2036",
+      "url": "https://exler.es/films/kriminalnyj-shef.htm",
+      "published_at": "2025-01-30 08:00:00",
+      "title": "Кинорецензии | Криминальный шеф | Триллер",
+      "html_sha256": "c9efd91d99c1ea4e18f0f54b6a1074bfd0a0153c1a0de3c498af0acfe992e827",
+      "extracted_characters": 8622
+    },
+    {
+      "id": "2056",
+      "url": "https://exler.es/films/snova-v-dele.htm",
+      "published_at": "2025-01-27 10:00:00",
+      "title": "Кинорецензии | Снова в деле | Комедийный боевик",
+      "html_sha256": "bf5245e3545b8e3e5a548cf1f8fdbb3dedece6b1ec6ab54bab1a21d5f229b5bd",
+      "extracted_characters": 6501
+    },
+    {
+      "id": "2084",
+      "url": "https://exler.es/films/poslednee-delo-mistera-monka.htm",
+      "published_at": "2025-01-23 08:00:00",
+      "title": "Кинорецензии | Последнее дело Мистера Монка | Мелодрама-детектив",
+      "html_sha256": "51062acb7f447349a36438177516def5124388425d1ce507e1b4818231433096",
+      "extracted_characters": 8346
+    },
+    {
+      "id": "2106",
+      "url": "https://exler.es/films/pingvin-1.htm",
+      "published_at": "2025-01-20 12:23:00",
+      "title": "Кинорецензии | Пингвин | Сериал",
+      "html_sha256": "66c11279c6464411918a71b02ca765d328edb3a9f39e688565377d4045a57fe5",
+      "extracted_characters": 11902
+    },
+    {
+      "id": "2130",
+      "url": "https://exler.es/films/nastoyashaya-bol.htm",
+      "published_at": "2025-01-16 08:00:00",
+      "title": "Кинорецензии | Настоящая боль | Драма",
+      "html_sha256": "e3b24dc2b5b0208be001ad9c06a91b33f673ea403f269c61bd95120da4e9c8ed",
+      "extracted_characters": 8263
+    },
+    {
+      "id": "2144",
+      "url": "https://exler.es/films/den-shakala.htm",
+      "published_at": "2025-01-13 11:00:00",
+      "title": "Кинорецензии | День Шакала | Сериал",
+      "html_sha256": "f33d9ad355e570f834005f457b62e41178d6cda829d221bec522bb4b3e83b345",
+      "extracted_characters": 14401
+    },
+    {
+      "id": "2173",
+      "url": "https://exler.es/films/pokazhi-mne-lunu.htm",
+      "published_at": "2025-01-09 08:00:00",
+      "title": "Кинорецензии | Покажи мне Луну | Ромком",
+      "html_sha256": "1ce995301aa6dfa10591de904067029a0e342a729561fc90a9e62c340bd4d4ea",
+      "extracted_characters": 7093
+    },
+    {
+      "id": "2196",
+      "url": "https://exler.es/films/uolles-i-gromit-samaya-dikaya-mest.htm",
+      "published_at": "2025-01-06 10:58:00",
+      "title": "Кинорецензии | Уоллес и Громит: Самая дикая месть | Анимация",
+      "html_sha256": "21ab58512a333e546e516bf60d05c1fa6db20cb84386aaf6661c83800f617d5b",
+      "extracted_characters": 9031
+    },
+    {
+      "id": "2214",
+      "url": "https://exler.es/films/missiya-krasnyj.htm",
+      "published_at": "2025-01-02 12:44:00",
+      "title": "Кинорецензии | Миссия: Красный | Фэнтезийный комедийный боевик",
+      "html_sha256": "cf2773ad74978c9fe3a1370675d224a8905da0fd55dacdadfc45a26affa13dfb",
+      "extracted_characters": 8134
+    },
+    {
+      "id": "2239",
+      "url": "https://exler.es/films/anora.htm",
+      "published_at": "2024-12-30 09:00:00",
+      "title": "Кинорецензии | Анора | Драмеди",
+      "html_sha256": "a3f29e2e8d4e00ac95bd80b0bcf812acb317851e42fb80803a3ab28f30f5f202",
+      "extracted_characters": 9208
+    },
+    {
+      "id": "2263",
+      "url": "https://exler.es/films/velikaya.htm",
+      "published_at": "2024-12-26 11:26:00",
+      "title": "Кинорецензии | Великая | Биографическая драма",
+      "html_sha256": "6e570b238ba07113fbc3dc986b6e2d94c929ab4cc59f83c3b22adb6a497df0be",
+      "extracted_characters": 9006
+    },
+    {
+      "id": "2278",
+      "url": "https://exler.es/films/ograblenie-po-arizonski.htm",
+      "published_at": "2024-12-23 10:00:00",
+      "title": "Кинорецензии | Ограбление по-аризонски | Криминальный триллер",
+      "html_sha256": "8c703a6d9665136ce80d8c31d9e0b387e67f2b7e98c6c993bf84734df9b43093",
+      "extracted_characters": 8320
+    },
+    {
+      "id": "2299",
+      "url": "https://exler.es/films/ubijstva-v-odnom-zdanii-chetvertyj-sezon.htm",
+      "published_at": "2024-12-19 08:00:00",
+      "title": "Кинорецензии | Убийства в одном здании. Четвертый сезон | Сериал",
+      "html_sha256": "c92a83ad9c64943328833a06689d40d592c5f9c7c88b92611f6fd5b4c60dd836",
+      "extracted_characters": 4967
+    },
+    {
+      "id": "2315",
+      "url": "https://exler.es/films/ruchnaya-klad.htm",
+      "published_at": "2024-12-16 10:00:00",
+      "title": "Кинорецензии | Ручная кладь | Боевик-триллер",
+      "html_sha256": "e134770849224778806f2f4db5d070ff5b294f8818d6fb2c702ea11c8b1c87b4",
+      "extracted_characters": 6327
+    },
+    {
+      "id": "2343",
+      "url": "https://exler.es/films/prisyazhnyj-nomer-dva.htm",
+      "published_at": "2024-12-12 08:00:00",
+      "title": "Кинорецензии | Присяжный номер два | Психологическая драма",
+      "html_sha256": "98d30073b3d50eea49fa75b5e86569566bbd8535a3621ea4ca6993b9dfc58091",
+      "extracted_characters": 9073
+    },
+    {
+      "id": "2359",
+      "url": "https://exler.es/films/priroda-lyubvi.htm",
+      "published_at": "2024-12-09 10:00:00",
+      "title": "Кинорецензии | Природа любви | Ромком",
+      "html_sha256": "15602613658cf295c8ef4469b71e94f1b5d59e8d02bb97efe4795899f62c7fd1",
+      "extracted_characters": 7917
+    },
+    {
+      "id": "2383",
+      "url": "https://exler.es/films/otec-goda.htm",
+      "published_at": "2024-12-05 11:56:00",
+      "title": "Кинорецензии | Отец года | Драмеди",
+      "html_sha256": "8f5ee4f10cb05a6c3e5e49ddcffa911ad69c1dad9d6ddffc756437ce0334ff51",
+      "extracted_characters": 6804
+    },
+    {
+      "id": "2408",
+      "url": "https://exler.es/films/megalopolis.htm",
+      "published_at": "2024-12-02 09:00:00",
+      "title": "Кинорецензии | Мегалополис | Фэнтезийная мелодрама",
+      "html_sha256": "5ee60a9ddb70de88ee0afea6fea690435c0cb5bca71e70d7186893bbd5b3bd74",
+      "extracted_characters": 16062
+    },
+    {
+      "id": "2431",
+      "url": "https://exler.es/films/vtoroj-akt.htm",
+      "published_at": "2024-11-28 10:04:00",
+      "title": "Кинорецензии | Второй акт | Сатирическая комедия",
+      "html_sha256": "7b1d25c7412407b7654a279f78f32a3568e7706fdb791140baef131c9ceb6d55",
+      "extracted_characters": 6588
+    },
+    {
+      "id": "2476",
+      "url": "https://exler.es/films/graf-monte-kristo-1.htm",
+      "published_at": "2024-11-18 09:00:00",
+      "title": "Кинорецензии | Граф Монте-Кристо | Приключенческая драма",
+      "html_sha256": "37e231dafa5c1cd5c6bffe9a625bc6d94cbe3c55cd9283d303855ccb54e31646",
+      "extracted_characters": 8727
+    },
+    {
+      "id": "2491",
+      "url": "https://exler.es/films/shou-subbotnim-vecherom.htm",
+      "published_at": "2024-11-14 10:59:00",
+      "title": "Кинорецензии | Шоу субботним вечером | Комедия",
+      "html_sha256": "f8015a9c5eede0f633300a4fef8a9ebdfe89cd81068b14cc70a252ee618cb86c",
+      "extracted_characters": 11158
+    },
+    {
+      "id": "2509",
+      "url": "https://exler.es/films/substanciya.htm",
+      "published_at": "2024-11-11 11:47:00",
+      "title": "Кинорецензии | Субстанция | Боди-хоррор",
+      "html_sha256": "1556b2a95094f5383869bfb3cfa9cb9eeb0059b6e13eba81ddddcf41e10f8c76",
+      "extracted_characters": 9088
+    },
+    {
+      "id": "2533",
+      "url": "https://exler.es/films/spyashie-psy.htm",
+      "published_at": "2024-11-07 12:24:00",
+      "title": "Кинорецензии | Спящие псы | Детективный триллер",
+      "html_sha256": "80c43f8c6db0ace35cdbe3b8ea72aecf712a338055eb54590af6b3cd313eba47",
+      "extracted_characters": 6363
+    },
+    {
+      "id": "2546",
+      "url": "https://exler.es/films/kritik.htm",
+      "published_at": "2024-11-04 12:17:00",
+      "title": "Кинорецензии | Критик | Криминальная драма",
+      "html_sha256": "0d81df45cf643ede44d9ac90cc6f808d90420b28dab59456966786ec7655ee27",
+      "extracted_characters": 7137
+    },
+    {
+      "id": "2575",
+      "url": "https://exler.es/films/kosmicheskie-sily-1.htm",
+      "published_at": "2024-10-31 11:16:00",
+      "title": "Кинорецензии | Космические силы | Сериал",
+      "html_sha256": "2360fc75cb16b75476410fe06820d8eba09f9f931df361e1e56b301200dbdfb2",
+      "extracted_characters": 6379
+    },
+    {
+      "id": "2591",
+      "url": "https://exler.es/films/odnazhdy-v-la-roe.htm",
+      "published_at": "2024-10-29 08:00:00",
+      "title": "Кинорецензии | Однажды в Ла-Рое | Криминальная трагикомедия",
+      "html_sha256": "ae715395fc2ec951d1dbfacb19e4ba1dfdcc58b06695374f067a29b7112b8674",
+      "extracted_characters": 6806
+    },
+    {
+      "id": "2631",
+      "url": "https://exler.es/films/bitldzhus-bitldzhus.htm",
+      "published_at": "2024-10-21 09:00:00",
+      "title": "Кинорецензии | Битлджус Битлджус | Комедия-фэнтези",
+      "html_sha256": "4ec9f79cbafba45038694785ba4adcca86ae0bbb150d95a473ad0f1eb8974e76",
+      "extracted_characters": 10782
+    },
+    {
+      "id": "2650",
+      "url": "https://exler.es/films/nenasytnye-lyudi.htm",
+      "published_at": "2024-10-17 13:17:00",
+      "title": "Кинорецензии | Ненасытные люди | Криминальная трагикомедия",
+      "html_sha256": "c7d04f4d052dd8d943dd761d8e3455f2cf1fdfd613b5c32cd2a7caa2388ad894",
+      "extracted_characters": 6451
+    },
+    {
+      "id": "2675",
+      "url": "https://exler.es/films/dedpul-i-rosomaha.htm",
+      "published_at": "2024-10-10 10:12:00",
+      "title": "Кинорецензии | Дэдпул и Росомаха | Фантастический боевик",
+      "html_sha256": "b1d60ae695d8818d4e6a35d4b5d829cbd35c0a15b7b619afdd76a9986aa5a02b",
+      "extracted_characters": 9732
+    },
+    {
+      "id": "2692",
+      "url": "https://exler.es/films/odinokie-volki.htm",
+      "published_at": "2024-10-07 10:00:00",
+      "title": "Кинорецензии | Одинокие волки | Романтическая криминальная комедия",
+      "html_sha256": "af03ad26acfb92b9905ebb9dc400f815b3b0efd37d45edf908944f7761815766",
+      "extracted_characters": 9845
+    },
+    {
+      "id": "2715",
+      "url": "https://exler.es/films/zlobnye-malenkie-pisma.htm",
+      "published_at": "2024-10-03 10:28:00",
+      "title": "Кинорецензии | Злобные маленькие письма | Трагикомедия",
+      "html_sha256": "4712b6e50c682b08c26078a7031bb5bdd753235e2c98bb5838ef41684043a640",
+      "extracted_characters": 8685
+    },
+    {
+      "id": "2733",
+      "url": "https://exler.es/films/vlasteliny-vozduha.htm",
+      "published_at": "2024-10-01 08:00:00",
+      "title": "Кинорецензии | Властелины воздуха | Сериал",
+      "html_sha256": "81dd49eb87dd5b43a5275a6385cab45d1a4e937dc37baaebb399b7d38a4227ca",
+      "extracted_characters": 9485
+    },
+    {
+      "id": "2769",
+      "url": "https://exler.es/films/shvatka-1.htm",
+      "published_at": "2024-09-23 11:00:00",
+      "title": "Кинорецензии | Схватка | Криминальный боевик-триллер",
+      "html_sha256": "21ae551a60b06afd2cb9ea472a9d86497b2dc3f6a9a39ec065965a833a62d3b0",
+      "extracted_characters": 9299
+    },
+    {
+      "id": "2784",
+      "url": "https://exler.es/films/rebel-ridzh.htm",
+      "published_at": "2024-09-19 10:41:00",
+      "title": "Кинорецензии | Ребел-Ридж | Криминальный боевик",
+      "html_sha256": "6c14f780a133aa2b78a56f80f2fe70e429ba2388900a657f0a0a88953d17f0d7",
+      "extracted_characters": 9863
+    },
+    {
+      "id": "2804",
+      "url": "https://exler.es/films/avenyu-5-vtoroj-sezon.htm",
+      "published_at": "2024-09-16 10:08:00",
+      "title": "Кинорецензии | Авеню 5. Второй сезон | Сериал",
+      "html_sha256": "e56232a635b3ad384b0562339d52449ac868fd6ece4dc7662dba148c4e176e93",
+      "extracted_characters": 6466
+    },
+    {
+      "id": "2830",
+      "url": "https://exler.es/films/idealnye-dni.htm",
+      "published_at": "2024-09-12 10:40:00",
+      "title": "Кинорецензии | Идеальные дни | Драма",
+      "html_sha256": "218f6d2e4f20a78f021d1cdf1d92b47db3dd52d970ece59dd34cf812a2982e3b",
+      "extracted_characters": 7620
+    },
+    {
+      "id": "2846",
+      "url": "https://exler.es/films/vidy-dobroty.htm",
+      "published_at": "2024-09-09 10:00:00",
+      "title": "Кинорецензии | Виды доброты | Абсурдистская трагикомедия",
+      "html_sha256": "2d76637c7becc3f7e3e5b5cb162059a7119600ed8c7b7a0c064f5ec6daec8850",
+      "extracted_characters": 8722
+    },
+    {
+      "id": "2873",
+      "url": "https://exler.es/films/golovolomka-2.htm",
+      "published_at": "2024-09-05 09:00:00",
+      "title": "Кинорецензии | Головоломка 2 | Анимация",
+      "html_sha256": "ebeb376278b56ee21e4275e7b6510084af8028cbbedc2649f69ffb5faa8f00db",
+      "extracted_characters": 5730
+    },
+    {
+      "id": "2892",
+      "url": "https://exler.es/films/lyubov-i-smert.htm",
+      "published_at": "2024-09-02 10:00:00",
+      "title": "Кинорецензии | Любовь и смерть | Сериал",
+      "html_sha256": "2b96602d2b366177a9c9804f47179ea9858f1672cc106596b8597336f67fe138",
+      "extracted_characters": 11171
+    },
+    {
+      "id": "2932",
+      "url": "https://exler.es/films/zachinshiki.htm",
+      "published_at": "2024-08-26 10:00:00",
+      "title": "Кинорецензии | Зачинщики | Криминальная трагикомедия",
+      "html_sha256": "5cf7121ee652c6117ba19ebb608bce2838d68e19770076bd898f256c1d900954",
+      "extracted_characters": 6976
+    },
+    {
+      "id": "2956",
+      "url": "https://exler.es/films/hitmen-poslednee-delo.htm",
+      "published_at": "2024-08-22 11:06:00",
+      "title": "Кинорецензии | Хитмен. Последнее дело | Криминальная драма",
+      "html_sha256": "320e51c1c2dd16032b9ab5f5a0b1ed6ddffcef2470314fdbe56f59cd45ce590b",
+      "extracted_characters": 8214
+    },
+    {
+      "id": "2979",
+      "url": "https://exler.es/films/soyuz-1.htm",
+      "published_at": "2024-08-19 09:03:00",
+      "title": "Кинорецензии | Союз | Комедийный боевик",
+      "html_sha256": "b805e0fa55005432b2b923b96767109de415832acd682d2c219ea10d3abfdaa9",
+      "extracted_characters": 7331
+    },
+    {
+      "id": "3021",
+      "url": "https://exler.es/films/follaut.htm",
+      "published_at": "2024-08-12 10:00:00",
+      "title": "Кинорецензии | Фоллаут | Сериал",
+      "html_sha256": "486893054971e28d9bf12977cce1f8578972d0c26c78fa3fb26ed5183115c7bb",
+      "extracted_characters": 7621
+    },
+    {
+      "id": "3080",
+      "url": "https://exler.es/films/plohie-parni-do-konca.htm",
+      "published_at": "2024-07-29 09:16:00",
+      "title": "Кинорецензии | Плохие парни до конца | Комедийный боевик",
+      "html_sha256": "600e9ba6b5b7335ef7f470021ad96efd7f188ad86714825a7a3b161d74115447",
+      "extracted_characters": 7354
+    },
+    {
+      "id": "3094",
+      "url": "https://exler.es/films/vtoraya-zhizn-garolda-fraya.htm",
+      "published_at": "2024-07-25 13:52:00",
+      "title": "Кинорецензии | Вторая жизнь Гарольда Фрая | Драма",
+      "html_sha256": "6e37cf8ba5aebec50d3a38d8f52de83b5b57d1629207f63d2de20eb70d70e071",
+      "extracted_characters": 6606
+    },
+    {
+      "id": "3111",
+      "url": "https://exler.es/films/syogun.htm",
+      "published_at": "2024-07-22 11:00:00",
+      "title": "Кинорецензии | Сёгун | Сериал",
+      "html_sha256": "881a57adbd63611b02438aa77b0ac8277005c295bdacd0d9c10befa2baab0c61",
+      "extracted_characters": 10594
+    },
+    {
+      "id": "3133",
+      "url": "https://exler.es/films/territoriya-zla.htm",
+      "published_at": "2024-07-18 10:42:00",
+      "title": "Кинорецензии | Территория зла | Боевик-триллер",
+      "html_sha256": "fb493a86f8f3a264b71bcafc9986db8cea95018e10951502e15f10c18f5f7731",
+      "extracted_characters": 6475
+    },
+    {
+      "id": "3147",
+      "url": "https://exler.es/films/bajkery.htm",
+      "published_at": "2024-07-15 11:00:00",
+      "title": "Кинорецензии | Байкеры | Криминальная драма",
+      "html_sha256": "094e1128e373e1909ea2a4e560d5acfc07f7283e3b9d9702af74d9a2dc0ea549",
+      "extracted_characters": 10039
+    },
+    {
+      "id": "3166",
+      "url": "https://exler.es/films/ya-ne-killer.htm",
+      "published_at": "2024-07-11 12:28:00",
+      "title": "Кинорецензии | Я не киллер | Криминальный ромком",
+      "html_sha256": "7d1a35f126195bed547ee603780ee67f03f21684418c782fc5f9b34b28cca367",
+      "extracted_characters": 7655
+    },
+    {
+      "id": "3179",
+      "url": "https://exler.es/films/artur-ty-korol.htm",
+      "published_at": "2024-07-08 10:53:00",
+      "title": "Кинорецензии | Артур, ты король | Спортивная драма",
+      "html_sha256": "1eadd467368e0c99a5d01eb4ede5b479dd2103aa50e80a6f6f950c80b849fcf7",
+      "extracted_characters": 13264
+    },
+    {
+      "id": "3198",
+      "url": "https://exler.es/films/policejskij-iz-beverli-hillz-aksel-fouli.htm",
+      "published_at": "2024-07-04 12:24:00",
+      "title": "Кинорецензии | Полицейский из Беверли-Хиллз: Аксель Фоули | Комедийный боевик",
+      "html_sha256": "a1bff7ca40fed8abe506b4771b4c57a4feb963d2403d3d36defa461e8c7447c0",
+      "extracted_characters": 11376
+    },
+    {
+      "id": "3216",
+      "url": "https://exler.es/films/kaskadery.htm",
+      "published_at": "2024-07-01 09:00:00",
+      "title": "Кинорецензии | Каскадеры | Комедийный боевик",
+      "html_sha256": "ce9ef2ebb2d47707ebd954edc28ea74d45aba4b13a832e3a0873adf99d974daf",
+      "extracted_characters": 8943
+    },
+    {
+      "id": "3240",
+      "url": "https://exler.es/films/furiosa-hroniki-bezumnogo-maksa.htm",
+      "published_at": "2024-06-27 08:18:00",
+      "title": "Кинорецензии | Фуриоса: Хроники Безумного Макса | Фантастический боевик",
+      "html_sha256": "91b11b2640b80f2404fdba5edd636c3b61169dcfc685ab2ccdab216118cf3845",
+      "extracted_characters": 9711
+    },
+    {
+      "id": "3254",
+      "url": "https://exler.es/films/edinozhdy-solgav.htm",
+      "published_at": "2024-06-24 12:05:00",
+      "title": "Кинорецензии | Единожды солгав | Сериал",
+      "html_sha256": "069d7227f569d35d22e3498a345fcfbf34455efe480670cf4093d6a25ca8f734",
+      "extracted_characters": 6330
+    },
+    {
+      "id": "3276",
+      "url": "https://exler.es/films/soperniki.htm",
+      "published_at": "2024-06-20 10:48:00",
+      "title": "Кинорецензии | Претенденты | Спортивная мелодрама",
+      "html_sha256": "ae81d982f0ab0dcc3d29185deb74e318d7c7320e2ef8061af4e615e170cbcc4c",
+      "extracted_characters": 7304
+    },
+    {
+      "id": "3293",
+      "url": "https://exler.es/films/odna-zhizn.htm",
+      "published_at": "2024-06-17 10:03:00",
+      "title": "Кинорецензии | Одна жизнь | Драма",
+      "html_sha256": "6b50899947b9ec6b97a8acced62bfb89ec3135315dfb9c8000e1c162ce5c5241",
+      "extracted_characters": 8986
+    },
+    {
+      "id": "3312",
+      "url": "https://exler.es/films/mech-korolya-1.htm",
+      "published_at": "2024-06-13 10:58:00",
+      "title": "Кинорецензии | Меч короля | Историческая драма",
+      "html_sha256": "d9a51a19434d63832dfa7bf1cd715cbc7041c520cc66d5c3238354af24fbcee8",
+      "extracted_characters": 9265
+    },
+    {
+      "id": "3329",
+      "url": "https://exler.es/films/padenie-imperii.htm",
+      "published_at": "2024-06-10 09:00:00",
+      "title": "Кинорецензии | Падение империи | Приключенческий боевик",
+      "html_sha256": "60546722a53515d09a796c4625d00fdd5118351e6cc15330ddc3a198e77c3801",
+      "extracted_characters": 12233
+    },
+    {
+      "id": "3349",
+      "url": "https://exler.es/films/pacan-protiv-vseh.htm",
+      "published_at": "2024-06-06 10:58:00",
+      "title": "Кинорецензии | Пацан против всех | Черноюморной комедийный боевик",
+      "html_sha256": "729c674691d8e98b931899e4ddab98188fe971b550eefc43456f563187442354",
+      "extracted_characters": 7813
+    },
+    {
+      "id": "3364",
+      "url": "https://exler.es/films/shugar.htm",
+      "published_at": "2024-06-03 09:00:00",
+      "title": "Кинорецензии | Шугар | Сериал",
+      "html_sha256": "bbadfdf1e62dfa63df109cdb1e02a68db3e99a59324df531118fbe81d2fb4320",
+      "extracted_characters": 7710
+    },
+    {
+      "id": "3385",
+      "url": "https://exler.es/films/sleduyushij-gol-pobednyj.htm",
+      "published_at": "2024-05-30 10:01:00",
+      "title": "Кинорецензии | Следующий гол - победный | Спортивная трагикомедия",
+      "html_sha256": "9d324d93ab1ae66e45cc49665a282868d336ad9766d448bf0e20c65ab03b4ad4",
+      "extracted_characters": 6614
+    },
+    {
+      "id": "3402",
+      "url": "https://exler.es/films/ministerstvo-nedzhentlmenskih-del.htm",
+      "published_at": "2024-05-27 09:00:00",
+      "title": "Кинорецензии | Министерство неджентльменских дел | Приключенческий боевик",
+      "html_sha256": "6943611e789f42d9edd4084aadba2d2391d0e4dd6e991644bb7b6d0d68be2ee9",
+      "extracted_characters": 8216
+    },
+    {
+      "id": "3424",
+      "url": "https://exler.es/films/mankimen.htm",
+      "published_at": "2024-05-23 09:36:00",
+      "title": "Кинорецензии | Манкимэн | Боевик",
+      "html_sha256": "90279eb61c47d13fdec0abcfbd249b151930f693ac322dabbe9c7f65bcfcd5cb",
+      "extracted_characters": 9852
+    },
+    {
+      "id": "3437",
+      "url": "https://exler.es/films/ripli.htm",
+      "published_at": "2024-05-20 09:01:00",
+      "title": "Кинорецензии | Рипли | Сериал",
+      "html_sha256": "44d45f7a54834a3cec79a2ed93fe11601a4502035813805db3468ce845e9a964",
+      "extracted_characters": 15512
+    },
+    {
+      "id": "3459",
+      "url": "https://exler.es/films/bez-glazuri.htm",
+      "published_at": "2024-05-16 08:00:00",
+      "title": "Кинорецензии | Без глазури | Комедия",
+      "html_sha256": "ced71ce2b362b4d4e3f79177866e8fd51869df91f6f35a01dac33a03af10886f",
+      "extracted_characters": 7005
+    },
+    {
+      "id": "3480",
+      "url": "https://exler.es/films/krasotki-v-begah.htm",
+      "published_at": "2024-05-13 09:00:00",
+      "title": "Кинорецензии | Красотки в бегах | Криминальная комедия",
+      "html_sha256": "2a5488afa537c120a402c795f93b18480e4926db5c4f653697d9c66c11c74415",
+      "extracted_characters": 7929
+    },
+    {
+      "id": "3528",
+      "url": "https://exler.es/films/proshlye-zhizni.htm",
+      "published_at": "2024-05-06 10:50:00",
+      "title": "Кинорецензии | Прошлые жизни | Романтическая драма",
+      "html_sha256": "e9feb767193ffc65a30c6c7fc57fa28f82a67ee3ec211b6b9d589642abd19654",
+      "extracted_characters": 8333
+    },
+    {
+      "id": "3554",
+      "url": "https://exler.es/films/tri-mushketyora-miledi.htm",
+      "published_at": "2024-05-02 08:00:00",
+      "title": "Кинорецензии | Три мушкетёра: Миледи | Боевик",
+      "html_sha256": "1343dee5214615ba660cfa0701c5181c01bbf1ea4541ca69fe7857f91cde90d2",
+      "extracted_characters": 8647
+    },
+    {
+      "id": "3574",
+      "url": "https://exler.es/films/solnechnoe-poberezhe.htm",
+      "published_at": "2024-04-29 09:00:00",
+      "title": "Кинорецензии | Солнечное побережье | Драма",
+      "html_sha256": "a5264905a977469263e5e038b162d6419c686709135132f5a927a887f8c27673",
+      "extracted_characters": 8245
+    },
+    {
+      "id": "3612",
+      "url": "https://exler.es/films/durnye-dengi.htm",
+      "published_at": "2024-04-23 09:07:00",
+      "title": "Кинорецензии | Дурные деньги | Трагикомедия",
+      "html_sha256": "7d1eca65f19f213b3b50292ccd9c1d9b86548a2b3016cc424eed9186840c54ff",
+      "extracted_characters": 11777
+    },
+    {
+      "id": "3644",
+      "url": "https://exler.es/films/periferijnye-ustrojstva-1.htm",
+      "published_at": "2024-04-15 09:00:00",
+      "title": "Кинорецензии | Периферийные устройства | Сериал",
+      "html_sha256": "e240e495d899dfbb84910db406d2fbf44717906c386da72b5c141eb3e428c845",
+      "extracted_characters": 6941
+    },
+    {
+      "id": "3660",
+      "url": "https://exler.es/films/dom-u-dorogi.htm",
+      "published_at": "2024-04-11 13:18:00",
+      "title": "Кинорецензии | Дом у дороги | Боевик",
+      "html_sha256": "db3742a80c5d27aaa11364a794478ec72368de2df9770d0f967ceffdb86e3647",
+      "extracted_characters": 11162
+    },
+    {
+      "id": "3673",
+      "url": "https://exler.es/films/dzhentlmeny-1.htm",
+      "published_at": "2024-04-08 09:00:00",
+      "title": "Кинорецензии | Джентльмены | Сериал",
+      "html_sha256": "901d45f62e858bd76c70e3d2a0a64e1015f17019bc73366effce2d7c6225834c",
+      "extracted_characters": 9039
+    },
+    {
+      "id": "3683",
+      "url": "https://exler.es/films/ostav-mir-pozadi.htm",
+      "published_at": "2024-04-04 11:00:00",
+      "title": "Кинорецензии | Оставь мир позади | Психологический триллер",
+      "html_sha256": "ab0f3cd290553f96f2f8037011920563d27d27fd61205130d2dc4ede3ec0c75b",
+      "extracted_characters": 9133
+    },
+    {
+      "id": "3698",
+      "url": "https://exler.es/films/bednye-neschastnye.htm",
+      "published_at": "2024-04-01 09:00:00",
+      "title": "Кинорецензии | Бедные-несчастные | Фантасмагорическая сказка",
+      "html_sha256": "4c3ad1f250bd80c9e5c409c25c69b2542e8c0cd1660e40f3ee0601f64ca8dcf8",
+      "extracted_characters": 8958
+    },
+    {
+      "id": "3715",
+      "url": "https://exler.es/films/strannyj-el.htm",
+      "published_at": "2024-03-28 09:07:00",
+      "title": "Кинорецензии | Странный Эл | Полубиографическая комедия",
+      "html_sha256": "93953c67b3782523e8f943579017e527a84a6dd739a8e164f8154fe07be33733",
+      "extracted_characters": 8610
+    },
+    {
+      "id": "3729",
+      "url": "https://exler.es/films/master-i-margarita.htm",
+      "published_at": "2024-03-25 09:00:00",
+      "title": "Кинорецензии | Мастер и Маргарита | Фэнтезийная мелодрама",
+      "html_sha256": "163097b39c0cc55b7e5b070cc0450d198c97112d16bfb3cc2022c8e0f9afd605",
+      "extracted_characters": 12239
+    },
+    {
+      "id": "3757",
+      "url": "https://exler.es/films/v-roli-rikardo.htm",
+      "published_at": "2024-03-21 08:00:00",
+      "title": "Кинорецензии | В роли Рикардо | Драмеди",
+      "html_sha256": "aa5bb67b18ace4d2be184347d6ae9fc6a691d8a2e69fa85caed3d35a62155799",
+      "extracted_characters": 8202
+    },
+    {
+      "id": "3782",
+      "url": "https://exler.es/films/dyuna-chast-vtoraya.htm",
+      "published_at": "2024-03-14 09:05:00",
+      "title": "Кинорецензии | Дюна: Часть вторая | Фантастический боевик",
+      "html_sha256": "52fc91ff4915b027fac73b0fac59dd8a13354bbc850d8b4cd2329c79a317da54",
+      "extracted_characters": 9780
+    },
+    {
+      "id": "3797",
+      "url": "https://exler.es/films/argajl-supershpion.htm",
+      "published_at": "2024-03-11 09:00:00",
+      "title": "Кинорецензии | Аргайл: Супершпион | Пародийный боевик",
+      "html_sha256": "04003b058ae9df9cc52bcc2c938408273d15151a8cff10c471a8dfc6c0f0f32b",
+      "extracted_characters": 9861
+    },
+    {
+      "id": "3822",
+      "url": "https://exler.es/films/geroj-nashih-snov.htm",
+      "published_at": "2024-03-07 09:03:00",
+      "title": "Кинорецензии | Герой наших снов | Драмеди",
+      "html_sha256": "12cf97dfaa29c555a9c497fd672d8a7fe98cdb91986508f86d0184ddd6ce2c50",
+      "extracted_characters": 10496
+    },
+    {
+      "id": "3839",
+      "url": "https://exler.es/films/prizrachnaya-bashnya.htm",
+      "published_at": "2024-03-04 09:00:00",
+      "title": "Кинорецензии | Призрачная башня | Сериал",
+      "html_sha256": "a1fd833d6a76363f79f2263ef8f1747e13bb6c68258d92e1b8f5f3c64c7fc8c7",
+      "extracted_characters": 8885
+    },
+    {
+      "id": "3864",
+      "url": "https://exler.es/films/telohranitel-na-frilanse.htm",
+      "published_at": "2024-02-29 08:30:00",
+      "title": "Кинорецензии | Телохранитель на фрилансе | Комедийный боевик",
+      "html_sha256": "21c348ab4ba314e94967613a38c29fc1219dba03732a05a1b0916bd47a411b68",
+      "extracted_characters": 8211
+    },
+    {
+      "id": "3882",
+      "url": "https://exler.es/films/stalnaya-hvatka.htm",
+      "published_at": "2024-02-26 09:00:00",
+      "title": "Кинорецензии | Стальная хватка | Спортивная драма",
+      "html_sha256": "00f7c6f79d15aec0caeb83599c0008832489bdb0f4959a4beea4f0af2b62c21b",
+      "extracted_characters": 18711
+    },
+    {
+      "id": "3907",
+      "url": "https://exler.es/films/amerikanskoe-chtivo.htm",
+      "published_at": "2024-02-22 08:23:00",
+      "title": "Кинорецензии | Американское чтиво | Трагикомедия",
+      "html_sha256": "a0347a8dffb66d19ef083a1d3ed8b5fbefb18710b5fbd57353909e2544ec423f",
+      "extracted_characters": 9423
+    },
+    {
+      "id": "3929",
+      "url": "https://exler.es/films/aferisty-1.htm",
+      "published_at": "2024-02-19 09:00:00",
+      "title": "Кинорецензии | Аферисты | Криминальная драма",
+      "html_sha256": "f520a8596080e630ea70b13edd9a7479183964beb14c555ad5b963f12a0910fe",
+      "extracted_characters": 6080
+    },
+    {
+      "id": "3948",
+      "url": "https://exler.es/films/maestro.htm",
+      "published_at": "2024-02-15 09:25:00",
+      "title": "Кинорецензии | Маэстро | Биографическая драма",
+      "html_sha256": "d4c9c5440797d9f5e55e41a550df60bc8c1333a040bc7f0a699f1b4e7748bd12",
+      "extracted_characters": 10287
+    },
+    {
+      "id": "3967",
+      "url": "https://exler.es/films/dvorec.htm",
+      "published_at": "2024-02-12 11:00:00",
+      "title": "Кинорецензии | Дворец | Черноюморная трагикомедия",
+      "html_sha256": "e4d019156dfe115da0a4bf98f69fca2bb6f09fa158432d7e27c34a85e2f6152a",
+      "extracted_characters": 14745
+    },
+    {
+      "id": "3992",
+      "url": "https://exler.es/films/pchelovod.htm",
+      "published_at": "2024-02-08 08:00:00",
+      "title": "Кинорецензии | Пчеловод | Криминальный боевик",
+      "html_sha256": "2465041afb621474d865eb47e0b46fa1ca93049b868e6c7060732e4087307d72",
+      "extracted_characters": 6062
+    },
+    {
+      "id": "4006",
+      "url": "https://exler.es/films/fargo-pyatyj-sezon.htm",
+      "published_at": "2024-02-05 09:00:00",
+      "title": "Кинорецензии | Фарго. Пятый сезон | Сериал",
+      "html_sha256": "b5f69d01f6486f5bac65204135588c0e1851b290fa5406c042bb901f85f9d6ea",
+      "extracted_characters": 13789
+    },
+    {
+      "id": "4027",
+      "url": "https://exler.es/films/nash-flag-oznachaet-smert.htm",
+      "published_at": "2024-02-01 10:44:00",
+      "title": "Кинорецензии | Наш флаг означает смерть | Сериал",
+      "html_sha256": "efcd558f067cde38d7e423a8497e34275461c6b998bdc5815777e78a6735b5c2",
+      "extracted_characters": 7614
+    },
+    {
+      "id": "4047",
+      "url": "https://exler.es/films/anatomiya-padeniya.htm",
+      "published_at": "2024-01-29 09:34:00",
+      "title": "Кинорецензии | Анатомия падения | Драма",
+      "html_sha256": "45473a9a2923d247922a9597d39686867e5d3b6a400097e899c38e36bef67c4b",
+      "extracted_characters": 12003
+    },
+    {
+      "id": "4062",
+      "url": "https://exler.es/films/soltbern.htm",
+      "published_at": "2024-01-25 09:00:00",
+      "title": "Кинорецензии | Солтберн | Черноюморная сатира",
+      "html_sha256": "09a7fc18916f8be4e03d08c6b73626fd3456cb13cce4dc269c3695a8ee8da204",
+      "extracted_characters": 11893
+    },
+    {
+      "id": "4078",
+      "url": "https://exler.es/films/obshestvo-snega.htm",
+      "published_at": "2024-01-22 09:00:00",
+      "title": "Кинорецензии | Общество снега | Драма",
+      "html_sha256": "ef32e20015e4b7dd667a54b2fb208995d3772053ad802ec2c0c765fb196f571a",
+      "extracted_characters": 10717
+    },
+    {
+      "id": "4104",
+      "url": "https://exler.es/films/medlennye-loshadi-tretij-sezon.htm",
+      "published_at": "2024-01-18 08:00:00",
+      "title": "Кинорецензии | Медленные лошади. Третий сезон | Сериал",
+      "html_sha256": "bd01cb67cf1ed9dc8b16f026f26cfb078833374346fa764771b5960dd05c892b",
+      "extracted_characters": 7006
+    },
+    {
+      "id": "4120",
+      "url": "https://exler.es/films/v-duhe-rozhdestva.htm",
+      "published_at": "2024-01-15 09:00:00",
+      "title": "Кинорецензии | В духе Рождества | Музыкальная комедия",
+      "html_sha256": "97fcd20173f2d42a0b1facc15a2dd2a590e6c42380eecc9935b7d72a3944aa5f",
+      "extracted_characters": 7086
+    },
+    {
+      "id": "4143",
+      "url": "https://exler.es/films/berlin.htm",
+      "published_at": "2024-01-11 08:00:00",
+      "title": "Кинорецензии | Берлин | Сериал",
+      "html_sha256": "43ce56c846492be41ca5a0527ecb1f59e79b80aefc8e882a57b1bd363d91dbae",
+      "extracted_characters": 12443
+    },
+    {
+      "id": "4161",
+      "url": "https://exler.es/films/utrennee-shou-tretij-sezon.htm",
+      "published_at": "2024-01-08 09:00:00",
+      "title": "Кинорецензии | Утреннее шоу. Третий сезон | Сериал",
+      "html_sha256": "da32ba1c6b488881cd067fd97cb630e733d789274bc0a1030f06913aba639896",
+      "extracted_characters": 6551
+    },
+    {
+      "id": "4184",
+      "url": "https://exler.es/films/semejnyj-plan.htm",
+      "published_at": "2024-01-04 08:00:00",
+      "title": "Кинорецензии | Семейный план | Комедийный боевик",
+      "html_sha256": "f7a9dc2a10561c943ea5487dee9e3d819cfb3eb9fe30b1fb9eb726061acaf5cd",
+      "extracted_characters": 6619
+    },
+    {
+      "id": "4227",
+      "url": "https://exler.es/films/pobeg-iz-kuryatnika-2.htm",
+      "published_at": "2023-12-28 08:00:00",
+      "title": "Кинорецензии | Побег из курятника 2 | Анимация",
+      "html_sha256": "b8d6fba5127288bd4a3550bc88240bb1d3d697c3d496c304caa6fce50b29d338",
+      "extracted_characters": 8448
+    },
+    {
+      "id": "4240",
+      "url": "https://exler.es/films/ostavlennye.htm",
+      "published_at": "2023-12-25 11:43:00",
+      "title": "Кинорецензии | Оставленные | Трагикомедия",
+      "html_sha256": "f27b2201334f7a42100fa323abc150766da0d9eb195ca1a2cfd9f6f52f5b7fe8",
+      "extracted_characters": 9999
+    },
+    {
+      "id": "4262",
+      "url": "https://exler.es/films/renfild.htm",
+      "published_at": "2023-12-21 08:00:00",
+      "title": "Кинорецензии | Ренфилд | Комедийный экшен-хоррор",
+      "html_sha256": "40a7b4e655925fa495fd7df7c52b2a1462ae9ce1cda08a301bfbeac75fa2358b",
+      "extracted_characters": 9082
+    },
+    {
+      "id": "4280",
+      "url": "https://exler.es/films/ubijstva-v-odnom-zdanii-tretij-sezon.htm",
+      "published_at": "2023-12-18 09:00:00",
+      "title": "Кинорецензии | Убийства в одном здании. Третий сезон | Сериал",
+      "html_sha256": "f3acc3c4bfd573cb9d4640a746e4ef5d87ff60cab05d2330a3e4802210b5e69c",
+      "extracted_characters": 9156
+    },
+    {
+      "id": "4302",
+      "url": "https://exler.es/films/superalibi-2.htm",
+      "published_at": "2023-12-14 08:00:00",
+      "title": "Кинорецензии | SuperАлиби 2 | Комедия",
+      "html_sha256": "7005c664c88b0634a209541333ec2b53d334ffd94dae09d0d260de732d9ec200",
+      "extracted_characters": 6616
+    },
+    {
+      "id": "4319",
+      "url": "https://exler.es/films/ubijcy-cvetochnoj-luny.htm",
+      "published_at": "2023-12-11 09:00:00",
+      "title": "Кинорецензии | Убийцы цветочной луны | Криминальная драма",
+      "html_sha256": "7d86be60d72eccca09df571ec45a3ae8af1305e6be647878dde8b5239bb108c5",
+      "extracted_characters": 16176
+    },
+    {
+      "id": "4341",
+      "url": "https://exler.es/films/oni-klonirovali-tajrona.htm",
+      "published_at": "2023-12-07 08:00:00",
+      "title": "Кинорецензии | Они клонировали Тайрона | Сатирический триллер",
+      "html_sha256": "700d79a0165b9ebbb94c1a8e49bec4ef0fa696ed81c9cdd3fdca9eceb34eae78",
+      "extracted_characters": 8385
+    },
+    {
+      "id": "4356",
+      "url": "https://exler.es/films/kapli-boga.htm",
+      "published_at": "2023-12-04 09:00:00",
+      "title": "Кинорецензии | Капли бога | Сериал",
+      "html_sha256": "636e4598e6a0eddcaa5b1f73e20b8dcd23e57936c3c30ea350708cb5d9ee11f0",
+      "extracted_characters": 14773
+    },
+    {
+      "id": "4375",
+      "url": "https://exler.es/films/chudesnaya-istoriya-genri-shugara.htm",
+      "published_at": "2023-11-30 09:34:00",
+      "title": "Кинорецензии | Чудесная история Генри Шугара | Трагикомедия",
+      "html_sha256": "8030844648c7419975777497a687cbf5b3790e29ff7af5241ef0b863352e29d3",
+      "extracted_characters": 6556
+    },
+    {
+      "id": "4393",
+      "url": "https://exler.es/films/ty-ranil-moi-chuvstva.htm",
+      "published_at": "2023-11-27 09:00:00",
+      "title": "Кинорецензии | Ты ранил мои чувства | Драмеди",
+      "html_sha256": "67de3d946d73271f566f0d29ffe205f532e41f89872ade58e39f397475bab804",
+      "extracted_characters": 8272
+    },
+    {
+      "id": "4417",
+      "url": "https://exler.es/films/prodavcy-boli.htm",
+      "published_at": "2023-11-23 08:00:00",
+      "title": "Кинорецензии | Продавцы боли | Драма",
+      "html_sha256": "e706151b20537806e3d90b503a0c67477d98ff7672d0b7ac77c66526c7f50e2e",
+      "extracted_characters": 8874
+    },
+    {
+      "id": "4433",
+      "url": "https://exler.es/films/sozdatel.htm",
+      "published_at": "2023-11-20 09:00:00",
+      "title": "Кинорецензии | Создатель | Фантастический боевик",
+      "html_sha256": "44d12ae0588b5b817b728f27fdda839a09a8da8828adc239bc067241b381132a",
+      "extracted_characters": 10417
+    },
+    {
+      "id": "4455",
+      "url": "https://exler.es/films/ubijca-1.htm",
+      "published_at": "2023-11-16 08:04:00",
+      "title": "Кинорецензии | Убийца | Криминальный треллир",
+      "html_sha256": "c31d8e49c72e6d56f9ad8602fe45c2e83b6b7ceaeebb0586906c12ed0845bc29",
+      "extracted_characters": 9882
+    },
+    {
+      "id": "4468",
+      "url": "https://exler.es/films/oppengejmer.htm",
+      "published_at": "2023-11-13 09:00:00",
+      "title": "Кинорецензии | Оппенгеймер | Драма",
+      "html_sha256": "5e60724f1700a6965ac0fba8321e04bfdd6a670924103a203cdc888f506fa855",
+      "extracted_characters": 21447
+    },
+    {
+      "id": "4490",
+      "url": "https://exler.es/films/dzhuls.htm",
+      "published_at": "2023-11-09 09:00:00",
+      "title": "Кинорецензии | Джулс | Фантастическая трагикомедия",
+      "html_sha256": "00335dcfd3137a13925e48b9fb3ac2b0b3ebd31e8f1854a7c32ee7df02e5ca5f",
+      "extracted_characters": 6726
+    },
+    {
+      "id": "4505",
+      "url": "https://exler.es/films/gran-turizmo.htm",
+      "published_at": "2023-11-06 10:00:00",
+      "title": "Кинорецензии | Гран туризмо | Спортивная драма",
+      "html_sha256": "7ff6232140e01d219d4b80f8e33c160a0ca4d23c588b900dca7d3ec720cefced",
+      "extracted_characters": 9755
+    },
+    {
+      "id": "4531",
+      "url": "https://exler.es/films/reptilii.htm",
+      "published_at": "2023-11-02 08:00:00",
+      "title": "Кинорецензии | Рептилии | Детектив-нуар",
+      "html_sha256": "c3313e2e3e60c891090f0779f085d0095e5368dc8040b4c72410d4acefbbc8c2",
+      "extracted_characters": 8561
+    },
+    {
+      "id": "4549",
+      "url": "https://exler.es/films/pohorony-1.htm",
+      "published_at": "2023-10-30 10:53:00",
+      "title": "Кинорецензии | Похороны | Драма",
+      "html_sha256": "64e19302a4883024a5f78a4db239a33a8deee3769941a06b9933556ab9508e1a",
+      "extracted_characters": 8793
+    },
+    {
+      "id": "4571",
+      "url": "https://exler.es/films/velikij-uravnitel-3.htm",
+      "published_at": "2023-10-26 11:54:00",
+      "title": "Кинорецензии | Великий уравнитель 3 | Боевик",
+      "html_sha256": "1ab92719af7f8f27b41c69fcb77ee7eaed559041adf75ede1fb59e3091b55e5c",
+      "extracted_characters": 6873
+    },
+    {
+      "id": "4618",
+      "url": "https://exler.es/films/missiya-nevypolnima-smertelnaya-rasplata-chast-pervaya.htm",
+      "published_at": "2023-10-16 11:00:00",
+      "title": "Кинорецензии | Миссия невыполнима: Смертельная расплата. Часть первая | Боевик",
+      "html_sha256": "0fe193d32e7beba216eb146e375297494e73ba96308fac03a5073b81086aa4f4",
+      "extracted_characters": 9186
+    },
+    {
+      "id": "4679",
+      "url": "https://exler.es/films/bolshaya-malenkaya-lozh.htm",
+      "published_at": "2023-10-02 09:00:00",
+      "title": "Кинорецензии | Большая маленькая ложь | Драмеди",
+      "html_sha256": "03585813eaa1b7698e092222ea560f402d9f37cecf3817cea83ca29afd98b929",
+      "extracted_characters": 9709
+    },
+    {
+      "id": "4728",
+      "url": "https://exler.es/films/barbi.htm",
+      "published_at": "2023-09-21 10:00:00",
+      "title": "Кинорецензии | Барби | Фантастическая комедия",
+      "html_sha256": "1cdf6b2a602ee82dcf800ebe9e96655ba7c66ff23336730e79f1ea511db2218b",
+      "extracted_characters": 12492
+    },
+    {
+      "id": "4743",
+      "url": "https://exler.es/films/medved-vtoroj-sezon.htm",
+      "published_at": "2023-09-18 11:00:00",
+      "title": "Кинорецензии | Медведь. Второй сезон | Сериал",
+      "html_sha256": "a5b394a64bf8f004fed5b5a17895abb9d4dc4ab92959565f4cd5c51ec76f701b",
+      "extracted_characters": 8487
+    },
+    {
+      "id": "4761",
+      "url": "https://exler.es/films/v-ozhidanii-dali.htm",
+      "published_at": "2023-09-14 11:23:00",
+      "title": "Кинорецензии | В ожидании Дали | Романтичная комедия",
+      "html_sha256": "14f794fbe64ae1d8980e59d76e1672357cf3919bc54366e8e7c3ff580d0f4f08",
+      "extracted_characters": 9631
+    },
+    {
+      "id": "4778",
+      "url": "https://exler.es/films/zahvachennyj-rejs.htm",
+      "published_at": "2023-09-11 10:39:00",
+      "title": "Кинорецензии | Захваченный рейс | Сериал",
+      "html_sha256": "abf7474d8a0d879b311141050d9ffc9875e7c9ea9c21fea7d246caf78c6b3237",
+      "extracted_characters": 6713
+    },
+    {
+      "id": "4795",
+      "url": "https://exler.es/films/indiana-dzhons-i-koleso-sudby.htm",
+      "published_at": "2023-09-07 10:23:00",
+      "title": "Кинорецензии | Индиана Джонс и колесо судьбы | Приключенческий боевик",
+      "html_sha256": "1d5dff2cb10406fa11241cd129d91ac303fad3e458accd55ec3e11c5dbe62fab",
+      "extracted_characters": 9093
+    },
+    {
+      "id": "4825",
+      "url": "https://exler.es/films/potomok.htm",
+      "published_at": "2023-08-31 08:00:00",
+      "title": "Кинорецензии | Потомок | Криминальный триллер",
+      "html_sha256": "b496e89bf09b425109c8f3574dcf18f278bba8a4f421fe7c01cdec40c1fe7634",
+      "extracted_characters": 5704
+    },
+    {
+      "id": "4841",
+      "url": "https://exler.es/films/kung-fu-zherebec.htm",
+      "published_at": "2023-08-28 09:00:00",
+      "title": "Кинорецензии | Кунг-фу жеребец | Комедийная мелодрама",
+      "html_sha256": "2ec71b6132a64a0b32bf42bf20de4778c5a7508f39fbcb63cf4a040e7fccaa63",
+      "extracted_characters": 7062
+    },
+    {
+      "id": "4862",
+      "url": "https://exler.es/films/mama-mafiya.htm",
+      "published_at": "2023-08-24 08:00:00",
+      "title": "Кинорецензии | Мама мафия | Криминальная комедия",
+      "html_sha256": "cde5a22c4699537a30e4eb16be68837dae130e8a23901dab873a604922884f46",
+      "extracted_characters": 7711
+    },
+    {
+      "id": "4882",
+      "url": "https://exler.es/films/vsevidyashee-oko.htm",
+      "published_at": "2023-08-21 10:54:00",
+      "title": "Кинорецензии | Всевидящее око | Детективный триллер",
+      "html_sha256": "cb2605186334a345d3badf69d647515eb3f6156bc7b1050bd26a822427dbb366",
+      "extracted_characters": 7428
+    },
+    {
+      "id": "4905",
+      "url": "https://exler.es/films/bez-obid.htm",
+      "published_at": "2023-08-17 08:00:00",
+      "title": "Кинорецензии | Без обид | Комедия",
+      "html_sha256": "044be76129cb7eb2b9c47cdca19641600ac363daf95d82ddc076e5525e77d4d6",
+      "extracted_characters": 6815
+    },
+    {
+      "id": "4923",
+      "url": "https://exler.es/films/ted-lasso-tretij-sezon.htm",
+      "published_at": "2023-08-14 10:00:00",
+      "title": "Кинорецензии | Тед Лассо. Третий сезон | Сериал",
+      "html_sha256": "e907c4b0dd6b69d6fc0c2b1ff31cf695902286a760cad9f397f4df0be1764e2b",
+      "extracted_characters": 8087
+    },
+    {
+      "id": "4944",
+      "url": "https://exler.es/films/ty-zdes-bog-eto-ya-margaret.htm",
+      "published_at": "2023-08-10 08:00:00",
+      "title": "Кинорецензии | Ты здесь, Бог? Это я, Маргарет | Драмеди",
+      "html_sha256": "5e32c930e128ca7ccf21c7cb946f447fc6e2afd2bd9360cf93c7f0c9af60a724",
+      "extracted_characters": 5633
+    },
+    {
+      "id": "4959",
+      "url": "https://exler.es/films/tri-mushketera-d-artanyan.htm",
+      "published_at": "2023-08-07 10:00:00",
+      "title": "Кинорецензии | Три мушкетера: Д’Артаньян | Боевик",
+      "html_sha256": "b007636c0d12704c8495469d9631437defb26e574951a5f1ab9183f239110886",
+      "extracted_characters": 11101
+    },
+    {
+      "id": "4979",
+      "url": "https://exler.es/films/flesh-1.htm",
+      "published_at": "2023-08-03 08:00:00",
+      "title": "Кинорецензии | Флэш | Фантастический боевик",
+      "html_sha256": "75e462d379e80cf62481f52134d27e9099d3f4a3dd34927dd493f51d6d781f10",
+      "extracted_characters": 9131
+    },
+    {
+      "id": "4996",
+      "url": "https://exler.es/films/proshyonnyj.htm",
+      "published_at": "2023-07-31 09:00:00",
+      "title": "Кинорецензии | Прощённый | Драма",
+      "html_sha256": "3aad08867533c0113359b73453389d225841bf1da4e16796cab5b16f93ec89b5",
+      "extracted_characters": 9926
+    },
+    {
+      "id": "5030",
+      "url": "https://exler.es/films/moe-prestuplenie.htm",
+      "published_at": "2023-07-24 09:00:00",
+      "title": "Кинорецензии | Мое преступление | Водевильная комедия",
+      "html_sha256": "3804815fab4043eec88ceb701275922d5b8b5206eb45613bfc4c9e4b1f2d62d6",
+      "extracted_characters": 6474
+    },
+    {
+      "id": "5052",
+      "url": "https://exler.es/films/gorod-asteroidov.htm",
+      "published_at": "2023-07-20 10:44:00",
+      "title": "Кинорецензии | Город астероидов | Трагикомедия",
+      "html_sha256": "5ce6965afa76a68e51080b23bbcb7befda53bc7edff5fd91d9e3930b26be51f7",
+      "extracted_characters": 8035
+    },
+    {
+      "id": "5071",
+      "url": "https://exler.es/films/pokerfejs.htm",
+      "published_at": "2023-07-17 11:00:00",
+      "title": "Кинорецензии | Покерфейс | Сериал",
+      "html_sha256": "f4faafeb23754e4a4c39b1cc7d787d5fbbdb2d9e89ed717169a22d661cf94e6f",
+      "extracted_characters": 7395
+    },
+    {
+      "id": "5092",
+      "url": "https://exler.es/films/strazhi-galaktiki-chast-3.htm",
+      "published_at": "2023-07-13 11:23:00",
+      "title": "Кинорецензии | Стражи Галактики. Часть 3 | Фантастический боевик",
+      "html_sha256": "b2c099a6b7b06c6570f56a536f6388c19d2d70e099ff9d853895a96dd46ebc51",
+      "extracted_characters": 9514
+    },
+    {
+      "id": "5128",
+      "url": "https://exler.es/films/kto-ubil-blackberry.htm",
+      "published_at": "2023-07-06 09:00:00",
+      "title": "Кинорецензии | Кто убил BlackBerry | Трагикомедия",
+      "html_sha256": "66ab69a6acac44764fcbd0120b86bd4fc47c50427a318a54dada980b3b1f0d57",
+      "extracted_characters": 10744
+    },
+    {
+      "id": "5141",
+      "url": "https://exler.es/films/bessmertnyj.htm",
+      "published_at": "2023-07-03 11:00:00",
+      "title": "Кинорецензии | Бессмертный | Черноюморной боевик",
+      "html_sha256": "468e1ac58676e9f6172a2f8d818bf70464940b07b9651791a99ac49f1e158d27",
+      "extracted_characters": 6968
+    },
+    {
+      "id": "5170",
+      "url": "https://exler.es/films/nezhnyj-bar.htm",
+      "published_at": "2023-06-29 07:30:00",
+      "title": "Кинорецензии | Нежный бар | Мелодрама",
+      "html_sha256": "4fa5c36d5ef68cbd560ca6d4f8847e4cfcfae3985d9ddb2e6a3b317c1d693fc9",
+      "extracted_characters": 9479
+    },
+    {
+      "id": "5188",
+      "url": "https://exler.es/films/horoshij-chelovek.htm",
+      "published_at": "2023-06-26 09:00:00",
+      "title": "Кинорецензии | Хороший человек | Инди-драма",
+      "html_sha256": "2740a5d26b8eb8978d344d30945f00399b946f78a7c3e18e1a11ec232f51652b",
+      "extracted_characters": 8480
+    },
+    {
+      "id": "5215",
+      "url": "https://exler.es/films/tajler-rejk-operaciya-po-spaseniyu-2.htm",
+      "published_at": "2023-06-22 08:00:00",
+      "title": "Кинорецензии | Тайлер Рейк: Операция по спасению 2 | Боевик",
+      "html_sha256": "c00ff136c8e183a959dd83134a0a7605e7dc91cf72fd7453ce897b3dff1e76af",
+      "extracted_characters": 8396
+    },
+    {
+      "id": "5229",
+      "url": "https://exler.es/films/nasledniki-finalnyj-sezon.htm",
+      "published_at": "2023-06-19 10:00:00",
+      "title": "Кинорецензии | Наследники. Финальный сезон | Сериал",
+      "html_sha256": "0d5d5f7ca209d9e2219daab9720eb229ec53a4da94ffe48e144d2ed11bb25982",
+      "extracted_characters": 10205
+    },
+    {
+      "id": "5252",
+      "url": "https://exler.es/films/forsazh-10.htm",
+      "published_at": "2023-06-15 09:00:00",
+      "title": "Кинорецензии | Форсаж 10 | Боевик",
+      "html_sha256": "cef4d4fd6afcc305f0a6f7e77e06b5c2be0b0bfd3824fa787af878b4bc40ebeb",
+      "extracted_characters": 10143
+    },
+    {
+      "id": "5269",
+      "url": "https://exler.es/films/argentina-1985.htm",
+      "published_at": "2023-06-12 09:00:00",
+      "title": "Кинорецензии | Аргентина, 1985 | Судебная драма",
+      "html_sha256": "81437387f01764bff61274720d4ef6ad52b38b1a87206cd618722ebdb0f10f35",
+      "extracted_characters": 10182
+    },
+    {
+      "id": "5309",
+      "url": "https://exler.es/films/air-bolshoj-pryzhok.htm",
+      "published_at": "2023-06-05 10:31:00",
+      "title": "Кинорецензии | Air: Большой прыжок | Производственная драма",
+      "html_sha256": "68a01f52d634c22075fb4aa59f714db8c068b80b18e5fd921d320bf4d9dd4a3e",
+      "extracted_characters": 11386
+    },
+    {
+      "id": "5334",
+      "url": "https://exler.es/films/terapiya.htm",
+      "published_at": "2023-06-01 12:15:00",
+      "title": "Кинорецензии | Терапия | Сериал",
+      "html_sha256": "ea4795889b0678ad4f8f053b163c35e382f9a91984490e6bdae84cbdd38356c6",
+      "extracted_characters": 8319
+    },
+    {
+      "id": "5355",
+      "url": "https://exler.es/films/dzhon-uik-4.htm",
+      "published_at": "2023-05-29 09:00:00",
+      "title": "Кинорецензии | Джон Уик 4 | Неонуарный комиксоидный боевик",
+      "html_sha256": "74c7acab121c6174e5fdbe95abb2166fb8abfc6b04b01cdd3a80287e5ec89ff8",
+      "extracted_characters": 13042
+    },
+    {
+      "id": "5383",
+      "url": "https://exler.es/films/shramy-parizha.htm",
+      "published_at": "2023-05-25 08:00:00",
+      "title": "Кинорецензии | Шрамы Парижа | Криминальный триллер",
+      "html_sha256": "eba94219f626558051351d05fe36f2c9e271919d672d2c58334bcbb89888528b",
+      "extracted_characters": 7070
+    },
+    {
+      "id": "5404",
+      "url": "https://exler.es/films/perevodchik.htm",
+      "published_at": "2023-05-22 11:00:00",
+      "title": "Кинорецензии | Переводчик | Военная драма",
+      "html_sha256": "1f5bf25c9397a765c51643a708c2dd3925f4c83721378ff55af97264fb1c0e3b",
+      "extracted_characters": 6444
+    },
+    {
+      "id": "5430",
+      "url": "https://exler.es/films/diplomatka.htm",
+      "published_at": "2023-05-18 10:43:00",
+      "title": "Кинорецензии | Дипломатка | Сериал",
+      "html_sha256": "19be5c05bae6d2d194e77305d1306c9520958b396e38b56d29bb44512c0d1ac3",
+      "extracted_characters": 9276
+    },
+    {
+      "id": "5450",
+      "url": "https://exler.es/films/o-tele-i-o-dushe.htm",
+      "published_at": "2023-05-15 09:00:00",
+      "title": "Кинорецензии | О теле и о душе | Лирическая трагикомедия",
+      "html_sha256": "bd6c3e847813164a8b503252ec55d256d8259e6074e38f7065afeadde8df5339",
+      "extracted_characters": 8517
+    },
+    {
+      "id": "5470",
+      "url": "https://exler.es/blog/chego-im-neymetsya-to.htm",
+      "published_at": "2023-05-12 12:00:00",
+      "title": "Чего им неймется-то?!!",
+      "html_sha256": "e513377a32fa158cdbdb1c5c8a088b090afda0f4c3c0f8f14538352984b52c98",
+      "extracted_characters": 0
+    },
+    {
+      "id": "5480",
+      "url": "https://exler.es/films/podzemelya-i-drakony-chest-sredi-vorov.htm",
+      "published_at": "2023-05-11 08:00:00",
+      "title": "Кинорецензии | Подземелья и драконы: Честь среди воров | Фэнтезийный боевик",
+      "html_sha256": "98191293a81ee76f5ab82806e87dc16595c2973c35932f16283d194858accfcb",
+      "extracted_characters": 8042
+    },
+    {
+      "id": "5538",
+      "url": "https://exler.es/films/napadenie-na-rio-bravo.htm",
+      "published_at": "2023-05-02 09:00:00",
+      "title": "Кинорецензии | Нападение на Рио Браво | Шедевр Курицына",
+      "html_sha256": "c09c23987cb158999e4625efa8879d94f19fc45fb3fd2c76201cef783df7f7e3",
+      "extracted_characters": 11423
+    },
+    {
+      "id": "5578",
+      "url": "https://exler.es/films/borba-shefov.htm",
+      "published_at": "2023-04-25 08:00:00",
+      "title": "Кинорецензии | Борьба шефов | Трагикомедия",
+      "html_sha256": "35a3a248387bb4e51e878a730a8d3f38314aec3a08bece59eefdaf2e9048a375",
+      "extracted_characters": 6814
+    },
+    {
+      "id": "5633",
+      "url": "https://exler.es/films/zhit.htm",
+      "published_at": "2023-04-13 08:00:00",
+      "title": "Кинорецензии | Жить | Драма",
+      "html_sha256": "37297445edcfc8ad1f2f5dd860cdd775778353695562318ed6a6af7688e1d5ee",
+      "extracted_characters": 9866
+    },
+    {
+      "id": "5653",
+      "url": "https://exler.es/films/moj-uzhasnyj-sosed.htm",
+      "published_at": "2023-04-10 10:00:00",
+      "title": "Кинорецензии | Мой ужасный сосед | Трагикомедия",
+      "html_sha256": "2ddb06a150097600f50d8d0e46ed268fcc992ece2d2ea12a9109c00c03f6e9d9",
+      "extracted_characters": 12410
+    },
+    {
+      "id": "5688",
+      "url": "https://exler.es/films/operaciya-fortuna-iskusstvo-pobezhdat.htm",
+      "published_at": "2023-04-03 10:00:00",
+      "title": "Кинорецензии | Операция «Фортуна»: Искусство побеждать | Комедийный боевик",
+      "html_sha256": "d8d8565ba896fa5bea978e618c24e1baf154e7b6f071c325d805a6061beba375",
+      "extracted_characters": 9712
+    },
+    {
+      "id": "5721",
+      "url": "https://exler.es/films/chernaya-ptica.htm",
+      "published_at": "2023-03-30 08:00:00",
+      "title": "Кинорецензии | Черная птица | Сериал",
+      "html_sha256": "d4fee44e19e2ac69ede41203c6c0c31776a3961b9f28974b4ecdd304b541bb1e",
+      "extracted_characters": 15071
+    },
+    {
+      "id": "5741",
+      "url": "https://exler.es/films/mest-1.htm",
+      "published_at": "2023-03-27 10:00:00",
+      "title": "Кинорецензии | Месть | Трагикомедия",
+      "html_sha256": "1ac15f375b99baf213c852f9831b603f6e070c8e77ac4f93d55873ed7d469a44",
+      "extracted_characters": 8686
+    },
+    {
+      "id": "5768",
+      "url": "https://exler.es/films/medved.htm",
+      "published_at": "2023-03-23 08:00:00",
+      "title": "Кинорецензии | Медведь | Сериал",
+      "html_sha256": "8c3816f14ce9b554f28383e9f90e61376352b0c5a536a2981a8b001361a5d440",
+      "extracted_characters": 8140
+    },
+    {
+      "id": "5839",
+      "url": "https://exler.es/films/kit-1.htm",
+      "published_at": "2023-03-09 08:00:00",
+      "title": "Кинорецензии | Кит | Драма",
+      "html_sha256": "8ec454a5dcf0644021103361dbe06ca0f0feaed2f41228f1f649739f14ec05cd",
+      "extracted_characters": 13607
+    },
+    {
+      "id": "5854",
+      "url": "https://exler.es/films/dikaya-zhizn.htm",
+      "published_at": "2023-03-06 09:00:00",
+      "title": "Кинорецензии | Дикая жизнь | Драма",
+      "html_sha256": "58937e36e1b524eb5acb7754995d76543cc2c9c84b49952d5a24afe0e7c283fe",
+      "extracted_characters": 10174
+    },
+    {
+      "id": "5896",
+      "url": "https://exler.es/films/tyurma-77.htm",
+      "published_at": "2023-02-27 13:13:00",
+      "title": "Кинорецензии | Тюрьма 77 | Драма",
+      "html_sha256": "c33a6adadbd0578879855335f61d488f280f3816259865e092449d41da32fd20",
+      "extracted_characters": 9426
+    },
+    {
+      "id": "5924",
+      "url": "https://exler.es/films/korol-talsy.htm",
+      "published_at": "2023-02-23 11:08:00",
+      "title": "Кинорецензии | Король Талсы | Сериал",
+      "html_sha256": "1f1b552a048ae4a313ae3e8e8dec289122d271ed96b21d9d4c9c4d80a6d99afa",
+      "extracted_characters": 7453
+    },
+    {
+      "id": "5943",
+      "url": "https://exler.es/films/kot-v-sapogah-2-poslednee-zhelanie.htm",
+      "published_at": "2023-02-20 09:00:00",
+      "title": "Кинорецензии | Кот в сапогах 2: Последнее желание | Анимация",
+      "html_sha256": "99d6fa22235f5ed88e9a5232f4db62aaf94a864a1ec6c4f31e45bfac6a230c42",
+      "extracted_characters": 8866
+    },
+    {
+      "id": "5969",
+      "url": "https://exler.es/films/poslednij-poezd-v-rozhdestvo.htm",
+      "published_at": "2023-02-16 08:58:00",
+      "title": "Кинорецензии | Последний поезд в Рождество | Фантастическая трагикомедия",
+      "html_sha256": "d71ae40188e54d813e298bc45574babe8633d38f886d4d98a4e8ab7f22ac8b88",
+      "extracted_characters": 9340
+    },
+    {
+      "id": "5978",
+      "url": "https://exler.es/films/tar-1.htm",
+      "published_at": "2023-02-14 08:00:00",
+      "title": "Кинорецензии | Тар | Драма",
+      "html_sha256": "4a804578ad4a875bd2aaf0ed3015bb74246ce932b55199d1209db75d56e0c84f",
+      "extracted_characters": 11106
+    },
+    {
+      "id": "6008",
+      "url": "https://exler.es/films/vavilon-1.htm",
+      "published_at": "2023-02-09 14:08:00",
+      "title": "Кинорецензии | Вавилон | Трагикомедия",
+      "html_sha256": "9afcf5efcc56f7c7b30af31fcdf98ac106015a4e3ad3ef6390d44ccd562a017f",
+      "extracted_characters": 9352
+    },
+    {
+      "id": "6026",
+      "url": "https://exler.es/films/fabelmany.htm",
+      "published_at": "2023-02-06 11:44:00",
+      "title": "Кинорецензии | Фабельманы | Драма",
+      "html_sha256": "bfc3a1d1c8012567c19848e949a7d3f931b900843008fadb954345337d38c5c4",
+      "extracted_characters": 11448
+    },
+    {
+      "id": "6051",
+      "url": "https://exler.es/films/zagovor-sester-garvi.htm",
+      "published_at": "2023-02-02 08:00:00",
+      "title": "Кинорецензии | Заговор сестер Гарви | Сериал",
+      "html_sha256": "b0dfd28ee25eef047fcea1bba0ae24aef84343accb5db028a427609d4eeeb429",
+      "extracted_characters": 10872
+    },
+    {
+      "id": "6069",
+      "url": "https://exler.es/films/menyu.htm",
+      "published_at": "2023-01-30 09:00:00",
+      "title": "Кинорецензии | Меню | Черноюморной триллер",
+      "html_sha256": "ed396af17160bc66f0a7d0adcf443b2fb51b410fa373185ff790bc9601caf374",
+      "extracted_characters": 11376
+    },
+    {
+      "id": "6086",
+      "url": "https://exler.es/films/belyj-lotos-vtoroj-sezon.htm",
+      "published_at": "2023-01-26 08:00:00",
+      "title": "Кинорецензии | Белый лотос. Второй сезон | Сериал",
+      "html_sha256": "4ca53915a59b470e186f6f4fe64f4b07eeb627a0b9708ff29900361b28d8e532",
+      "extracted_characters": 9220
+    },
+    {
+      "id": "6099",
+      "url": "https://exler.es/films/chernyj-adam.htm",
+      "published_at": "2023-01-23 09:00:00",
+      "title": "Кинорецензии | Черный Адам | Фантастический боевик",
+      "html_sha256": "5b3fd42d44b225d6190aa4b72b0b5df8c177d842f867e4bc30ad8c117e4ee5b3",
+      "extracted_characters": 8045
+    },
+    {
+      "id": "6137",
+      "url": "https://exler.es/films/banshi-inisherina.htm",
+      "published_at": "2023-01-16 10:46:00",
+      "title": "Кинорецензии | Банши Инишерина | Трагикомедия",
+      "html_sha256": "d5907d653539b15eba1389b5ceb0a12076d652ecc6caffc6a7e951e7d6d20fc6",
+      "extracted_characters": 13423
+    },
+    {
+      "id": "6162",
+      "url": "https://exler.es/films/medlennye-loshadi-vtoroj-sezon.htm",
+      "published_at": "2023-01-12 11:16:00",
+      "title": "Кинорецензии | Медленные лошади. Второй сезон | Сериал",
+      "html_sha256": "c0e4e39afb2b3d370384c8921edbab148be9b8d72fd924ce806655ee6937d0e1",
+      "extracted_characters": 6602
+    },
+    {
+      "id": "6187",
+      "url": "https://exler.es/films/dostat-nozhi-steklyannaya-lukovica.htm",
+      "published_at": "2023-01-09 11:38:00",
+      "title": "Кинорецензии | Достать ножи: Стеклянная луковица | Криминальный детектив",
+      "html_sha256": "b8ac2787a37cbdde0429a10b2ea2323887dd695d2ab279cb461528dd8bc027f2",
+      "extracted_characters": 9495
+    },
+    {
+      "id": "6213",
+      "url": "https://exler.es/films/piter-pen-poshel-ne-tak.htm",
+      "published_at": "2023-01-05 08:00:00",
+      "title": "Кинорецензии | «Питер Пэн» пошел не так | Комедия",
+      "html_sha256": "268bf8aabff003e4688c4890c03e3adf6ea970a90e7101371cd9e7bfbb7c96e8",
+      "extracted_characters": 6158
+    },
+    {
+      "id": "6267",
+      "url": "https://exler.es/films/krivye-linii-boga.htm",
+      "published_at": "2022-12-29 08:00:00",
+      "title": "Кинорецензии | Кривые линии Бога | Детективный триллер",
+      "html_sha256": "b02a96b0208e09b11f4dbf75ed0fe64ad0955d9eaba0db58205830beacc84849",
+      "extracted_characters": 6193
+    },
+    {
+      "id": "6285",
+      "url": "https://exler.es/films/avatar-put-vody.htm",
+      "published_at": "2022-12-26 09:34:00",
+      "title": "Кинорецензии | Аватар: путь воды | Фантастический боевик",
+      "html_sha256": "a0212b84bac0d007eb4c1b2d798cee53830e6ed4f75615146bdd9a694a78a092",
+      "extracted_characters": 14771
+    },
+    {
+      "id": "6303",
+      "url": "https://exler.es/films/belyj-lotos.htm",
+      "published_at": "2022-12-22 09:58:00",
+      "title": "Кинорецензии | Белый лотос | Сериал",
+      "html_sha256": "5b7d40849aa2dafe4dfa6ad17c12d3f8dc2648feb30746994f83df379f4d06e9",
+      "extracted_characters": 10726
+    },
+    {
+      "id": "6331",
+      "url": "https://exler.es/films/treugolnik-pechali.htm",
+      "published_at": "2022-12-19 08:04:00",
+      "title": "Кинорецензии | Треугольник печали | Трагикомедия",
+      "html_sha256": "1128e0f70a93b04f61108d613d3ad9d79772b301e0abb8326b4778a2139696a6",
+      "extracted_characters": 13489
+    },
+    {
+      "id": "6358",
+      "url": "https://exler.es/films/amsterdam.htm",
+      "published_at": "2022-12-15 08:00:00",
+      "title": "Кинорецензии | Амстердам | Трагикомедия",
+      "html_sha256": "3aa41b991745a9ee9a1a7ecb8c37eaea0c592cad9fafbccfa5bfab0421db6fb5",
+      "extracted_characters": 9183
+    },
+    {
+      "id": "6377",
+      "url": "https://exler.es/films/andor.htm",
+      "published_at": "2022-12-12 08:18:00",
+      "title": "Кинорецензии | Андор | Сериал",
+      "html_sha256": "05466d14bb56f46d9b0afaf64686b6f7292dcaf0ea3c1a1342c6ad683fa1ed17",
+      "extracted_characters": 9438
+    },
+    {
+      "id": "6412",
+      "url": "https://exler.es/films/reshenie-ujti.htm",
+      "published_at": "2022-12-06 08:00:00",
+      "title": "Кинорецензии | Решение уйти | Детективный триллер",
+      "html_sha256": "532aded26a053d4e0735f02d056ce67fa85501f24db30974382414de71bcd717",
+      "extracted_characters": 8240
+    },
+    {
+      "id": "6437",
+      "url": "https://exler.es/films/krasnye-ogni.htm",
+      "published_at": "2022-12-01 12:26:00",
+      "title": "Кинорецензии | Красные огни | Мистическая драма",
+      "html_sha256": "88d983f53023aa36a6d241d4265dcb3dc058dd847e06ed706b3d0f65c27920f5",
+      "extracted_characters": 7848
+    },
+    {
+      "id": "6452",
+      "url": "https://exler.es/films/bandit-1.htm",
+      "published_at": "2022-11-29 08:00:00",
+      "title": "Кинорецензии | Бандит | Криминальный ромком",
+      "html_sha256": "059654dae53accc2fc77084cc5cad0ba434788988f5f6171905263c47ee857be",
+      "extracted_characters": 12191
+    },
+    {
+      "id": "6479",
+      "url": "https://exler.es/films/tochka-kipeniya.htm",
+      "published_at": "2022-11-24 08:00:00",
+      "title": "Кинорецензии | Точка кипения | Производственная драма",
+      "html_sha256": "f1d9dc81b533ec96e580388de1c451c90f28bb8ec088532ca6b57271f75b8960",
+      "extracted_characters": 9842
+    },
+    {
+      "id": "6495",
+      "url": "https://exler.es/films/bestseller.htm",
+      "published_at": "2022-11-21 09:00:00",
+      "title": "Кинорецензии | Бестселлер | Драмеди",
+      "html_sha256": "fcd677d9e082148fb60eb8c87fbaa8a91e0496dc28ad5b4dec856813f8cd328e",
+      "extracted_characters": 7310
+    },
+    {
+      "id": "6518",
+      "url": "https://exler.es/films/tam-gde-raki-poyut.htm",
+      "published_at": "2022-11-17 08:00:00",
+      "title": "Кинорецензии | Там, где раки поют | Мелодрама",
+      "html_sha256": "fdad53c2421b2e037af10cb27abf1d7df1ee06f20dd45f7955f7faad6d10897f",
+      "extracted_characters": 7267
+    },
+    {
+      "id": "6537",
+      "url": "https://exler.es/films/smotrite-kak-oni-begut.htm",
+      "published_at": "2022-11-14 08:42:00",
+      "title": "Кинорецензии | Смотрите, как они бегут | Детективная комедия",
+      "html_sha256": "166b320cb9361aa5ffecadf0b0df5a8e6bd6233eabd5a3fa2b4da7ec8bc30e6e",
+      "extracted_characters": 8998
+    },
+    {
+      "id": "6568",
+      "url": "https://exler.es/films/bilet-v-raj.htm",
+      "published_at": "2022-11-10 08:00:00",
+      "title": "Кинорецензии | Билет в рай | Ромком",
+      "html_sha256": "f89ba59dbfa7579f5e22c156b07933ea2c69eed6c2ca9279efbcf1b645c56a50",
+      "extracted_characters": 6430
+    },
+    {
+      "id": "6581",
+      "url": "https://exler.es/films/pianino.htm",
+      "published_at": "2022-11-08 08:00:00",
+      "title": "Кинорецензии | Пианино | Сериал",
+      "html_sha256": "e4260771ce69e437e139f6f85ed9fb4788ece90729da2364fa08deecd442d15d",
+      "extracted_characters": 6580
+    },
+    {
+      "id": "6614",
+      "url": "https://exler.es/films/so-vkusom-mozhzhevelnika.htm",
+      "published_at": "2022-11-03 08:00:00",
+      "title": "Кинорецензии | Со вкусом можжевельника | Драма",
+      "html_sha256": "54f4c7ab5f37359322122083b549bb13e03ab0b1be5bf01bfcf94eb6536386a0",
+      "extracted_characters": 6462
+    },
+    {
+      "id": "6638",
+      "url": "https://exler.es/films/mazhory-na-meli.htm",
+      "published_at": "2022-10-31 08:34:00",
+      "title": "Кинорецензии | Мажоры на мели | Комедия",
+      "html_sha256": "b8fd9bcec9d1467052be7f09f667b242d5c2318f1798c0d81885b31084681bb7",
+      "extracted_characters": 5600
+    },
+    {
+      "id": "6655",
+      "url": "https://exler.es/films/predlozhenie.htm",
+      "published_at": "2022-10-27 12:08:00",
+      "title": "Кинорецензии | Предложение | Сериал",
+      "html_sha256": "9a6a03534627e1e8d0c211a009aafe3ddd3843db99a9ceee6301853ba18d2200",
+      "extracted_characters": 13697
+    },
+    {
+      "id": "6736",
+      "url": "https://exler.es/films/za-pivom.htm",
+      "published_at": "2022-10-13 12:14:00",
+      "title": "Кинорецензии | За пивом | Драмеди",
+      "html_sha256": "d1744e3f28f80c99121ead030841928ff69db6f11ca5fb2d2e8dfaed790cd1fc",
+      "extracted_characters": 9781
+    },
+    {
+      "id": "6780",
+      "url": "https://exler.es/films/sluchajnost-i-dogadka.htm",
+      "published_at": "2022-10-06 09:00:00",
+      "title": "Кинорецензии | Случайность и догадка | Драма",
+      "html_sha256": "94fafbfca9f6ba975476fbf2fd8ef2ae13b284b22404c827cb97c35fc78e369b",
+      "extracted_characters": 7092
+    },
+    {
+      "id": "6800",
+      "url": "https://exler.es/films/superpitomcy.htm",
+      "published_at": "2022-10-03 10:22:00",
+      "title": "Кинорецензии | Суперпитомцы | Анимация",
+      "html_sha256": "accfa990a8dd9047ebf317c42526ee8a96d42a14f3100ca72d5c1d6da91b9380",
+      "extracted_characters": 5882
+    },
+    {
+      "id": "6833",
+      "url": "https://exler.es/films/ostrov-bergmana.htm",
+      "published_at": "2022-09-29 09:00:00",
+      "title": "Кинорецензии | Остров Бергмана | Драма",
+      "html_sha256": "82ac292c9ee2a696097a82639b4b8e925961a3bb8b36de97ec3838006d085509",
+      "extracted_characters": 10430
+    },
+    {
+      "id": "6850",
+      "url": "https://exler.es/films/ubijstva-v-odnom-zdanii-vtoroj-sezon.htm",
+      "published_at": "2022-09-26 10:00:00",
+      "title": "Кинорецензии | Убийства в одном здании. Второй сезон | Сериал",
+      "html_sha256": "f188150047f2d3ae59217a4052d3f1b69e900a411d9dd6293f9f8b95b545783c",
+      "extracted_characters": 6147
+    },
+    {
+      "id": "6876",
+      "url": "https://exler.es/films/tri-tysyachi-let-zhelanij.htm",
+      "published_at": "2022-09-22 09:00:00",
+      "title": "Кинорецензии | Три тысячи лет желаний | Романтическое фэнтези",
+      "html_sha256": "d240943b5af8f7a55df2a75fbaef8b024c5217254ec89c44f12d6b20b7ae5f8e",
+      "extracted_characters": 7112
+    },
+    {
+      "id": "6901",
+      "url": "https://exler.es/films/poezdka-1.htm",
+      "published_at": "2022-09-19 09:00:00",
+      "title": "Кинорецензии | Поездка | Черноюморной триллер",
+      "html_sha256": "c6f4885feaad9fc205e09c62c139b5418a846d4ad244e4def25f577c5e21dfc9",
+      "extracted_characters": 5882
+    },
+    {
+      "id": "6925",
+      "url": "https://exler.es/films/fantasticheskij-flitkroft.htm",
+      "published_at": "2022-09-15 09:00:00",
+      "title": "Кинорецензии | Фантастический Флиткрофт | Трагикомедия",
+      "html_sha256": "bd6f462dcd04a343ba45344395deee5600147d4b39f52f226a1a03e72a1c008c",
+      "extracted_characters": 8465
+    },
+    {
+      "id": "6941",
+      "url": "https://exler.es/films/elvis.htm",
+      "published_at": "2022-09-12 09:00:00",
+      "title": "Кинорецензии | Элвис | Музыкальная драма",
+      "html_sha256": "4852ccec4528ae4bd322bdab357cfcbb9439fff166390a5980fa93cd50a34cfc",
+      "extracted_characters": 10448
+    },
+    {
+      "id": "6970",
+      "url": "https://exler.es/films/mirotvorec.htm",
+      "published_at": "2022-09-08 09:00:00",
+      "title": "Кинорецензии | Миротворец | Сериал",
+      "html_sha256": "45716db0510d7f97fbfc67c83039812fa14b1b6ccd1de0980d2e00badf9530a6",
+      "extracted_characters": 8502
+    },
+    {
+      "id": "6989",
+      "url": "https://exler.es/films/alleya-koshmarov.htm",
+      "published_at": "2022-09-05 09:24:00",
+      "title": "Кинорецензии | Аллея кошмаров | Криминальный триллер-нуар",
+      "html_sha256": "a2d07c1244181c85edec61949e8413438ee55d1a5f6a92dd85cae9f4b98a589b",
+      "extracted_characters": 12523
+    },
+    {
+      "id": "7018",
+      "url": "https://exler.es/films/glaza-temmi-fej.htm",
+      "published_at": "2022-09-01 09:00:00",
+      "title": "Кинорецензии | Глаза Тэмми Фэй | Биографическая трагикомедия",
+      "html_sha256": "7fc433357dff03500e43a2035e3bf62754d28c747dac30bad6ca5fd64f442643",
+      "extracted_characters": 12102
+    },
+    {
+      "id": "7040",
+      "url": "https://exler.es/films/top-gan-meverik.htm",
+      "published_at": "2022-08-29 09:00:00",
+      "title": "Кинорецензии | Топ Ган: Мэверик | Боевик",
+      "html_sha256": "c507872b1816e1fba63233bb6ddc3397eb545349b6c18f24b07bc034726076e8",
+      "extracted_characters": 8899
+    },
+    {
+      "id": "7066",
+      "url": "https://exler.es/films/luchshe-zvonite-solu-shestoj-sezon.htm",
+      "published_at": "2022-08-25 09:00:00",
+      "title": "Кинорецензии | Лучше звоните Солу. Шестой сезон | Сериал",
+      "html_sha256": "b412d18087d9debacc17684a3e2233faa282766ee3df56660d42cfe8d8868f62",
+      "extracted_characters": 9957
+    },
+    {
+      "id": "7088",
+      "url": "https://exler.es/films/belfast.htm",
+      "published_at": "2022-08-22 09:00:00",
+      "title": "Кинорецензии | Белфаст | Драма",
+      "html_sha256": "b1925dd4757ef5fbc65053bf005606864d21fb09a7148356bc76b082abc6d2ca",
+      "extracted_characters": 8788
+    },
+    {
+      "id": "7114",
+      "url": "https://exler.es/films/zakony-granic.htm",
+      "published_at": "2022-08-18 09:00:00",
+      "title": "Кинорецензии | Законы границ | Криминальная драма",
+      "html_sha256": "fe486d5fce0f8a401aed24b4c381ef2cb102fc2b77f7fa917ff97b2784b2fb0c",
+      "extracted_characters": 9406
+    },
+    {
+      "id": "7141",
+      "url": "https://exler.es/films/agent-117-iz-afriki-s-lyubovyu.htm",
+      "published_at": "2022-08-15 09:00:00",
+      "title": "Кинорецензии | Агент 117: Из Африки с любовью | Пародийная комедия",
+      "html_sha256": "5661d118a3243da7dd9e1e32a8db356980b814b8c0406347a9fae8d69c10040d",
+      "extracted_characters": 7700
+    },
+    {
+      "id": "7170",
+      "url": "https://exler.es/films/glavnaya-rol.htm",
+      "published_at": "2022-08-11 09:00:00",
+      "title": "Кинорецензии | Главная роль | Сатирическая трагикомедия",
+      "html_sha256": "341bdaf80a5244287381b2000a08fce14f7c4665a2411d6948c3da4dec0f8b4b",
+      "extracted_characters": 8889
+    },
+    {
+      "id": "7188",
+      "url": "https://exler.es/films/bystree-puli.htm",
+      "published_at": "2022-08-08 11:00:00",
+      "title": "Кинорецензии | Быстрее пули | Черноюморной боевик",
+      "html_sha256": "d8f7a57dde12ab89667ae5160bb2c5f6777a80b78bba265d3729cedd40a7b4c5",
+      "extracted_characters": 5262
+    },
+    {
+      "id": "7224",
+      "url": "https://exler.es/films/pacany-tretij-sezon.htm",
+      "published_at": "2022-08-01 11:00:00",
+      "title": "Кинорецензии | Пацаны. Третий сезон | Сериал",
+      "html_sha256": "19f3138d5930c7c70478a59020cf1133d6aa4d33fb83518279008b18fde45519",
+      "extracted_characters": 8856
+    },
+    {
+      "id": "7250",
+      "url": "https://exler.es/films/hudshij-chelovek-na-svete.htm",
+      "published_at": "2022-07-28 09:00:00",
+      "title": "Кинорецензии | Худший человек на свете | Драмеди",
+      "html_sha256": "0c531c52c9b7318faf61e4d1228ec91cc149184f74fea680fd01612fe3a18b04",
+      "extracted_characters": 7049
+    },
+    {
+      "id": "7267",
+      "url": "https://exler.es/films/proshajte-mese-hafmann.htm",
+      "published_at": "2022-07-25 11:00:00",
+      "title": "Кинорецензии | Прощайте, месье Хафманн | Драма",
+      "html_sha256": "c217d65319f748f59e3ad542e49b31416ee4310307b13bbb0aab7ea61135690b",
+      "extracted_characters": 6882
+    },
+    {
+      "id": "7295",
+      "url": "https://exler.es/films/tor-lyubov-i-grom.htm",
+      "published_at": "2022-07-21 09:00:00",
+      "title": "Кинорецензии | Тор: Любовь и гром | Фантастический боевик",
+      "html_sha256": "42d6c1423cbb41dcd0284842085dfdc5acf17857ae21c9107af448d82e3278fa",
+      "extracted_characters": 8678
+    },
+    {
+      "id": "7318",
+      "url": "https://exler.es/films/spisok-smertnikov.htm",
+      "published_at": "2022-07-18 09:00:00",
+      "title": "Кинорецензии | Список смертников | Сериал",
+      "html_sha256": "c073e566a070da63fdd8f3932f76b2f851d88ace65f19f3046dbb40385c2a546",
+      "extracted_characters": 9747
+    },
+    {
+      "id": "7344",
+      "url": "https://exler.es/films/kostyum.htm",
+      "published_at": "2022-07-14 09:00:00",
+      "title": "Кинорецензии | Костюм | Криминальный триллер",
+      "html_sha256": "deb5605c0662efaa2e067ca387270483cac66abbb68c78d6d47fe2ca33e7305b",
+      "extracted_characters": 6908
+    },
+    {
+      "id": "7362",
+      "url": "https://exler.es/films/doktor-strendzh-v-multivselennoj-bezumiya.htm",
+      "published_at": "2022-07-11 09:00:00",
+      "title": "Кинорецензии | Доктор Стрэндж: В мультивселенной безумия | Фантастический боевик",
+      "html_sha256": "2b1eb8dac7790a4869d4228e7f9ab93daf0085de2ae05b8ded91c0d86943dff9",
+      "extracted_characters": 9179
+    },
+    {
+      "id": "7390",
+      "url": "https://exler.es/films/lyupen.htm",
+      "published_at": "2022-07-07 09:00:00",
+      "title": "Кинорецензии | Люпен | Сериал",
+      "html_sha256": "177e93935efa9ffde880a48a38988dfe04f74caa5d8807597354d8dee16de706",
+      "extracted_characters": 8438
+    },
+    {
+      "id": "7408",
+      "url": "https://exler.es/films/minony-gryuvitaciya.htm",
+      "published_at": "2022-07-04 10:10:00",
+      "title": "Кинорецензии | Миньоны: Грювитация | Анимация",
+      "html_sha256": "41614248ad3ed5c8744f6853d7c41f286f4dbe0348306e6452726cd5f2a1599c",
+      "extracted_characters": 7285
+    },
+    {
+      "id": "7434",
+      "url": "https://exler.es/films/aferistka.htm",
+      "published_at": "2022-06-30 09:00:00",
+      "title": "Кинорецензии | Аферистка | Криминальная трагикомедия",
+      "html_sha256": "c228f05c4892e40e8a79119a41d418dd65fee4c1b00700ec8865ced2ed9f557a",
+      "extracted_characters": 7912
+    },
+    {
+      "id": "7457",
+      "url": "https://exler.es/films/holodnyj-raschet.htm",
+      "published_at": "2022-06-27 09:00:00",
+      "title": "Кинорецензии | Холодный расчет | Психологический триллер",
+      "html_sha256": "dff033aca157ef90b8826cb5a85b0777b2cbb16d69e3dea9073b3aef23c599e7",
+      "extracted_characters": 11576
+    },
+    {
+      "id": "7490",
+      "url": "https://exler.es/films/semejnyj-brak.htm",
+      "published_at": "2022-06-23 09:00:00",
+      "title": "Кинорецензии | Семейный брак | Сериал",
+      "html_sha256": "d9010a89204617353e3a770ad9f642b38cd34a89dd3c0cc885cdec4934ca5169",
+      "extracted_characters": 6807
+    },
+    {
+      "id": "7510",
+      "url": "https://exler.es/films/zateryannyj-gorod.htm",
+      "published_at": "2022-06-20 09:02:00",
+      "title": "Кинорецензии | Затерянный город | Приключенческая комедия",
+      "html_sha256": "40b4ba91fd4f6b2c4a4032e221c2b278ec1b8c5f04eac526a90651a17fe7ea4a",
+      "extracted_characters": 6366
+    },
+    {
+      "id": "7539",
+      "url": "https://exler.es/films/policiya-tokio.htm",
+      "published_at": "2022-06-16 09:00:00",
+      "title": "Кинорецензии | Полиция Токио | Сериал",
+      "html_sha256": "ca4d9a97d7b6801ee989e7909f4e655c233e9c757327ac6168a8fe7652dce26a",
+      "extracted_characters": 9349
+    },
+    {
+      "id": "7556",
+      "url": "https://exler.es/films/nevynosimaya-tyazhest-ogromnogo-talanta.htm",
+      "published_at": "2022-06-13 09:00:00",
+      "title": "Кинорецензии | Невыносимая тяжесть огромного таланта | Комедийный боевик",
+      "html_sha256": "fd409e4950d1a5d5683b1d68034ef1592cefd193f47b08ccd88167ab45cb7c4c",
+      "extracted_characters": 10045
+    },
+    {
+      "id": "7588",
+      "url": "https://exler.es/films/po-versii-barni.htm",
+      "published_at": "2022-06-09 09:00:00",
+      "title": "Кинорецензии | По версии Барни | Трагикомедия",
+      "html_sha256": "dda282714ae7fbca624eaf9b6245d0f1136623818fe2e3e30ea916c358345ea4",
+      "extracted_characters": 9909
+    },
+    {
+      "id": "7607",
+      "url": "https://exler.es/films/zagruzka-vtoroj-sezon.htm",
+      "published_at": "2022-06-06 09:00:00",
+      "title": "Кинорецензии | Загрузка. Второй сезон | Сериал",
+      "html_sha256": "e30074c0c214908c86ab5e6b4b8707b91e645f6bae99ce7a74f88e2e1ec093e0",
+      "extracted_characters": 8110
+    },
+    {
+      "id": "7637",
+      "url": "https://exler.es/films/razdelenie.htm",
+      "published_at": "2022-06-02 11:20:00",
+      "title": "Кинорецензии | Разделение | Сериал",
+      "html_sha256": "51dbcb65320dbe8fa06dbfd2656fb4cbd06385229f62c42119f12b39866e2a10",
+      "extracted_characters": 11413
+    },
+    {
+      "id": "7666",
+      "url": "https://exler.es/films/vsyo-vezde-i-srazu.htm",
+      "published_at": "2022-05-30 09:00:00",
+      "title": "Кинорецензии | Всё везде и сразу | Фантастическая черноюморная трагикомедия",
+      "html_sha256": "b213ab3b5d88e92417da05dfca7cc8c350e48c5a39a41ee4a10492f6edbd35c7",
+      "extracted_characters": 8722
+    },
+    {
+      "id": "7692",
+      "url": "https://exler.es/films/plohie-parni-2.htm",
+      "published_at": "2022-05-26 09:00:00",
+      "title": "Кинорецензии | Плохие парни | Анимация",
+      "html_sha256": "e56349ddf93e8367025f431716fbcd35c3edd0b148b8cc61f008eee19ca1f4ea",
+      "extracted_characters": 6164
+    },
+    {
+      "id": "7714",
+      "url": "https://exler.es/films/medlennye-loshadi.htm",
+      "published_at": "2022-05-23 09:00:00",
+      "title": "Кинорецензии | Медленные лошади | Сериал",
+      "html_sha256": "941f49cf942aa0cc895d3dd253ba6da8a59e8235e8b0a6092a04aab99828ecc4",
+      "extracted_characters": 9586
+    },
+    {
+      "id": "7744",
+      "url": "https://exler.es/films/vlast-psa.htm",
+      "published_at": "2022-05-19 09:00:00",
+      "title": "Кинорецензии | Власть пса | Драма",
+      "html_sha256": "20e753c80e246cd9b9ca8062b873506c2da47ebb9e1decf58ab584dac534a862",
+      "extracted_characters": 12809
+    },
+    {
+      "id": "7770",
+      "url": "https://exler.es/films/varyag.htm",
+      "published_at": "2022-05-16 09:00:00",
+      "title": "Кинорецензии | Варяг | Фэнтезийный боевик",
+      "html_sha256": "04a5d444af9eeb0ae5f889b2a7a3c859cef2e20366aecb09e7b5dd811797f927",
+      "extracted_characters": 11432
+    },
+    {
+      "id": "7816",
+      "url": "https://exler.es/films/samyj-luchshij-boss.htm",
+      "published_at": "2022-05-10 09:00:00",
+      "title": "Кинорецензии | Самый лучший босс | Комедия",
+      "html_sha256": "1f7cec88b1a06a44564a6082a4f9a7cfb2ea713efe44118a0166eb9cb7b15617",
+      "extracted_characters": 8386
+    },
+    {
+      "id": "7853",
+      "url": "https://exler.es/films/kamon-kamon.htm",
+      "published_at": "2022-05-05 12:40:00",
+      "title": "Кинорецензии | Камон Камон | Драма",
+      "html_sha256": "b3607a7e34122ae1c5733bdcf9a717dfe2817e1b6b6d7b5c6ee1c4d633113c45",
+      "extracted_characters": 8214
+    },
+    {
+      "id": "7880",
+      "url": "https://exler.es/films/zaslanec-iz-kosmosa-vtoroj-sezon.htm",
+      "published_at": "2022-05-02 09:00:00",
+      "title": "Кинорецензии | Засланец из космоса. Второй сезон | Сериал",
+      "html_sha256": "26dccc6c8eaf8d31564cccc787b2d1f6a54a293dc68560efd36d03ec6d6cf1f8",
+      "extracted_characters": 7728
+    },
+    {
+      "id": "7912",
+      "url": "https://exler.es/films/mitchelly-protiv-mashin.htm",
+      "published_at": "2022-04-28 09:00:00",
+      "title": "Кинорецензии | Митчеллы против машин | Анимация",
+      "html_sha256": "da818f35fb04ba06c08c8741ffac219444f990af2578c937a7f67c3037654ffa",
+      "extracted_characters": 8714
+    },
+    {
+      "id": "7938",
+      "url": "https://exler.es/films/betmen-1.htm",
+      "published_at": "2022-04-25 09:00:00",
+      "title": "Кинорецензии | Бэтмен | Фантастический детективный триллер",
+      "html_sha256": "d5383b17960087583d2ecd3607500aa1ce40586394e331dd32df7d5bb768e93b",
+      "extracted_characters": 18170
+    },
+    {
+      "id": "7976",
+      "url": "https://exler.es/films/udivitelnaya-missis-mejzel-4-j-sezon.htm",
+      "published_at": "2022-04-21 09:00:00",
+      "title": "Кинорецензии | Удивительная миссис Мейзел. 4-й сезон | Сериал",
+      "html_sha256": "9b7fbfc8c5e29867aa7a2513a89db321e39137228ecf0fe543f79c7e095ae835",
+      "extracted_characters": 9033
+    },
+    {
+      "id": "7999",
+      "url": "https://exler.es/films/lakrichnaya-picca.htm",
+      "published_at": "2022-04-18 09:00:00",
+      "title": "Кинорецензии | Лакричная пицца | Романтическая драмикомедия",
+      "html_sha256": "cd0d7be32d83b5d4965965ce717ba72770f128e5562e748f8adafc9505f86103",
+      "extracted_characters": 18592
+    },
+    {
+      "id": "8037",
+      "url": "https://exler.es/films/chernyj-yashik.htm",
+      "published_at": "2022-04-14 09:00:00",
+      "title": "Кинорецензии | Черный ящик | Детективный триллер",
+      "html_sha256": "6be9150a6a112ba3507eaff5a4c979730794195995145ddb1f12736834ae6d45",
+      "extracted_characters": 5831
+    },
+    {
+      "id": "8058",
+      "url": "https://exler.es/films/dekster-novaya-krov.htm",
+      "published_at": "2022-04-11 11:04:00",
+      "title": "Кинорецензии | Декстер: Новая кровь | Сериал",
+      "html_sha256": "66a29d8dc0c467d5e316666f69c09fe8e2a3a11a4a1322e80aa7710125ee4d5d",
+      "extracted_characters": 10910
+    },
+    {
+      "id": "8086",
+      "url": "https://exler.es/films/proekt-adam.htm",
+      "published_at": "2022-04-07 13:54:00",
+      "title": "Кинорецензии | Проект «Адам» | Фантастический боевик",
+      "html_sha256": "bde26a502b89e77390925a9071dda694cc9a6ddfd2fa95ce0e40d0feecdca2cd",
+      "extracted_characters": 8104
+    },
+    {
+      "id": "8106",
+      "url": "https://exler.es/films/korol-richard.htm",
+      "published_at": "2022-04-04 09:00:00",
+      "title": "Кинорецензии | Король Ричард | Биографическая спортивная драма",
+      "html_sha256": "c7a445bcdc208beece2b4aa95343e6d220ef8e60d4b2786599a001f0efbee28e",
+      "extracted_characters": 11719
+    },
+    {
+      "id": "8133",
+      "url": "https://exler.es/films/ohotniki-za-privideniyami-nasledniki.htm",
+      "published_at": "2022-03-31 09:00:00",
+      "title": "Кинорецензии | Охотники за привидениями: Наследники | Фантастическая комедия",
+      "html_sha256": "4137787672b857619501c051758dac031dc386da80a02b5f52bbdb8ca575cc1f",
+      "extracted_characters": 8498
+    },
+    {
+      "id": "8155",
+      "url": "https://exler.es/films/tihij-omut.htm",
+      "published_at": "2022-03-28 09:00:00",
+      "title": "Кинорецензии | Тихий омут | Драма",
+      "html_sha256": "d2d250905dd8266d9ac22537a0417184caaab823c3002c4aa4831102e62e6f69",
+      "extracted_characters": 10031
+    },
+    {
+      "id": "8189",
+      "url": "https://exler.es/films/ancharted-na-kartah-ne-znachitsya.htm",
+      "published_at": "2022-03-24 09:00:00",
+      "title": "Кинорецензии | Анчартед: На картах не значится | Приключенческий боевик",
+      "html_sha256": "9025dd3c4a7f23538c80d5e877f1a76b7946ff7169f137fa36ad0a0d9aed09be",
+      "extracted_characters": 10495
+    },
+    {
+      "id": "8210",
+      "url": "https://exler.es/films/mer-kingstauna.htm",
+      "published_at": "2022-03-21 11:00:00",
+      "title": "Кинорецензии | Мэр Кингстауна | Сериал",
+      "html_sha256": "4461074a302f4698a3933bf1561f14b546248d3989180f9c6ef19c16930f1976",
+      "extracted_characters": 9720
+    },
+    {
+      "id": "8246",
+      "url": "https://exler.es/films/francuzskij-vestnik-prilozhenie-k-gazete-liberti-kanzas-ivning-san.htm",
+      "published_at": "2022-03-17 11:48:00",
+      "title": "Кинорецензии | Французский вестник. Приложение к газете «Либерти. Канзас ивнинг сан» | Трагикомедия",
+      "html_sha256": "fdca8e7fdc355e27760001df4cf65e2e0d42b61c6e87c9b3f17234a5824b0b4c",
+      "extracted_characters": 10873
+    },
+    {
+      "id": "8263",
+      "url": "https://exler.es/films/parallelnye-materi.htm",
+      "published_at": "2022-03-15 09:00:00",
+      "title": "Кинорецензии | Параллельные матери | Драма",
+      "html_sha256": "af3af7f7ce46cae55fd358d51daf74bd978b72e688cda3df12c37ce84ee7593d",
+      "extracted_characters": 5557
+    },
+    {
+      "id": "8331",
+      "url": "https://exler.es/films/staryj-genri.htm",
+      "published_at": "2022-03-08 06:38:00",
+      "title": "Кинорецензии | Старый Генри | Вестерн",
+      "html_sha256": "49460bab84081dc3060def263cd91798777baee58b9378a0dfebab0a73377ba9",
+      "extracted_characters": 5515
+    },
+    {
+      "id": "8379",
+      "url": "https://exler.es/films/maixabel.htm",
+      "published_at": "2022-03-04 09:02:00",
+      "title": "Кинорецензии | Майсабель  | Драма",
+      "html_sha256": "92a413c6dcbbe5b2d057de6414a10001cc2ac816676958ee430690c3b6c09310",
+      "extracted_characters": 6705
+    },
+    {
+      "id": "8515",
+      "url": "https://exler.es/films/dom-guchchi.htm",
+      "published_at": "2022-02-21 09:01:00",
+      "title": "Кинорецензии | Дом Гуччи | Комедия",
+      "html_sha256": "679c1bcf4d2764d85afad143272d9c0301dcaf5b6edbfe6730957ff8796bafa2",
+      "extracted_characters": 12024
+    },
+    {
+      "id": "8535",
+      "url": "https://exler.es/films/dzhek-richer-1.htm",
+      "published_at": "2022-02-17 09:01:00",
+      "title": "Кинорецензии | Джек Ричер | Сериал",
+      "html_sha256": "e8c31556b95e6cf3f1783dd191f997cdec1f978c450385f35e088325cbba97d2",
+      "extracted_characters": 9994
+    },
+    {
+      "id": "8558",
+      "url": "https://exler.es/films/king-s-man-nachalo.htm",
+      "published_at": "2022-02-14 12:13:00",
+      "title": "Кинорецензии | King’s Man: Начало | Пародийный боевик",
+      "html_sha256": "6f103e4b868c796e81cb4fc06a06add3b06a8766ee3de4358c234297be1c2ddc",
+      "extracted_characters": 10018
+    },
+    {
+      "id": "8581",
+      "url": "https://exler.es/films/coda-rebenok-glukhikh-roditeley.htm",
+      "published_at": "2022-02-10 11:12:00",
+      "title": "Кинорецензии | CODA: Ребенок глухих родителей | Трагикомедия",
+      "html_sha256": "f404d3701480a6f97aa141fc483c7d999635beb6ca09734f4d8cd66eba7f4a07",
+      "extracted_characters": 14591
+    },
+    {
+      "id": "8596",
+      "url": "https://exler.es/films/enkanto.htm",
+      "published_at": "2022-02-07 11:00:00",
+      "title": "Кинорецензии | Энканто | Анимация",
+      "html_sha256": "bb6a2b9932d2dfb58824bcdf6f92738415f1a5e19240c9af9b3c6be230fa158e",
+      "extracted_characters": 16009
+    },
+    {
+      "id": "8616",
+      "url": "https://exler.es/films/ubijstva-v-odnom-zdanii.htm",
+      "published_at": "2022-02-03 09:01:00",
+      "title": "Кинорецензии | Убийства в одном здании | Сериал",
+      "html_sha256": "98c1a11f1dcf1d6aa5687392857f15d45a64bfd11ceb8864ac62c706bfdb8a58",
+      "extracted_characters": 10850
+    },
+    {
+      "id": "8627",
+      "url": "https://exler.es/films/polyarnyj.htm",
+      "published_at": "2022-02-01 09:19:00",
+      "title": "Кинорецензии | Полярный | Боевик-триллер",
+      "html_sha256": "dc925e096e218ee47cc318923aaec067167214a5ef6f184b20f466bef018dc79",
+      "extracted_characters": 8762
+    },
+    {
+      "id": "8653",
+      "url": "https://exler.es/films/proshloj-nochyu-v-soho.htm",
+      "published_at": "2022-01-27 10:05:00",
+      "title": "Кинорецензии | Прошлой ночью в Сохо | Триллер",
+      "html_sha256": "9c72f14ccce03dd3df779acf882b074f9e4e6d99a450430edb509de04620d0e4",
+      "extracted_characters": 10581
+    },
+    {
+      "id": "8666",
+      "url": "https://exler.es/films/sadovody.htm",
+      "published_at": "2022-01-25 09:01:00",
+      "title": "Кинорецензии | Садоводы | Сериал",
+      "html_sha256": "6846e9deba5dbfd2fa2400e6d2f4f1e58b50491fdbfd0e5c101757877a3af26a",
+      "extracted_characters": 8595
+    },
+    {
+      "id": "8706",
+      "url": "https://exler.es/films/zveropoj-2.htm",
+      "published_at": "2022-01-18 09:01:00",
+      "title": "Кинорецензии | Зверопой 2 | Анимация",
+      "html_sha256": "62af0d4d441eaca525e900b704df1ed84c45fed6f9d64854ac4c251161a6c5e9",
+      "extracted_characters": 7133
+    },
+    {
+      "id": "8731",
+      "url": "https://exler.es/films/neproshennaya.htm",
+      "published_at": "2022-01-13 12:39:00",
+      "title": "Кинорецензии | Непрощенная | Криминальная драма",
+      "html_sha256": "f4c6c4bc21f20296ad22dd35fffdb55e0483f33320b343acc7f037ca5896392e",
+      "extracted_characters": 7842
+    },
+    {
+      "id": "8741",
+      "url": "https://exler.es/films/v-borenke-chego-to-net.htm",
+      "published_at": "2022-01-11 09:01:00",
+      "title": "Кинорецензии | В Бореньке чего-то нет | Сериал",
+      "html_sha256": "be6112693a20d903e4f1fbc9ca56b82eb15b66f573c7c0f97bd611f84069c4bd",
+      "extracted_characters": 13448
+    },
+    {
+      "id": "8767",
+      "url": "https://exler.es/films/tihaya-noch.htm",
+      "published_at": "2022-01-06 09:01:00",
+      "title": "Кинорецензии | Тихая ночь | Драма",
+      "html_sha256": "c1a2b402792649499725c02783100b53c2a88495f91ff1a2d0435f1e1c9eb279",
+      "extracted_characters": 7836
+    },
+    {
+      "id": "8777",
+      "url": "https://exler.es/films/nasledniki-tretij-sezon.htm",
+      "published_at": "2022-01-04 13:10:00",
+      "title": "Кинорецензии | Наследники. Третий сезон | Сериал",
+      "html_sha256": "73f74cf55cc5553226e91eb3fe1f088e630dec1de2b91480dd808faa011dd422",
+      "extracted_characters": 9035
+    },
+    {
+      "id": "8814",
+      "url": "https://exler.es/films/ne-smotrite-naverh.htm",
+      "published_at": "2021-12-30 09:01:00",
+      "title": "Кинорецензии | Не смотрите наверх | Сатирическая комедия",
+      "html_sha256": "58639dd65654f82c944a94eabd0b2032d51be32014df8b1a84432ed11bcb475a",
+      "extracted_characters": 11084
+    },
+    {
+      "id": "8829",
+      "url": "https://exler.es/films/matrica-voskreshenie.htm",
+      "published_at": "2021-12-27 11:01:00",
+      "title": "Кинорецензии | Матрица: Воскрешение | Фантастический боевик",
+      "html_sha256": "92228ea47d640d64c39805de120cc1430d0052b7b40bfb731e10be5eb27fb89a",
+      "extracted_characters": 15401
+    },
+    {
+      "id": "8853",
+      "url": "https://exler.es/films/neispravimyj-ron.htm",
+      "published_at": "2021-12-23 11:18:00",
+      "title": "Кинорецензии | Неисправимый Рон | Анимация",
+      "html_sha256": "07adb063c0bd84a710a72fd19ee22203b0604b2ecc95c47391608b65a2424d05",
+      "extracted_characters": 5518
+    },
+    {
+      "id": "8867",
+      "url": "https://exler.es/films/chelovek-pauk-net-puti-domoj.htm",
+      "published_at": "2021-12-20 11:01:00",
+      "title": "Кинорецензии | Человек-паук: Нет пути домой | Фантастический боевик",
+      "html_sha256": "c3c836656d888390149465af7d401c7cbaf39bdc8a97a927b38d3541186245e2",
+      "extracted_characters": 9458
+    },
+    {
+      "id": "8888",
+      "url": "https://exler.es/films/utrennee-shou-vtoroj-sezon.htm",
+      "published_at": "2021-12-16 09:01:00",
+      "title": "Кинорецензии | Утреннее шоу. Второй сезон | Сериал",
+      "html_sha256": "ddc49d371ba50b063818620876070ea21e228deef82a182df3cbdd454ce2a637",
+      "extracted_characters": 12192
+    },
+    {
+      "id": "8900",
+      "url": "https://exler.es/films/armiya-vorov.htm",
+      "published_at": "2021-12-13 11:01:00",
+      "title": "Кинорецензии | Армия воров | Криминальная комедия",
+      "html_sha256": "7cbe37fd417d486cdec76e2a81a4da7abe679f89779cd2e0bf3a75cb5600bdce",
+      "extracted_characters": 7314
+    },
+    {
+      "id": "8926",
+      "url": "https://exler.es/films/ted-lasso-vtoroj-sezon.htm",
+      "published_at": "2021-12-09 09:01:00",
+      "title": "Кинорецензии | Тед Лассо. Второй сезон | Сериал",
+      "html_sha256": "5cfaf08f449b1e95c2c9215e740b569de200444014d5cdbcc9fc54c2a5f2de3b",
+      "extracted_characters": 8886
+    },
+    {
+      "id": "8942",
+      "url": "https://exler.es/films/poslednyaya-duel.htm",
+      "published_at": "2021-12-06 11:01:00",
+      "title": "Кинорецензии | Последняя дуэль | Историческая драма",
+      "html_sha256": "1484ee08c63e02879213d1fb88b72d6073b27b95e200d0b2b60a379fb72a2cd3",
+      "extracted_characters": 10729
+    },
+    {
+      "id": "8958",
+      "url": "https://exler.es/films/krasnoe-uvedomlenie.htm",
+      "published_at": "2021-12-02 14:57:00",
+      "title": "Кинорецензии | Красное уведомление | Комедийный боевик",
+      "html_sha256": "e180e3b8c53aee099706156a98ee6545e4abe5ab8ef81744af1cc6e2688d1363",
+      "extracted_characters": 7842
+    },
+    {
+      "id": "8978",
+      "url": "https://exler.es/films/krovavaya-mari.htm",
+      "published_at": "2021-11-29 09:01:00",
+      "title": "Кинорецензии | Кровавая Мари | Драма-триллер",
+      "html_sha256": "2c408f6d2691f89a397fd804898ef335b4206e400d3a8bba0582342b4643e499",
+      "extracted_characters": 6039
+    },
+    {
+      "id": "8998",
+      "url": "https://exler.es/films/koshachi-miry-luisa-uejna.htm",
+      "published_at": "2021-11-25 11:38:00",
+      "title": "Кинорецензии | Кошачьи миры Луиса Уэйна | Биографическая драма",
+      "html_sha256": "06c7033a5b20cdd41cb1877a704ab07a65700b408ee75513d00ee16da70950d3",
+      "extracted_characters": 9627
+    },
+    {
+      "id": "9037",
+      "url": "https://exler.es/films/shou-poshlo-ne-tak.htm",
+      "published_at": "2021-11-18 09:01:00",
+      "title": "Кинорецензии | Шоу пошло не так | Сериал",
+      "html_sha256": "69e788abf583e1e93fe05464cb267dc1f0e0375641d0b25fbbcc7e6b4637da87",
+      "extracted_characters": 6651
+    },
+    {
+      "id": "9054",
+      "url": "https://exler.es/films/shan-chi-i-legenda-desyati-kolec.htm",
+      "published_at": "2021-11-15 09:02:00",
+      "title": "Кинорецензии | Шан-Чи и легенда десяти колец | Фантастический боевик",
+      "html_sha256": "2ba20a52cdc3811fcfa165bcd873fd1636557e141610cc2d22800734e254bbd1",
+      "extracted_characters": 11695
+    },
+    {
+      "id": "9092",
+      "url": "https://exler.es/films/udivitelnaya-missis-mej-1.htm",
+      "published_at": "2021-11-08 11:01:00",
+      "title": "Кинорецензии | Удивительная миссис Мэй | Драма",
+      "html_sha256": "917bec09d7e353bd00c0ea38642e800d833a02ad97cb3a81e0f8cd9f366a368e",
+      "extracted_characters": 9937
+    },
+    {
+      "id": "9119",
+      "url": "https://exler.es/films/petrovy-v-grippe.htm",
+      "published_at": "2021-11-04 09:01:00",
+      "title": "Кинорецензии | Петровы в гриппе | Фантастическая драма",
+      "html_sha256": "a34127571321386130646e1bb330bea90f635accce183bea1568e91280c291d0",
+      "extracted_characters": 9024
+    },
+    {
+      "id": "9136",
+      "url": "https://exler.es/films/dyuna.htm",
+      "published_at": "2021-11-01 11:06:00",
+      "title": "Кинорецензии | Дюна | Фантастический боевик",
+      "html_sha256": "9af14938d991f4477125d757c0a64840c250538f6c50d4a4891a8c7059fd1941",
+      "extracted_characters": 11640
+    },
+    {
+      "id": "9159",
+      "url": "https://exler.es/films/sceny-iz-supruzheskoj-zhizni.htm",
+      "published_at": "2021-10-28 09:01:00",
+      "title": "Кинорецензии | Сцены из супружеской жизни | Сериал",
+      "html_sha256": "3ed3b8dd6847f29f5ad0af1c19c0f6dab95d23e6253caeaac01434858784d89c",
+      "extracted_characters": 7277
+    },
+    {
+      "id": "9173",
+      "url": "https://exler.es/films/igra-v-kalmara.htm",
+      "published_at": "2021-10-25 11:05:00",
+      "title": "Кинорецензии | Игра в кальмара | Сериал",
+      "html_sha256": "beba00ccb4bdc655802885aaef97b5dc6e26c169888d312c54d883d5b7b6a947",
+      "extracted_characters": 14516
+    },
+    {
+      "id": "9198",
+      "url": "https://exler.es/films/ne-vremya-umirat.htm",
+      "published_at": "2021-10-21 09:01:00",
+      "title": "Кинорецензии | Не время умирать | Боевик",
+      "html_sha256": "c2740c83a2cc3c024a11d19cde7ecd87a079bd3967d885930a9676fa12e94f93",
+      "extracted_characters": 7068
+    },
+    {
+      "id": "9210",
+      "url": "https://exler.es/films/mnozhestvennye-svyatye-nyuarka.htm",
+      "published_at": "2021-10-18 11:05:00",
+      "title": "Кинорецензии | Множественные святые Ньюарка | Криминальная драма",
+      "html_sha256": "7d62902ba9869cc8bf58ee9cdf22d3879b94d48396915d1bf27e58ecd9566045",
+      "extracted_characters": 8318
+    },
+    {
+      "id": "9228",
+      "url": "https://exler.es/films/ledyanoj-drajv.htm",
+      "published_at": "2021-10-14 09:01:00",
+      "title": "Кинорецензии | Ледяной драйв | Экшн-триллер",
+      "html_sha256": "8ca6a62e37f8ceef011222e4c6352cbe1c65ae3625e534ed8c463b990f2608a5",
+      "extracted_characters": 7609
+    },
+    {
+      "id": "9236",
+      "url": "https://exler.es/films/svinya.htm",
+      "published_at": "2021-10-12 08:22:00",
+      "title": "Кинорецензии | Свинья | Инди-драма",
+      "html_sha256": "23d08931bc8434d57b9ccc001136a77d2427edb9706f30c11572411b055575a5",
+      "extracted_characters": 8725
+    },
+    {
+      "id": "9250",
+      "url": "https://exler.es/films/glavnyj-geroj.htm",
+      "published_at": "2021-10-07 09:23:00",
+      "title": "Кинорецензии | Главный герой | Фантастически-боевиковый игровой ромком",
+      "html_sha256": "17a7b36afc87efd2002f748331e1937556079a174c9d39b448532db7a7cdd5c2",
+      "extracted_characters": 6233
+    },
+    {
+      "id": "9258",
+      "url": "https://exler.es/films/ya-sozdan-dlya-tebya.htm",
+      "published_at": "2021-10-05 10:53:00",
+      "title": "Кинорецензии | Я создан для тебя | Фантастическая трагикомедия",
+      "html_sha256": "1670e10fe2826e766c2cb62cdb61f69f0346739243a9db5dd861e0f42624b1ae",
+      "extracted_characters": 5584
+    },
+    {
+      "id": "9276",
+      "url": "https://exler.es/films/drajver-iks.htm",
+      "published_at": "2021-09-30 09:01:00",
+      "title": "Кинорецензии | Драйвер-Икс | Драма",
+      "html_sha256": "9a34315660598cb44bcb61e1536449353d3e48223cf4d11dec0802bc717a38bf",
+      "extracted_characters": 6494
+    },
+    {
+      "id": "9287",
+      "url": "https://exler.es/films/ostanovivshayasya-zhizn.htm",
+      "published_at": "2021-09-27 11:05:00",
+      "title": "Кинорецензии | Остановившаяся жизнь | Драма",
+      "html_sha256": "9454d6098949304c75eaa169e8f8aef29d2dc691e07c5c890fee25d826e0a0b6",
+      "extracted_characters": 7940
+    },
+    {
+      "id": "9307",
+      "url": "https://exler.es/films/bolshaya-sekunda.htm",
+      "published_at": "2021-09-23 09:01:00",
+      "title": "Кинорецензии | Большая секунда | Сериал",
+      "html_sha256": "c500dbb96dad752f1bf884a33aec0c297a77ebd2bbf6a9af93d6fa5bccffc62b",
+      "extracted_characters": 8797
+    },
+    {
+      "id": "9316",
+      "url": "https://exler.es/films/lunnaya-afera.htm",
+      "published_at": "2021-09-20 11:01:00",
+      "title": "Кинорецензии | Лунная афера | Комедийный боевик",
+      "html_sha256": "f4288dbb55ef916b1cdb2bd573469b0de7b53539a85df528201105a2a40f0c22",
+      "extracted_characters": 8806
+    },
+    {
+      "id": "9341",
+      "url": "https://exler.es/films/telohranitel-zheny-killera.htm",
+      "published_at": "2021-09-16 09:01:00",
+      "title": "Кинорецензии | Телохранитель жены киллера | Комедийный боевик",
+      "html_sha256": "b3174ff82d789e24c660867c269e36e6d511a3054098939a5df7765a19d6ea38",
+      "extracted_characters": 10223
+    },
+    {
+      "id": "9353",
+      "url": "https://exler.es/films/bumazhnyy-dom-pyatyy-sezon-pervaya-chast.htm",
+      "published_at": "2021-09-13 11:37:00",
+      "title": "Кинорецензии | Бумажный дом - пятый сезон, первая часть | Сериал",
+      "html_sha256": "7fe284f80e4ff42e1e90355f70ce026a6a8dfb45e11070928cf326a497cf749c",
+      "extracted_characters": 9100
+    },
+    {
+      "id": "9374",
+      "url": "https://exler.es/films/tri-sekundy.htm",
+      "published_at": "2021-09-09 09:01:00",
+      "title": "Кинорецензии | Три секунды | Криминальный триллер",
+      "html_sha256": "7467a736c8e54580d1c4865c6a99d2f1ac737527b62d149ef2795c41ef569b35",
+      "extracted_characters": 6584
+    },
+    {
+      "id": "9387",
+      "url": "https://exler.es/films/svet-vokrug.htm",
+      "published_at": "2021-09-06 11:05:00",
+      "title": "Кинорецензии | Свет вокруг | Трагикомедия",
+      "html_sha256": "46328ca760c484039ff088fd1518ab20b52c7be587ea816c6ec28704c6e4ff30",
+      "extracted_characters": 8572
+    },
+    {
+      "id": "9409",
+      "url": "https://exler.es/films/sovremennaya-lyubov.htm",
+      "published_at": "2021-09-02 09:01:00",
+      "title": "Кинорецензии | Современная любовь | Сериал",
+      "html_sha256": "a0f2321ae0265d0f9d7885bd042f13a55edee65463c3ddc30eb8d464d7410f2b",
+      "extracted_characters": 10911
+    },
+    {
+      "id": "9421",
+      "url": "https://exler.es/films/legenda-o-zelyonom-rycare.htm",
+      "published_at": "2021-08-30 11:01:00",
+      "title": "Кинорецензии | Легенда о Зелёном Рыцаре | Приключенческое фэнтези",
+      "html_sha256": "ceb8c2921b836c4d57452b806cf6106ca70eff673227b31dac204c4c2f7d6080",
+      "extracted_characters": 14355
+    },
+    {
+      "id": "9437",
+      "url": "https://exler.es/films/hrustalnyj.htm",
+      "published_at": "2021-08-26 09:01:00",
+      "title": "Кинорецензии | Хрустальный | Сериал",
+      "html_sha256": "0e62a3ecb1259a5933ba0080f5a3e7cbe26f4f628324b4a827497f54a9ea9349",
+      "extracted_characters": 9081
+    },
+    {
+      "id": "9453",
+      "url": "https://exler.es/films/krasnyj-prizrak.htm",
+      "published_at": "2021-08-23 11:01:00",
+      "title": "Кинорецензии | Красный призрак | Боевик",
+      "html_sha256": "ee1398f64c5ea48e2bb14ca80e9e798b69539e32a143248589a8701c189b43be",
+      "extracted_characters": 10072
+    },
+    {
+      "id": "9474",
+      "url": "https://exler.es/films/kruella.htm",
+      "published_at": "2021-08-19 09:01:00",
+      "title": "Кинорецензии | Круэлла | Фантастическая трагикомедия",
+      "html_sha256": "bcf288161e4fa30c1e18e86a28d34e595a5b99fbaa814c3ad4ffcc8d92f3d61f",
+      "extracted_characters": 7927
+    },
+    {
+      "id": "9493",
+      "url": "https://exler.es/films/otryad-samoubijc-missiya-navylet.htm",
+      "published_at": "2021-08-16 09:01:00",
+      "title": "Кинорецензии | Отряд самоубийц: Миссия навылет | Фантастический боевик",
+      "html_sha256": "e324b9bbeca12cb41541a05c6cd460064ac543d0943bdfc9c280a48110aa3340",
+      "extracted_characters": 13710
+    },
+    {
+      "id": "9510",
+      "url": "https://exler.es/films/zdes-i-sejchas.htm",
+      "published_at": "2021-08-12 09:01:00",
+      "title": "Кинорецензии | Здесь и сейчас | Трагикомедия",
+      "html_sha256": "1bcf205afa098159910274b2c164a7cd6296935cfe51347546598e7de612920c",
+      "extracted_characters": 5330
+    },
+    {
+      "id": "9521",
+      "url": "https://exler.es/films/pochemu-zhenshiny-ubivayut-2.htm",
+      "published_at": "2021-08-09 10:01:00",
+      "title": "Кинорецензии | Почему женщины убивают 2 | Сериал",
+      "html_sha256": "f12bb871367230efb99eb5e28b6c9d32ad88912419cbd57bd13c95a24a5da3a2",
+      "extracted_characters": 7806
+    },
+    {
+      "id": "9550",
+      "url": "https://exler.es/films/kruiz-po-dzhunglyam.htm",
+      "published_at": "2021-08-05 09:01:00",
+      "title": "Кинорецензии | Круиз по джунглям | Приключения",
+      "html_sha256": "5f514fb49d9212d09a0bc3455bc4565f62880a5cda44bb2ff63e42addaec3003",
+      "extracted_characters": 8182
+    },
+    {
+      "id": "9567",
+      "url": "https://exler.es/films/forsazh-9.htm",
+      "published_at": "2021-08-02 09:31:00",
+      "title": "Кинорецензии | Форсаж 9 | Боевик",
+      "html_sha256": "264bbaeb87837a5acafd3f52bffe9a1835986dacac08da30f671e2bcb4afd809",
+      "extracted_characters": 7764
+    },
+    {
+      "id": "9588",
+      "url": "https://exler.es/films/para-iz-budushego.htm",
+      "published_at": "2021-07-29 09:01:00",
+      "title": "Кинорецензии | Пара из будущего | Фантастическая трагикомедия",
+      "html_sha256": "6cd5482f561e084cdf78a5738d5ab01c9449de947fb740f1f5d03aed0987361a",
+      "extracted_characters": 5351
+    },
+    {
+      "id": "9597",
+      "url": "https://exler.es/films/loki.htm",
+      "published_at": "2021-07-27 09:01:00",
+      "title": "Кинорецензии | Локи | Сериал",
+      "html_sha256": "05491a459673cebba40a07496583f0b58cc0ff3a71f02951b3603d0d5ebfdb8d",
+      "extracted_characters": 8960
+    },
+    {
+      "id": "9624",
+      "url": "https://exler.es/films/chernaya-vdova.htm",
+      "published_at": "2021-07-22 09:01:00",
+      "title": "Кинорецензии | Черная вдова | Фантастический боевик",
+      "html_sha256": "de102321dfe298c3f3a93c9bda6e913fc01d7c5860e0f668744991e7861c2897",
+      "extracted_characters": 8210
+    },
+    {
+      "id": "9642",
+      "url": "https://exler.es/films/ogon.htm",
+      "published_at": "2021-07-19 11:01:00",
+      "title": "Кинорецензии | Огонь | Остросюжетный фильм",
+      "html_sha256": "a89001457b8f9ab53fdaf02fd77892b82223eba1b1a1896d1aa4ea4a7ad2c2e4",
+      "extracted_characters": 10277
+    },
+    {
+      "id": "9666",
+      "url": "https://exler.es/films/dorogie-tovarishi.htm",
+      "published_at": "2021-07-15 09:01:00",
+      "title": "Кинорецензии | Дорогие товарищи | Драма",
+      "html_sha256": "6d8b362fb7f315de999edf80ddefa480330ebefacf1c0a8577c7d9664cb55247",
+      "extracted_characters": 12203
+    },
+    {
+      "id": "9685",
+      "url": "https://exler.es/films/igry-shpionov.htm",
+      "published_at": "2021-07-12 11:17:00",
+      "title": "Кинорецензии | Игры шпионов | Психологический триллер",
+      "html_sha256": "b64c495e00f02730fd0e619f8de6d35a0235644a77fe4074aa700027255da6e6",
+      "extracted_characters": 10210
+    },
+    {
+      "id": "9710",
+      "url": "https://exler.es/films/vojna-budushego.htm",
+      "published_at": "2021-07-08 09:01:00",
+      "title": "Кинорецензии | Война будущего | Фантастический боевик",
+      "html_sha256": "581ec081b27c2d6fecea0bf5e4c4c1d74ff46fc37c190400b9956c184f3b0680",
+      "extracted_characters": 7183
+    },
+    {
+      "id": "9729",
+      "url": "https://exler.es/films/hitrosti-1.htm",
+      "published_at": "2021-07-05 09:01:00",
+      "title": "Кинорецензии | Хитрости | Сериал",
+      "html_sha256": "654a24d0c6dce9fb193eba58eab1539d8ab53e17c705ced3a9a5162ca2401432",
+      "extracted_characters": 8417
+    },
+    {
+      "id": "9762",
+      "url": "https://exler.es/films/kosmicheskie-sily.htm",
+      "published_at": "2021-07-01 09:01:00",
+      "title": "Кинорецензии | Космические силы | Сериал",
+      "html_sha256": "99d57913d3b809993455b2981fe7855d301a9456a5cda9e0b8cf6526a5f7c50d",
+      "extracted_characters": 11196
+    },
+    {
+      "id": "9781",
+      "url": "https://exler.es/films/luka.htm",
+      "published_at": "2021-06-28 09:01:00",
+      "title": "Кинорецензии | Лука | Анимация",
+      "html_sha256": "d674ae594e70efc21414f8f5b8f7cd152c06f5ca0bc4a285f262a45dd93f63c6",
+      "extracted_characters": 6947
+    },
+    {
+      "id": "9801",
+      "url": "https://exler.es/films/mejr-iz-isttauna.htm",
+      "published_at": "2021-06-24 11:50:00",
+      "title": "Кинорецензии | Мейр из Исттауна | Сериал",
+      "html_sha256": "3997518226b3d1fd67af49eee0bc821216e68d99bc0d81348f1507fef38ec905",
+      "extracted_characters": 9009
+    },
+    {
+      "id": "9823",
+      "url": "https://exler.es/films/major-grom-chumnoj-doktor.htm",
+      "published_at": "2021-06-21 09:01:00",
+      "title": "Кинорецензии | Майор Гром: Чумной доктор | Фантастический боевик",
+      "html_sha256": "32188ac1596298f1ebb5c6e640568156037142977a516cc442687df323c0440c",
+      "extracted_characters": 7472
+    },
+    {
+      "id": "9844",
+      "url": "https://exler.es/films/krovnye-uzy.htm",
+      "published_at": "2021-06-17 10:57:00",
+      "title": "Кинорецензии | Кровные узы | Драма",
+      "html_sha256": "ae1b6868740310856b06813a1febcd0efba3bf5429ca5b487f69127d4b98891a",
+      "extracted_characters": 5057
+    },
+    {
+      "id": "9864",
+      "url": "https://exler.es/films/rycari-spravedlivosti.htm",
+      "published_at": "2021-06-14 09:01:00",
+      "title": "Кинорецензии | Рыцари справедливости | Трагикомедия",
+      "html_sha256": "b6ced30defc0d06b264ecba04379a963fd0bb53266126d86bbe189d3f9b1a613",
+      "extracted_characters": 8431
+    },
+    {
+      "id": "9882",
+      "url": "https://exler.es/films/harlan-koben-nevinoven.htm",
+      "published_at": "2021-06-10 09:01:00",
+      "title": "Кинорецензии | Харлан Кобен. Невиновен | Сериал",
+      "html_sha256": "29692c3483501213200bc5453e206162c19ab3d544cfd67997b991b8f21e856a",
+      "extracted_characters": 7631
+    },
+    {
+      "id": "9897",
+      "url": "https://exler.es/films/priklyuchenie-pikasso.htm",
+      "published_at": "2021-06-07 09:01:00",
+      "title": "Кинорецензии | Приключение Пикассо | Сюрреалистическая комедия",
+      "html_sha256": "92f52730aa052e0935297b16252ef7a5b6a04ae4c03d510ac2101e99ce513b2c",
+      "extracted_characters": 9694
+    },
+    {
+      "id": "9922",
+      "url": "https://exler.es/films/druzya-vossoedinenie.htm",
+      "published_at": "2021-06-03 09:01:00",
+      "title": "Кинорецензии | Друзья: Воссоединение | Комедия",
+      "html_sha256": "e060d66665392d251b73f44cea168f5e0c60860d5de0dd7104e576f8e667b703",
+      "extracted_characters": 7509
+    },
+    {
+      "id": "9934",
+      "url": "https://exler.es/films/gnev-chelovecheskij.htm",
+      "published_at": "2021-05-31 09:01:00",
+      "title": "Кинорецензии | Гнев человеческий | Криминальный триллер",
+      "html_sha256": "4b8e43231e07c5f9d4f89c963b66d1062580cc6edecd0f0bb678743be446edc4",
+      "extracted_characters": 8266
+    },
+    {
+      "id": "9958",
+      "url": "https://exler.es/blog/realme-sdelali-klon-poco-x3-nfc.htm",
+      "published_at": "2021-05-26 09:56:00",
+      "title": "Realme сделали клон Poco M3 Pro 5G",
+      "html_sha256": "384e5d73f530bba41aaccdb9dac5342002a7ed82fe6b80094c57621990588c55",
+      "extracted_characters": 0
+    },
+    {
+      "id": "9969",
+      "url": "https://exler.es/films/shaft.htm",
+      "published_at": "2021-05-24 09:01:00",
+      "title": "Кинорецензии | Шафт | Комедийный боевик",
+      "html_sha256": "18165841d4f190a5f5eb9e736fe9f50c9317c234cd3102b2f57a6f0ccf1efbc6",
+      "extracted_characters": 9091
+    },
+    {
+      "id": "9991",
+      "url": "https://exler.es/films/mavritanec.htm",
+      "published_at": "2021-05-20 09:01:00",
+      "title": "Кинорецензии | Мавританец | Драма",
+      "html_sha256": "1ab0ad78c9d03b1a808946319d0110eff7885dbbd7055318af6bd8d1b089ce27",
+      "extracted_characters": 10136
+    },
+    {
+      "id": "10018",
+      "url": "https://exler.es/films/pauk-nuar.htm",
+      "published_at": "2026-06-15 10:19:00",
+      "title": "Кинорецензии | Паук-Нуар | Сериал",
+      "html_sha256": "87992bfe0370c5f7dedd3d1a42e8055e1c2d966cfd8f1c2025b456bfb8b87ab6",
+      "extracted_characters": 10505
+    },
+    {
+      "id": "10039",
+      "url": "https://exler.es/films/proshaj-dzhun.htm",
+      "published_at": "2026-06-11 08:00:00",
+      "title": "Кинорецензии | Прощай, Джун | Драма",
+      "html_sha256": "beb920ea626fae7bf97576ced306ae7f0c25a737cd5c38deac3981657e56f2bd",
+      "extracted_characters": 4815
+    },
+    {
+      "id": "10057",
+      "url": "https://exler.es/films/ograblenie-londona.htm",
+      "published_at": "2026-06-08 10:00:00",
+      "title": "Кинорецензии | Ограбить Лондон | Криминальный триллер",
+      "html_sha256": "7e92452bbd4a1d13f83dc7bd14437b4f00fa5f328ea8f8c611ce8294b608e23f",
+      "extracted_characters": 5284
+    },
+    {
+      "id": "10083",
+      "url": "https://exler.es/films/neobychajno-umnye-sozdaniya.htm",
+      "published_at": "2026-06-04 10:47:00",
+      "title": "Кинорецензии | Необычайно умные создания | Мелодрама",
+      "html_sha256": "67cfc91fbc01bea3a9d93bf85bb8e8b0c28d91df5eacb5b6078edefbe7d7fd88",
+      "extracted_characters": 6529
+    },
+    {
+      "id": "10107",
+      "url": "https://exler.es/films/legendy-1.htm",
+      "published_at": "2026-06-01 10:00:00",
+      "title": "Кинорецензии | Легенды | Сериал",
+      "html_sha256": "08863b3e15659f9fcf2cbe30f4f34af985042bebebc6ed8db1437b3ce11b3775",
+      "extracted_characters": 9496
+    },
+    {
+      "id": "10138",
+      "url": "https://exler.es/films/kristofery.htm",
+      "published_at": "2026-05-28 08:00:00",
+      "title": "Кинорецензии | Кристоферы | Драмеди",
+      "html_sha256": "73b423114597744d4053d0dc80b7a35d2e372f009ca5cd65f3ea9bc02d1d4649",
+      "extracted_characters": 5890
+    },
+    {
+      "id": "10159",
+      "url": "https://exler.es/films/oni-pridut-za-toboj-1.htm",
+      "published_at": "2026-05-25 10:00:00",
+      "title": "Кинорецензии | Они придут за тобой | Черноюморной слэшер",
+      "html_sha256": "fef63662ad1fc9bd0f6133540cd53defafbf168ef3304cf9666f9f19ca15c4a6",
+      "extracted_characters": 7350
+    },
+    {
+      "id": "10187",
+      "url": "https://exler.es/films/na-vershine.htm",
+      "published_at": "2026-05-21 08:00:00",
+      "title": "Кинорецензии | На вершине | Триллер",
+      "html_sha256": "d7ab574fb0f032fd4b66b0fad5dd870e57bff18d64bc0ce178d579ff852dbb2a",
+      "extracted_characters": 5588
+    },
+    {
+      "id": "10204",
+      "url": "https://exler.es/films/proekt-konec-sveta.htm",
+      "published_at": "2026-05-18 10:00:00",
+      "title": "Кинорецензии | Проект «Конец света» | Фантастическая трагикомедия",
+      "html_sha256": "606258acaed001c7109a6fad07e6bf6482add74f485cbaf9a01962e5e4496e5d",
+      "extracted_characters": 9134
+    },
+    {
+      "id": "10230",
+      "url": "https://exler.es/films/eta-shtuka-rabotaet.htm",
+      "published_at": "2026-05-14 08:00:00",
+      "title": "Кинорецензии | Эта штука работает? | Драмеди",
+      "html_sha256": "d79753465b4eafa6aba52cafd0be875e3d3f417bd46001cdb8f41e3ead83af0b",
+      "extracted_characters": 7644
+    },
+    {
+      "id": "10247",
+      "url": "https://exler.es/films/vot-eto-drama.htm",
+      "published_at": "2026-05-11 10:00:00",
+      "title": "Кинорецензии | Вот это драма! | Драма",
+      "html_sha256": "737f1c10df8840a159abb243766b9308d49cb5087f24d6dff39a7c0a27a4b600",
+      "extracted_characters": 8309
+    },
+    {
+      "id": "10277",
+      "url": "https://exler.es/films/schastlivogo-puti.htm",
+      "published_at": "2026-05-07 08:00:00",
+      "title": "Кинорецензии | Счастливого пути | Комедия",
+      "html_sha256": "adbacd1c54f6b4bfcbe64c805a15ac3256bd02b183073296592f4cf2c1c2c7c9",
+      "extracted_characters": 7334
+    },
+    {
+      "id": "10297",
+      "url": "https://exler.es/films/sireny.htm",
+      "published_at": "2026-05-04 10:00:00",
+      "title": "Кинорецензии | Сирены | Сериал",
+      "html_sha256": "33b374983d4d80209450d240e78014b00c6613ac131e5bca85d61daf2fb02b4c",
+      "extracted_characters": 6799
+    },
+    {
+      "id": "10325",
+      "url": "https://exler.es/films/na-pomosh.htm",
+      "published_at": "2026-04-30 08:00:00",
+      "title": "Кинорецензии | На помощь! | Мелодраматичный черноюморной хоррор",
+      "html_sha256": "2d98407483fb0b25cb6abf4b54e7c8d501915d255a46675c1033b618c4d4d23d",
+      "extracted_characters": 5835
+    },
+    {
+      "id": "10343",
+      "url": "https://exler.es/films/sentimentalnaya-cennost.htm",
+      "published_at": "2026-04-27 10:00:00",
+      "title": "Кинорецензии | Сентиментальная ценность | Драма",
+      "html_sha256": "bd48b56e5679aa8f984172e2b396981812618cca4d7a3042f7403a689e600bdc",
+      "extracted_characters": 7293
+    },
+    {
+      "id": "10370",
+      "url": "https://exler.es/films/madison.htm",
+      "published_at": "2026-04-23 08:00:00",
+      "title": "Кинорецензии | Мадисон | Сериал",
+      "html_sha256": "bdb556a56f99000cf5b0bd2ed3acb91a71791eeb377feb2e56215a1dccb1f5eb",
+      "extracted_characters": 7057
+    },
+    {
+      "id": "10390",
+      "url": "https://exler.es/films/ya-rugayus.htm",
+      "published_at": "2026-04-20 10:00:00",
+      "title": "Кинорецензии | Я ругаюсь | Драмеди",
+      "html_sha256": "de9e94897f7c71d3c2a4fbc859ce07bc3d75164438b0eb881fb39afdebb61117",
+      "extracted_characters": 7932
+    },
+    {
+      "id": "10419",
+      "url": "https://exler.es/films/molodoj-sherlok.htm",
+      "published_at": "2026-04-16 08:00:00",
+      "title": "Кинорецензии | Молодой Шерлок | Сериал",
+      "html_sha256": "5ba86b8488c49c845b361e112b6a07a74c1ffa1b25c1727f87ddfe7d5029b41d",
+      "extracted_characters": 5719
+    },
+    {
+      "id": "10436",
+      "url": "https://exler.es/films/naslednik-1.htm",
+      "published_at": "2026-04-13 10:00:00",
+      "title": "Кинорецензии | Наследник | Черноюморная трагикомедия",
+      "html_sha256": "b492140c1abbce7de06b103882b5b8d2d11e5d1e9eed8e1ea8796f9d11ef48d5",
+      "extracted_characters": 7214
+    },
+    {
+      "id": "10468",
+      "url": "https://exler.es/films/ograblenie-v-los-andzhelese.htm",
+      "published_at": "2026-04-09 08:00:00",
+      "title": "Кинорецензии | Ограбление в Лос-Анджелесе | Криминальная драма",
+      "html_sha256": "9d733d48389f72d33be40aab9b33cd459be43b8d111931636f0266338bdf1e1b",
+      "extracted_characters": 8971
+    },
+    {
+      "id": "10493",
+      "url": "https://exler.es/films/ohota-za-tenyu.htm",
+      "published_at": "2026-04-06 10:00:00",
+      "title": "Кинорецензии | Охота за тенью | Криминальный боевик",
+      "html_sha256": "4bf4b272c5b1c47a65a47aec60c7f11495c2ad6f1d3ecf0f06112a9c004f1482",
+      "extracted_characters": 8221
+    },
+    {
+      "id": "10524",
+      "url": "https://exler.es/films/majk-i-nik-i-nik-i-elis.htm",
+      "published_at": "2026-04-02 08:00:00",
+      "title": "Кинорецензии | Майк и Ник и Ник и Элис | Черноюморной боевик",
+      "html_sha256": "8c1e1dd0577693f711a03fc76665ac34484cfd84c7aeef3f907d5c2c462c6930",
+      "extracted_characters": 6634
+    },
+    {
+      "id": "10544",
+      "url": "https://exler.es/films/ostrye-kozyrki-bessmertnyj-chelovek.htm",
+      "published_at": "2026-03-30 08:00:00",
+      "title": "Кинорецензии | Острые козырьки: Бессмертный человек | Криминальная драма",
+      "html_sha256": "df4907750e6afb2017caf39a5fd51253c0d4c0a703630462f1cc4556d43ca37f",
+      "extracted_characters": 9686
+    },
+    {
+      "id": "10575",
+      "url": "https://exler.es/films/udachi-veselya-ne-sdohni.htm",
+      "published_at": "2026-03-23 11:00:00",
+      "title": "Кинорецензии | Удачи, веселья, не сдохни | Фантастическая черноюморная трагикомедия",
+      "html_sha256": "b723ed8ebe9c8428095f8090929755f6d583454060de3c2e02bf60b1ac77321d",
+      "extracted_characters": 7047
+    },
+    {
+      "id": "10596",
+      "url": "https://exler.es/films/krasota-1.htm",
+      "published_at": "2026-03-19 09:43:00",
+      "title": "Кинорецензии | Красота | Сериал",
+      "html_sha256": "3ebccc5233343d1948e21a39fceb01eb5c9823cac61f6ebd48f54a8b141c665d",
+      "extracted_characters": 6662
+    },
+    {
+      "id": "10612",
+      "url": "https://exler.es/films/golubaya-luna.htm",
+      "published_at": "2026-03-16 09:00:00",
+      "title": "Кинорецензии | Голубая Луна | Трагикомедия",
+      "html_sha256": "952e17772e9f6eb1ca90ad42189f4813956403fd096cc0101ae7a9e10146095c",
+      "extracted_characters": 10931
+    },
+    {
+      "id": "10632",
+      "url": "https://exler.es/films/sekretnyj-agent-1.htm",
+      "published_at": "2026-03-12 10:37:00",
+      "title": "Кинорецензии | Секретный агент | Драма",
+      "html_sha256": "0fd33515a703850e9c3755e65e37e09258135874b64b8f002ff547102060e19c",
+      "extracted_characters": 8499
+    },
+    {
+      "id": "10648",
+      "url": "https://exler.es/films/druzya-i-sosedi.htm",
+      "published_at": "2026-03-09 10:00:00",
+      "title": "Кинорецензии | Друзья и соседи | Сериал",
+      "html_sha256": "089669d998dbd24d8c1802a69ff7d764dff6bc530b389df78b0993be1f223b25",
+      "extracted_characters": 7827
+    },
+    {
+      "id": "10675",
+      "url": "https://exler.es/films/otec-mat-sestra-brat.htm",
+      "published_at": "2026-03-05 08:00:00",
+      "title": "Кинорецензии | Отец мать сестра брат | Трагикомедия",
+      "html_sha256": "b9cba2e7f8e74400c45e1320b22a95d085ce28dd51da87a802f4ed078827fb2a",
+      "extracted_characters": 7884
+    },
+    {
+      "id": "10690",
+      "url": "https://exler.es/films/ubezhishe.htm",
+      "published_at": "2026-03-02 10:00:00",
+      "title": "Кинорецензии | Убежище | Боевик",
+      "html_sha256": "7c48bfbed8d58b508adf80eb82503d340fb2c3aeec1da2deeb5b29725bfdeb27",
+      "extracted_characters": 6569
+    },
+    {
+      "id": "10719",
+      "url": "https://exler.es/films/rycar-semi-korolevstv.htm",
+      "published_at": "2026-02-26 08:00:00",
+      "title": "Кинорецензии | Рыцарь семи королевств | Сериал",
+      "html_sha256": "8b992926a5c2c8cdbfdd0962ad1cf760b31920a372f549438d650499772c5873",
+      "extracted_characters": 8337
+    },
+    {
+      "id": "10741",
+      "url": "https://exler.es/films/hamnet-istoriya-vdohnovivshaya-gamleta.htm",
+      "published_at": "2026-02-23 10:00:00",
+      "title": "Кинорецензии | Хамнет: История, вдохновившая «Гамлета» | Драма",
+      "html_sha256": "8269cab6b0e513eb8e29db021d2bad36d131d1063270ecaf0c0f7b983ab93f39",
+      "extracted_characters": 6323
+    },
+    {
+      "id": "10769",
+      "url": "https://exler.es/films/opasnyj-duet.htm",
+      "published_at": "2026-02-19 08:00:00",
+      "title": "Кинорецензии | Опасный дуэт | Боевик",
+      "html_sha256": "6b3ab8fc0a7213c6d4fc3e7c950c16f8c4c60ff14bec6ecc283019910e8412a7",
+      "extracted_characters": 7311
+    },
+    {
+      "id": "10789",
+      "url": "https://exler.es/films/gornichnaya.htm",
+      "published_at": "2026-02-16 10:00:00",
+      "title": "Кинорецензии | Горничная | Триллер",
+      "html_sha256": "f5b12c3ea79e7e15dbd50cbbfe784d534da9914bb44cc799f0e5ac94f89f593e",
+      "extracted_characters": 7768
+    },
+    {
+      "id": "10815",
+      "url": "https://exler.es/films/marti-velikolepnyj.htm",
+      "published_at": "2026-02-12 12:41:00",
+      "title": "Кинорецензии | Марти Великолепный | Спортивная драма",
+      "html_sha256": "8b0fbe21fd7fb97a2ac57692c3b2a616bd4bd10509e91b6541b9fe71ccfef614",
+      "extracted_characters": 11765
+    },
+    {
+      "id": "10840",
+      "url": "https://exler.es/films/lakomyj-kusok.htm",
+      "published_at": "2026-02-09 10:00:00",
+      "title": "Кинорецензии | Лакомый кусок | Криминальный триллер",
+      "html_sha256": "c0f1d12a5724751ae76d175b6eb7cfeeda7a2f019bbdf45206f3c1c0e5f2ab43",
+      "extracted_characters": 6986
+    },
+    {
+      "id": "10854",
+      "url": "https://exler.es/films/fekhem-holl.htm",
+      "published_at": "2026-02-05 12:58:00",
+      "title": "Кинорецензии | Фэкхем-Холл | Пародийная комедия",
+      "html_sha256": "9b1db3c1efad02e01e5fcfc5013c966355c562931d9b604911bbe82d66836480",
+      "extracted_characters": 5720
+    },
+    {
+      "id": "10872",
+      "url": "https://exler.es/films/ubijstva-v-odnom-zdanii-pyatyj-sezon.htm",
+      "published_at": "2026-02-02 11:47:00",
+      "title": "Кинорецензии | Убийства в одном здании. Пятый сезон | Сериал",
+      "html_sha256": "029a5662d0ef53534caf72b0df01f4648da222bdfa1badb01e51cc308eef1951",
+      "extracted_characters": 5158
+    }
+  ]
+}

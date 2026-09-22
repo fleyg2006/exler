@@ -1,0 +1,38 @@
+{
+  "format": "ordered-json-array-parts-gzip-v1",
+  "record_count": 2396,
+  "original_json_sha256": "2f24d8b6d6d331f01e90ef4f6f97c45ef218eaedf7fad65e46085bd0d0c0af70",
+  "reconstruction": "Decompress parts in the listed order; concatenate their JSON arrays. Record values and order are preserved; original whitespace is not.",
+  "parts": [
+    {
+      "path": "pages-parts/part-001.json.gz",
+      "records": 512,
+      "bytes": 47938,
+      "sha256": "8502c757969fe42dae4b67c5c9871b75db5add1e419e82ba3692d06174627b54"
+    },
+    {
+      "path": "pages-parts/part-002.json.gz",
+      "records": 540,
+      "bytes": 47933,
+      "sha256": "8d2aeffc8d8d39944eae7465daa3ff6b758db5a7540ce6944883bf28ccb2ecf8"
+    },
+    {
+      "path": "pages-parts/part-003.json.gz",
+      "records": 550,
+      "bytes": 47960,
+      "sha256": "6817001f57e14de61a99f349ee1f4cf887a969ffc82af122aeab6bc36b68e472"
+    },
+    {
+      "path": "pages-parts/part-004.json.gz",
+      "records": 549,
+      "bytes": 47969,
+      "sha256": "bddda288614258e773261946cc9941a5c0c9e39d953fe7e7ece4632b12d1e075"
+    },
+    {
+      "path": "pages-parts/part-005.json.gz",
+      "records": 245,
+      "bytes": 18603,
+      "sha256": "cc3eb03f29857abb1c7b04ae2afc6b7bd09c5ebdb4f4354745984014e1fe6d4b"
+    }
+  ]
+}
