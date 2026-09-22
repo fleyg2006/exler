@@ -10,19 +10,35 @@
   "implicit_timeout_candidates": 57,
   "correction_tone_candidates": 137,
   "unique_candidates_total": 256,
-  "cached_post_contexts": 35,
-  "fetched_pages": 61,
-  "primary_case_pages": 11,
-  "selected_comment_refs": 39,
-  "main_cases": 11,
+  "cached_post_contexts": 49,
+  "fetched_pages": 156,
+  "primary_case_pages": 22,
+  "selected_comment_refs": 63,
+  "main_cases": 22,
   "sanctions_by_status": {
+    "announced_ban": 8,
+    "not_established": 10,
     "announced_time_out_unspecified": 1,
-    "announced_ban": 4,
-    "not_established": 6
+    "threat_only": 2,
+    "warning_without_explicit_ban": 1
   },
-  "unique_archived_post_contexts": 34,
+  "unique_archived_post_contexts": 48,
   "context_notes": 4,
-  "rejected_versions": 8,
-  "satirical_scenes": 7,
-  "unconfirmed_leads": 4
+  "rejected_versions": 10,
+  "satirical_scenes": 12,
+  "unconfirmed_leads": 4,
+  "primary_author_post_cases": 3,
+  "cult_notes": 5,
+  "cult_moderation_images": 32,
+  "cult_other_claim_screenshot": 1,
+  "cult_comments_loaded_unique": 538,
+  "cult_comment_keyword_candidates": 40,
+  "expansion_sanction_keyword_candidates": 113,
+  "expansion_outburst_keyword_candidates": 36,
+  "cult_index": {
+    "cult_pages": 96,
+    "index_pages_with_entries": 25,
+    "index_entries_including_duplicates": 316,
+    "unique_entries": 274
+  }
 }

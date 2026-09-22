@@ -12,6 +12,26 @@
       "role": "no_discussion_body_returned"
     },
     {
+      "url": "https://exler-cult.livejournal.com/",
+      "final_url": "https://exler-cult.livejournal.com/",
+      "status": 200,
+      "title": "Экслер, Бублик и уютная веселая компашка — ЖЖ",
+      "bytes": 825575,
+      "sha256": "7b3eaf8f0f7ad4a88f11a560ca9979be6bee84e6da563e01ea6e06f7523e9968",
+      "fetched_at": "2026-09-22T21:45:52.835131+00:00",
+      "role": "cult_post_or_comments"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1025451.html",
+      "final_url": "https://exler-cult.livejournal.com/1025451.html",
+      "status": 200,
+      "title": "Что такое троллинг: exler_cult — LiveJournal",
+      "bytes": 738985,
+      "sha256": "58c861c09005b301e06a8636db05ac153c0d9ecc6e921d4eeabbdf1fc7b88e13",
+      "fetched_at": "2026-09-22T21:50:27.014004+00:00",
+      "role": "cult_post_or_comments"
+    },
+    {
       "url": "https://exler-cult.livejournal.com/1160874.html",
       "final_url": "https://exler-cult.livejournal.com/1160874.html",
       "status": 200,
@@ -19,7 +39,7 @@
       "bytes": 827117,
       "sha256": "1437fa17c82f95724855af9fb140e9fe7d6a6a98f07ef0d8fa652010fda36007",
       "fetched_at": "2026-09-22T21:12:40.506840+00:00",
-      "role": "discovery_or_context"
+      "role": "cult_post_or_comments"
     },
     {
       "url": "https://exler-cult.livejournal.com/1210474.html",
@@ -29,7 +49,87 @@
       "bytes": 825275,
       "sha256": "51e3afcd122fe8983d6d2d8e953d0f06bb45dc4fc1a118ead6d087bdf140ae7d",
       "fetched_at": "2026-09-22T21:12:40.243495+00:00",
-      "role": "discovery_or_context"
+      "role": "cult_post_or_comments"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1257447.html",
+      "final_url": "https://exler-cult.livejournal.com/1257447.html",
+      "status": 200,
+      "title": "Экслер - (уе)банщик: exler_cult — LiveJournal",
+      "bytes": 748315,
+      "sha256": "ac1d2fcc0876db98ca57b754fd99fe8e69bcb1c3124210379228424934d868db",
+      "fetched_at": "2026-09-22T21:49:46.517134+00:00",
+      "role": "cult_post_or_comments"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1257447.html?view=flat",
+      "final_url": "https://exler-cult.livejournal.com/1257447.html?view=flat",
+      "status": 200,
+      "title": "Экслер - (уе)банщик: exler_cult — LiveJournal",
+      "bytes": 756596,
+      "sha256": "41aae0dcdffcf86ffca7b4ebda1110584973d84e7290347adf028d231a02a8e2",
+      "fetched_at": "2026-09-22T21:54:28.897325+00:00",
+      "role": "cult_post_or_comments"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1297147.html",
+      "final_url": "https://exler-cult.livejournal.com/1297147.html",
+      "status": 200,
+      "title": "Тофик в роли взбесившегося принтера: exler_cult — LiveJournal",
+      "bytes": 749148,
+      "sha256": "358560753e78e68c045ab61e05fa982f60437c10fea7a213722cd95d4bfd1e19",
+      "fetched_at": "2026-09-22T21:49:57.303131+00:00",
+      "role": "cult_post_or_comments"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1306548.html",
+      "final_url": "https://exler-cult.livejournal.com/1306548.html",
+      "status": 200,
+      "title": "Фемида из Калельи: exler_cult — LiveJournal",
+      "bytes": 751663,
+      "sha256": "142e84e0764bf9daad07778e8e9a3fb634e82da59700ea02729b0d9c131ec7ce",
+      "fetched_at": "2026-09-22T21:49:47.214054+00:00",
+      "role": "cult_post_or_comments"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1306548.html?thread=43379380",
+      "final_url": "https://exler-cult.livejournal.com/1306548.html?thread=43379380",
+      "status": 200,
+      "title": "Фемида из Калельи: exler_cult — LiveJournal",
+      "bytes": 718205,
+      "sha256": "290b1a80eb20734e3fb9bf058f1bf695d3574620b077d4c17a930170ab3b7e62",
+      "fetched_at": "2026-09-22T21:54:41.055760+00:00",
+      "role": "cult_post_or_comments"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1306548.html?view=flat",
+      "final_url": "https://exler-cult.livejournal.com/1306548.html?view=flat",
+      "status": 200,
+      "title": "Фемида из Калельи: exler_cult — LiveJournal",
+      "bytes": 759561,
+      "sha256": "d9c67ff9e49a8f7a22c53fac3d0dd2b41c99516f1d2efca5e7a3757c8978faf7",
+      "fetched_at": "2026-09-22T21:52:58.964923+00:00",
+      "role": "cult_post_or_comments"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1340728.html",
+      "final_url": "https://exler-cult.livejournal.com/1340728.html",
+      "status": 200,
+      "title": "Повесть о том, как поссорился Иван Иванович с Иваном Никифоровичем: exler_cult — LiveJournal",
+      "bytes": 747221,
+      "sha256": "2fa3dd032536a03115a0d5b19de84047761ebb506f9d62beffcc5c71c3f58f03",
+      "fetched_at": "2026-09-22T21:50:26.966162+00:00",
+      "role": "cult_post_or_comments"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1342463.html",
+      "final_url": "https://exler-cult.livejournal.com/1342463.html",
+      "status": 200,
+      "title": "Истерия дна: exler_cult — LiveJournal",
+      "bytes": 751203,
+      "sha256": "ee5f1bb7c2ea90f14d77974ad9f179b9ff314956ff8fa5ed2294f769147d6be9",
+      "fetched_at": "2026-09-22T21:49:57.216230+00:00",
+      "role": "cult_post_or_comments"
     },
     {
       "url": "https://exler-cult.livejournal.com/1345998.html",
@@ -39,7 +139,7 @@
       "bytes": 825247,
       "sha256": "b0aba7ccce4dd68ae7c508dbebd48212ecf689d83ed8dd114f889a31a6e9c9ca",
       "fetched_at": "2026-09-22T21:12:49.883536+00:00",
-      "role": "discovery_or_context"
+      "role": "cult_post_or_comments"
     },
     {
       "url": "https://exler-cult.livejournal.com/1367052.html",
@@ -49,7 +149,17 @@
       "bytes": 817925,
       "sha256": "af3b2c76565d5f77078404eab6a91f9f6b4959227f9d9f1e6d2e88d5c1e6d7a8",
       "fetched_at": "2026-09-22T21:12:49.602367+00:00",
-      "role": "discovery_or_context"
+      "role": "cult_post_or_comments"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1395386.html",
+      "final_url": "https://exler-cult.livejournal.com/1395386.html",
+      "status": 200,
+      "title": "Вебманю - в баню: exler_cult — LiveJournal",
+      "bytes": 738910,
+      "sha256": "14ce86a9842d1289caa78fee47146d7a91eedbae931187ae948c35ee160b8e8d",
+      "fetched_at": "2026-09-22T21:49:57.262144+00:00",
+      "role": "cult_post_or_comments"
     },
     {
       "url": "https://exler-cult.livejournal.com/1418149.html",
@@ -59,7 +169,7 @@
       "bytes": 830347,
       "sha256": "8e5150ff901048dec8c448226bbfc41d6108c0f8b45c86212816dbee62f975f8",
       "fetched_at": "2026-09-22T21:12:29.560366+00:00",
-      "role": "discovery_or_context"
+      "role": "cult_post_or_comments"
     },
     {
       "url": "https://exler-cult.livejournal.com/1418537.html",
@@ -69,7 +179,7 @@
       "bytes": 822685,
       "sha256": "def28374f12757c9dfaaf216fe3d66b74e9f3321ff2456070810ec641cf4e442",
       "fetched_at": "2026-09-22T21:12:29.916947+00:00",
-      "role": "discovery_or_context"
+      "role": "cult_post_or_comments"
     },
     {
       "url": "https://exler-cult.livejournal.com/1437867.html",
@@ -79,7 +189,7 @@
       "bytes": 810032,
       "sha256": "8760a3178045885efac8d8af66b8a73c2fa924cdcf75fda474a2cb754c127d75",
       "fetched_at": "2026-09-22T21:12:29.383438+00:00",
-      "role": "discovery_or_context"
+      "role": "cult_post_or_comments"
     },
     {
       "url": "https://exler-cult.livejournal.com/1450863.html",
@@ -89,7 +199,7 @@
       "bytes": 809629,
       "sha256": "1fc20de6506deb3b38aa4b3c95df62c1d4abca43ddb6f66097751402c271d6fd",
       "fetched_at": "2026-09-22T21:12:29.677605+00:00",
-      "role": "discovery_or_context"
+      "role": "cult_post_or_comments"
     },
     {
       "url": "https://exler-cult.livejournal.com/1493193.html",
@@ -99,7 +209,17 @@
       "bytes": 736787,
       "sha256": "a0009d34415914e6c8f83d12c0d8aa98f9784d1af8c3125764e09240fe862fcc",
       "fetched_at": "2026-09-22T20:57:54.832962+00:00",
-      "role": "discovery_or_context"
+      "role": "cult_post_or_comments"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1493193.html?view=flat",
+      "final_url": "https://exler-cult.livejournal.com/1493193.html?view=flat",
+      "status": 200,
+      "title": "Ассенизаторное, my ass: exler_cult — LiveJournal",
+      "bytes": 749985,
+      "sha256": "f83e04b35229f3dc33592c594f0ec19d36cb079a2b9fbc8780dc6e37ad6ebdad",
+      "fetched_at": "2026-09-22T21:54:29.600421+00:00",
+      "role": "cult_post_or_comments"
     },
     {
       "url": "https://exler-cult.livejournal.com/1519653.html",
@@ -109,7 +229,7 @@
       "bytes": 826127,
       "sha256": "122d937ccc9003917ea5f33367fd1efdec5fdb51ecb7b08b9fbc6d3587f7595c",
       "fetched_at": "2026-09-22T21:12:40.037747+00:00",
-      "role": "discovery_or_context"
+      "role": "cult_post_or_comments"
     },
     {
       "url": "https://exler-cult.livejournal.com/1522072.html",
@@ -119,7 +239,237 @@
       "bytes": 820514,
       "sha256": "201a8ff5fccea8b2b191723b7dd67fe27475a13048b616d00ef7420b2c05a479",
       "fetched_at": "2026-09-22T21:12:39.756462+00:00",
-      "role": "discovery_or_context"
+      "role": "cult_post_or_comments"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1567883.html",
+      "final_url": "https://exler-cult.livejournal.com/1567883.html",
+      "status": 200,
+      "title": "Форум июня: exler_cult — LiveJournal",
+      "bytes": 748988,
+      "sha256": "558578912966f99cb475b73e388614dad7c767a47d0b923ba9e6b5352797a47e",
+      "fetched_at": "2026-09-22T21:50:17.956864+00:00",
+      "role": "cult_post_or_comments"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1568140.html",
+      "final_url": "https://exler-cult.livejournal.com/1568140.html",
+      "status": 200,
+      "title": "Форум июля: exler_cult — LiveJournal",
+      "bytes": 743848,
+      "sha256": "09d1b14155fb2d3f9dfe37e903125013bf4a87a9155db7a503c2d619aeffabff",
+      "fetched_at": "2026-09-22T21:50:17.538885+00:00",
+      "role": "cult_post_or_comments"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1568331.html",
+      "final_url": "https://exler-cult.livejournal.com/1568331.html",
+      "status": 200,
+      "title": "Форум августа: exler_cult — LiveJournal",
+      "bytes": 741008,
+      "sha256": "caa1101f135a415b1decafd344da7f32ef33e595d4d5eee23ba3d80887ca8816",
+      "fetched_at": "2026-09-22T21:50:17.261522+00:00",
+      "role": "cult_post_or_comments"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1568596.html",
+      "final_url": "https://exler-cult.livejournal.com/1568596.html",
+      "status": 200,
+      "title": "Форум сентября: exler_cult — LiveJournal",
+      "bytes": 745504,
+      "sha256": "f4eee3dc46e579d77c204e232fa1692f229901c3240e9d7efa8d302ed0aea373",
+      "fetched_at": "2026-09-22T21:50:17.431960+00:00",
+      "role": "cult_post_or_comments"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1568596.html?page=2",
+      "final_url": "https://exler-cult.livejournal.com/1568596.html?page=2",
+      "status": 200,
+      "title": "Форум сентября: exler_cult — LiveJournal",
+      "bytes": 860209,
+      "sha256": "7993a8d10b0d8cdc2a268824a9a6830854ba0e795857356ef11f32b7e7389455",
+      "fetched_at": "2026-09-22T21:52:58.998380+00:00",
+      "role": "cult_post_or_comments"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1568596.html?view=flat&page=1",
+      "final_url": "https://exler-cult.livejournal.com/1568596.html?view=flat&page=1",
+      "status": 200,
+      "title": "Форум сентября: exler_cult — LiveJournal",
+      "bytes": 812289,
+      "sha256": "81de3902d39f902265d2a3571ad81e82f4065c50dd993e47c39f3de83b27a554",
+      "fetched_at": "2026-09-22T21:52:59.537826+00:00",
+      "role": "cult_post_or_comments"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1568596.html?view=flat&page=10",
+      "final_url": "https://exler-cult.livejournal.com/1568596.html?view=flat&page=10",
+      "status": 200,
+      "title": "Форум сентября: exler_cult — LiveJournal",
+      "bytes": 802312,
+      "sha256": "34e8c0c2a8b5d3d42bceb60f83b297a56656f56b07799a8096619f1cd02b1323",
+      "fetched_at": "2026-09-22T21:55:33.384302+00:00",
+      "role": "cult_post_or_comments"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1568596.html?view=flat&page=2",
+      "final_url": "https://exler-cult.livejournal.com/1568596.html?view=flat&page=2",
+      "status": 200,
+      "title": "Форум сентября: exler_cult — LiveJournal",
+      "bytes": 804592,
+      "sha256": "8f0ceb16eab48c8f500f7ff31fe60f3392f8adcb76a19c1d03ca0416c289d4c3",
+      "fetched_at": "2026-09-22T21:55:33.330162+00:00",
+      "role": "cult_post_or_comments"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1568596.html?view=flat&page=20",
+      "final_url": "https://exler-cult.livejournal.com/1568596.html?view=flat&page=20",
+      "status": 200,
+      "title": "Форум сентября: exler_cult — LiveJournal",
+      "bytes": 802021,
+      "sha256": "25e662bfb559fb02fc4a12c26ca01958cbd48833d195f3c6a6d632f2001afffb",
+      "fetched_at": "2026-09-22T21:55:33.685017+00:00",
+      "role": "cult_post_or_comments"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1568596.html?view=flat&page=3",
+      "final_url": "https://exler-cult.livejournal.com/1568596.html?view=flat&page=3",
+      "status": 200,
+      "title": "Форум сентября: exler_cult — LiveJournal",
+      "bytes": 803894,
+      "sha256": "1176fd9b7bf3b00e4075f0d104dcd4887455bb2a0bbf15c95c2639ace2c14ae7",
+      "fetched_at": "2026-09-22T21:55:33.269864+00:00",
+      "role": "cult_post_or_comments"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1568596.html?view=flat&page=30",
+      "final_url": "https://exler-cult.livejournal.com/1568596.html?view=flat&page=30",
+      "status": 200,
+      "title": "Форум сентября: exler_cult — LiveJournal",
+      "bytes": 802282,
+      "sha256": "31e2895c2f2a2e8eb3bea24fe4d429abde718c021ed8e5855a747e884302e9c8",
+      "fetched_at": "2026-09-22T21:59:59.734181+00:00",
+      "role": "cult_post_or_comments"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1568596.html?view=flat&page=4",
+      "final_url": "https://exler-cult.livejournal.com/1568596.html?view=flat&page=4",
+      "status": 200,
+      "title": "Форум сентября: exler_cult — LiveJournal",
+      "bytes": 807341,
+      "sha256": "b121b04e5824f53fb60b84220c52c4cee4aa54484c072e736cdbe6417e9cf6b4",
+      "fetched_at": "2026-09-22T21:56:15.871638+00:00",
+      "role": "cult_post_or_comments"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1568596.html?view=flat&page=40",
+      "final_url": "https://exler-cult.livejournal.com/1568596.html?view=flat&page=40",
+      "status": 200,
+      "title": "Форум сентября: exler_cult — LiveJournal",
+      "bytes": 801011,
+      "sha256": "d124e29621d933cbfbb8bcbaeca4596400c08a3f7246b2123f5126b38ed94c07",
+      "fetched_at": "2026-09-22T22:00:00.674158+00:00",
+      "role": "cult_post_or_comments"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1568596.html?view=flat&page=5",
+      "final_url": "https://exler-cult.livejournal.com/1568596.html?view=flat&page=5",
+      "status": 200,
+      "title": "Форум сентября: exler_cult — LiveJournal",
+      "bytes": 802828,
+      "sha256": "5dffe50a5ef642eccbdf1329ad0ec0cdc4c78b1cb6841fad7c3d6045cdc88b8c",
+      "fetched_at": "2026-09-22T21:56:15.425129+00:00",
+      "role": "cult_post_or_comments"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1568596.html?view=flat&page=50",
+      "final_url": "https://exler-cult.livejournal.com/1568596.html?view=flat&page=50",
+      "status": 200,
+      "title": "Форум сентября: exler_cult — LiveJournal",
+      "bytes": 806804,
+      "sha256": "ec7caeb224cea19a51b23bb1bbf1ee853e73866bb06eaa11b7931c4be36653c8",
+      "fetched_at": "2026-09-22T22:00:11.317049+00:00",
+      "role": "cult_post_or_comments"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1568596.html?view=flat&page=6",
+      "final_url": "https://exler-cult.livejournal.com/1568596.html?view=flat&page=6",
+      "status": 200,
+      "title": "Форум сентября: exler_cult — LiveJournal",
+      "bytes": 805591,
+      "sha256": "10f58e2d765a198d2f5c2ce2024bf2e3facd1ab3ff5dffef26a6ac0fb4fd967d",
+      "fetched_at": "2026-09-22T21:56:15.671768+00:00",
+      "role": "cult_post_or_comments"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1568596.html?view=flat&page=60",
+      "final_url": "https://exler-cult.livejournal.com/1568596.html?view=flat&page=60",
+      "status": 200,
+      "title": "Форум сентября: exler_cult — LiveJournal",
+      "bytes": 803334,
+      "sha256": "35e6d2ab67f09861da4786ec5da3612358e47670663c55448279195f1ab6827c",
+      "fetched_at": "2026-09-22T22:00:09.631030+00:00",
+      "role": "cult_post_or_comments"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1568596.html?view=flat&page=61",
+      "final_url": "https://exler-cult.livejournal.com/1568596.html?view=flat&page=61",
+      "status": 200,
+      "title": "Форум сентября: exler_cult — LiveJournal",
+      "bytes": 806846,
+      "sha256": "450204d6bc10bbd9f144f32605bb9e64b9b43732c2f58a616e2c5aa027b99be9",
+      "fetched_at": "2026-09-22T22:00:18.266089+00:00",
+      "role": "cult_post_or_comments"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1568596.html?view=flat&page=62",
+      "final_url": "https://exler-cult.livejournal.com/1568596.html?view=flat&page=62",
+      "status": 200,
+      "title": "Форум сентября: exler_cult — LiveJournal",
+      "bytes": 803881,
+      "sha256": "f9e13716783ac3400ed34032f5a555d581b046a463737fa181bc91e9af234602",
+      "fetched_at": "2026-09-22T22:00:18.688432+00:00",
+      "role": "cult_post_or_comments"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1568596.html?view=flat&page=63",
+      "final_url": "https://exler-cult.livejournal.com/1568596.html?view=flat&page=63",
+      "status": 200,
+      "title": "Форум сентября: exler_cult — LiveJournal",
+      "bytes": 803680,
+      "sha256": "7366d985c2f4bfb04f7c9e6ba3d19088801604796c0127518534fb2e526aa207",
+      "fetched_at": "2026-09-22T22:00:29.956016+00:00",
+      "role": "cult_post_or_comments"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1568596.html?view=flat&page=64",
+      "final_url": "https://exler-cult.livejournal.com/1568596.html?view=flat&page=64",
+      "status": 200,
+      "title": "Форум сентября: exler_cult — LiveJournal",
+      "bytes": 806591,
+      "sha256": "0976771a02ed354abec3bc5db14ac4f1ed78e53d05832c2f17cda5abae71e6b1",
+      "fetched_at": "2026-09-22T22:00:30.264647+00:00",
+      "role": "cult_post_or_comments"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1568596.html?view=flat&page=65",
+      "final_url": "https://exler-cult.livejournal.com/1568596.html?view=flat&page=65",
+      "status": 200,
+      "title": "Форум сентября: exler_cult — LiveJournal",
+      "bytes": 782480,
+      "sha256": "aa129566a550cf18ddadf633e96b609ce93028e1052f24a4e08ad146fc07cfa4",
+      "fetched_at": "2026-09-22T22:00:39.423557+00:00",
+      "role": "cult_post_or_comments"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1568596.html?view=flat&page=7",
+      "final_url": "https://exler-cult.livejournal.com/1568596.html?view=flat&page=7",
+      "status": 200,
+      "title": "Форум сентября: exler_cult — LiveJournal",
+      "bytes": 804551,
+      "sha256": "67f1cd9ca0a3a810c7a7e9936df0a341e852f18b852155311bd7db3979ea9735",
+      "fetched_at": "2026-09-22T21:56:15.525258+00:00",
+      "role": "cult_post_or_comments"
     },
     {
       "url": "https://exler-cult.livejournal.com/292533.html",
@@ -129,7 +479,17 @@
       "bytes": 745158,
       "sha256": "30a3fb0e6462e7ebe2f18d81879bd40f5a4c31a4d4388fb360b5b27a0be1abc4",
       "fetched_at": "2026-09-22T20:57:55.776763+00:00",
-      "role": "discovery_or_context"
+      "role": "cult_post_or_comments"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/56303.html",
+      "final_url": "https://exler-cult.livejournal.com/56303.html",
+      "status": 200,
+      "title": "Катя Гордон видела ЕГО!: exler_cult — LiveJournal",
+      "bytes": 726752,
+      "sha256": "86ca97c1b096b685ec4b2b2387b46c3836351568c6570c6a49750b7ce238907f",
+      "fetched_at": "2026-09-22T21:54:29.702493+00:00",
+      "role": "cult_post_or_comments"
     },
     {
       "url": "https://exler-cult.livejournal.com/592123.html",
@@ -139,7 +499,7 @@
       "bytes": 749910,
       "sha256": "33dd4a65726d7b76a3ee74eaa1b344001738989be393fb44e1da991a960e6607",
       "fetched_at": "2026-09-22T20:57:55.575139+00:00",
-      "role": "discovery_or_context"
+      "role": "cult_post_or_comments"
     },
     {
       "url": "https://exler-cult.livejournal.com/592123.html?thread=7270907#t7270907",
@@ -149,7 +509,47 @@
       "bytes": 737095,
       "sha256": "f80969eebb870c2eb762e46d6bb458b5426a88d8a32b0519b66c8c8538d0d236",
       "fetched_at": "2026-09-22T21:03:06.565855+00:00",
-      "role": "discovery_or_context"
+      "role": "cult_post_or_comments"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/592123.html?view=flat",
+      "final_url": "https://exler-cult.livejournal.com/592123.html?view=flat",
+      "status": 200,
+      "title": "История одного бана: exler_cult — LiveJournal",
+      "bytes": 754790,
+      "sha256": "d68a9931f81ac9d5227a0aba8e4ee7b962e2abf1b5662c00b2b46a6b9b296a8b",
+      "fetched_at": "2026-09-22T21:52:59.146081+00:00",
+      "role": "cult_post_or_comments"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/65796.html",
+      "final_url": "https://exler-cult.livejournal.com/65796.html",
+      "status": 200,
+      "title": "Срочно в номер: педофилы замучили Экслера: exler_cult — LiveJournal",
+      "bytes": 740715,
+      "sha256": "1b1ae02f30d4713f9d1c536f0f25900ac49ab7672cde2205bac3a4d8f8d216be",
+      "fetched_at": "2026-09-22T21:54:29.241173+00:00",
+      "role": "cult_post_or_comments"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/941592.html",
+      "final_url": "https://exler-cult.livejournal.com/941592.html",
+      "status": 200,
+      "title": "\"ТКС Банк\" обречен, \"Movistar\" еще пока поживет: exler_cult — LiveJournal",
+      "bytes": 746253,
+      "sha256": "814ff4d7e1f69ed05ae1d1bf83688f180ff67c8b1c9d058553ff280323072070",
+      "fetched_at": "2026-09-22T21:49:46.565715+00:00",
+      "role": "cult_post_or_comments"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/945528.html",
+      "final_url": "https://exler-cult.livejournal.com/945528.html",
+      "status": 200,
+      "title": "\"Совок достал !\" (С): exler_cult — LiveJournal",
+      "bytes": 735676,
+      "sha256": "77d513a76aabb48736d9177cb7422345df11d3e1587e7ac30a3eb48000eae77a",
+      "fetched_at": "2026-09-22T21:50:27.185896+00:00",
+      "role": "cult_post_or_comments"
     },
     {
       "url": "https://exler-cult.livejournal.com/954427.html",
@@ -159,7 +559,327 @@
       "bytes": 741975,
       "sha256": "0eb0b7653700a1ce58eef8a947c7a875ef8ae37da73f8ae499a736da96fcfcac",
       "fetched_at": "2026-09-22T20:58:04.470577+00:00",
-      "role": "discovery_or_context"
+      "role": "cult_post_or_comments"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/984612.html",
+      "final_url": "https://exler-cult.livejournal.com/984612.html",
+      "status": 200,
+      "title": "Ай, обидели блогера, блогера обидели!: exler_cult — LiveJournal",
+      "bytes": 750553,
+      "sha256": "969f45b8fbef657da1c57b691c64b1bfa639f332709c7498752117118f6becfb",
+      "fetched_at": "2026-09-22T21:49:46.914868+00:00",
+      "role": "cult_post_or_comments"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/998250.html",
+      "final_url": "https://exler-cult.livejournal.com/998250.html",
+      "status": 200,
+      "title": "Прекрасное жепеге \"Алекс опечатались\": exler_cult — LiveJournal",
+      "bytes": 742888,
+      "sha256": "fd527bd2ddf472cd69b539b3556a4d790090653ae6b16afcee9926d48252eeff",
+      "fetched_at": "2026-09-22T21:50:27.075547+00:00",
+      "role": "cult_post_or_comments"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/?tag=%D0%B2%D0%BE%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D1%83%D1%8E%D1%89%D0%B8%D0%B9+%D0%A3%D1%87%D0%B4%D1%83%D0%BA&skip=15",
+      "final_url": "https://exler-cult.livejournal.com/?tag=%D0%B2%D0%BE%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D1%83%D1%8E%D1%89%D0%B8%D0%B9+%D0%A3%D1%87%D0%B4%D1%83%D0%BA&skip=15",
+      "status": 200,
+      "title": "exler_cult, записи по тегу воинствующий Учдук — Живой Журнал — ЖЖ",
+      "bytes": 801132,
+      "sha256": "64eedd8f7652899f1ddf77d5a9cbed958323ac5326697719c77882ea5dc5c0b2",
+      "fetched_at": "2026-09-22T21:47:25.219940+00:00",
+      "role": "cult_index"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/?tag=%D0%B2%D0%BE%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D1%83%D1%8E%D1%89%D0%B8%D0%B9+%D0%A3%D1%87%D0%B4%D1%83%D0%BA&skip=30",
+      "final_url": "https://exler-cult.livejournal.com/?tag=%D0%B2%D0%BE%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D1%83%D1%8E%D1%89%D0%B8%D0%B9+%D0%A3%D1%87%D0%B4%D1%83%D0%BA&skip=30",
+      "status": 200,
+      "title": "exler_cult, записи по тегу воинствующий Учдук — Живой Журнал — ЖЖ",
+      "bytes": 787406,
+      "sha256": "9f699b90c8c9c229ef775f7e2af15899cf7b3d6dde4581b304fc6e7064c9381d",
+      "fetched_at": "2026-09-22T21:47:25.137106+00:00",
+      "role": "cult_index"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/?tag=%D0%B2%D0%BE%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D1%83%D1%8E%D1%89%D0%B8%D0%B9+%D0%A3%D1%87%D0%B4%D1%83%D0%BA&skip=45",
+      "final_url": "https://exler-cult.livejournal.com/?tag=%D0%B2%D0%BE%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D1%83%D1%8E%D1%89%D0%B8%D0%B9+%D0%A3%D1%87%D0%B4%D1%83%D0%BA&skip=45",
+      "status": 200,
+      "title": "exler_cult, записи по тегу воинствующий Учдук — Живой Журнал — ЖЖ",
+      "bytes": 772428,
+      "sha256": "738c21bf6e134df87a8b7ba884266430991a842e47df9343cd5920d0a928cf03",
+      "fetched_at": "2026-09-22T21:47:25.279119+00:00",
+      "role": "cult_index"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/?tag=%D0%B2%D0%BE%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D1%83%D1%8E%D1%89%D0%B8%D0%B9+%D0%A3%D1%87%D0%B4%D1%83%D0%BA&skip=60",
+      "final_url": "https://exler-cult.livejournal.com/?tag=%D0%B2%D0%BE%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D1%83%D1%8E%D1%89%D0%B8%D0%B9+%D0%A3%D1%87%D0%B4%D1%83%D0%BA&skip=60",
+      "status": 200,
+      "title": "exler_cult, записи по тегу воинствующий Учдук — Живой Журнал — ЖЖ",
+      "bytes": 724745,
+      "sha256": "3a272b70957c8f21bbd7a296333144d90f3a6592fd7c1c29f1bafbb57bfd44d5",
+      "fetched_at": "2026-09-22T21:47:24.373020+00:00",
+      "role": "cult_index"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/?tag=%D0%B2%D0%BE%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D1%83%D1%8E%D1%89%D0%B8%D0%B9+%D0%A3%D1%87%D0%B4%D1%83%D0%BA&skip=75",
+      "final_url": "https://exler-cult.livejournal.com/?tag=%D0%B2%D0%BE%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D1%83%D1%8E%D1%89%D0%B8%D0%B9+%D0%A3%D1%87%D0%B4%D1%83%D0%BA&skip=75",
+      "status": 200,
+      "title": "exler_cult, записи по тегу воинствующий Учдук — Живой Журнал — ЖЖ",
+      "bytes": 684531,
+      "sha256": "5bfe5fd78aae9ff11ac722ed89ee02aa649ee8e81ceb55f9a074da4755381424",
+      "fetched_at": "2026-09-22T21:47:33.601504+00:00",
+      "role": "cult_index"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/?tag=%D0%B2%D0%BE%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D1%83%D1%8E%D1%89%D0%B8%D0%B9+%D0%A3%D1%87%D0%B4%D1%83%D0%BA&skip=90",
+      "final_url": "https://exler-cult.livejournal.com/?tag=%D0%B2%D0%BE%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D1%83%D1%8E%D1%89%D0%B8%D0%B9+%D0%A3%D1%87%D0%B4%D1%83%D0%BA&skip=90",
+      "status": 200,
+      "title": "exler_cult, записи по тегу воинствующий Учдук — Живой Журнал — ЖЖ",
+      "bytes": 684531,
+      "sha256": "9e5c4c47f3e8ef7ef1dcb03727ef03a60cd80066afb1202c734d9f4e4f7db6a0",
+      "fetched_at": "2026-09-22T21:47:33.620730+00:00",
+      "role": "cult_index"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/?tag=%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8+%D0%B8%D0%B7+%D0%BA%D0%BE%D0%BD%D1%86%D0%BB%D0%B0%D0%B3%D0%B5%D1%80%D1%8F&skip=0",
+      "final_url": "https://exler-cult.livejournal.com/?tag=%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8+%D0%B8%D0%B7+%D0%BA%D0%BE%D0%BD%D1%86%D0%BB%D0%B0%D0%B3%D0%B5%D1%80%D1%8F&skip=0",
+      "status": 200,
+      "title": "exler_cult, записи по тегу новости из концлагеря — Живой Журнал — ЖЖ",
+      "bytes": 815133,
+      "sha256": "526b0a5b578d6b986d48bdf8c1961a19caac5771cc92aba95baf5f4f1ef6c76d",
+      "fetched_at": "2026-09-22T21:47:49.033325+00:00",
+      "role": "cult_index"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/?tag=%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8+%D0%B8%D0%B7+%D0%BA%D0%BE%D0%BD%D1%86%D0%BB%D0%B0%D0%B3%D0%B5%D1%80%D1%8F&skip=15",
+      "final_url": "https://exler-cult.livejournal.com/?tag=%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8+%D0%B8%D0%B7+%D0%BA%D0%BE%D0%BD%D1%86%D0%BB%D0%B0%D0%B3%D0%B5%D1%80%D1%8F&skip=15",
+      "status": 200,
+      "title": "exler_cult, записи по тегу новости из концлагеря — Живой Журнал — ЖЖ",
+      "bytes": 731174,
+      "sha256": "41034ffb3f01035cd05f9c687974f4c39cb080b98959ca915db8431e87379f8c",
+      "fetched_at": "2026-09-22T21:48:00.013906+00:00",
+      "role": "cult_index"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/?tag=%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8+%D0%B8%D0%B7+%D0%BA%D0%BE%D0%BD%D1%86%D0%BB%D0%B0%D0%B3%D0%B5%D1%80%D1%8F&skip=30",
+      "final_url": "https://exler-cult.livejournal.com/?tag=%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8+%D0%B8%D0%B7+%D0%BA%D0%BE%D0%BD%D1%86%D0%BB%D0%B0%D0%B3%D0%B5%D1%80%D1%8F&skip=30",
+      "status": 200,
+      "title": "exler_cult, записи по тегу новости из концлагеря — Живой Журнал — ЖЖ",
+      "bytes": 684515,
+      "sha256": "7748bf8ef1c37d510cf561d4c4867d7fbee72c7ec7c1e79dfab43e9b7249b2b6",
+      "fetched_at": "2026-09-22T21:47:59.688951+00:00",
+      "role": "cult_index"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/?tag=%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B7%D0%B0%D0%BD%D1%8B&skip=0",
+      "final_url": "https://exler-cult.livejournal.com/?tag=%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B7%D0%B0%D0%BD%D1%8B&skip=0",
+      "status": 200,
+      "title": "exler_cult, записи по тегу партизаны — Живой Журнал — ЖЖ",
+      "bytes": 718567,
+      "sha256": "2c3a9a04ac81d0d383ac8af75e7e3afa7d957f0203d2d5715b46d4e0294591bc",
+      "fetched_at": "2026-09-22T21:48:09.174564+00:00",
+      "role": "cult_index"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/?tag=%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B7%D0%B0%D0%BD%D1%8B&skip=15",
+      "final_url": "https://exler-cult.livejournal.com/?tag=%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B7%D0%B0%D0%BD%D1%8B&skip=15",
+      "status": 200,
+      "title": "exler_cult, записи по тегу партизаны — Живой Журнал — ЖЖ",
+      "bytes": 682549,
+      "sha256": "712296e7469c66e97c6f20c811c7d8255d5177785834a77c459e7c847f002238",
+      "fetched_at": "2026-09-22T21:48:08.991388+00:00",
+      "role": "cult_index"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/?tag=%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B7%D0%B0%D0%BD%D1%8B&skip=30",
+      "final_url": "https://exler-cult.livejournal.com/?tag=%D0%BF%D0%B0%D1%80%D1%82%D0%B8%D0%B7%D0%B0%D0%BD%D1%8B&skip=30",
+      "status": 200,
+      "title": "exler_cult, записи по тегу партизаны — Живой Журнал — ЖЖ",
+      "bytes": 682998,
+      "sha256": "90b2a569066bdab1e0d6a3e27df62f62bf848475a8b40e340da2e188b3a3326c",
+      "fetched_at": "2026-09-22T21:48:08.945879+00:00",
+      "role": "cult_index"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/?tag=%D1%81%D1%85%D0%B2%D0%B0%D1%82%D0%BA%D0%B0+%D0%B4%D0%B2%D1%83%D1%85+%D1%8F%D0%BA%D0%BE%D0%B4%D0%B7%D1%83%D0%BD&skip=0",
+      "final_url": "https://exler-cult.livejournal.com/?tag=%D1%81%D1%85%D0%B2%D0%B0%D1%82%D0%BA%D0%B0+%D0%B4%D0%B2%D1%83%D1%85+%D1%8F%D0%BA%D0%BE%D0%B4%D0%B7%D1%83%D0%BD&skip=0",
+      "status": 200,
+      "title": "exler_cult, записи по тегу схватка двух якодзун — Живой Журнал — ЖЖ",
+      "bytes": 829832,
+      "sha256": "ca5a30d0107506300d025389ae6e583e862b2d340f2a42ff18c15fe0c6b1ee12",
+      "fetched_at": "2026-09-22T21:47:48.643072+00:00",
+      "role": "cult_index"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/?tag=%D1%81%D1%85%D0%B2%D0%B0%D1%82%D0%BA%D0%B0+%D0%B4%D0%B2%D1%83%D1%85+%D1%8F%D0%BA%D0%BE%D0%B4%D0%B7%D1%83%D0%BD&skip=15",
+      "final_url": "https://exler-cult.livejournal.com/?tag=%D1%81%D1%85%D0%B2%D0%B0%D1%82%D0%BA%D0%B0+%D0%B4%D0%B2%D1%83%D1%85+%D1%8F%D0%BA%D0%BE%D0%B4%D0%B7%D1%83%D0%BD&skip=15",
+      "status": 200,
+      "title": "exler_cult, записи по тегу схватка двух якодзун — Живой Журнал — ЖЖ",
+      "bytes": 803686,
+      "sha256": "bb96ce842e2cbb18e758bc191b3f598867605a36b0efcab9060a1576f6c2e784",
+      "fetched_at": "2026-09-22T21:47:48.585750+00:00",
+      "role": "cult_index"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/?tag=%D1%81%D1%85%D0%B2%D0%B0%D1%82%D0%BA%D0%B0+%D0%B4%D0%B2%D1%83%D1%85+%D1%8F%D0%BA%D0%BE%D0%B4%D0%B7%D1%83%D0%BD&skip=30",
+      "final_url": "https://exler-cult.livejournal.com/?tag=%D1%81%D1%85%D0%B2%D0%B0%D1%82%D0%BA%D0%B0+%D0%B4%D0%B2%D1%83%D1%85+%D1%8F%D0%BA%D0%BE%D0%B4%D0%B7%D1%83%D0%BD&skip=30",
+      "status": 200,
+      "title": "exler_cult, записи по тегу схватка двух якодзун — Живой Журнал — ЖЖ",
+      "bytes": 795804,
+      "sha256": "752d928b6dfa2b4ac3761417acd5ef7cd29a2ceec06419c57920382e16ddc491",
+      "fetched_at": "2026-09-22T21:47:49.089392+00:00",
+      "role": "cult_index"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/?tag=%D1%84%D0%BE%D1%80%D1%83%D0%BC&skip=0",
+      "final_url": "https://exler-cult.livejournal.com/?tag=%D1%84%D0%BE%D1%80%D1%83%D0%BC&skip=0",
+      "status": 200,
+      "title": "exler_cult, записи по тегу форум — Живой Журнал — ЖЖ",
+      "bytes": 761704,
+      "sha256": "fa7b8d3c0bf9c1c99b1f4b79470c23aaa99410829fc6db397382003b381caa8d",
+      "fetched_at": "2026-09-22T21:48:00.412590+00:00",
+      "role": "cult_index"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/?tag=%D1%84%D0%BE%D1%80%D1%83%D0%BC&skip=15",
+      "final_url": "https://exler-cult.livejournal.com/?tag=%D1%84%D0%BE%D1%80%D1%83%D0%BC&skip=15",
+      "status": 200,
+      "title": "exler_cult, записи по тегу форум — Живой Журнал — ЖЖ",
+      "bytes": 755328,
+      "sha256": "d5eed8c16a7e571a92dd01e0e17e23e5238358bba9a50a0716666fca99bc489e",
+      "fetched_at": "2026-09-22T21:48:00.359274+00:00",
+      "role": "cult_index"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/?tag=%D1%84%D0%BE%D1%80%D1%83%D0%BC&skip=30",
+      "final_url": "https://exler-cult.livejournal.com/?tag=%D1%84%D0%BE%D1%80%D1%83%D0%BC&skip=30",
+      "status": 200,
+      "title": "exler_cult, записи по тегу форум — Живой Журнал — ЖЖ",
+      "bytes": 758756,
+      "sha256": "0fee2bacabda02776f3fd161966776b14790b34a52adaf758212de181beb8798",
+      "fetched_at": "2026-09-22T21:48:09.443075+00:00",
+      "role": "cult_index"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/?tag=old_%D0%B6%D0%BE%D0%BF%D0%B0&skip=15",
+      "final_url": "https://exler-cult.livejournal.com/?tag=old_%D0%B6%D0%BE%D0%BF%D0%B0&skip=15",
+      "status": 200,
+      "title": "exler_cult, записи по тегу old_жопа — Живой Журнал — ЖЖ",
+      "bytes": 701479,
+      "sha256": "2de62330eb73ecf14a4b071a33c90f69ac1c7527b8c4c2e12fcd91c37ee80a5d",
+      "fetched_at": "2026-09-22T21:47:53.553980+00:00",
+      "role": "cult_index"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/?tag=old_%D0%B6%D0%BE%D0%BF%D0%B0&skip=30",
+      "final_url": "https://exler-cult.livejournal.com/?tag=old_%D0%B6%D0%BE%D0%BF%D0%B0&skip=30",
+      "status": 200,
+      "title": "exler_cult, записи по тегу old_жопа — Живой Журнал — ЖЖ",
+      "bytes": 681734,
+      "sha256": "ca2fa6dae12d8db55f162e8387b1d190ad0fbfbeb79df9fe8eac241c0e491b4a",
+      "fetched_at": "2026-09-22T21:47:53.278981+00:00",
+      "role": "cult_index"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/?tag=old_%D0%B6%D0%BE%D0%BF%D0%B0&skip=45",
+      "final_url": "https://exler-cult.livejournal.com/?tag=old_%D0%B6%D0%BE%D0%BF%D0%B0&skip=45",
+      "status": 200,
+      "title": "exler_cult, записи по тегу old_жопа — Живой Журнал — ЖЖ",
+      "bytes": 681735,
+      "sha256": "266bd297eaa17b4b273b7ef3f7480feee094fdae6102e8e6c3784c30996696c2",
+      "fetched_at": "2026-09-22T21:47:53.585543+00:00",
+      "role": "cult_index"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/?tag=old_%D0%B6%D0%BE%D0%BF%D0%B0&skip=60",
+      "final_url": "https://exler-cult.livejournal.com/?tag=old_%D0%B6%D0%BE%D0%BF%D0%B0&skip=60",
+      "status": 200,
+      "title": "exler_cult, записи по тегу old_жопа — Живой Журнал — ЖЖ",
+      "bytes": 681735,
+      "sha256": "b20750b0e036d0450c676a55e4eb3c7e0f2160009b8bb08914bdca62bcc3cdb0",
+      "fetched_at": "2026-09-22T21:47:53.806061+00:00",
+      "role": "cult_index"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/?tag=old_%D0%B6%D0%BE%D0%BF%D0%B0&skip=75",
+      "final_url": "https://exler-cult.livejournal.com/?tag=old_%D0%B6%D0%BE%D0%BF%D0%B0&skip=75",
+      "status": 200,
+      "title": "exler_cult, записи по тегу old_жопа — Живой Журнал — ЖЖ",
+      "bytes": 682166,
+      "sha256": "e4ca5c57963dce2d5dda3111c9b8b3464c5bdd28a21016afc8b2e80b79474015",
+      "fetched_at": "2026-09-22T21:48:02.485262+00:00",
+      "role": "cult_index"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/?tag=old_%D0%B6%D0%BE%D0%BF%D0%B0&skip=90",
+      "final_url": "https://exler-cult.livejournal.com/?tag=old_%D0%B6%D0%BE%D0%BF%D0%B0&skip=90",
+      "status": 200,
+      "title": "exler_cult, записи по тегу old_жопа — Живой Журнал — ЖЖ",
+      "bytes": 681735,
+      "sha256": "77d6b1f5d3b786f67278c5144f4d4ae5919d432806ab38a46d260a12e25bf900",
+      "fetched_at": "2026-09-22T21:48:02.705825+00:00",
+      "role": "cult_index"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/?tag=old_%D1%81%D0%BC%D0%B5%D1%88%D0%BD%D1%8B%D0%B5+%D0%B4%D1%83%D1%80%D0%B0%D1%87%D0%BA%D0%B8&skip=15",
+      "final_url": "https://exler-cult.livejournal.com/?tag=old_%D1%81%D0%BC%D0%B5%D1%88%D0%BD%D1%8B%D0%B5+%D0%B4%D1%83%D1%80%D0%B0%D1%87%D0%BA%D0%B8&skip=15",
+      "status": 200,
+      "title": "exler_cult, записи по тегу old_смешные дурачки — Живой Журнал — ЖЖ",
+      "bytes": 769276,
+      "sha256": "ca149f82dd366fceb9c39a26d23963f1bfdd0fd2e2e14feaf21f381dc4bf1cd5",
+      "fetched_at": "2026-09-22T21:47:34.519304+00:00",
+      "role": "cult_index"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/?tag=old_%D1%81%D0%BC%D0%B5%D1%88%D0%BD%D1%8B%D0%B5+%D0%B4%D1%83%D1%80%D0%B0%D1%87%D0%BA%D0%B8&skip=30",
+      "final_url": "https://exler-cult.livejournal.com/?tag=old_%D1%81%D0%BC%D0%B5%D1%88%D0%BD%D1%8B%D0%B5+%D0%B4%D1%83%D1%80%D0%B0%D1%87%D0%BA%D0%B8&skip=30",
+      "status": 200,
+      "title": "exler_cult, записи по тегу old_смешные дурачки — Живой Журнал — ЖЖ",
+      "bytes": 683640,
+      "sha256": "d15a38f8be325671cf7242fdfb7910a47f2c113dfc13837096f98ebfe87b74ba",
+      "fetched_at": "2026-09-22T21:47:33.806008+00:00",
+      "role": "cult_index"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/?tag=old_%D1%81%D0%BC%D0%B5%D1%88%D0%BD%D1%8B%D0%B5+%D0%B4%D1%83%D1%80%D0%B0%D1%87%D0%BA%D0%B8&skip=45",
+      "final_url": "https://exler-cult.livejournal.com/?tag=old_%D1%81%D0%BC%D0%B5%D1%88%D0%BD%D1%8B%D0%B5+%D0%B4%D1%83%D1%80%D0%B0%D1%87%D0%BA%D0%B8&skip=45",
+      "status": 200,
+      "title": "exler_cult, записи по тегу old_смешные дурачки — Живой Журнал — ЖЖ",
+      "bytes": 684074,
+      "sha256": "8df1a907a6ae1e21e4a9c5368fb3e2ac608e6c9a1d980da94d360da4f02f6648",
+      "fetched_at": "2026-09-22T21:47:44.036114+00:00",
+      "role": "cult_index"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/?tag=old_%D1%81%D0%BC%D0%B5%D1%88%D0%BD%D1%8B%D0%B5+%D0%B4%D1%83%D1%80%D0%B0%D1%87%D0%BA%D0%B8&skip=60",
+      "final_url": "https://exler-cult.livejournal.com/?tag=old_%D1%81%D0%BC%D0%B5%D1%88%D0%BD%D1%8B%D0%B5+%D0%B4%D1%83%D1%80%D0%B0%D1%87%D0%BA%D0%B8&skip=60",
+      "status": 200,
+      "title": "exler_cult, записи по тегу old_смешные дурачки — Живой Журнал — ЖЖ",
+      "bytes": 683639,
+      "sha256": "7220c7a7e65aca80ec4e5acb8185f2351c9ac3d02f26bfbb09b852a04e3e97bc",
+      "fetched_at": "2026-09-22T21:47:43.897876+00:00",
+      "role": "cult_index"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/?tag=old_%D1%81%D0%BC%D0%B5%D1%88%D0%BD%D1%8B%D0%B5+%D0%B4%D1%83%D1%80%D0%B0%D1%87%D0%BA%D0%B8&skip=75",
+      "final_url": "https://exler-cult.livejournal.com/?tag=old_%D1%81%D0%BC%D0%B5%D1%88%D0%BD%D1%8B%D0%B5+%D0%B4%D1%83%D1%80%D0%B0%D1%87%D0%BA%D0%B8&skip=75",
+      "status": 200,
+      "title": "exler_cult, записи по тегу old_смешные дурачки — Живой Журнал — ЖЖ",
+      "bytes": 683639,
+      "sha256": "0f287ee5d62ce7ecba204bfcaaf38102fc08f4fb8ef8b3152ce07b4aab86d811",
+      "fetched_at": "2026-09-22T21:47:43.849861+00:00",
+      "role": "cult_index"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/?tag=old_%D1%81%D0%BC%D0%B5%D1%88%D0%BD%D1%8B%D0%B5+%D0%B4%D1%83%D1%80%D0%B0%D1%87%D0%BA%D0%B8&skip=90",
+      "final_url": "https://exler-cult.livejournal.com/?tag=old_%D1%81%D0%BC%D0%B5%D1%88%D0%BD%D1%8B%D0%B5+%D0%B4%D1%83%D1%80%D0%B0%D1%87%D0%BA%D0%B8&skip=90",
+      "status": 200,
+      "title": "exler_cult, записи по тегу old_смешные дурачки — Живой Журнал — ЖЖ",
+      "bytes": 683640,
+      "sha256": "55fcf1c4e2d4e877df7291f661c60ecf3b4fd20e4091be1c39311cbc1ecf811f",
+      "fetched_at": "2026-09-22T21:47:44.076148+00:00",
+      "role": "cult_index"
     },
     {
       "url": "https://exler-cult.livejournal.com/tag/",
@@ -169,7 +889,7 @@
       "bytes": 702773,
       "sha256": "5a27140bf9cc47b74932a745c7fe789ae722daca19e7cbbfe2f9f56635ea6a2c",
       "fetched_at": "2026-09-22T21:03:06.488002+00:00",
-      "role": "discovery_or_context"
+      "role": "cult_index"
     },
     {
       "url": "https://exler-cult.livejournal.com/tag/%D0%B2%D0%BE%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D1%83%D1%8E%D1%89%D0%B8%D0%B9%20%D0%A3%D1%87%D0%B4%D1%83%D0%BA/",
@@ -179,7 +899,7 @@
       "bytes": 829237,
       "sha256": "f46afed5e43375239fa8248d83919f1ab4f427f723659bf8585cd4542efe1306",
       "fetched_at": "2026-09-22T21:05:04.038579+00:00",
-      "role": "discovery_or_context"
+      "role": "cult_index"
     },
     {
       "url": "https://exler-cult.livejournal.com/tag/%D0%B3%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B2%20%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81%D0%B5%20-%20%D0%BD%D0%B5%D1%82%21/",
@@ -189,7 +909,7 @@
       "bytes": 761900,
       "sha256": "a7f2048bf2c32ea2794c05b411bdbd7684c65336180f2e4b2b8ff693ccb905dc",
       "fetched_at": "2026-09-22T21:05:16.510436+00:00",
-      "role": "discovery_or_context"
+      "role": "cult_index"
     },
     {
       "url": "https://exler-cult.livejournal.com/tag/%D0%BA%D1%83%D0%BD%D1%81%D1%82%D0%BA%D0%B0%D0%BC%D0%B5%D1%80%D0%B0%20%D0%AD%D0%BA%D1%81%D0%BB%D0%B5%D1%80%D0%B0/",
@@ -199,7 +919,7 @@
       "bytes": 779439,
       "sha256": "57f725102ad0fbed943dc2663d513ed2ab2a442652788fb6b9d9942ff3eb68e8",
       "fetched_at": "2026-09-22T21:05:03.803419+00:00",
-      "role": "discovery_or_context"
+      "role": "cult_index"
     },
     {
       "url": "https://exler-cult.livejournal.com/tag/%D0%BC%D0%BE%D0%B4%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D0%B0%D0%BB/",
@@ -209,7 +929,7 @@
       "bytes": 786116,
       "sha256": "65de6463be262d9c09c3c49ab10dd7bfdc80b0b87176265991038b6d3294c034",
       "fetched_at": "2026-09-22T21:05:16.368855+00:00",
-      "role": "discovery_or_context"
+      "role": "cult_index"
     },
     {
       "url": "https://exler-cult.livejournal.com/tag/%D0%BF%D1%83%D0%BA%20%D0%B2%20%D0%BB%D1%83%D0%B6%D1%83/",
@@ -219,7 +939,7 @@
       "bytes": 784476,
       "sha256": "58814369ec84110070aa9dc2fe051e1ed78e6b7c8042859c8a3bda8796843a19",
       "fetched_at": "2026-09-22T21:05:03.884068+00:00",
-      "role": "discovery_or_context"
+      "role": "cult_index"
     },
     {
       "url": "https://exler-cult.livejournal.com/tag/old_%D0%B6%D0%BE%D0%BF%D0%B0/",
@@ -229,7 +949,7 @@
       "bytes": 827426,
       "sha256": "db79de5c991d8df998594d190f51c8e38cc96a419f13b36053f44167463f84c3",
       "fetched_at": "2026-09-22T21:05:16.510538+00:00",
-      "role": "discovery_or_context"
+      "role": "cult_index"
     },
     {
       "url": "https://exler-cult.livejournal.com/tag/old_%D1%81%D0%BC%D0%B5%D1%88%D0%BD%D1%8B%D0%B5%20%D0%B4%D1%83%D1%80%D0%B0%D1%87%D0%BA%D0%B8/",
@@ -239,7 +959,7 @@
       "bytes": 824680,
       "sha256": "5e1a1a15e5281d29705775d0ec98a2b64a669cd1577d67732ff85dece71bee73",
       "fetched_at": "2026-09-22T21:05:04.851534+00:00",
-      "role": "discovery_or_context"
+      "role": "cult_index"
     },
     {
       "url": "https://exler-cult.livejournal.com/tag/yes%20shure/",
@@ -249,7 +969,17 @@
       "bytes": 758957,
       "sha256": "ce9062fe9d63d5b9c7d337bc9622dd9bea693add782cd74b7586ec127c73bc54",
       "fetched_at": "2026-09-22T21:05:16.455250+00:00",
-      "role": "discovery_or_context"
+      "role": "cult_index"
+    },
+    {
+      "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-224.htm",
+      "final_url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-224.htm",
+      "status": 200,
+      "title": "Делимся находками из китайских магазинов",
+      "bytes": 511746,
+      "sha256": "581207ab23912b29a7056fc6a464bca49017a137896d57a9db787f669d6a41b7",
+      "fetched_at": "2026-09-22T21:56:14.869245+00:00",
+      "role": "primary_case"
     },
     {
       "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-51.htm",
@@ -322,6 +1052,26 @@
       "role": "primary_case"
     },
     {
+      "url": "https://exler.es/blog/item/12524/",
+      "final_url": "https://exler.es/blog/francuzy-nenavidyat-blogerov.htm",
+      "status": 200,
+      "title": "Французы ненавидят блогеров!",
+      "bytes": 274413,
+      "sha256": "9b6653db046e77bf7814f2aba96180df63790dbfe32aeaa143c4d072591f5e15",
+      "fetched_at": "2026-09-22T21:51:00.310091+00:00",
+      "role": "primary_author_post"
+    },
+    {
+      "url": "https://exler.es/blog/item/14881/",
+      "final_url": "https://exler.es/blog/nelzya-fotografirovat.htm",
+      "status": 200,
+      "title": "Нельзя фотографировать",
+      "bytes": 133869,
+      "sha256": "7e91f75c453cbc1526c6e95e0ba3cb0a1d9dd38db68b500069e60075827c2cf9",
+      "fetched_at": "2026-09-22T21:51:00.085142+00:00",
+      "role": "discovery_or_context"
+    },
+    {
       "url": "https://exler.es/blog/item/18423/",
       "final_url": "https://exler.es/blog/nu-chto-kupacca.htm",
       "status": 200,
@@ -362,6 +1112,26 @@
       "role": "primary_case"
     },
     {
+      "url": "https://exler.es/blog/kak-zapela-ptichka.htm",
+      "final_url": "https://exler.es/blog/kak-zapela-ptichka.htm",
+      "status": 200,
+      "title": "Как запела птичка",
+      "bytes": 309181,
+      "sha256": "0c3f3c8e99ba098f864115377f4ccd7c108ef9961e69c4307bcf069b0ba54021",
+      "fetched_at": "2026-09-22T22:00:46.475178+00:00",
+      "role": "primary_case"
+    },
+    {
+      "url": "https://exler.es/blog/kakaya-interesnaya-u-lyudey-zhizn.htm",
+      "final_url": "https://exler.es/blog/kakaya-interesnaya-u-lyudey-zhizn.htm",
+      "status": 200,
+      "title": "Какая интересная у людей жизнь!",
+      "bytes": 800688,
+      "sha256": "05e7fb59715eb7a1dfffb16eb17a98b53be6733d7eed1966be52c6dcc969cc24",
+      "fetched_at": "2026-09-22T22:00:46.918727+00:00",
+      "role": "primary_case"
+    },
+    {
       "url": "https://exler.es/blog/klimenko-zakryl-internet.htm",
       "final_url": "https://exler.es/blog/klimenko-zakryl-internet.htm",
       "status": 200,
@@ -369,7 +1139,7 @@
       "bytes": 289039,
       "sha256": "86fe320ea4935b17b74f9484352f16b5bbaf321d3f3ec5c662d650d4038e0b3b",
       "fetched_at": "2026-09-22T21:15:09.181516+00:00",
-      "role": "supporting_source"
+      "role": "discovery_or_context"
     },
     {
       "url": "https://exler.es/blog/menya-podstavili.htm",
@@ -380,6 +1150,16 @@
       "sha256": "115402b03131c27d6a95c043b4ccf5feb6b4c6a3316317e1684f4c5c390b0582",
       "fetched_at": "2026-09-22T20:57:54.084897+00:00",
       "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler.es/blog/mukbang-video-obzhiratsya-za-dengi.htm",
+      "final_url": "https://exler.es/blog/mukbang-video-obzhiratsya-za-dengi.htm",
+      "status": 200,
+      "title": "Мукбанг-видео - обжираться за деньги",
+      "bytes": 482314,
+      "sha256": "0cca48e5f1c1f2b65fa4edfcd4eac0159f9474e0d72c2bcdb64590e63969ef94",
+      "fetched_at": "2026-09-22T22:01:06.341181+00:00",
+      "role": "primary_case"
     },
     {
       "url": "https://exler.es/blog/nemnogo-shabli.htm",
@@ -402,6 +1182,16 @@
       "role": "discovery_or_context"
     },
     {
+      "url": "https://exler.es/blog/novyy-strimingovyy-servis-s-kotorym-ya-sotrudnichayu.htm",
+      "final_url": "https://exler.es/blog/novyy-strimingovyy-servis-s-kotorym-ya-sotrudnichayu.htm",
+      "status": 200,
+      "title": "Новый стриминговый сервис, с которым я сотрудничаю",
+      "bytes": 370122,
+      "sha256": "c4011a7ff699b9bc83398b337b3c30e80acd80c2129972ecc577ca3b4141af7f",
+      "fetched_at": "2026-09-22T21:56:14.205946+00:00",
+      "role": "primary_case"
+    },
+    {
       "url": "https://exler.es/blog/olivye-eto-kaloriynaya-bomba.htm",
       "final_url": "https://exler.es/blog/olivye-eto-kaloriynaya-bomba.htm",
       "status": 200,
@@ -410,6 +1200,16 @@
       "sha256": "6dd013f71100a9a855b72cda06e04a7aeaf9231cb4b0ac52116d3e8df0fedd8a",
       "fetched_at": "2026-09-22T21:12:44.222245+00:00",
       "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler.es/blog/po-povodu-kommentirovaniya-na-etom-sayte.htm",
+      "final_url": "https://exler.es/blog/po-povodu-kommentirovaniya-na-etom-sayte.htm",
+      "status": 200,
+      "title": "По поводу комментирования на этом сайте",
+      "bytes": 702446,
+      "sha256": "7aaf5a8ede1b9779a27ecc79caed56560a55a426caecdacd1530a0ea84c43b28",
+      "fetched_at": "2026-09-22T22:00:17.943794+00:00",
+      "role": "primary_author_post"
     },
     {
       "url": "https://exler.es/blog/poslableniya-dlya-nelegalov-v-ispanii.htm",
@@ -442,6 +1242,26 @@
       "role": "primary_case"
     },
     {
+      "url": "https://exler.es/blog/pyatnishnaya-pesenka-345.htm",
+      "final_url": "https://exler.es/blog/pyatnishnaya-pesenka-345.htm",
+      "status": 200,
+      "title": "Пятнишная песенка",
+      "bytes": 151580,
+      "sha256": "8fa659d16489f179a602a060c9e13c9d5105eb5cfd487be890fc71b2db1787c3",
+      "fetched_at": "2026-09-22T21:59:58.968811+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler.es/blog/pyatnishnaya-pesenka-349.htm",
+      "final_url": "https://exler.es/blog/pyatnishnaya-pesenka-349.htm",
+      "status": 200,
+      "title": "Пятнишная песенка",
+      "bytes": 172237,
+      "sha256": "904a182773f93d8e8c1a73941a508237460c28b758e8ab371d3e483c3992904e",
+      "fetched_at": "2026-09-22T21:59:58.987338+00:00",
+      "role": "primary_case"
+    },
+    {
       "url": "https://exler.es/blog/sajtu-exler-ru-14-let.htm",
       "final_url": "https://exler.es/blog/sajtu-exler-ru-14-let.htm",
       "status": 200,
@@ -450,6 +1270,16 @@
       "sha256": "04391dde5886adbe17b5c06b92cc98858e27b7e5cede16747d681e54cbdc8747",
       "fetched_at": "2026-09-22T21:15:09.019193+00:00",
       "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler.es/blog/shokiruyushcheye-rassledovaniye-fbk.htm",
+      "final_url": "https://exler.es/blog/shokiruyushcheye-rassledovaniye-fbk.htm",
+      "status": 200,
+      "title": "Шокирующее расследование ФБК",
+      "bytes": 735470,
+      "sha256": "c8536482e9b1f1e291c9adfaf57949e289c33aadf0411ccfefc17b1e18ce133a",
+      "fetched_at": "2026-09-22T22:01:06.539729+00:00",
+      "role": "primary_case"
     },
     {
       "url": "https://exler.es/blog/skolko-lyudey-otkazalis-vaktsinirovatsya-v-katalonii.htm",
@@ -472,6 +1302,16 @@
       "role": "discovery_or_context"
     },
     {
+      "url": "https://exler.es/blog/sobchakovo-tramvaynyy-sukachev.htm",
+      "final_url": "https://exler.es/blog/sobchakovo-tramvaynyy-sukachev.htm",
+      "status": 200,
+      "title": "Собчаково-трамвайный Сукачев",
+      "bytes": 609921,
+      "sha256": "c58d647c2f3173b3e7853e98d4aa53f4b33e9f309a1d9000b371003d91fc30b6",
+      "fetched_at": "2026-09-22T22:00:18.144800+00:00",
+      "role": "discovery_or_context"
+    },
+    {
       "url": "https://exler.es/blog/sotrudnichayet-ili-ne-sotrudnichayet-durov-s-vlastyami-rf.htm",
       "final_url": "https://exler.es/blog/sotrudnichayet-ili-ne-sotrudnichayet-durov-s-vlastyami-rf.htm",
       "status": 200,
@@ -482,6 +1322,46 @@
       "role": "primary_case"
     },
     {
+      "url": "https://exler.es/blog/surovyy-boy-vedet-ledovaya-druzhina-3.htm",
+      "final_url": "https://exler.es/blog/surovyy-boy-vedet-ledovaya-druzhina-3.htm",
+      "status": 200,
+      "title": "Суровый бой ведет ледовая дружина",
+      "bytes": 1002307,
+      "sha256": "089228ec6131d0fa5081b3f0296d8d95dddd313fdbd7dcf4c69fdceabe8fca43",
+      "fetched_at": "2026-09-22T22:00:08.528727+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler.es/blog/uchites-kak-rabotu-iskat.htm",
+      "final_url": "https://exler.es/blog/uchites-kak-rabotu-iskat.htm",
+      "status": 200,
+      "title": "Учитесь как работу искать",
+      "bytes": 422345,
+      "sha256": "9724a3b3c8b6c6a6141d49ccbaa24d6bc5a6d910d81b754cc1260fd87d99b841",
+      "fetched_at": "2026-09-22T21:58:46.481244+00:00",
+      "role": "primary_case"
+    },
+    {
+      "url": "https://exler.es/blog/vesti-s-ispanskikh-poley-5.htm",
+      "final_url": "https://exler.es/blog/vesti-s-ispanskikh-poley-5.htm",
+      "status": 200,
+      "title": "Вести с испанских полей",
+      "bytes": 1064427,
+      "sha256": "956bd23ceed573f29edaf5404dfb84e3c36ca82caf47a64a0a8f052d529eac09",
+      "fetched_at": "2026-09-22T21:56:15.453913+00:00",
+      "role": "primary_case"
+    },
+    {
+      "url": "https://exler.es/blog/vse-eto-ochen-khrenovo.htm",
+      "final_url": "https://exler.es/blog/vse-eto-ochen-khrenovo.htm",
+      "status": 200,
+      "title": "Все это очень хреново",
+      "bytes": 2320772,
+      "sha256": "ca42242262ab39e93ba4dcc02e4ca83ce72c42122705cc4eb516f0902a1ef8f0",
+      "fetched_at": "2026-09-22T21:56:16.120483+00:00",
+      "role": "discovery_or_context"
+    },
+    {
       "url": "https://exler.es/blog/vsemirnyy-den-velosipeda-2.htm",
       "final_url": "https://exler.es/blog/vsemirnyy-den-velosipeda-2.htm",
       "status": 200,
@@ -490,6 +1370,16 @@
       "sha256": "5f19b741456e28f82bddee04a4b9346971061e3a68120fb3d5f0277f6084bb18",
       "fetched_at": "2026-09-22T21:14:15.005073+00:00",
       "role": "primary_case"
+    },
+    {
+      "url": "https://exler.es/blog/za-chto-zablokirovali-exlerru-v-rossii.htm",
+      "final_url": "https://exler.es/blog/za-chto-zablokirovali-exlerru-v-rossii.htm",
+      "status": 200,
+      "title": "За что заблокировали Exler.ru в России",
+      "bytes": 630548,
+      "sha256": "49052e351325812fc436c5ba6048097595e03809839c86f719539d6c100ac461",
+      "fetched_at": "2026-09-22T22:00:08.085818+00:00",
+      "role": "discovery_or_context"
     },
     {
       "url": "https://exler.es/blog/znakomtes.htm",
@@ -522,6 +1412,16 @@
       "role": "discovery_or_context"
     },
     {
+      "url": "https://exler.es/films/balerina.htm",
+      "final_url": "https://exler.es/films/balerina.htm",
+      "status": 200,
+      "title": "Балерина",
+      "bytes": 539547,
+      "sha256": "b104a3c94e2823c73120a3c77b25a01e30af240633218df266f2f40048832aa2",
+      "fetched_at": "2026-09-22T22:00:57.349185+00:00",
+      "role": "primary_case"
+    },
+    {
       "url": "https://exler.es/films/kriminalnyj-shef.htm",
       "final_url": "https://exler.es/films/kriminalnyj-shef.htm",
       "status": 200,
@@ -529,6 +1429,16 @@
       "bytes": 381301,
       "sha256": "b73fd7b24ef778b65fd08b1a8561fffb8dfcaf8f0cddd55927ff6712d1045aba",
       "fetched_at": "2026-09-22T21:12:27.387598+00:00",
+      "role": "primary_case"
+    },
+    {
+      "url": "https://exler.es/films/obshestvo-snega.htm",
+      "final_url": "https://exler.es/films/obshestvo-snega.htm",
+      "status": 200,
+      "title": "Общество снега",
+      "bytes": 532877,
+      "sha256": "af3e8767ba62f56e69feeb6d14a3a8cb037935459447bfc1bcf4247c9e794570",
+      "fetched_at": "2026-09-22T22:00:57.196430+00:00",
       "role": "primary_case"
     },
     {
@@ -549,7 +1459,7 @@
       "bytes": 319035,
       "sha256": "3c2b3bd10f7cf77e37de745edb76d850e77b623532ce58c675095dfd33348325",
       "fetched_at": "2026-09-22T21:15:09.126669+00:00",
-      "role": "supporting_source"
+      "role": "discovery_or_context"
     },
     {
       "url": "https://exler.es/likbez/besprovodnaya-zaryadka-ustrojstv-chto-nuzhno-znat.htm",
@@ -562,6 +1472,36 @@
       "role": "primary_case"
     },
     {
+      "url": "https://exler.livejournal.com/2228635.html",
+      "final_url": "https://exler.livejournal.com/2228635.html",
+      "status": 200,
+      "title": "Карты Яндекс.Деньги : exler — LiveJournal",
+      "bytes": 741526,
+      "sha256": "70d6f501ee79c211f3c88d9c344fa759d21a2f5acd79ddf9ff119927c2386db2",
+      "fetched_at": "2026-09-22T21:50:50.529641+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler.livejournal.com/2229426.html",
+      "final_url": "https://exler.livejournal.com/2229426.html",
+      "status": 200,
+      "title": "Ни фига себе тут Movistar лютует!: exler — LiveJournal",
+      "bytes": 744388,
+      "sha256": "0c058ff4eec8a3ccb4e59aed3244beee2fdbbe0b51b3d9a9a026f08967503bb0",
+      "fetched_at": "2026-09-22T21:51:02.575890+00:00",
+      "role": "primary_author_post"
+    },
+    {
+      "url": "https://exler.livejournal.com/3480015.html",
+      "final_url": "https://exler.livejournal.com/3480015.html",
+      "status": 200,
+      "title": "Ну, как тебе сказать...: exler — LiveJournal",
+      "bytes": 747520,
+      "sha256": "2e26db3c1bd8267b49cef1edb46c59d697d4eb24d5f2c8068f8750ca639d882f",
+      "fetched_at": "2026-09-22T21:50:50.451584+00:00",
+      "role": "discovery_or_context"
+    },
+    {
       "url": "https://exler.livejournal.com/3700017.html",
       "final_url": "https://exler.livejournal.com/3700017.html",
       "status": 200,
@@ -569,6 +1509,16 @@
       "bytes": 740024,
       "sha256": "d2eb220be208d0b07593703537cee36c4a297fb2db7cea3b4f8ea29f7535e349",
       "fetched_at": "2026-09-22T21:15:03.124641+00:00",
+      "role": "discovery_or_context"
+    },
+    {
+      "url": "https://exler.livejournal.com/4044251.html",
+      "final_url": "https://exler.livejournal.com/4044251.html",
+      "status": 200,
+      "title": "Вебманя в своей репертуаре: exler — LiveJournal",
+      "bytes": 732229,
+      "sha256": "82e0e58e3535328b0be8e852ef41a73c63a37cb1e5187f3c3af71d8da65c3c92",
+      "fetched_at": "2026-09-22T22:01:18.330493+00:00",
       "role": "discovery_or_context"
     },
     {
@@ -599,7 +1549,7 @@
       "bytes": 27261,
       "sha256": "93ea3dc323d0fa4a639bbb9c193210a59c874b56139c1e6b354f668aa1021863",
       "fetched_at": "2026-09-22T21:21:00.675476+00:00",
-      "role": "supporting_source"
+      "role": "discovery_or_context"
     },
     {
       "url": "https://www.ti.com/product/BQ51013B",
@@ -609,13 +1559,18 @@
       "bytes": 259161,
       "sha256": "9703fe9b3d8431f8503cc41e03a99b1a798b50bf68fd31b95ab0a4b0a6ca63fe",
       "fetched_at": "2026-09-22T21:21:00.675677+00:00",
-      "role": "supporting_source"
+      "role": "discovery_or_context"
     }
   ],
   "errors": [
     {
       "url": "https://travel.state.gov/content/travel/en/us-visas/immigrate/diversity-visa-program-entry/diversity-visa-selection-of-applicants.html",
       "status": 403,
+      "used_as_evidence": false
+    },
+    {
+      "url": "https://exler.livejournal.com/3218649.html",
+      "status": 404,
       "used_as_evidence": false
     }
   ]

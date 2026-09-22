@@ -1,0 +1,371 @@
+{
+  "title": "Фемида из Калельи",
+  "source": "https://exler-cult.livejournal.com/1306548.html",
+  "published_at": "2015-01-11 16:36",
+  "checked_at": "2026-09-22",
+  "unit": "image_not_independent_ban",
+  "images": [
+    {
+      "index": 1,
+      "url": "https://ic.pics.livejournal.com/exlert2500/69122944/115816/115816_original.jpg",
+      "sha256": "39715c7cbb940076deb0791b4357a6f91e91ee3e715023ac51b6c9bbb8774394",
+      "bytes": 15528,
+      "observed_type": "repeat_history",
+      "author_visible": false,
+      "date_visible": null,
+      "primary_thread_recovered": false,
+      "viewed": true
+    },
+    {
+      "index": 2,
+      "url": "https://ic.pics.livejournal.com/exlert2500/69122944/116011/116011_original.jpg",
+      "sha256": "2067a54d0fd9ce6fd895ff16a9ac7c4adde55043366569c02850035a2d6e830d",
+      "bytes": 8953,
+      "observed_type": "annoyance",
+      "author_visible": false,
+      "date_visible": null,
+      "primary_thread_recovered": false,
+      "viewed": true
+    },
+    {
+      "index": 3,
+      "url": "https://ic.pics.livejournal.com/exlert2500/69122944/123060/123060_original.jpg",
+      "sha256": "3be6bf1ea2dde3e0ea3e5e61170a1ae7bf30217234a7bda0a3413d2582d1a0f3",
+      "bytes": 22328,
+      "observed_type": "dehumanizing_insult",
+      "author_visible": false,
+      "date_visible": null,
+      "primary_thread_recovered": false,
+      "viewed": true
+    },
+    {
+      "index": 4,
+      "url": "https://ic.pics.livejournal.com/exlert2500/69122944/120109/120109_original.jpg",
+      "sha256": "97d03c66cdde5a5e8019415622a3a212ca8bb38cf3aa26c0dd604f7f606ae616",
+      "bytes": 18828,
+      "observed_type": "moderation_discussion",
+      "author_visible": false,
+      "date_visible": null,
+      "primary_thread_recovered": false,
+      "viewed": true
+    },
+    {
+      "index": 5,
+      "url": "https://ic.pics.livejournal.com/exlert2500/69122944/120385/120385_original.jpg",
+      "sha256": "cbd80ab35bffa6b72a48da2c3d8a36bad967661f33583fbb33c5055aaab50427",
+      "bytes": 18109,
+      "observed_type": "access_restored",
+      "author_visible": false,
+      "date_visible": null,
+      "primary_thread_recovered": false,
+      "viewed": true
+    },
+    {
+      "index": 6,
+      "url": "https://ic.pics.livejournal.com/exlert2500/69122944/120604/120604_original.jpg",
+      "sha256": "4d70c3a2cc3205d5034e78baa624b22eadc45f0469a8a68c27b187f571483df6",
+      "bytes": 15467,
+      "observed_type": "reply_to_moderator",
+      "author_visible": false,
+      "date_visible": null,
+      "primary_thread_recovered": false,
+      "viewed": true
+    },
+    {
+      "index": 7,
+      "url": "https://ic.pics.livejournal.com/exlert2500/69122944/121081/121081_original.jpg",
+      "sha256": "7f133173a0b96bb28de968dfba9d81fcf13f1091e6729b0bdad2ef1c6a9dfbb5",
+      "bytes": 22410,
+      "observed_type": "repeat_one_month",
+      "author_visible": false,
+      "date_visible": null,
+      "primary_thread_recovered": false,
+      "viewed": true
+    },
+    {
+      "index": 8,
+      "url": "https://ic.pics.livejournal.com/exlert2500/69122944/121283/121283_original.jpg",
+      "sha256": "3650ec0e7d2604660105701d1cdd09cc58607527abbbca1aebedd82291ae515d",
+      "bytes": 35512,
+      "observed_type": "repeat_six_months",
+      "author_visible": false,
+      "date_visible": null,
+      "primary_thread_recovered": false,
+      "viewed": true
+    },
+    {
+      "index": 9,
+      "url": "https://ic.pics.livejournal.com/exlert2500/69122944/121460/121460_300.jpg",
+      "sha256": "7f8d1f3201ece448046a0100711bf09e112eb3bea879f6af1c423cd841eeca43",
+      "bytes": 6872,
+      "observed_type": "annoyance",
+      "author_visible": false,
+      "date_visible": null,
+      "primary_thread_recovered": false,
+      "viewed": true
+    },
+    {
+      "index": 10,
+      "url": "https://ic.pics.livejournal.com/exlert2500/69122944/121626/121626_original.jpg",
+      "sha256": "ce4dbe9e6bd52fbaddcd01b8f376f68442580e42e69f13b9331f3cda3870d44a",
+      "bytes": 7020,
+      "observed_type": "annoyance",
+      "author_visible": false,
+      "date_visible": null,
+      "primary_thread_recovered": false,
+      "viewed": true
+    },
+    {
+      "index": 11,
+      "url": "https://ic.pics.livejournal.com/exlert2500/69122944/122098/122098_original.jpg",
+      "sha256": "1ee190192f9774c4658c1bf4ce39e408fd8e5b2be108b90f8c6874f9901a3de3",
+      "bytes": 28247,
+      "observed_type": "film_political_offtopic",
+      "author_visible": false,
+      "date_visible": null,
+      "primary_thread_recovered": false,
+      "viewed": true
+    },
+    {
+      "index": 12,
+      "url": "https://ic.pics.livejournal.com/exlert2500/69122944/122332/122332_original.jpg",
+      "sha256": "f39ec1176a3b473c3057817332c5ad675afea7d9f34073c6b4ba1bafcd51b0f2",
+      "bytes": 12385,
+      "observed_type": "memorial_thread",
+      "author_visible": false,
+      "date_visible": null,
+      "primary_thread_recovered": false,
+      "viewed": true
+    },
+    {
+      "index": 13,
+      "url": "https://ic.pics.livejournal.com/exlert2500/69122944/122529/122529_original.jpg",
+      "sha256": "fc089bf11e89b544ab8ac8e1cfd5f11b1820ac609d62f1d199de2abe7c4bafc2",
+      "bytes": 14115,
+      "observed_type": "ban_shortened_to_served",
+      "author_visible": false,
+      "date_visible": null,
+      "primary_thread_recovered": false,
+      "viewed": true
+    },
+    {
+      "index": 14,
+      "url": "https://ic.pics.livejournal.com/exlert2500/69122944/122740/122740_original.jpg",
+      "sha256": "580d93e15ba3070814887070573d432f23079135c7d408603cf1a77f76bcc54f",
+      "bytes": 28700,
+      "observed_type": "alleged_drunkenness",
+      "author_visible": false,
+      "date_visible": null,
+      "primary_thread_recovered": false,
+      "viewed": true
+    },
+    {
+      "index": 15,
+      "url": "https://ic.pics.livejournal.com/exlert2500/69122944/123275/123275_original.jpg",
+      "sha256": "9e2f8247a7f411bae656a6456080c638ad81f9d14fe829f3e25fe44ef595ec88",
+      "bytes": 37115,
+      "observed_type": "permanent_repeat",
+      "author_visible": false,
+      "date_visible": null,
+      "primary_thread_recovered": false,
+      "viewed": true
+    },
+    {
+      "index": 16,
+      "url": "https://ic.pics.livejournal.com/exlert2500/69122944/123480/123480_original.jpg",
+      "sha256": "a4895e760e5232c632379a284e213054a9705fb3e98c28acfd78da97e8cc6e72",
+      "bytes": 17311,
+      "observed_type": "suspected_alt_account",
+      "author_visible": false,
+      "date_visible": null,
+      "primary_thread_recovered": false,
+      "viewed": true
+    },
+    {
+      "index": 17,
+      "url": "https://ic.pics.livejournal.com/exlert2500/69122944/123818/123818_original.jpg",
+      "sha256": "26fb8bff6b08d59550fbd68d56b290143eff29c7ad5409fcfab7c081bb932c63",
+      "bytes": 13816,
+      "observed_type": "forbidden_links",
+      "author_visible": false,
+      "date_visible": null,
+      "primary_thread_recovered": false,
+      "viewed": true
+    },
+    {
+      "index": 18,
+      "url": "https://ic.pics.livejournal.com/exlert2500/69122944/124052/124052_original.jpg",
+      "sha256": "23f282fea86926b4c2cc8bca0167e82327876a5cb63ae39505a59864f44e10ba",
+      "bytes": 13521,
+      "observed_type": "repeat_after_amnesty",
+      "author_visible": false,
+      "date_visible": null,
+      "primary_thread_recovered": false,
+      "viewed": true
+    },
+    {
+      "index": 19,
+      "url": "https://ic.pics.livejournal.com/exlert2500/69122944/119420/119420_original.jpg",
+      "sha256": "4410b6908ed2300bacae3e7284f6f3620f5240705413735ebee9ca7d2ee48715",
+      "bytes": 8057,
+      "observed_type": "one_month",
+      "author_visible": false,
+      "date_visible": null,
+      "primary_thread_recovered": false,
+      "viewed": true
+    },
+    {
+      "index": 20,
+      "url": "https://ic.pics.livejournal.com/exlert2500/69122944/119554/119554_original.jpg",
+      "sha256": "fd9079f90fecdae028a2dbc43c44d21ad9aab3befd257b0e518fa9050b011b00",
+      "bytes": 15483,
+      "observed_type": "private_correspondence",
+      "author_visible": false,
+      "date_visible": null,
+      "primary_thread_recovered": false,
+      "viewed": true
+    },
+    {
+      "index": 21,
+      "url": "https://ic.pics.livejournal.com/exlert2500/69122944/119248/119248_original.jpg",
+      "sha256": "b66de1738724bfdfe4116c9b8edbfd0af7291fb8364fc2d190e1e4423d6e37de",
+      "bytes": 21984,
+      "observed_type": "ban_evasion",
+      "author_visible": false,
+      "date_visible": null,
+      "primary_thread_recovered": false,
+      "viewed": true
+    },
+    {
+      "index": 22,
+      "url": "https://ic.pics.livejournal.com/exlert2500/69122944/118953/118953_original.jpg",
+      "sha256": "fcd192007367ade48125b8b00d8c42de08f3f6f6740acb2171194ccf299454dd",
+      "bytes": 25738,
+      "observed_type": "moderation_discussion",
+      "author_visible": false,
+      "date_visible": null,
+      "primary_thread_recovered": false,
+      "viewed": true
+    },
+    {
+      "index": 23,
+      "url": "https://ic.pics.livejournal.com/exlert2500/69122944/118558/118558_original.jpg",
+      "sha256": "0a3863ef9a664d86684b4efe215250c2fdbb6dcae343908557f96ded7cf4af34",
+      "bytes": 17193,
+      "observed_type": "degrading_expulsion",
+      "author_visible": false,
+      "date_visible": null,
+      "primary_thread_recovered": false,
+      "viewed": true
+    },
+    {
+      "index": 24,
+      "url": "https://ic.pics.livejournal.com/exlert2500/69122944/118429/118429_original.jpg",
+      "sha256": "7c3de797457a7b6f29c81af5c2b9199e8c20a60dd7d2b9683930ac849e38ec31",
+      "bytes": 7894,
+      "observed_type": "term_increased",
+      "author_visible": false,
+      "date_visible": null,
+      "primary_thread_recovered": false,
+      "viewed": true
+    },
+    {
+      "index": 25,
+      "url": "https://ic.pics.livejournal.com/exlert2500/69122944/118233/118233_original.jpg",
+      "sha256": "1cb51ae988cedd4972cb75f4d848500e88ab1af45d3966d0b9a2945f42d01000",
+      "bytes": 17808,
+      "observed_type": "photoshop_14_days",
+      "author_visible": false,
+      "date_visible": null,
+      "primary_thread_recovered": false,
+      "viewed": true
+    },
+    {
+      "index": 26,
+      "url": "https://ic.pics.livejournal.com/exlert2500/69122944/117902/117902_original.jpg",
+      "sha256": "2f23eea7095fde4f7815e77bac38313f49b1ec0f34930ec3ed3d29b4bff12066",
+      "bytes": 11629,
+      "observed_type": "private_correspondence",
+      "author_visible": false,
+      "date_visible": null,
+      "primary_thread_recovered": false,
+      "viewed": true
+    },
+    {
+      "index": 27,
+      "url": "https://ic.pics.livejournal.com/exlert2500/69122944/117353/117353_original.jpg",
+      "sha256": "d1893a06f25826e95fd7f41ed1edc33a3239f329c710a3e6834fbcdd59033ea1",
+      "bytes": 30193,
+      "observed_type": "term_reduced_provocation",
+      "author_visible": false,
+      "date_visible": null,
+      "primary_thread_recovered": false,
+      "viewed": true
+    },
+    {
+      "index": 28,
+      "url": "https://ic.pics.livejournal.com/exlert2500/69122944/117202/117202_original.jpg",
+      "sha256": "3cc8e9520098589a5da609448d3d013ae7f0b12eb3a9ad1abeb9dddf3ada4402",
+      "bytes": 10788,
+      "observed_type": "unwelcome",
+      "author_visible": false,
+      "date_visible": null,
+      "primary_thread_recovered": false,
+      "viewed": true
+    },
+    {
+      "index": 29,
+      "url": "https://ic.pics.livejournal.com/exlert2500/69122944/116887/116887_original.jpg",
+      "sha256": "5136ce9dcec4f801ffae3dc91e362f5a698c3b480b16e90b8860e2a55c58b3c7",
+      "bytes": 20937,
+      "observed_type": "permanent_ban_corrected_to_month",
+      "author_visible": false,
+      "date_visible": null,
+      "primary_thread_recovered": false,
+      "viewed": true
+    },
+    {
+      "index": 30,
+      "url": "https://ic.pics.livejournal.com/exlert2500/69122944/116568/116568_original.jpg",
+      "sha256": "a34dfde2afd88a2a2b14ba23c2e1bccca745a8ba944cff6e9c49934b5d4e650f",
+      "bytes": 10735,
+      "observed_type": "wrong_person_unbanned",
+      "author_visible": false,
+      "date_visible": null,
+      "primary_thread_recovered": false,
+      "viewed": true
+    },
+    {
+      "index": 31,
+      "url": "https://ic.pics.livejournal.com/exlert2500/69122944/116272/116272_original.jpg",
+      "sha256": "71fda336aa9bbe2fe70fdcf3e4335b44647b9e15aacee07731f26f77b7add740",
+      "bytes": 11121,
+      "observed_type": "ban_reinstated",
+      "author_visible": false,
+      "date_visible": null,
+      "primary_thread_recovered": false,
+      "viewed": true
+    },
+    {
+      "index": 32,
+      "url": "https://ic.pics.livejournal.com/exlert2500/69122944/119930/119930_original.jpg",
+      "sha256": "a50d87cbea6f23512a95c28048e139fb0734c30ccd92aa3af754fe3a07be9c43",
+      "bytes": 89963,
+      "observed_type": "permanent_ban_policy",
+      "author_visible": true,
+      "date_visible": "2014-07-18 00:45",
+      "primary_thread_recovered": false,
+      "viewed": true
+    }
+  ],
+  "other_evidence_images": [
+    {
+      "source_page": "https://exler-cult.livejournal.com/1257447.html",
+      "url": "https://ic.pics.livejournal.com/sapiens17/53800983/290720/290720_original.jpg",
+      "sha256": "659aad8984fc4abada921429b503fd8216115b7e9db641820427ab3c2344054f",
+      "author_visible": true,
+      "absolute_date_visible": false,
+      "viewed": true
+    }
+  ]
+}

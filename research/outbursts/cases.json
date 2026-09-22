@@ -144,13 +144,13 @@
     },
     {
       "id": "RAGE-004",
-      "title": "Шульман: видеоссылка получает ответ про «лапы»",
-      "group": "Ответ на проверяемое напоминание",
-      "sanction_status": "not_established",
-      "announced_duration": null,
+      "title": "Спор о Шульман, затем неделя за реплику об иноагентских плашках",
+      "group": "Раздражение и последующая санкция в другой ветке",
+      "sanction_status": "announced_ban",
+      "announced_duration": "1 неделя",
       "post_id": "430",
-      "response_db_id": "52209",
-      "response_date": "2025-11-14 06:48:00",
+      "response_db_id": "52200",
+      "response_date": "2025-11-14 06:51:00",
       "page_url": "https://exler.es/blog/znakomtes.htm",
       "page_sha256": "e8178ef9fad80f2ac81ae2273780e989133ab7b0113e868af6dac3283a010e9c",
       "comments": [
@@ -191,6 +191,26 @@
           "parent_anchor": "1kpkd",
           "date_display": "Alex Exler BigHead 14.11.25 06:48 3 12",
           "body_sha256": "22c4be60fad1db102ec69c6875d9e8df8494d6e562f6b8d1e7c5c11ee1e6e6c9",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        },
+        {
+          "anchor": "1kpni",
+          "url": "https://exler.es/blog/comments/znakomtes.htm#1kpni",
+          "author": "BigHead",
+          "parent_anchor": "1kpng",
+          "date_display": "BigHead aldor 14.11.25 01:45 4 3",
+          "body_sha256": "e0a2aee772e0be8b8f5432a037f35568deafb082c73ad11ea83bd7b78ab5774d",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": true
+        },
+        {
+          "anchor": "1kpp7",
+          "url": "https://exler.es/blog/comments/znakomtes.htm#1kpp7",
+          "author": "Alex Exler",
+          "parent_anchor": "1kpni",
+          "date_display": "Alex Exler BigHead 14.11.25 06:51 11 8",
+          "body_sha256": "33dff5bc8081dfb008f7833002fcdebb40fcdbb593a790f89e73438023d8b634",
           "body_excludes_reader_quotes": true,
           "account_banned_at_fetch": false
         }
@@ -563,6 +583,393 @@
           "parent_anchor": "1cewg",
           "date_display": "Alex Exler Zmitrok 05.06.24 11:16 0 1",
           "body_sha256": "b3245c2d9c1ac07398ba870b8cb3a1cbed7ae93815c9715ba529a38c030205e7",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        }
+      ],
+      "supporting_sources": []
+    },
+    {
+      "id": "RAGE-012",
+      "title": "Белковский: совет отправляется в неприличное место",
+      "group": "Длинный личный разнос",
+      "sanction_status": "not_established",
+      "announced_duration": null,
+      "post_id": "9709",
+      "response_db_id": "1197453",
+      "response_date": "2021-07-10 08:37:00",
+      "page_url": "https://exler.es/blog/vesti-s-ispanskikh-poley-5.htm",
+      "page_sha256": "956bd23ceed573f29edaf5404dfb84e3c36ca82caf47a64a0a8f052d529eac09",
+      "comments": [
+        {
+          "anchor": "tyvt",
+          "url": "https://exler.es/blog/comments/vesti-s-ispanskikh-poley-5.htm#tyvt",
+          "author": "Сказочный Добролюб",
+          "parent_anchor": "tyui",
+          "date_display": "Сказочный Добролюб Alex Exler 10.07.21 02:46 2 1",
+          "body_sha256": "b7874c817c515b4f4b386808ea406940a62738b4051ba062b14391f9d444de98",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": true
+        },
+        {
+          "anchor": "tywq",
+          "url": "https://exler.es/blog/comments/vesti-s-ispanskikh-poley-5.htm#tywq",
+          "author": "Alex Exler",
+          "parent_anchor": "tyvt",
+          "date_display": "Alex Exler Сказочный Добролюб 10.07.21 08:37 1 0",
+          "body_sha256": "a7ff1bcd69ba6de57479b7e6706c14f51db3720a9e455e56406ee9cdad28c78e",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        }
+      ],
+      "supporting_sources": []
+    },
+    {
+      "id": "RAGE-013",
+      "title": "Шутка о вирусологии — угроза недели бана",
+      "group": "Угроза наказания",
+      "sanction_status": "threat_only",
+      "announced_duration": "1 неделя при повторении",
+      "post_id": "9167",
+      "response_db_id": "1130961",
+      "response_date": "2021-10-26 14:02:00",
+      "page_url": "https://exler.es/blog/novyy-strimingovyy-servis-s-kotorym-ya-sotrudnichayu.htm",
+      "page_sha256": "c4011a7ff699b9bc83398b337b3c30e80acd80c2129972ecc577ca3b4141af7f",
+      "comments": [
+        {
+          "anchor": "vv3o",
+          "url": "https://exler.es/blog/comments/novyy-strimingovyy-servis-s-kotorym-ya-sotrudnichayu.htm#vv3o",
+          "author": "Kaleva",
+          "parent_anchor": null,
+          "date_display": "Kaleva 26.10.21 13:52 12 43",
+          "body_sha256": "47ad94b35fa69dcdb4754818b52997c5c0818c9ab92765133779b6347e04875f",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        },
+        {
+          "anchor": "vv47",
+          "url": "https://exler.es/blog/comments/novyy-strimingovyy-servis-s-kotorym-ya-sotrudnichayu.htm#vv47",
+          "author": "Alex Exler",
+          "parent_anchor": "vv3o",
+          "date_display": "Alex Exler Kaleva 26.10.21 14:02 51 8",
+          "body_sha256": "18fd0482892e7d8c3993dca02bbcd016b1d63334b9975f75df709b494dfe7c6d",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        }
+      ],
+      "supporting_sources": []
+    },
+    {
+      "id": "RAGE-014",
+      "title": "Неделя за заявление о бойкоте китайских товаров",
+      "group": "Бан за повторный офтоп",
+      "sanction_status": "announced_ban",
+      "announced_duration": "1 неделя",
+      "post_id": "1399",
+      "response_db_id": "160093",
+      "response_date": "2025-06-01 14:24:00",
+      "page_url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-224.htm",
+      "page_sha256": "581207ab23912b29a7056fc6a464bca49017a137896d57a9db787f669d6a41b7",
+      "comments": [
+        {
+          "anchor": "1i9qu",
+          "url": "https://exler.es/aliexpress/comments/delimsya-nahodkami-iz-kitajskih-magazinov-224.htm#1i9qu",
+          "author": "LVinog",
+          "parent_anchor": null,
+          "date_display": "LVinog 01.06.25 12:31 24 1",
+          "body_sha256": "7dd70704a520706bbb21389eb161545ff7f964de747a1b5928b59b9f10ea400a",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        },
+        {
+          "anchor": "1i9se",
+          "url": "https://exler.es/aliexpress/comments/delimsya-nahodkami-iz-kitajskih-magazinov-224.htm#1i9se",
+          "author": "Alex Exler",
+          "parent_anchor": "1i9qu",
+          "date_display": "Alex Exler LVinog 01.06.25 14:24 1 13",
+          "body_sha256": "a2382848d6bde081b59b56cd62fcc8a919de005f32bc8079216b7ddc14118f54",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        }
+      ],
+      "supporting_sources": []
+    },
+    {
+      "id": "RAGE-015",
+      "title": "Ролик Гоблина — угроза немедленного бана",
+      "group": "Запрет источника",
+      "sanction_status": "threat_only",
+      "announced_duration": "не указан",
+      "post_id": "1427",
+      "response_db_id": "163345",
+      "response_date": "2025-05-27 18:11:00",
+      "page_url": "https://exler.es/blog/uchites-kak-rabotu-iskat.htm",
+      "page_sha256": "9724a3b3c8b6c6a6141d49ccbaa24d6bc5a6d910d81b754cc1260fd87d99b841",
+      "comments": [
+        {
+          "anchor": "1i6xw",
+          "url": "https://exler.es/blog/comments/uchites-kak-rabotu-iskat.htm#1i6xw",
+          "author": "Akim",
+          "parent_anchor": null,
+          "date_display": "Akim 27.05.25 17:37 6 0",
+          "body_sha256": "649050951df27ec1a68896fc8128411b60fed35829d421732e36e7c06516cf60",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        },
+        {
+          "anchor": "1i6yp",
+          "url": "https://exler.es/blog/comments/uchites-kak-rabotu-iskat.htm#1i6yp",
+          "author": "Alex Exler",
+          "parent_anchor": "1i6xw",
+          "date_display": "Alex Exler Akim 27.05.25 18:11 1 15",
+          "body_sha256": "4fd1fb497bbc307b65a8bc5615cbf326ced94f10695e4e0bea68025c4eb72fa7",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        }
+      ],
+      "supporting_sources": []
+    },
+    {
+      "id": "RAGE-016",
+      "title": "Humanoid: бывшего любимца больше не простят",
+      "group": "Разнос после объявленного изгнания",
+      "sanction_status": "announced_ban",
+      "announced_duration": "срок не установлен",
+      "post_id": "4020",
+      "response_db_id": "496253",
+      "response_date": "2024-02-03 20:47:00",
+      "page_url": "https://exler.es/blog/pyatnishnaya-pesenka-349.htm",
+      "page_sha256": "904a182773f93d8e8c1a73941a508237460c28b758e8ab371d3e483c3992904e",
+      "comments": [
+        {
+          "anchor": "1aj23",
+          "url": "https://exler.es/blog/comments/pyatnishnaya-pesenka-349.htm#1aj23",
+          "author": "Android",
+          "parent_anchor": null,
+          "date_display": "Android 03.02.24 06:03 3 2",
+          "body_sha256": "f48353b7fc856bdfc72d6e6f9548b266f2433aa504b27f4c54b5162495fb9efd",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        },
+        {
+          "anchor": "1ajdp",
+          "url": "https://exler.es/blog/comments/pyatnishnaya-pesenka-349.htm#1ajdp",
+          "author": "Alex Exler",
+          "parent_anchor": "1aj23",
+          "date_display": "Alex Exler Android 03.02.24 20:47 0 3",
+          "body_sha256": "d2e2dd0a5975ba6bd7a86f7c331120e5ddbff9fd67071b39f84cdd145be184e1",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        }
+      ],
+      "supporting_sources": [
+        "https://exler.es/blog/comments/pyatnishnaya-pesenka-345.htm#1a3zd"
+      ]
+    },
+    {
+      "id": "RAGE-017",
+      "title": "Выбор испанской прессы: разговор прекращается с оскорблением",
+      "group": "Раздражение из-за критики выбора источников",
+      "sanction_status": "not_established",
+      "announced_duration": null,
+      "post_id": "3784",
+      "response_db_id": "465639",
+      "response_date": "2024-03-13 20:38:00",
+      "page_url": "https://exler.es/blog/kak-zapela-ptichka.htm",
+      "page_sha256": "0c3f3c8e99ba098f864115377f4ccd7c108ef9961e69c4307bcf069b0ba54021",
+      "comments": [
+        {
+          "anchor": "1b7qd",
+          "url": "https://exler.es/blog/comments/kak-zapela-ptichka.htm#1b7qd",
+          "author": "Сказочный Добролюб",
+          "parent_anchor": "1b7oz",
+          "date_display": "Сказочный Добролюб Alex Exler 13.03.24 20:05 0 4",
+          "body_sha256": "9c9a4297d8d429972fe8effe9acb76b05cb1dd2313235088e34c3c6586d0b522",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": true
+        },
+        {
+          "anchor": "1b7qr",
+          "url": "https://exler.es/blog/comments/kak-zapela-ptichka.htm#1b7qr",
+          "author": "Alex Exler",
+          "parent_anchor": "1b7qd",
+          "date_display": "Alex Exler Сказочный Добролюб 13.03.24 20:38 6 3",
+          "body_sha256": "cf0b00bdc6d0fdd7c922f8bc45d9ac143a197e3e44f2925c00e21222092be620",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        }
+      ],
+      "supporting_sources": []
+    },
+    {
+      "id": "RAGE-018",
+      "title": "«Общество снега»: от оставленной камеры к нападкам на зрителя",
+      "group": "Личный разнос в споре о фильме",
+      "sanction_status": "not_established",
+      "announced_duration": null,
+      "post_id": "4078",
+      "response_db_id": "504504",
+      "response_date": "2024-01-24 08:01:00",
+      "page_url": "https://exler.es/films/obshestvo-snega.htm",
+      "page_sha256": "af3e8767ba62f56e69feeb6d14a3a8cb037935459447bfc1bcf4247c9e794570",
+      "comments": [
+        {
+          "anchor": "1adcv",
+          "url": "https://exler.es/films/comments/obshestvo-snega.htm#1adcv",
+          "author": "Джутовый Мешок",
+          "parent_anchor": "1ad7u",
+          "date_display": "Джутовый Мешок Alex Exler 24.01.24 06:50 2 0",
+          "body_sha256": "93f10ac54cf3f3573ec8b6a169fbfa91967e270168707cd2e9bca4bb4fef4d77",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        },
+        {
+          "anchor": "1addg",
+          "url": "https://exler.es/films/comments/obshestvo-snega.htm#1addg",
+          "author": "Alex Exler",
+          "parent_anchor": "1adcv",
+          "date_display": "Alex Exler Джутовый Мешок 24.01.24 08:01 0 1",
+          "body_sha256": "bc0624f9a0e2cacfb1391f4d32c3389209703ee65fb4de36e27808ba67cce574",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        }
+      ],
+      "supporting_sources": []
+    },
+    {
+      "id": "RAGE-019",
+      "title": "«Балерина»: жалоба на унижение получает новое унижение",
+      "group": "Ответ на претензию к манере общения",
+      "sanction_status": "not_established",
+      "announced_duration": null,
+      "post_id": "1141",
+      "response_db_id": "130478",
+      "response_date": "2025-07-21 18:04:00",
+      "page_url": "https://exler.es/films/balerina.htm",
+      "page_sha256": "b104a3c94e2823c73120a3c77b25a01e30af240633218df266f2f40048832aa2",
+      "comments": [
+        {
+          "anchor": "1j019",
+          "url": "https://exler.es/films/comments/balerina.htm#1j019",
+          "author": "Aviator",
+          "parent_anchor": "1izpi",
+          "date_display": "Aviator Alex Exler 21.07.25 17:58 0 0",
+          "body_sha256": "76d053fbbd373fbdf5c7dfc2d8394dba7ee3c781b8abeb0fd57c9e822790821b",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        },
+        {
+          "anchor": "1j01i",
+          "url": "https://exler.es/films/comments/balerina.htm#1j01i",
+          "author": "Alex Exler",
+          "parent_anchor": "1j019",
+          "date_display": "Alex Exler Aviator 21.07.25 18:04 0 0",
+          "body_sha256": "94d8fbe17556c05f0a33aa49e292371666b2d4ae43a5c1bc3c0c99d72ef4dae0",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        }
+      ],
+      "supporting_sources": []
+    },
+    {
+      "id": "RAGE-020",
+      "title": "Ответ на обвинение в ненависти заканчивается намёком на пьянство",
+      "group": "Личный разнос и последнее предупреждение",
+      "sanction_status": "warning_without_explicit_ban",
+      "announced_duration": null,
+      "post_id": "4945",
+      "response_db_id": "618617",
+      "response_date": "2023-08-09 23:49:00",
+      "page_url": "https://exler.es/blog/kakaya-interesnaya-u-lyudey-zhizn.htm",
+      "page_sha256": "05e7fb59715eb7a1dfffb16eb17a98b53be6733d7eed1966be52c6dcc969cc24",
+      "comments": [
+        {
+          "anchor": "17qta",
+          "url": "https://exler.es/blog/comments/kakaya-interesnaya-u-lyudey-zhizn.htm#17qta",
+          "author": "runcyclexcski",
+          "parent_anchor": null,
+          "date_display": "runcyclexcski 09.08.23 18:54 29 15",
+          "body_sha256": "6436c8e210a8ba7e8797a9c7156a1ac3fd5e97c5b9418432dac0bfdcc3868116",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        },
+        {
+          "anchor": "17qy0",
+          "url": "https://exler.es/blog/comments/kakaya-interesnaya-u-lyudey-zhizn.htm#17qy0",
+          "author": "Alex Exler",
+          "parent_anchor": "17qta",
+          "date_display": "Alex Exler runcyclexcski 09.08.23 23:49 10 12",
+          "body_sha256": "1bf848a27dff508def0f4a69debde292a2d9f50908c20c206c3fe5cef8bfe300",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        }
+      ],
+      "supporting_sources": []
+    },
+    {
+      "id": "RAGE-021",
+      "title": "Месяц после оскорбления участников спора о ФБК",
+      "group": "Бан с повышением срока",
+      "sanction_status": "announced_ban",
+      "announced_duration": "1 месяц",
+      "post_id": "2030",
+      "response_db_id": "244832",
+      "response_date": "2025-02-01 07:56:00",
+      "page_url": "https://exler.es/blog/shokiruyushcheye-rassledovaniye-fbk.htm",
+      "page_sha256": "c8536482e9b1f1e291c9adfaf57949e289c33aadf0411ccfefc17b1e18ce133a",
+      "comments": [
+        {
+          "anchor": "1gb4n",
+          "url": "https://exler.es/blog/comments/shokiruyushcheye-rassledovaniye-fbk.htm#1gb4n",
+          "author": "Mat-Lex",
+          "parent_anchor": null,
+          "date_display": "Mat-Lex 01.02.25 06:47 3 2",
+          "body_sha256": "c8ec8137281ed7ab6aca3bc30a031f0648abad4442214a82bff379bf9ebf55ff",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        },
+        {
+          "anchor": "1gb52",
+          "url": "https://exler.es/blog/comments/shokiruyushcheye-rassledovaniye-fbk.htm#1gb52",
+          "author": "Alex Exler",
+          "parent_anchor": "1gb4n",
+          "date_display": "Alex Exler Mat-Lex 01.02.25 07:56 1 1",
+          "body_sha256": "3398e968df8101e055e37cb09a4138ca9c1352ff8409b335065e6885f7d12ab5",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": false
+        }
+      ],
+      "supporting_sources": []
+    },
+    {
+      "id": "RAGE-022",
+      "title": "Мукбанг и рестлинг: объяснять уже незачем",
+      "group": "Оскорбление вместо продолжения спора",
+      "sanction_status": "not_established",
+      "announced_duration": null,
+      "post_id": "3109",
+      "response_db_id": "380995",
+      "response_date": "2024-07-27 19:21:00",
+      "page_url": "https://exler.es/blog/mukbang-video-obzhiratsya-za-dengi.htm",
+      "page_sha256": "0cca48e5f1c1f2b65fa4edfcd4eac0159f9474e0d72c2bcdb64590e63969ef94",
+      "comments": [
+        {
+          "anchor": "1d6bk",
+          "url": "https://exler.es/blog/comments/mukbang-video-obzhiratsya-za-dengi.htm#1d6bk",
+          "author": "Сказочный Добролюб",
+          "parent_anchor": "1d65m",
+          "date_display": "Сказочный Добролюб Alex Exler 27.07.24 19:12 0 0",
+          "body_sha256": "3cfbc8331caf8e573476d6fed8bf4747b6877135d672e9b9eb2612ca8a73aa55",
+          "body_excludes_reader_quotes": true,
+          "account_banned_at_fetch": true
+        },
+        {
+          "anchor": "1d6bm",
+          "url": "https://exler.es/blog/comments/mukbang-video-obzhiratsya-za-dengi.htm#1d6bm",
+          "author": "Alex Exler",
+          "parent_anchor": "1d6bk",
+          "date_display": "Alex Exler Сказочный Добролюб 27.07.24 19:21 1 1",
+          "body_sha256": "d3062be5b10533f323e9928f74ba689e1610e26e7dadd5fd31aa4c876cc054ee",
           "body_excludes_reader_quotes": true,
           "account_banned_at_fetch": false
         }
