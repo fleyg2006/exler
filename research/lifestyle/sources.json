@@ -206,7 +206,8 @@
     "html_sha256": "9c51f225df649f130ca00155e566fd56876001ad8e2ce98a871d0d94f2e0b42d",
     "kind": "author_post",
     "cases": [
-      "LIFE-014"
+      "LIFE-014",
+      "LIFE-058"
     ]
   },
   {
@@ -473,6 +474,818 @@
     "kind": "author_post",
     "cases": [
       "LIFE-032"
+    ]
+  },
+  {
+    "id": "S35",
+    "url": "https://exler.es/blog/plany-po-obzoram-10.htm",
+    "title": "Планы по обзорам",
+    "published_at": "12.07.2022 10:34",
+    "accessed_at": "2026-09-23T09:02:40.093693+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/plany-po-obzoram-10.htm",
+    "html_sha256": "b78d59adab79941a5a04ab193d4907f82eff1c8867b47fba453445597bad7578",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-019"
+    ]
+  },
+  {
+    "id": "S36",
+    "url": "https://exler.es/blog/kholodilnyye-stradaniya.htm",
+    "title": "Холодильные страдания",
+    "published_at": "16.04.2025 10:00",
+    "accessed_at": "2026-09-23T09:04:49.225564+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/kholodilnyye-stradaniya.htm",
+    "html_sha256": "69ce3a6d15796a2a3fcb0725b6175a86bcb848ad099bd217e931b311b4f03ce9",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-028"
+    ]
+  },
+  {
+    "id": "S37",
+    "url": "https://exler.es/expromt/obzor-kommunikatora-htc-touch-1.htm",
+    "title": "Обзор коммуникатора HTC Touch",
+    "published_at": "04.09.2007",
+    "accessed_at": "2026-09-23T09:01:05.133449+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/expromt/obzor-kommunikatora-htc-touch-1.htm",
+    "html_sha256": "da905d4e8257e6606be5208c70f724112641bf55367a23ad9e79e6294060bd24",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-033"
+    ]
+  },
+  {
+    "id": "S38",
+    "url": "https://exler.es/ezhe/kak-my-ezdili-na-maldivy.htm",
+    "title": "Как мы ездили на Мальдивы",
+    "published_at": "31.03.2008",
+    "accessed_at": "2026-09-23T09:01:04.586621+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/ezhe/kak-my-ezdili-na-maldivy.htm",
+    "html_sha256": "393e102965779bec5a08ca1ff7a06696c4c66fd012b002e6fe794780a7110b6f",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-034"
+    ]
+  },
+  {
+    "id": "S39",
+    "url": "https://exler.es/blog/restoranchik-dlya-moskvichej-v-vegase.htm",
+    "title": "Ресторанчик для москвичей в Вегасе",
+    "published_at": "15.04.2011 10:04",
+    "accessed_at": "2026-09-23T09:14:28.809388+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/restoranchik-dlya-moskvichej-v-vegase.htm",
+    "html_sha256": "72c1350ce834bdd83b46fc171b755dc75340c5209f2d3a9c5a71a7e7b692c5ee",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-035"
+    ]
+  },
+  {
+    "id": "S40",
+    "url": "https://exler.es/blog/lyubimyj-restoran-dostoevskogo.htm",
+    "title": "Любимый ресторан Достоевского",
+    "published_at": "09.04.2010 13:20",
+    "accessed_at": "2026-09-23T09:14:28.679825+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/lyubimyj-restoran-dostoevskogo.htm",
+    "html_sha256": "978f7e60fda632336e2d184d716ec5a4927fc9b96c667c978b3b919c8d9cc546",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-036"
+    ]
+  },
+  {
+    "id": "S41",
+    "url": "https://exler.es/blog/Budni_maniani_dushevaya_kabinka.htm",
+    "title": "Будни маньяны: душевая кабинка",
+    "published_at": "20.02.2019 10:04",
+    "accessed_at": "2026-09-23T09:17:45.261303+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/Budni_maniani_dushevaya_kabinka.htm",
+    "html_sha256": "65308d13ef483d6e0af7ff2ebf80a087de9fb1bdb94c626b805551bc7b3c76ac",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-037"
+    ]
+  },
+  {
+    "id": "S42",
+    "url": "https://exler.es/blog/albarino-iz-merkadony.htm",
+    "title": "Альбариньо из \"Меркадоны\"",
+    "published_at": "15.09.2019 12:04",
+    "accessed_at": "2026-09-23T09:16:17.220217+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/albarino-iz-merkadony.htm",
+    "html_sha256": "dc63a378265ea4dbe5bc6c6822b233c613b2fc4d476a9054edc92fbe4c8d5990",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-038"
+    ]
+  },
+  {
+    "id": "S43",
+    "url": "https://exler.es/blog/vopros-zalu-ambushyury-naushnikov.htm",
+    "title": "Вопрос залу - амбушюры наушников",
+    "published_at": "27.06.2025 12:00",
+    "accessed_at": "2026-09-23T09:02:39.881040+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/vopros-zalu-ambushyury-naushnikov.htm",
+    "html_sha256": "d8af9db0779fa021c1724a3c09aa5ca956ca16794ac61306d6e28a34d32b61e4",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-039"
+    ]
+  },
+  {
+    "id": "S44",
+    "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-211.htm",
+    "title": "Делимся находками из китайских магазинов",
+    "published_at": "23.02.2025",
+    "accessed_at": "2026-09-23T09:01:04.820596+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-211.htm",
+    "html_sha256": "7efa71a045185493c517ad8db36b87b6686a6c04ad04d657fc58400481cfdf83",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-040"
+    ]
+  },
+  {
+    "id": "S45",
+    "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-200.htm",
+    "title": "Делимся находками из китайских магазинов",
+    "published_at": "10.11.2024",
+    "accessed_at": "2026-09-23T09:01:14.834582+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-200.htm",
+    "html_sha256": "c9b33fb85b23d36b812a495393fb9f0faa614b746ed1a8fdfb58e13bfc639ed3",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-041"
+    ]
+  },
+  {
+    "id": "S46",
+    "url": "https://exler.es/expromt/obzor-umnyh-vesov-huawei-scale-3-pro.htm",
+    "title": "Обзор умных весов Huawei Scale 3 Pro",
+    "published_at": "14.10.2025",
+    "accessed_at": "2026-09-23T09:04:47.896899+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/expromt/obzor-umnyh-vesov-huawei-scale-3-pro.htm",
+    "html_sha256": "37f78d2c0ab61eebdf401832fc0d4729a64ea0398eac6c76da32e8f4718b6783",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-042"
+    ]
+  },
+  {
+    "id": "S47",
+    "url": "https://exler.es/blog/bystro-kupit-kompyuternoye-kreslo.htm",
+    "title": "Быстро купить компьютерное кресло",
+    "published_at": "19.01.2025 13:00",
+    "accessed_at": "2026-09-23T09:04:58.405709+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/bystro-kupit-kompyuternoye-kreslo.htm",
+    "html_sha256": "5f28a9caeaec1af71e375b6df185558cf88b21a7534c51d8818634e8c39167a2",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-043"
+    ]
+  },
+  {
+    "id": "S48",
+    "url": "https://exler.es/expromt/obzor-umnyh-chasov-samsung-galaxy-watch-ultra.htm",
+    "title": "Обзор умных часов Samsung Galaxy Watch Ultra",
+    "published_at": "21.10.2025",
+    "accessed_at": "2026-09-23T09:04:48.180622+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/expromt/obzor-umnyh-chasov-samsung-galaxy-watch-ultra.htm",
+    "html_sha256": "2aa7389f51313bb9e7f6d0097797a6fcee5d939d3d4d2b43703235f026fbe619",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-044"
+    ]
+  },
+  {
+    "id": "S49",
+    "url": "https://exler.es/blog/novyye-chasy-samsung-galaxy-watch-ultra.htm",
+    "title": "Новые часы Samsung Galaxy Watch Ultra",
+    "published_at": "21.07.2026 11:00",
+    "accessed_at": "2026-09-23T09:14:28.928601+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/novyye-chasy-samsung-galaxy-watch-ultra.htm",
+    "html_sha256": "25f1c14aded6735f1fba9537abe503be964ffce9d3c9832293b1650832ce1c3f",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-044"
+    ]
+  },
+  {
+    "id": "S50",
+    "url": "https://exler.es/expromt/moj-spisok-rekomendovannyh-smartfonov-4.htm",
+    "title": "Мой список рекомендованных смартфонов",
+    "published_at": "22.04.2025",
+    "accessed_at": "2026-09-23T09:01:04.797920+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/expromt/moj-spisok-rekomendovannyh-smartfonov-4.htm",
+    "html_sha256": "1ffd2651e71a1dc4e799667753d554d9153aa1f044d2b0a0499d21b44b3d06f1",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-045"
+    ]
+  },
+  {
+    "id": "S51",
+    "url": "https://exler.es/expromt/obzor-plansheta-redmi-pad-se-nedorogo-i-horosho.htm",
+    "title": "Обзор планшета Redmi Pad SE - недорого и хорошо",
+    "published_at": "21.05.2024",
+    "accessed_at": "2026-09-23T09:05:17.062077+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/expromt/obzor-plansheta-redmi-pad-se-nedorogo-i-horosho.htm",
+    "html_sha256": "cfd224e6186be4d0d90082bd460f032d19a82153e925a3bdcf1e81bbcf4137ee",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-046"
+    ]
+  },
+  {
+    "id": "S52",
+    "url": "https://exler.es/expromt/obzor-novogo-topovogo-plansheta-xiaomi-pad-7.htm",
+    "title": "Обзор нового топового планшета Xiaomi Pad 7",
+    "published_at": "18.03.2025",
+    "accessed_at": "2026-09-23T09:04:47.970219+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/expromt/obzor-novogo-topovogo-plansheta-xiaomi-pad-7.htm",
+    "html_sha256": "025b2f69958dba954dfd4a101601bbefddefe857e65cd966b888582dc8cf5998",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-046"
+    ]
+  },
+  {
+    "id": "S53",
+    "url": "https://exler.es/blog/priyekhala-moya-pre-ye-ye-ye-yelest.htm",
+    "title": "Приехала моя пре-е-е-е-елесть",
+    "published_at": "11.12.2024 17:21",
+    "accessed_at": "2026-09-23T09:04:58.211782+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/priyekhala-moya-pre-ye-ye-ye-yelest.htm",
+    "html_sha256": "645ddfcbc7dfebb481aafc664ca9dde438611d21727ff1a7ab73db2d65602f8e",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-047"
+    ]
+  },
+  {
+    "id": "S54",
+    "url": "https://exler.es/expromt/besshovnaya-besprovodnaya-set-dlya-doma-tenda-nova-wifi-mesh-ac2100-mw12.htm",
+    "title": "Бесшовная беспроводная сеть для дома Tenda Nova WiFi Mesh AC2100 MW12",
+    "published_at": "30.11.2022",
+    "accessed_at": "2026-09-23T09:05:43.414754+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/expromt/besshovnaya-besprovodnaya-set-dlya-doma-tenda-nova-wifi-mesh-ac2100-mw12.htm",
+    "html_sha256": "147b5c2d418854625b3159071b0dc8badcc3dff6a33a279b5a3737da2f02d36b",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-048"
+    ]
+  },
+  {
+    "id": "S55",
+    "url": "https://exler.es/blog/i-snova-manyana.htm",
+    "title": "И снова маньяна",
+    "published_at": "30.09.2022 10:04",
+    "accessed_at": "2026-09-23T09:05:52.657235+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/i-snova-manyana.htm",
+    "html_sha256": "1bd833017a3aaa6ee6e99a77981e8071fed54060bda80979605b61ea1b597740",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-049"
+    ]
+  },
+  {
+    "id": "S56",
+    "url": "https://exler.es/blog/superskorostnoy-internet-doma.htm",
+    "title": "Суперскоростной Интернет дома",
+    "published_at": "13.02.2026 11:00",
+    "accessed_at": "2026-09-23T09:06:00.994379+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/superskorostnoy-internet-doma.htm",
+    "html_sha256": "bf3c028dcc32a9ff0d4089221230acd95608f0de6d8c3331761c7dd5482cfd45",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-050"
+    ]
+  },
+  {
+    "id": "S57",
+    "url": "https://exler.es/blog/poprobovat-krutoye-shabli.htm",
+    "title": "Попробовать крутое шабли",
+    "published_at": "19.04.2023 09:00",
+    "accessed_at": "2026-09-23T09:05:34.946710+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/poprobovat-krutoye-shabli.htm",
+    "html_sha256": "ac0eca676e71e74ed9c261170c9fdbe769989712035d9fadde20d30f87875473",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-051"
+    ]
+  },
+  {
+    "id": "S58",
+    "url": "https://exler.es/blog/krutoy-magazinchik.htm",
+    "title": "Крутой магазинчик",
+    "published_at": "11.06.2023 13:00",
+    "accessed_at": "2026-09-23T09:05:26.234510+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/krutoy-magazinchik.htm",
+    "html_sha256": "7ab9f828a78479df7244017ed783eb3636b3ef0416a69f14a24784b1831265a2",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-052"
+    ]
+  },
+  {
+    "id": "S59",
+    "url": "https://exler.es/blog/v-nazvanii-net-bukvy-zyu.htm",
+    "title": "В названии нет буквы \"зю\"",
+    "published_at": "31.07.2021 12:04",
+    "accessed_at": "2026-09-23T09:05:57.579979+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/v-nazvanii-net-bukvy-zyu.htm",
+    "html_sha256": "3da09ca79c6fe04619fff83eff4f54dca104502dd48325295cde9f8167788a71",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-053"
+    ]
+  },
+  {
+    "id": "S60",
+    "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-189.htm",
+    "title": "Делимся находками из китайских магазинов",
+    "published_at": "11.08.2024",
+    "accessed_at": "2026-09-23T09:01:13.988627+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-189.htm",
+    "html_sha256": "faef2c476600a44514da2bb38fc1eeb74b11a5bc45a0902d7289e1d3ea39296e",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-054"
+    ]
+  },
+  {
+    "id": "S61",
+    "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-210.htm",
+    "title": "Делимся находками из китайских магазинов",
+    "published_at": "16.02.2025",
+    "accessed_at": "2026-09-23T09:14:36.750744+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-210.htm",
+    "html_sha256": "111b3a7e93b1c0c8d26bee7551c4aee68223693077e494eb7ba29b73a0a03820",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-055"
+    ]
+  },
+  {
+    "id": "S62",
+    "url": "https://exler.es/blog/obed-v-portu.htm",
+    "title": "Обед в порту",
+    "published_at": "11.11.2024 10:00",
+    "accessed_at": "2026-09-23T09:05:07.685736+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/obed-v-portu.htm",
+    "html_sha256": "f0e9d8857a7fc3b8f8d7281f6ae8ab8e069006a96cfd94f7351621ffdee35498",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-056"
+    ]
+  },
+  {
+    "id": "S63",
+    "url": "https://exler.es/blog/rezultaty-akcii-quot-sajtu-exler-ru-18-let-quot.htm",
+    "title": "Результаты акции \"Сайту Exler.ru - 18 лет\"",
+    "published_at": "20.01.2017 17:44",
+    "accessed_at": "2026-09-23T09:15:46.540446+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/rezultaty-akcii-quot-sajtu-exler-ru-18-let-quot.htm",
+    "html_sha256": "4ad1a066ecaaae9501748ce0777c83e0de2cd10dda51a070c06067b469662f98",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-057"
+    ]
+  },
+  {
+    "id": "S64",
+    "url": "https://exler.es/blog/itogi-akcii-podderzhki-na-19-letie-sajta-exler-ru.htm",
+    "title": "Итоги акции поддержки на 19-летие сайта Exler.ru",
+    "published_at": "14.02.2018 14:34",
+    "accessed_at": "2026-09-23T09:15:46.293374+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/itogi-akcii-podderzhki-na-19-letie-sajta-exler-ru.htm",
+    "html_sha256": "ac8f94b878cefad72f15a6ddbd418b9ddeb772f52d5be3064177bb417e12757a",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-057"
+    ]
+  },
+  {
+    "id": "S65",
+    "url": "https://exler.es/blog/saytu-exlerru-20-let-itogi-aktsii.htm",
+    "title": "Сайту Exler.ru 20 лет - итоги акции",
+    "published_at": "22.01.2019 10:04",
+    "accessed_at": "2026-09-23T09:16:08.072013+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/saytu-exlerru-20-let-itogi-aktsii.htm",
+    "html_sha256": "b6a82963f1b5b2c86a0823bfd95f2f2abbbf9433b0ca64183b2956ef4a9f3483",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-057"
+    ]
+  },
+  {
+    "id": "S66",
+    "url": "https://exler.es/blog/saytu-exlerru-nuzhna-pomoshch.htm",
+    "title": "Сайту Exler.ru нужна поддержка",
+    "published_at": "01.12.2023 10:37",
+    "accessed_at": "2026-09-23T09:05:26.427986+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/saytu-exlerru-nuzhna-pomoshch.htm",
+    "html_sha256": "be297c708ba26fa7e88dbf0c371be4080342e3233fe9aa92bfd7a8d1b655ab75",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-058"
+    ]
+  },
+  {
+    "id": "S67",
+    "url": "https://exler.es/blog/vasha-podderzhka-sayta-exlerru.htm",
+    "title": "Ваша поддержка сайта Exler.ru",
+    "published_at": "04.03.2024 10:00",
+    "accessed_at": "2026-09-23T09:05:26.533174+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/vasha-podderzhka-sayta-exlerru.htm",
+    "html_sha256": "242739fb31f849f0653ace119eef20b2e98c68cf0d5f1ec0cf960d066bc501c5",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-058"
+    ]
+  },
+  {
+    "id": "S68",
+    "url": "https://exler.es/blog/vasha-podderzhka-sayta-exlerru-2.htm",
+    "title": "Ваша поддержка сайта Exler.ru",
+    "published_at": "03.04.2024 15:16",
+    "accessed_at": "2026-09-23T09:05:26.379837+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/vasha-podderzhka-sayta-exlerru-2.htm",
+    "html_sha256": "ce23cc280898122209f6bc51f246b2ebf90bc2845688fd69cb97cedb8cfdb27c",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-058"
+    ]
+  },
+  {
+    "id": "S69",
+    "url": "https://exler.es/blog/vasha-podderzhka-sayta-exlerru-3.htm",
+    "title": "Ваша поддержка сайта Exler.ru",
+    "published_at": "02.05.2024 09:30",
+    "accessed_at": "2026-09-23T09:05:18.602328+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/vasha-podderzhka-sayta-exlerru-3.htm",
+    "html_sha256": "c20cf533358b8ffcd3468f3fee60ebbeed13d2d88be1e960948346c2b6ccf3b2",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-058"
+    ]
+  },
+  {
+    "id": "S70",
+    "url": "https://exler.es/blog/vasha-pomoshch-saytu-exlerru.htm",
+    "title": "Ваша помощь сайту Exler.ru",
+    "published_at": "02.06.2024 10:00",
+    "accessed_at": "2026-09-23T09:05:18.403651+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/vasha-pomoshch-saytu-exlerru.htm",
+    "html_sha256": "58b840cef4495b390b7c3ad4a0dce79c7ea8d2bd0004c7b02b1dea197de106ec",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-058"
+    ]
+  },
+  {
+    "id": "S71",
+    "url": "https://exler.es/blog/vasha-podderzhka-sayta-exlerru-4.htm",
+    "title": "Ваша поддержка сайта Exler.ru",
+    "published_at": "01.08.2024 10:00",
+    "accessed_at": "2026-09-23T09:05:18.729234+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/vasha-podderzhka-sayta-exlerru-4.htm",
+    "html_sha256": "f3b07e44f9e2bc1c722c4a4d3309e033631b82aa7fe708b2f1556bfb790c38de",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-058"
+    ]
+  },
+  {
+    "id": "S72",
+    "url": "https://exler.es/blog/saytu-exlerru-nuzhna-vasha-podderzhka.htm",
+    "title": "Сайту Exler.ru нужна ваша поддержка",
+    "published_at": "02.09.2024 12:23",
+    "accessed_at": "2026-09-23T09:05:18.327679+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/saytu-exlerru-nuzhna-vasha-podderzhka.htm",
+    "html_sha256": "b29b51a7723c4f5cf0467415007da26e02f287c928bd7fd3e4f3ff3871c7e2ed",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-058"
+    ]
+  },
+  {
+    "id": "S73",
+    "url": "https://exler.es/blog/sayt-exlerru-nuzhdayetsya-v-vashey-podderzhke.htm",
+    "title": "Сайт Exler.ru нуждается в вашей поддержке!",
+    "published_at": "02.10.2024 13:00",
+    "accessed_at": "2026-09-23T09:05:07.847332+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/sayt-exlerru-nuzhdayetsya-v-vashey-podderzhke.htm",
+    "html_sha256": "1ddbf381072760194bd337145bef0924d8a20c17ff8b6944847f049e42ac4ef2",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-058"
+    ]
+  },
+  {
+    "id": "S74",
+    "url": "https://exler.es/blog/sayt-exlerru-nuzhdayetsya-v-vashey-podderzhke-2.htm",
+    "title": "Сайт Exler.ru нуждается в вашей поддержке!",
+    "published_at": "01.11.2024 11:12",
+    "accessed_at": "2026-09-23T09:05:07.794553+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/sayt-exlerru-nuzhdayetsya-v-vashey-podderzhke-2.htm",
+    "html_sha256": "dfa207b2b5ebf59beb9e4c4511bd27bcb5458f7cbc1d91ffeb39a6112d92f2e7",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-058"
+    ]
+  },
+  {
+    "id": "S75",
+    "url": "https://exler.es/blog/sayt-exlerru-nuzhdayetsya-v-vashey-podderzhke-3.htm",
+    "title": "Сайт Exler.ru нуждается в вашей поддержке!",
+    "published_at": "02.12.2024 10:30",
+    "accessed_at": "2026-09-23T09:05:07.624227+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/sayt-exlerru-nuzhdayetsya-v-vashey-podderzhke-3.htm",
+    "html_sha256": "92e35aa6560bb77e2d604d994242c37c50d219c27a564955dae7e73d46498b98",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-058"
+    ]
+  },
+  {
+    "id": "S76",
+    "url": "https://exler.es/blog/bez-vashey-podderzhki-sayta-exlerru-ne-budet.htm",
+    "title": "Без вашей поддержки сайта Exler.ru не будет",
+    "published_at": "02.03.2025 11:10",
+    "accessed_at": "2026-09-23T09:04:58.083890+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/bez-vashey-podderzhki-sayta-exlerru-ne-budet.htm",
+    "html_sha256": "25fc4b39477064c21f8c9d1b55b7a4f07d679f168523cdc67c2890a6e69ae40b",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-058"
+    ]
+  },
+  {
+    "id": "S77",
+    "url": "https://exler.es/blog/bez-vashey-podderzhki-sayta-exlerru-ne-budet-2.htm",
+    "title": "Без вашей поддержки сайта Exler.ru не будет",
+    "published_at": "01.05.2025 11:00",
+    "accessed_at": "2026-09-23T09:04:57.913999+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/bez-vashey-podderzhki-sayta-exlerru-ne-budet-2.htm",
+    "html_sha256": "2c31544061b5fec74ead0d2d9c29ea46e6b5ecba5e7dc38cb49fd473d1cf14d7",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-058"
+    ]
+  },
+  {
+    "id": "S78",
+    "url": "https://exler.es/blog/bez-vashey-podderzhki-sayta-exlerru-ne-budet-3.htm",
+    "title": "Без вашей поддержки сайта Exler.ru не будет",
+    "published_at": "02.06.2025 11:30",
+    "accessed_at": "2026-09-23T09:04:57.803299+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/bez-vashey-podderzhki-sayta-exlerru-ne-budet-3.htm",
+    "html_sha256": "2685369d32fedd3bc9418a79343e77aa911544d33f7cf570b37515e17a0e1a6d",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-058"
+    ]
+  },
+  {
+    "id": "S79",
+    "url": "https://exler.es/blog/bez-vashey-podderzhki-sayta-exlerru-ne-budet-4.htm",
+    "title": "Без вашей поддержки сайта Exler.ru не будет",
+    "published_at": "01.08.2025 11:00",
+    "accessed_at": "2026-09-23T09:04:57.591832+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/bez-vashey-podderzhki-sayta-exlerru-ne-budet-4.htm",
+    "html_sha256": "7176e1db9ce90852ab94462a038abd65fbe0fcb03335fef7f5a56772947daf93",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-058"
+    ]
+  },
+  {
+    "id": "S80",
+    "url": "https://exler.es/blog/bez-vashey-pomoshchi-sayta-exlerru-ne-budet.htm",
+    "title": "Без вашей помощи сайта Exler.ru не будет!",
+    "published_at": "01.09.2025 12:00",
+    "accessed_at": "2026-09-23T09:04:49.793152+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/bez-vashey-pomoshchi-sayta-exlerru-ne-budet.htm",
+    "html_sha256": "51e932029326a5adf7dda4792bc2dd31713ccd195bb6190c038c5d5fdda29ec2",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-058"
+    ]
+  },
+  {
+    "id": "S81",
+    "url": "https://exler.es/blog/saytu-exlerru-neobkhodima-vasha-podderzhka.htm",
+    "title": "Сайту Exler.ru необходима ваша поддержка!",
+    "published_at": "01.10.2025 14:00",
+    "accessed_at": "2026-09-23T09:04:49.606421+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/saytu-exlerru-neobkhodima-vasha-podderzhka.htm",
+    "html_sha256": "779e5b10eddfe973223f2feb76b6ee0a6796ed4cee665b85f5cabe4b3e7fd6b2",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-058"
+    ]
+  },
+  {
+    "id": "S82",
+    "url": "https://exler.es/blog/saytu-exlerru-ochen-nuzhna-vasha-podderzhka.htm",
+    "title": "Сайту Exler.ru очень нужна ваша поддержка!",
+    "published_at": "04.11.2025 11:30",
+    "accessed_at": "2026-09-23T09:04:49.720004+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/saytu-exlerru-ochen-nuzhna-vasha-podderzhka.htm",
+    "html_sha256": "1de816251d091a33426b60fdb54bc22f3c5bbbb8650bd8c9fbd120fd6e8eacd3",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-058"
+    ]
+  },
+  {
+    "id": "S83",
+    "url": "https://exler.es/blog/saytu-exleres-ochen-nuzhna-vasha-pomoshch.htm",
+    "title": "Сайту Exler.es очень нужна ваша помощь!",
+    "published_at": "02.03.2026 11:30",
+    "accessed_at": "2026-09-23T09:05:34.500653+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/saytu-exleres-ochen-nuzhna-vasha-pomoshch.htm",
+    "html_sha256": "8227e46a0fda49a47b699b91342dc803024520d9c91d17fdea6e6a8a8edc942b",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-058"
+    ]
+  },
+  {
+    "id": "S84",
+    "url": "https://exler.es/blog/saytu-exleres-ochen-nuzhna-vasha-pomoshch-2.htm",
+    "title": "Сайту Exler.es очень нужна ваша помощь!",
+    "published_at": "02.04.2026 11:00",
+    "accessed_at": "2026-09-23T09:05:34.418225+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/saytu-exleres-ochen-nuzhna-vasha-pomoshch-2.htm",
+    "html_sha256": "3729fc936b00bc94e72b0b9e44c28cc63b5b8afa3af0ae572d7f78a6469574da",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-058"
+    ]
+  },
+  {
+    "id": "S85",
+    "url": "https://exler.es/blog/bez-vashey-podderzhki-etot-sayt-ne-vyzhivet.htm",
+    "title": "Без вашей поддержки этот сайт не выживет",
+    "published_at": "04.05.2026 11:00",
+    "accessed_at": "2026-09-23T09:05:34.193581+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/bez-vashey-podderzhki-etot-sayt-ne-vyzhivet.htm",
+    "html_sha256": "9bd376885875743d74a554015d3d1b1ed4f2437987fb56bc02a635d4c26df6a0",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-058"
+    ]
+  },
+  {
+    "id": "S86",
+    "url": "https://exler.es/blog/sayte-exleres-ochen-nuzhna-vasha-podderzhka.htm",
+    "title": "Сайту Exler.es очень нужна ваша поддержка!",
+    "published_at": "02.06.2026 13:00",
+    "accessed_at": "2026-09-23T09:05:33.784026+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/sayte-exleres-ochen-nuzhna-vasha-podderzhka.htm",
+    "html_sha256": "cd578553f514962bd3b0f8c83d6172a6d812c5247824286151805a6fecfa6485",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-058"
+    ]
+  },
+  {
+    "id": "S87",
+    "url": "https://exler.es/blog/saytu-exleres-ochen-nuzhna-vasha-pomoshch-3.htm",
+    "title": "Сайту Exler.es очень нужна ваша помощь!",
+    "published_at": "01.07.2026 10:10",
+    "accessed_at": "2026-09-23T09:15:38.117224+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/saytu-exleres-ochen-nuzhna-vasha-pomoshch-3.htm",
+    "html_sha256": "edb3bc3d6d9f810d718263f3caa1c518ca88fe0d9691baf35ef3f9424fbbf878",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-058"
+    ]
+  },
+  {
+    "id": "S88",
+    "url": "https://exler.es/blog/saytu-exleres-ochen-nuzhna-vasha-podderzhka.htm",
+    "title": "Сайту Exler.es очень нужна ваша поддержка!",
+    "published_at": "02.08.2026 10:00",
+    "accessed_at": "2026-09-23T09:15:38.263804+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/saytu-exleres-ochen-nuzhna-vasha-podderzhka.htm",
+    "html_sha256": "fadfbb6fe78c5725db878a711466718501babdb6f440ec5a4206482c8f13255e",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-058"
+    ]
+  },
+  {
+    "id": "S89",
+    "url": "https://exler.es/blog/bez-vashey-podderzhki-sayt-exleres-ne-smozhet-sushchestvovat.htm",
+    "title": "Без вашей поддержки сайт Exler.es не сможет существовать",
+    "published_at": "01.09.2026 11:00",
+    "accessed_at": "2026-09-23T09:15:37.940548+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/bez-vashey-podderzhki-sayt-exleres-ne-smozhet-sushchestvovat.htm",
+    "html_sha256": "90dbd7c141ec5a842d6b199698c4fd14270d125cb4fdde1306251b84a628b4a3",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-058"
+    ]
+  },
+  {
+    "id": "S90",
+    "url": "https://exler.es/blog/novaya-blokirovka-moyego-sayta.htm",
+    "title": "Новая блокировка моего сайта",
+    "published_at": "30.06.2023 07:45",
+    "accessed_at": "2026-09-23T09:17:45.084188+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/novaya-blokirovka-moyego-sayta.htm",
+    "html_sha256": "b9784a80752550171dd64a43f120e32308557f7e97390670b96f1c563a5c3c57",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-059"
+    ]
+  },
+  {
+    "id": "S91",
+    "url": "https://exler.es/blog/ocherednoy-domen-dlya-rf-tozhe-zablokirovali.htm",
+    "title": "Очередной домен для РФ тоже заблокировали",
+    "published_at": "03.10.2025 16:40",
+    "accessed_at": "2026-09-23T09:17:44.904817+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/ocherednoy-domen-dlya-rf-tozhe-zablokirovali.htm",
+    "html_sha256": "4a6384daa8133423bd749e0ba17aa6b04bc52709e53d6e676d49c9b7b0b97207",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-059"
+    ]
+  },
+  {
+    "id": "S92",
+    "url": "https://exler.es/blog/test-drayv-novogo-restorana.htm",
+    "title": "Тест-драйв нового ресторана",
+    "published_at": "24.07.2021 19:20",
+    "accessed_at": "2026-09-23T09:17:45.070085+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/test-drayv-novogo-restorana.htm",
+    "html_sha256": "2b137e6fc25aa96f2383ba98e634b9f28d365bf3acd00a8e72a2a39c4cd13ee3",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-060"
     ]
   }
 ]

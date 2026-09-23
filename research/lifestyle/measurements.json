@@ -140,5 +140,176 @@
     "value": 380,
     "unit": "EUR",
     "status": "self_reported_final_total"
+  },
+  {
+    "id": "M12",
+    "case": "LIFE-033",
+    "inputs": {
+      "shop": 16800,
+      "alternative": 15800
+    },
+    "formula": "shop - alternative",
+    "value": 1000,
+    "unit": "RUB",
+    "status": "known_foregone_price_difference",
+    "note": "HTC: доплата за скорость — 1000 ₽; около 6,3% от альтернативных 15 800 ₽."
+  },
+  {
+    "id": "M13",
+    "case": "LIFE-028",
+    "inputs": {
+      "fridge": 850,
+      "removal": 50
+    },
+    "formula": "fridge + removal",
+    "value": 900,
+    "unit": "EUR",
+    "status": "reported_new_purchase_and_service",
+    "note": "Новый основной холодильник и вывоз: €850 + €50 = €900."
+  },
+  {
+    "id": "M14",
+    "case": "LIFE-041",
+    "inputs": {
+      "paid": 239,
+      "offer": 173
+    },
+    "formula": "paid - offer",
+    "value": 66,
+    "unit": "EUR",
+    "status": "later_coupon_offer_difference_not_realized_saving",
+    "note": "CMF: €239 − €173 = €66; условия купона не равны доказанной доступности того же заказа."
+  },
+  {
+    "id": "M15",
+    "case": "LIFE-042",
+    "inputs": {
+      "amazon": 199,
+      "paid_chinese_version": 86
+    },
+    "formula": "amazon - paid_chinese_version",
+    "value": 113,
+    "unit": "EUR",
+    "status": "different_regional_versions_offer_difference",
+    "note": "Весы: €113 разницы между предложением Amazon и оплатой китайской версии."
+  },
+  {
+    "id": "M16",
+    "case": "LIFE-043",
+    "inputs": {
+      "paid": 159,
+      "planned": 150
+    },
+    "formula": "paid - planned",
+    "value": 9,
+    "unit": "EUR",
+    "status": "purchase_over_initial_target",
+    "note": "Кресло: €159 − €150 = €9 сверх первоначального ориентира."
+  },
+  {
+    "id": "M17",
+    "case": "LIFE-047",
+    "inputs": {
+      "comparable_floor": 1800,
+      "paid": 1092
+    },
+    "formula": "comparable_floor - paid",
+    "value": 708,
+    "unit": "EUR",
+    "status": "author_comparable_configuration_offer_difference",
+    "note": "Ноутбук: €708 разницы с нижней границей авторского сравнения похожих конфигураций."
+  },
+  {
+    "id": "M18",
+    "case": "LIFE-049",
+    "inputs": {
+      "taxi": 130,
+      "bus": 10
+    },
+    "formula": "taxi - bus",
+    "value": 120,
+    "unit": "EUR",
+    "status": "alternative_modes_fare_difference",
+    "note": "В аэропорт: €120 разницы между названными тарифами такси и автобуса."
+  },
+  {
+    "id": "M19",
+    "case": "LIFE-050",
+    "inputs": {
+      "old": 75,
+      "current": 54
+    },
+    "formula": "old - current",
+    "value": 21,
+    "unit": "EUR/month",
+    "status": "reported_completed_tariff_change",
+    "note": "Интернет: состоявшееся снижение платы на €21 в месяц."
+  },
+  {
+    "id": "M20",
+    "case": "LIFE-050",
+    "inputs": {
+      "current": 54,
+      "proposed": 25
+    },
+    "formula": "current - proposed",
+    "value": 29,
+    "unit": "EUR/month",
+    "status": "proposed_tariff_difference_before_hardware_cost",
+    "note": "Интернет: возможные €29 в месяц по новому предложению; переход и стоимость оборудования не подтверждены."
+  },
+  {
+    "id": "M21",
+    "case": "LIFE-053",
+    "inputs": {
+      "total": 100,
+      "oysters": 60
+    },
+    "formula": "total / oysters",
+    "value": 1.6666666666666667,
+    "unit": "EUR/oyster",
+    "status": "group_purchase_unit_price",
+    "note": "Устрицы: €100 / 60 = около €1,67 за штуку."
+  },
+  {
+    "id": "M22",
+    "case": "LIFE-035",
+    "inputs": {
+      "bill": 400,
+      "people": 3
+    },
+    "formula": "bill / people",
+    "value": 133.33333333333334,
+    "unit": "USD/person",
+    "status": "group_bill_average_not_individual_payment",
+    "note": "Лас-Вегас: средняя доля счёта около $133,33 на человека, включая чаевые."
+  },
+  {
+    "id": "M23",
+    "case": "LIFE-036",
+    "inputs": {
+      "bill": 90,
+      "people": 4
+    },
+    "formula": "bill / people",
+    "value": 22.5,
+    "unit": "EUR/person",
+    "status": "group_bill_average_not_individual_payment",
+    "note": "Кипр: средняя доля счёта €22,50 на человека."
+  },
+  {
+    "id": "M24",
+    "case": "LIFE-058",
+    "inputs": {
+      "2023": 1,
+      "2024": 9,
+      "2025": 8,
+      "2026": 7
+    },
+    "formula": "sum(year_counts)",
+    "value": 25,
+    "unit": "posts",
+    "status": "observed_standalone_support_publications",
+    "note": "25 отдельных обращений: 1 + 9 + 8 + 7; 2026 год неполный."
   }
 ]

@@ -1,0 +1,47 @@
+{
+  "checked_at": "2026-09-23",
+  "database": {
+    "posts": 10887,
+    "pages": 44,
+    "first_publication": "2021-05-19",
+    "last_publication": "2026-06-17",
+    "author_comment_rows_screened": 19662
+  },
+  "site_expansion": {
+    "downloaded_pages": 203,
+    "effective_index_pages": 90,
+    "direct_pages_with_article": 109,
+    "non_result_index_pages": 4,
+    "unique_posts_from_indexes_and_pages": 4421,
+    "comments_with_text": 9824,
+    "alex_comments": 1102
+  },
+  "cult_expansion": {
+    "downloaded_pages": 403,
+    "unique_index_and_full_records": 546,
+    "full_post_bodies": 302,
+    "comments_with_text": 2202,
+    "selected_leads": 13,
+    "unavailable": [
+      "https://exler-cult.livejournal.com/1485283.html",
+      "https://exler-cult.livejournal.com/1568331.html?page=17"
+    ]
+  },
+  "result": {
+    "cases": 60,
+    "added_cases": 28,
+    "extended_existing_chains": [
+      "LIFE-019",
+      "LIFE-028"
+    ],
+    "primary_sources": 92,
+    "selected_author_comments": 12,
+    "standalone_support_posts": 25,
+    "calculations": 24
+  },
+  "limitations": [
+    "Machine retrieval counts are not claims of full manual reading.",
+    "Cult comment pages contain collapsed or unavailable replies.",
+    "Database ends in June 2026; later material was collected from live site pages."
+  ]
+}
