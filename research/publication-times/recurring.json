@@ -1,0 +1,694 @@
+{
+  "friday_song": {
+    "posts": 25,
+    "weekday_counts": {
+      "4": 25
+    },
+    "clock_counts": {
+      "18:00": 23,
+      "18:15": 1,
+      "18:30": 1
+    },
+    "examples": [
+      {
+        "url": "https://exler.es/blog/pyatnishnaya-pesenka-452.htm",
+        "title": "Пятнишная песенка",
+        "published_at": "2026-03-27T18:00"
+      },
+      {
+        "url": "https://exler.es/blog/pyatnishnaya-pesenka-453.htm",
+        "title": "Пятнишная песенка",
+        "published_at": "2026-04-03T18:00"
+      },
+      {
+        "url": "https://exler.es/blog/pyatnishnaya-pesenka-454.htm",
+        "title": "Пятнишная песенка",
+        "published_at": "2026-04-10T18:00"
+      },
+      {
+        "url": "https://exler.es/blog/pyatnishnaya-pesenka-455.htm",
+        "title": "Пятнишная песенка",
+        "published_at": "2026-04-17T18:00"
+      },
+      {
+        "url": "https://exler.es/blog/pyatnishnaya-pesenka-456.htm",
+        "title": "Пятнишная песенка",
+        "published_at": "2026-04-24T18:00"
+      },
+      {
+        "url": "https://exler.es/blog/pyatnishnaya-pesenka-457.htm",
+        "title": "Пятнишная песенка",
+        "published_at": "2026-05-01T18:00"
+      },
+      {
+        "url": "https://exler.es/blog/pyatnishnaya-pesenka-458.htm",
+        "title": "Пятнишная песенка",
+        "published_at": "2026-05-08T18:00"
+      },
+      {
+        "url": "https://exler.es/blog/pyatnishnaya-pesenka-459.htm",
+        "title": "Пятнишная песенка",
+        "published_at": "2026-05-15T18:00"
+      },
+      {
+        "url": "https://exler.es/blog/pyatnishnaya-pesenka-460.htm",
+        "title": "Пятнишная песенка",
+        "published_at": "2026-05-22T18:00"
+      },
+      {
+        "url": "https://exler.es/blog/pyatnishnaya-pesenka-461.htm",
+        "title": "Пятнишная песенка",
+        "published_at": "2026-05-29T18:00"
+      },
+      {
+        "url": "https://exler.es/blog/pyatnishnaya-pesenka-462.htm",
+        "title": "Пятнишная песенка",
+        "published_at": "2026-06-05T18:00"
+      },
+      {
+        "url": "https://exler.es/blog/pyatnishnaya-pesenka-464.htm",
+        "title": "Пятнишная песенка",
+        "published_at": "2026-06-12T18:00"
+      },
+      {
+        "url": "https://exler.es/blog/pyatnishnaya-pesenka-465.htm",
+        "title": "Пятнишная песенка",
+        "published_at": "2026-06-19T18:00"
+      },
+      {
+        "url": "https://exler.es/blog/pyatnishnaya-pesenka-467.htm",
+        "title": "Пятнишная песенка",
+        "published_at": "2026-07-03T18:15"
+      },
+      {
+        "url": "https://exler.es/blog/pyatnishnaya-pesenka-468.htm",
+        "title": "Пятнишная песенка",
+        "published_at": "2026-07-10T18:00"
+      },
+      {
+        "url": "https://exler.es/blog/pyatnishnaya-pesenka-469.htm",
+        "title": "Пятнишная песенка",
+        "published_at": "2026-07-17T18:00"
+      },
+      {
+        "url": "https://exler.es/blog/pyatnishnaya-pesenka-470.htm",
+        "title": "Пятнишная песенка",
+        "published_at": "2026-07-24T18:00"
+      },
+      {
+        "url": "https://exler.es/blog/pyatnishnaya-pesenka-471.htm",
+        "title": "Пятнишная песенка",
+        "published_at": "2026-07-31T18:30"
+      },
+      {
+        "url": "https://exler.es/blog/pyatnishnaya-pesenka-472.htm",
+        "title": "Пятнишная песенка",
+        "published_at": "2026-08-07T18:00"
+      },
+      {
+        "url": "https://exler.es/blog/pyatnishnaya-pesenka-473.htm",
+        "title": "Пятнишная песенка",
+        "published_at": "2026-08-14T18:00"
+      },
+      {
+        "url": "https://exler.es/blog/pyatnishnaya-pesenka-474.htm",
+        "title": "Пятнишная песенка",
+        "published_at": "2026-08-21T18:00"
+      },
+      {
+        "url": "https://exler.es/blog/pyatnishnaya-pesenka-475.htm",
+        "title": "Пятнишная песенка",
+        "published_at": "2026-08-28T18:00"
+      },
+      {
+        "url": "https://exler.es/blog/pyatnishnaya-pesenka-476.htm",
+        "title": "Пятнишная песенка",
+        "published_at": "2026-09-04T18:00"
+      },
+      {
+        "url": "https://exler.es/blog/pyatnishnaya-pesenka-477.htm",
+        "title": "Пятнишная песенка",
+        "published_at": "2026-09-11T18:00"
+      },
+      {
+        "url": "https://exler.es/blog/pyatnishnaya-pesenka-478.htm",
+        "title": "Пятнишная песенка",
+        "published_at": "2026-09-18T18:00"
+      }
+    ]
+  },
+  "bannizm": {
+    "posts": 24,
+    "weekday_counts": {
+      "4": 24
+    },
+    "clock_counts": {
+      "12:10": 1,
+      "11:16": 2,
+      "11:31": 1,
+      "12:26": 1,
+      "10:00": 1,
+      "12:00": 2,
+      "11:45": 1,
+      "12:08": 1,
+      "11:50": 1,
+      "12:14": 2,
+      "12:03": 1,
+      "11:56": 1,
+      "12:50": 1,
+      "13:33": 1,
+      "12:15": 1,
+      "12:36": 1,
+      "12:12": 1,
+      "13:06": 1,
+      "10:48": 1,
+      "12:46": 1,
+      "11:51": 1
+    },
+    "examples": [
+      {
+        "url": "https://exler.es/bannizm/chestnye-massazhopy-sploshnogo-gortanobesiya.htm",
+        "title": "Баннизмы | Честные массажопы сплошного гортанобесия",
+        "published_at": "2026-04-03T12:10"
+      },
+      {
+        "url": "https://exler.es/bannizm/slivnye-denty-planetarnyh-ldov.htm",
+        "title": "Баннизмы | Сливные денты планетарных льдов",
+        "published_at": "2026-04-10T11:16"
+      },
+      {
+        "url": "https://exler.es/bannizm/nostalgichnye-kalushata-borshevyh-raket.htm",
+        "title": "Баннизмы | Ностальгичные калушата борщевых ракет",
+        "published_at": "2026-04-17T11:31"
+      },
+      {
+        "url": "https://exler.es/bannizm/sgushenye-novacii-zlachnyh-bahil.htm",
+        "title": "Баннизмы | Сгущеные новации злачных бахил",
+        "published_at": "2026-04-24T12:26"
+      },
+      {
+        "url": "https://exler.es/bannizm/muzhickie-ekonomii-laskovyh-bryuk-nbsp.htm",
+        "title": "Баннизмы | Мужицкие экономии ласковых брюк",
+        "published_at": "2026-05-08T10:00"
+      },
+      {
+        "url": "https://exler.es/bannizm/kunstkamernye-videonablyudeniya-osvezhayushih.htm",
+        "title": "Баннизмы | Кунсткамерные видеонаблюдения освежающих зебр",
+        "published_at": "2026-05-15T12:00"
+      },
+      {
+        "url": "https://exler.es/bannizm/poroshkovye-sake-inozemnyh-narechij.htm",
+        "title": "Баннизмы | Порошковые саке иноземных наречий",
+        "published_at": "2026-05-22T11:45"
+      },
+      {
+        "url": "https://exler.es/bannizm/volejbolnye-hinkalychi-kulturnoj-shaurmy.htm",
+        "title": "Баннизмы | Волейбольные хинкалычи культурной шаурмы",
+        "published_at": "2026-05-29T12:08"
+      },
+      {
+        "url": "https://exler.es/bannizm/korallovyj-polotenec-uspeshnogo-zaloga.htm",
+        "title": "Баннизмы | Знатный хлопок успешного залога",
+        "published_at": "2026-06-05T12:00"
+      },
+      {
+        "url": "https://exler.es/bannizm/edinorozhnye-brojlery-orushih-princess.htm",
+        "title": "Баннизмы | Единорожные бройлеры орущих принцесс",
+        "published_at": "2026-06-12T11:50"
+      },
+      {
+        "url": "https://exler.es/bannizm/tverdye-punktuacii-myagkih-fluktuacij.htm",
+        "title": "Баннизмы | Твердые пунктуации мягких флуктуаций",
+        "published_at": "2026-06-19T12:14"
+      },
+      {
+        "url": "https://exler.es/bannizm/odnozhopikovye-protivopokazaniya-neozhidannyh-priznanij.htm",
+        "title": "Баннизмы | Одножопиковые противопоказания неожиданных признаний",
+        "published_at": "2026-06-26T12:03"
+      },
+      {
+        "url": "https://exler.es/bannizm/filosofskie-chity-bystryh-okislenij.htm",
+        "title": "Баннизмы | Философские читы быстрых окислений",
+        "published_at": "2026-07-03T11:56"
+      },
+      {
+        "url": "https://exler.es/bannizm/uvelichenie-rekonstrukcij-andryuhinogo-stazha.htm",
+        "title": "Баннизмы | Увеличение реконструкций андрюхиного стажа",
+        "published_at": "2026-07-10T12:50"
+      },
+      {
+        "url": "https://exler.es/bannizm/horoshee-obrashenie-rabotyashih-medsester.htm",
+        "title": "Баннизмы | Хорошее обращение работящих медсестер",
+        "published_at": "2026-07-17T13:33"
+      },
+      {
+        "url": "https://exler.es/bannizm/volodinskie-kukly-korotkih-stomatologov.htm",
+        "title": "Баннизмы | Володинские куклы коротких стоматологов",
+        "published_at": "2026-07-24T12:15"
+      },
+      {
+        "url": "https://exler.es/bannizm/nepotoplyaemye-zatknyuhiny-nebesnyh-vrat.htm",
+        "title": "Баннизмы | Непотопляемые заткнюхины небесных врат",
+        "published_at": "2026-07-31T12:36"
+      },
+      {
+        "url": "https://exler.es/bannizm/unesyonnye-bulki-kulturnyh-povrezhdenij.htm",
+        "title": "Баннизмы | Унесённые бульки культурных повреждений",
+        "published_at": "2026-08-07T12:12"
+      },
+      {
+        "url": "https://exler.es/bannizm/podgotovlennye-veliki-absentnyh-klatc.htm",
+        "title": "Баннизмы | Подготовленные велики абсентных клатц",
+        "published_at": "2026-08-14T13:06"
+      },
+      {
+        "url": "https://exler.es/bannizm/voskurennaya-rodina-polovinok-otcev.htm",
+        "title": "Баннизмы | Воскуренная родина половинок отцев",
+        "published_at": "2026-08-21T10:48"
+      },
+      {
+        "url": "https://exler.es/bannizm/sosedskie-semi-solyonyh-hristian.htm",
+        "title": "Баннизмы | Соседские семьи солёных христиан",
+        "published_at": "2026-08-28T11:16"
+      },
+      {
+        "url": "https://exler.es/bannizm/rukastye-ryby-kovanyh-byvshih.htm",
+        "title": "Баннизмы | Рукастые рыбы кованых бывших",
+        "published_at": "2026-09-04T12:14"
+      },
+      {
+        "url": "https://exler.es/bannizm/infrakrasnye-aromagii-modnogo-meridiana.htm",
+        "title": "Баннизмы | Инфракрасные аромагии модного меридиана",
+        "published_at": "2026-09-11T12:46"
+      },
+      {
+        "url": "https://exler.es/bannizm/pylkie-skralbukingi-okeanskih-muh.htm",
+        "title": "Баннизмы | Пылкие скралбукинги океанских мух",
+        "published_at": "2026-09-18T11:51"
+      }
+    ]
+  },
+  "ali": {
+    "posts": 25,
+    "weekday_counts": {
+      "6": 25
+    },
+    "clock_counts": {
+      "09:00": 24,
+      "09:30": 1
+    },
+    "examples": [
+      {
+        "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-263.htm",
+        "title": "Ali | Делимся находками из китайских магазинов",
+        "published_at": "2026-04-05T09:00"
+      },
+      {
+        "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-264.htm",
+        "title": "Ali | Делимся находками из китайских магазинов",
+        "published_at": "2026-04-12T09:00"
+      },
+      {
+        "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-265.htm",
+        "title": "Ali | Делимся находками из китайских магазинов",
+        "published_at": "2026-04-19T09:00"
+      },
+      {
+        "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-266.htm",
+        "title": "Ali | Делимся находками из китайских магазинов",
+        "published_at": "2026-04-26T09:30"
+      },
+      {
+        "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-267.htm",
+        "title": "Ali | Делимся находками из китайских магазинов",
+        "published_at": "2026-05-03T09:00"
+      },
+      {
+        "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-268.htm",
+        "title": "Ali | Делимся находками из китайских магазинов",
+        "published_at": "2026-05-10T09:00"
+      },
+      {
+        "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-269.htm",
+        "title": "Ali | Делимся находками из китайских магазинов",
+        "published_at": "2026-05-17T09:00"
+      },
+      {
+        "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-270.htm",
+        "title": "Ali | Делимся находками из китайских магазинов",
+        "published_at": "2026-05-24T09:00"
+      },
+      {
+        "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-271.htm",
+        "title": "Ali | Делимся находками из китайских магазинов",
+        "published_at": "2026-05-31T09:00"
+      },
+      {
+        "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-272.htm",
+        "title": "Ali | Делимся находками из китайских магазинов",
+        "published_at": "2026-06-07T09:00"
+      },
+      {
+        "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-273.htm",
+        "title": "Ali | Делимся находками из китайских магазинов",
+        "published_at": "2026-06-14T09:00"
+      },
+      {
+        "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-274.htm",
+        "title": "Ali | Делимся находками из китайских магазинов",
+        "published_at": "2026-06-21T09:00"
+      },
+      {
+        "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-275.htm",
+        "title": "Ali | Делимся находками из китайских магазинов",
+        "published_at": "2026-06-28T09:00"
+      },
+      {
+        "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-276.htm",
+        "title": "Ali | Делимся находками из китайских магазинов",
+        "published_at": "2026-07-05T09:00"
+      },
+      {
+        "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-277.htm",
+        "title": "Ali | Делимся находками из китайских магазинов",
+        "published_at": "2026-07-12T09:00"
+      },
+      {
+        "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-278.htm",
+        "title": "Ali | Делимся находками из китайских магазинов",
+        "published_at": "2026-07-19T09:00"
+      },
+      {
+        "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-279.htm",
+        "title": "Ali | Делимся находками из китайских магазинов",
+        "published_at": "2026-07-26T09:00"
+      },
+      {
+        "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-280.htm",
+        "title": "Ali | Делимся находками из китайских магазинов",
+        "published_at": "2026-08-02T09:00"
+      },
+      {
+        "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-281.htm",
+        "title": "Ali | Делимся находками из китайских магазинов",
+        "published_at": "2026-08-09T09:00"
+      },
+      {
+        "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-282.htm",
+        "title": "Ali | Делимся находками из китайских магазинов",
+        "published_at": "2026-08-16T09:00"
+      },
+      {
+        "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-283.htm",
+        "title": "Ali | Делимся находками из китайских магазинов",
+        "published_at": "2026-08-23T09:00"
+      },
+      {
+        "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-284.htm",
+        "title": "Ali | Делимся находками из китайских магазинов",
+        "published_at": "2026-08-30T09:00"
+      },
+      {
+        "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-285.htm",
+        "title": "Ali | Делимся находками из китайских магазинов",
+        "published_at": "2026-09-06T09:00"
+      },
+      {
+        "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-286.htm",
+        "title": "Ali | Делимся находками из китайских магазинов",
+        "published_at": "2026-09-13T09:00"
+      },
+      {
+        "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-287.htm",
+        "title": "Ali | Делимся находками из китайских магазинов",
+        "published_at": "2026-09-20T09:00"
+      }
+    ]
+  },
+  "films": {
+    "posts": 49,
+    "weekday_counts": {
+      "0": 26,
+      "3": 23
+    },
+    "clock_counts": {
+      "11:00": 3,
+      "08:00": 17,
+      "10:00": 22,
+      "10:47": 1,
+      "10:19": 1,
+      "10:51": 1,
+      "09:00": 1,
+      "11:41": 1,
+      "11:27": 1,
+      "11:25": 1
+    },
+    "examples": [
+      {
+        "url": "https://exler.es/films/udachi-veselya-ne-sdohni.htm",
+        "title": "Кинорецензии | Удачи, веселья, не сдохни | Фантастическая черноюморная трагикомедия",
+        "published_at": "2026-03-23T11:00"
+      },
+      {
+        "url": "https://exler.es/films/ostrye-kozyrki-bessmertnyj-chelovek.htm",
+        "title": "Кинорецензии | Острые козырьки: Бессмертный человек | Криминальная драма",
+        "published_at": "2026-03-30T08:00"
+      },
+      {
+        "url": "https://exler.es/films/majk-i-nik-i-nik-i-elis.htm",
+        "title": "Кинорецензии | Майк и Ник и Ник и Элис | Черноюморной боевик",
+        "published_at": "2026-04-02T08:00"
+      },
+      {
+        "url": "https://exler.es/films/ohota-za-tenyu.htm",
+        "title": "Кинорецензии | Охота за тенью | Криминальный боевик",
+        "published_at": "2026-04-06T10:00"
+      },
+      {
+        "url": "https://exler.es/films/ograblenie-v-los-andzhelese.htm",
+        "title": "Кинорецензии | Ограбление в Лос-Анджелесе | Криминальная драма",
+        "published_at": "2026-04-09T08:00"
+      },
+      {
+        "url": "https://exler.es/films/naslednik-1.htm",
+        "title": "Кинорецензии | Наследник | Черноюморная трагикомедия",
+        "published_at": "2026-04-13T10:00"
+      },
+      {
+        "url": "https://exler.es/films/molodoj-sherlok.htm",
+        "title": "Кинорецензии | Молодой Шерлок | Сериал",
+        "published_at": "2026-04-16T08:00"
+      },
+      {
+        "url": "https://exler.es/films/ya-rugayus.htm",
+        "title": "Кинорецензии | Я ругаюсь | Драмеди",
+        "published_at": "2026-04-20T10:00"
+      },
+      {
+        "url": "https://exler.es/films/madison.htm",
+        "title": "Кинорецензии | Мадисон | Сериал",
+        "published_at": "2026-04-23T08:00"
+      },
+      {
+        "url": "https://exler.es/films/sentimentalnaya-cennost.htm",
+        "title": "Кинорецензии | Сентиментальная ценность | Драма",
+        "published_at": "2026-04-27T10:00"
+      },
+      {
+        "url": "https://exler.es/films/na-pomosh.htm",
+        "title": "Кинорецензии | На помощь! | Мелодраматичный черноюморной хоррор",
+        "published_at": "2026-04-30T08:00"
+      },
+      {
+        "url": "https://exler.es/films/sireny.htm",
+        "title": "Кинорецензии | Сирены | Сериал",
+        "published_at": "2026-05-04T10:00"
+      },
+      {
+        "url": "https://exler.es/films/schastlivogo-puti.htm",
+        "title": "Кинорецензии | Счастливого пути | Комедия",
+        "published_at": "2026-05-07T08:00"
+      },
+      {
+        "url": "https://exler.es/films/vot-eto-drama.htm",
+        "title": "Кинорецензии | Вот это драма! | Драма",
+        "published_at": "2026-05-11T10:00"
+      },
+      {
+        "url": "https://exler.es/films/eta-shtuka-rabotaet.htm",
+        "title": "Кинорецензии | Эта штука работает? | Драмеди",
+        "published_at": "2026-05-14T08:00"
+      },
+      {
+        "url": "https://exler.es/films/proekt-konec-sveta.htm",
+        "title": "Кинорецензии | Проект «Конец света» | Фантастическая трагикомедия",
+        "published_at": "2026-05-18T10:00"
+      },
+      {
+        "url": "https://exler.es/films/na-vershine.htm",
+        "title": "Кинорецензии | На вершине | Триллер",
+        "published_at": "2026-05-21T08:00"
+      },
+      {
+        "url": "https://exler.es/films/oni-pridut-za-toboj-1.htm",
+        "title": "Кинорецензии | Они придут за тобой | Черноюморной слэшер",
+        "published_at": "2026-05-25T10:00"
+      },
+      {
+        "url": "https://exler.es/films/kristofery.htm",
+        "title": "Кинорецензии | Кристоферы | Драмеди",
+        "published_at": "2026-05-28T08:00"
+      },
+      {
+        "url": "https://exler.es/films/legendy-1.htm",
+        "title": "Кинорецензии | Легенды | Сериал",
+        "published_at": "2026-06-01T10:00"
+      },
+      {
+        "url": "https://exler.es/films/neobychajno-umnye-sozdaniya.htm",
+        "title": "Кинорецензии | Необычайно умные создания | Мелодрама",
+        "published_at": "2026-06-04T10:47"
+      },
+      {
+        "url": "https://exler.es/films/ograblenie-londona.htm",
+        "title": "Кинорецензии | Ограбить Лондон | Криминальный триллер",
+        "published_at": "2026-06-08T10:00"
+      },
+      {
+        "url": "https://exler.es/films/proshaj-dzhun.htm",
+        "title": "Кинорецензии | Прощай, Джун | Драма",
+        "published_at": "2026-06-11T08:00"
+      },
+      {
+        "url": "https://exler.es/films/pauk-nuar.htm",
+        "title": "Кинорецензии | Паук-Нуар | Сериал",
+        "published_at": "2026-06-15T10:19"
+      },
+      {
+        "url": "https://exler.es/films/gryaznye-dengi.htm",
+        "title": "Кинорецензии | Грязные деньги | Боевик",
+        "published_at": "2026-06-18T08:00"
+      },
+      {
+        "url": "https://exler.es/films/holostyak-v-italii.htm",
+        "title": "Кинорецензии | Холостяк в Италии | Ромком",
+        "published_at": "2026-06-29T10:00"
+      },
+      {
+        "url": "https://exler.es/films/u-margo-problemy-s-dengami.htm",
+        "title": "Кинорецензии | У Марго проблемы с деньгами | Сериал",
+        "published_at": "2026-07-02T08:00"
+      },
+      {
+        "url": "https://exler.es/films/majkl-1.htm",
+        "title": "Кинорецензии | Майкл | Музыкальный байопик",
+        "published_at": "2026-07-06T10:00"
+      },
+      {
+        "url": "https://exler.es/films/sledstvie-vedut-ovechki.htm",
+        "title": "Кинорецензии | Следствие ведут овечки | Комедийный детектив",
+        "published_at": "2026-07-09T08:00"
+      },
+      {
+        "url": "https://exler.es/films/nastrojshik-1.htm",
+        "title": "Кинорецензии | Настройщик | Драма",
+        "published_at": "2026-07-13T10:00"
+      },
+      {
+        "url": "https://exler.es/films/vremena-goda-2-j-sezon.htm",
+        "title": "Кинорецензии | Времена года. 2-й сезон | Сериал",
+        "published_at": "2026-07-16T10:51"
+      },
+      {
+        "url": "https://exler.es/films/vecherinka.htm",
+        "title": "Кинорецензии | Вечеринка | Сериал",
+        "published_at": "2026-07-20T10:00"
+      },
+      {
+        "url": "https://exler.es/films/mechtat-ne-vredno.htm",
+        "title": "Кинорецензии | Мечтать не вредно | Спортивная драмеди",
+        "published_at": "2026-07-23T08:00"
+      },
+      {
+        "url": "https://exler.es/films/mandalorec-i-grogu.htm",
+        "title": "Кинорецензии | Мандалорец и Грогу | Фантастический боевик",
+        "published_at": "2026-07-27T10:00"
+      },
+      {
+        "url": "https://exler.es/films/normal.htm",
+        "title": "Кинорецензии | Нормал | Черноюморной боевик",
+        "published_at": "2026-07-30T09:00"
+      },
+      {
+        "url": "https://exler.es/films/odisseya.htm",
+        "title": "Кинорецензии | Одиссея | Фэнтезийный боевик-приключения",
+        "published_at": "2026-08-03T10:00"
+      },
+      {
+        "url": "https://exler.es/films/buhta-vdov.htm",
+        "title": "Кинорецензии | Бухта вдов | Сериал",
+        "published_at": "2026-08-06T08:00"
+      },
+      {
+        "url": "https://exler.es/films/den-razoblacheniya.htm",
+        "title": "Кинорецензии | День разоблачения | Фантастический конспирологический триллер",
+        "published_at": "2026-08-10T10:00"
+      },
+      {
+        "url": "https://exler.es/films/ruster.htm",
+        "title": "Кинорецензии | Рустер | Сериал",
+        "published_at": "2026-08-13T11:41"
+      },
+      {
+        "url": "https://exler.es/films/davlenie.htm",
+        "title": "Кинорецензии | Давление | Военная драма",
+        "published_at": "2026-08-17T10:00"
+      },
+      {
+        "url": "https://exler.es/films/priglashenie.htm",
+        "title": "Кинорецензии | Приглашение | Психологическая трагикомедия",
+        "published_at": "2026-08-24T10:00"
+      },
+      {
+        "url": "https://exler.es/films/myatezh.htm",
+        "title": "Кинорецензии | Мятеж | Криминальный боевик",
+        "published_at": "2026-08-27T11:27"
+      },
+      {
+        "url": "https://exler.es/films/klinika.htm",
+        "title": "Кинорецензии | Клиника | Сериал",
+        "published_at": "2026-08-31T10:00"
+      },
+      {
+        "url": "https://exler.es/films/53-voskresenya.htm",
+        "title": "Кинорецензии | 53 воскресенья | Разговорная трагикомедия",
+        "published_at": "2026-09-03T10:00"
+      },
+      {
+        "url": "https://exler.es/films/karolina-kerolajn.htm",
+        "title": "Кинорецензии | Каролина Кэролайн | Криминальная драма",
+        "published_at": "2026-09-07T11:00"
+      },
+      {
+        "url": "https://exler.es/films/minony-i-monstry.htm",
+        "title": "Кинорецензии | Миньоны и монстры | Анимация",
+        "published_at": "2026-09-10T11:25"
+      },
+      {
+        "url": "https://exler.es/films/mejdej.htm",
+        "title": "Кинорецензии | Мэйдэй | Комедийный боевик",
+        "published_at": "2026-09-14T10:00"
+      },
+      {
+        "url": "https://exler.es/films/gks-sent-luis.htm",
+        "title": "Кинорецензии | ГКС. Сент-Луис | Сериал",
+        "published_at": "2026-09-17T08:00"
+      },
+      {
+        "url": "https://exler.es/films/dzhentlmeny-vtoroj-sezon.htm",
+        "title": "Кинорецензии | Джентльмены. Второй сезон | Сериал",
+        "published_at": "2026-09-21T11:00"
+      }
+    ]
+  }
+}

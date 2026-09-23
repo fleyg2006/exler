@@ -2,6 +2,10 @@
 
 Исследование должно заканчиватьcя конкретным материалом: подсчётом, цепочкой событий, карточкой сцены или пародией.
 
+## Алекс ушёл. Сайт пишет
+
+[Время публикаций за шесть месяцев](publication-times/README.md): **1 122 записи, 184 дня**, почасовая карта, ритм недели, регулярные рубрики и изменение частоты по месяцам. Уточнение пользователя об отложке учтено тремя фильтрами ровных минут. [Все ссылки](publication-times/PUBLICATIONS.md) · [График](publication-times/publication-clock.svg) · [Данные и метод](publication-times/COVERAGE.md).
+
 ## Хроника деградации
 
 [Десять направлений о потреблении и деньгах](lifestyle/README.md): **60 наблюдений**, 92 первичные страницы, 12 проверенных авторских реплик. [Хронология](lifestyle/TIMELINE.md), [карточки](lifestyle/CASES.md), [расчёты](lifestyle/MEASUREMENTS.md), [метрики](lifestyle/METRICS.md), [готовые сцены](lifestyle/SATIRE.md), [охват](lifestyle/COVERAGE.md). Рабочее название сатирическое; карточки не приравнены к доказательствам личного разорения.
@@ -49,3 +53,4 @@
 Статусы материала: `draft`, `evidence_checked`, `satire_ready`, `needs_review`. Проверка источника и качество шутки — две отдельные задачи.
 
 Готовые пародии по исследованию: [бритва](../works/parodies/durable-verdict.md), [аккумуляторы](../works/parodies/socket-independence.md), [декантер](../works/parodies/decanter-retirement.md).
+

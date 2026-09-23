@@ -1,0 +1,1842 @@
+[
+  {
+    "date": "2026-03-23",
+    "weekday": 0,
+    "posts": 6,
+    "first_minute": 490,
+    "last_minute": 790,
+    "first": "08:10",
+    "last": "13:10",
+    "span_minutes": 300
+  },
+  {
+    "date": "2026-03-24",
+    "weekday": 1,
+    "posts": 3,
+    "first_minute": 540,
+    "last_minute": 780,
+    "first": "09:00",
+    "last": "13:00",
+    "span_minutes": 240
+  },
+  {
+    "date": "2026-03-25",
+    "weekday": 2,
+    "posts": 4,
+    "first_minute": 510,
+    "last_minute": 720,
+    "first": "08:30",
+    "last": "12:00",
+    "span_minutes": 210
+  },
+  {
+    "date": "2026-03-26",
+    "weekday": 3,
+    "posts": 4,
+    "first_minute": 540,
+    "last_minute": 840,
+    "first": "09:00",
+    "last": "14:00",
+    "span_minutes": 300
+  },
+  {
+    "date": "2026-03-27",
+    "weekday": 4,
+    "posts": 3,
+    "first_minute": 540,
+    "last_minute": 1080,
+    "first": "09:00",
+    "last": "18:00",
+    "span_minutes": 540
+  },
+  {
+    "date": "2026-03-28",
+    "weekday": 5,
+    "posts": 4,
+    "first_minute": 540,
+    "last_minute": 1260,
+    "first": "09:00",
+    "last": "21:00",
+    "span_minutes": 720
+  },
+  {
+    "date": "2026-03-29",
+    "weekday": 6,
+    "posts": 10,
+    "first_minute": 540,
+    "last_minute": 1140,
+    "first": "09:00",
+    "last": "19:00",
+    "span_minutes": 600
+  },
+  {
+    "date": "2026-03-30",
+    "weekday": 0,
+    "posts": 6,
+    "first_minute": 480,
+    "last_minute": 1330,
+    "first": "08:00",
+    "last": "22:10",
+    "span_minutes": 850
+  },
+  {
+    "date": "2026-03-31",
+    "weekday": 1,
+    "posts": 7,
+    "first_minute": 590,
+    "last_minute": 960,
+    "first": "09:50",
+    "last": "16:00",
+    "span_minutes": 370
+  },
+  {
+    "date": "2026-04-01",
+    "weekday": 2,
+    "posts": 7,
+    "first_minute": 540,
+    "last_minute": 1160,
+    "first": "09:00",
+    "last": "19:20",
+    "span_minutes": 620
+  },
+  {
+    "date": "2026-04-02",
+    "weekday": 3,
+    "posts": 7,
+    "first_minute": 480,
+    "last_minute": 780,
+    "first": "08:00",
+    "last": "13:00",
+    "span_minutes": 300
+  },
+  {
+    "date": "2026-04-03",
+    "weekday": 4,
+    "posts": 8,
+    "first_minute": 520,
+    "last_minute": 1080,
+    "first": "08:40",
+    "last": "18:00",
+    "span_minutes": 560
+  },
+  {
+    "date": "2026-04-04",
+    "weekday": 5,
+    "posts": 7,
+    "first_minute": 580,
+    "last_minute": 1110,
+    "first": "09:40",
+    "last": "18:30",
+    "span_minutes": 530
+  },
+  {
+    "date": "2026-04-05",
+    "weekday": 6,
+    "posts": 8,
+    "first_minute": 540,
+    "last_minute": 1080,
+    "first": "09:00",
+    "last": "18:00",
+    "span_minutes": 540
+  },
+  {
+    "date": "2026-04-06",
+    "weekday": 0,
+    "posts": 7,
+    "first_minute": 540,
+    "last_minute": 1200,
+    "first": "09:00",
+    "last": "20:00",
+    "span_minutes": 660
+  },
+  {
+    "date": "2026-04-07",
+    "weekday": 1,
+    "posts": 9,
+    "first_minute": 540,
+    "last_minute": 960,
+    "first": "09:00",
+    "last": "16:00",
+    "span_minutes": 420
+  },
+  {
+    "date": "2026-04-08",
+    "weekday": 2,
+    "posts": 10,
+    "first_minute": 480,
+    "last_minute": 1130,
+    "first": "08:00",
+    "last": "18:50",
+    "span_minutes": 650
+  },
+  {
+    "date": "2026-04-09",
+    "weekday": 3,
+    "posts": 6,
+    "first_minute": 480,
+    "last_minute": 780,
+    "first": "08:00",
+    "last": "13:00",
+    "span_minutes": 300
+  },
+  {
+    "date": "2026-04-10",
+    "weekday": 4,
+    "posts": 6,
+    "first_minute": 560,
+    "last_minute": 1080,
+    "first": "09:20",
+    "last": "18:00",
+    "span_minutes": 520
+  },
+  {
+    "date": "2026-04-11",
+    "weekday": 5,
+    "posts": 10,
+    "first_minute": 540,
+    "last_minute": 1080,
+    "first": "09:00",
+    "last": "18:00",
+    "span_minutes": 540
+  },
+  {
+    "date": "2026-04-12",
+    "weekday": 6,
+    "posts": 8,
+    "first_minute": 520,
+    "last_minute": 1331,
+    "first": "08:40",
+    "last": "22:11",
+    "span_minutes": 811
+  },
+  {
+    "date": "2026-04-13",
+    "weekday": 0,
+    "posts": 5,
+    "first_minute": 520,
+    "last_minute": 1000,
+    "first": "08:40",
+    "last": "16:40",
+    "span_minutes": 480
+  },
+  {
+    "date": "2026-04-14",
+    "weekday": 1,
+    "posts": 8,
+    "first_minute": 490,
+    "last_minute": 1100,
+    "first": "08:10",
+    "last": "18:20",
+    "span_minutes": 610
+  },
+  {
+    "date": "2026-04-15",
+    "weekday": 2,
+    "posts": 6,
+    "first_minute": 600,
+    "last_minute": 1100,
+    "first": "10:00",
+    "last": "18:20",
+    "span_minutes": 500
+  },
+  {
+    "date": "2026-04-16",
+    "weekday": 3,
+    "posts": 8,
+    "first_minute": 480,
+    "last_minute": 1100,
+    "first": "08:00",
+    "last": "18:20",
+    "span_minutes": 620
+  },
+  {
+    "date": "2026-04-17",
+    "weekday": 4,
+    "posts": 8,
+    "first_minute": 600,
+    "last_minute": 1080,
+    "first": "10:00",
+    "last": "18:00",
+    "span_minutes": 480
+  },
+  {
+    "date": "2026-04-18",
+    "weekday": 5,
+    "posts": 7,
+    "first_minute": 600,
+    "last_minute": 1170,
+    "first": "10:00",
+    "last": "19:30",
+    "span_minutes": 570
+  },
+  {
+    "date": "2026-04-19",
+    "weekday": 6,
+    "posts": 6,
+    "first_minute": 540,
+    "last_minute": 1060,
+    "first": "09:00",
+    "last": "17:40",
+    "span_minutes": 520
+  },
+  {
+    "date": "2026-04-20",
+    "weekday": 0,
+    "posts": 5,
+    "first_minute": 600,
+    "last_minute": 840,
+    "first": "10:00",
+    "last": "14:00",
+    "span_minutes": 240
+  },
+  {
+    "date": "2026-04-21",
+    "weekday": 1,
+    "posts": 8,
+    "first_minute": 540,
+    "last_minute": 1000,
+    "first": "09:00",
+    "last": "16:40",
+    "span_minutes": 460
+  },
+  {
+    "date": "2026-04-22",
+    "weekday": 2,
+    "posts": 7,
+    "first_minute": 490,
+    "last_minute": 1090,
+    "first": "08:10",
+    "last": "18:10",
+    "span_minutes": 600
+  },
+  {
+    "date": "2026-04-23",
+    "weekday": 3,
+    "posts": 8,
+    "first_minute": 480,
+    "last_minute": 1100,
+    "first": "08:00",
+    "last": "18:20",
+    "span_minutes": 620
+  },
+  {
+    "date": "2026-04-24",
+    "weekday": 4,
+    "posts": 7,
+    "first_minute": 570,
+    "last_minute": 1080,
+    "first": "09:30",
+    "last": "18:00",
+    "span_minutes": 510
+  },
+  {
+    "date": "2026-04-25",
+    "weekday": 5,
+    "posts": 4,
+    "first_minute": 540,
+    "last_minute": 780,
+    "first": "09:00",
+    "last": "13:00",
+    "span_minutes": 240
+  },
+  {
+    "date": "2026-04-26",
+    "weekday": 6,
+    "posts": 5,
+    "first_minute": 540,
+    "last_minute": 780,
+    "first": "09:00",
+    "last": "13:00",
+    "span_minutes": 240
+  },
+  {
+    "date": "2026-04-27",
+    "weekday": 0,
+    "posts": 7,
+    "first_minute": 500,
+    "last_minute": 1040,
+    "first": "08:20",
+    "last": "17:20",
+    "span_minutes": 540
+  },
+  {
+    "date": "2026-04-28",
+    "weekday": 1,
+    "posts": 6,
+    "first_minute": 540,
+    "last_minute": 1020,
+    "first": "09:00",
+    "last": "17:00",
+    "span_minutes": 480
+  },
+  {
+    "date": "2026-04-29",
+    "weekday": 2,
+    "posts": 8,
+    "first_minute": 540,
+    "last_minute": 1370,
+    "first": "09:00",
+    "last": "22:50",
+    "span_minutes": 830
+  },
+  {
+    "date": "2026-04-30",
+    "weekday": 3,
+    "posts": 7,
+    "first_minute": 480,
+    "last_minute": 1100,
+    "first": "08:00",
+    "last": "18:20",
+    "span_minutes": 620
+  },
+  {
+    "date": "2026-05-01",
+    "weekday": 4,
+    "posts": 8,
+    "first_minute": 560,
+    "last_minute": 1080,
+    "first": "09:20",
+    "last": "18:00",
+    "span_minutes": 520
+  },
+  {
+    "date": "2026-05-02",
+    "weekday": 5,
+    "posts": 4,
+    "first_minute": 540,
+    "last_minute": 1390,
+    "first": "09:00",
+    "last": "23:10",
+    "span_minutes": 850
+  },
+  {
+    "date": "2026-05-03",
+    "weekday": 6,
+    "posts": 8,
+    "first_minute": 540,
+    "last_minute": 1150,
+    "first": "09:00",
+    "last": "19:10",
+    "span_minutes": 610
+  },
+  {
+    "date": "2026-05-04",
+    "weekday": 0,
+    "posts": 5,
+    "first_minute": 540,
+    "last_minute": 1060,
+    "first": "09:00",
+    "last": "17:40",
+    "span_minutes": 520
+  },
+  {
+    "date": "2026-05-05",
+    "weekday": 1,
+    "posts": 8,
+    "first_minute": 570,
+    "last_minute": 1100,
+    "first": "09:30",
+    "last": "18:20",
+    "span_minutes": 530
+  },
+  {
+    "date": "2026-05-06",
+    "weekday": 2,
+    "posts": 8,
+    "first_minute": 540,
+    "last_minute": 960,
+    "first": "09:00",
+    "last": "16:00",
+    "span_minutes": 420
+  },
+  {
+    "date": "2026-05-07",
+    "weekday": 3,
+    "posts": 6,
+    "first_minute": 480,
+    "last_minute": 1050,
+    "first": "08:00",
+    "last": "17:30",
+    "span_minutes": 570
+  },
+  {
+    "date": "2026-05-08",
+    "weekday": 4,
+    "posts": 10,
+    "first_minute": 550,
+    "last_minute": 1350,
+    "first": "09:10",
+    "last": "22:30",
+    "span_minutes": 800
+  },
+  {
+    "date": "2026-05-09",
+    "weekday": 5,
+    "posts": 7,
+    "first_minute": 540,
+    "last_minute": 1010,
+    "first": "09:00",
+    "last": "16:50",
+    "span_minutes": 470
+  },
+  {
+    "date": "2026-05-10",
+    "weekday": 6,
+    "posts": 5,
+    "first_minute": 490,
+    "last_minute": 1100,
+    "first": "08:10",
+    "last": "18:20",
+    "span_minutes": 610
+  },
+  {
+    "date": "2026-05-11",
+    "weekday": 0,
+    "posts": 7,
+    "first_minute": 510,
+    "last_minute": 1125,
+    "first": "08:30",
+    "last": "18:45",
+    "span_minutes": 615
+  },
+  {
+    "date": "2026-05-12",
+    "weekday": 1,
+    "posts": 4,
+    "first_minute": 550,
+    "last_minute": 780,
+    "first": "09:10",
+    "last": "13:00",
+    "span_minutes": 230
+  },
+  {
+    "date": "2026-05-13",
+    "weekday": 2,
+    "posts": 8,
+    "first_minute": 570,
+    "last_minute": 1040,
+    "first": "09:30",
+    "last": "17:20",
+    "span_minutes": 470
+  },
+  {
+    "date": "2026-05-14",
+    "weekday": 3,
+    "posts": 6,
+    "first_minute": 480,
+    "last_minute": 940,
+    "first": "08:00",
+    "last": "15:40",
+    "span_minutes": 460
+  },
+  {
+    "date": "2026-05-15",
+    "weekday": 4,
+    "posts": 6,
+    "first_minute": 540,
+    "last_minute": 1080,
+    "first": "09:00",
+    "last": "18:00",
+    "span_minutes": 540
+  },
+  {
+    "date": "2026-05-16",
+    "weekday": 5,
+    "posts": 6,
+    "first_minute": 590,
+    "last_minute": 1020,
+    "first": "09:50",
+    "last": "17:00",
+    "span_minutes": 430
+  },
+  {
+    "date": "2026-05-17",
+    "weekday": 6,
+    "posts": 7,
+    "first_minute": 450,
+    "last_minute": 1350,
+    "first": "07:30",
+    "last": "22:30",
+    "span_minutes": 900
+  },
+  {
+    "date": "2026-05-18",
+    "weekday": 0,
+    "posts": 7,
+    "first_minute": 510,
+    "last_minute": 1370,
+    "first": "08:30",
+    "last": "22:50",
+    "span_minutes": 860
+  },
+  {
+    "date": "2026-05-19",
+    "weekday": 1,
+    "posts": 5,
+    "first_minute": 540,
+    "last_minute": 900,
+    "first": "09:00",
+    "last": "15:00",
+    "span_minutes": 360
+  },
+  {
+    "date": "2026-05-20",
+    "weekday": 2,
+    "posts": 6,
+    "first_minute": 510,
+    "last_minute": 780,
+    "first": "08:30",
+    "last": "13:00",
+    "span_minutes": 270
+  },
+  {
+    "date": "2026-05-21",
+    "weekday": 3,
+    "posts": 6,
+    "first_minute": 480,
+    "last_minute": 840,
+    "first": "08:00",
+    "last": "14:00",
+    "span_minutes": 360
+  },
+  {
+    "date": "2026-05-22",
+    "weekday": 4,
+    "posts": 6,
+    "first_minute": 540,
+    "last_minute": 1080,
+    "first": "09:00",
+    "last": "18:00",
+    "span_minutes": 540
+  },
+  {
+    "date": "2026-05-23",
+    "weekday": 5,
+    "posts": 9,
+    "first_minute": 570,
+    "last_minute": 1380,
+    "first": "09:30",
+    "last": "23:00",
+    "span_minutes": 810
+  },
+  {
+    "date": "2026-05-24",
+    "weekday": 6,
+    "posts": 5,
+    "first_minute": 540,
+    "last_minute": 1100,
+    "first": "09:00",
+    "last": "18:20",
+    "span_minutes": 560
+  },
+  {
+    "date": "2026-05-25",
+    "weekday": 0,
+    "posts": 8,
+    "first_minute": 500,
+    "last_minute": 1030,
+    "first": "08:20",
+    "last": "17:10",
+    "span_minutes": 530
+  },
+  {
+    "date": "2026-05-26",
+    "weekday": 1,
+    "posts": 7,
+    "first_minute": 540,
+    "last_minute": 1020,
+    "first": "09:00",
+    "last": "17:00",
+    "span_minutes": 480
+  },
+  {
+    "date": "2026-05-27",
+    "weekday": 2,
+    "posts": 8,
+    "first_minute": 480,
+    "last_minute": 1080,
+    "first": "08:00",
+    "last": "18:00",
+    "span_minutes": 600
+  },
+  {
+    "date": "2026-05-28",
+    "weekday": 3,
+    "posts": 9,
+    "first_minute": 480,
+    "last_minute": 900,
+    "first": "08:00",
+    "last": "15:00",
+    "span_minutes": 420
+  },
+  {
+    "date": "2026-05-29",
+    "weekday": 4,
+    "posts": 9,
+    "first_minute": 600,
+    "last_minute": 1080,
+    "first": "10:00",
+    "last": "18:00",
+    "span_minutes": 480
+  },
+  {
+    "date": "2026-05-30",
+    "weekday": 5,
+    "posts": 6,
+    "first_minute": 600,
+    "last_minute": 1350,
+    "first": "10:00",
+    "last": "22:30",
+    "span_minutes": 750
+  },
+  {
+    "date": "2026-05-31",
+    "weekday": 6,
+    "posts": 5,
+    "first_minute": 500,
+    "last_minute": 910,
+    "first": "08:20",
+    "last": "15:10",
+    "span_minutes": 410
+  },
+  {
+    "date": "2026-06-01",
+    "weekday": 0,
+    "posts": 9,
+    "first_minute": 540,
+    "last_minute": 840,
+    "first": "09:00",
+    "last": "14:00",
+    "span_minutes": 300
+  },
+  {
+    "date": "2026-06-02",
+    "weekday": 1,
+    "posts": 7,
+    "first_minute": 480,
+    "last_minute": 980,
+    "first": "08:00",
+    "last": "16:20",
+    "span_minutes": 500
+  },
+  {
+    "date": "2026-06-03",
+    "weekday": 2,
+    "posts": 8,
+    "first_minute": 540,
+    "last_minute": 1110,
+    "first": "09:00",
+    "last": "18:30",
+    "span_minutes": 570
+  },
+  {
+    "date": "2026-06-04",
+    "weekday": 3,
+    "posts": 7,
+    "first_minute": 480,
+    "last_minute": 840,
+    "first": "08:00",
+    "last": "14:00",
+    "span_minutes": 360
+  },
+  {
+    "date": "2026-06-05",
+    "weekday": 4,
+    "posts": 11,
+    "first_minute": 570,
+    "last_minute": 1080,
+    "first": "09:30",
+    "last": "18:00",
+    "span_minutes": 510
+  },
+  {
+    "date": "2026-06-06",
+    "weekday": 5,
+    "posts": 5,
+    "first_minute": 480,
+    "last_minute": 1050,
+    "first": "08:00",
+    "last": "17:30",
+    "span_minutes": 570
+  },
+  {
+    "date": "2026-06-07",
+    "weekday": 6,
+    "posts": 4,
+    "first_minute": 540,
+    "last_minute": 870,
+    "first": "09:00",
+    "last": "14:30",
+    "span_minutes": 330
+  },
+  {
+    "date": "2026-06-08",
+    "weekday": 0,
+    "posts": 6,
+    "first_minute": 490,
+    "last_minute": 1020,
+    "first": "08:10",
+    "last": "17:00",
+    "span_minutes": 530
+  },
+  {
+    "date": "2026-06-09",
+    "weekday": 1,
+    "posts": 6,
+    "first_minute": 510,
+    "last_minute": 1150,
+    "first": "08:30",
+    "last": "19:10",
+    "span_minutes": 640
+  },
+  {
+    "date": "2026-06-10",
+    "weekday": 2,
+    "posts": 7,
+    "first_minute": 570,
+    "last_minute": 1140,
+    "first": "09:30",
+    "last": "19:00",
+    "span_minutes": 570
+  },
+  {
+    "date": "2026-06-11",
+    "weekday": 3,
+    "posts": 6,
+    "first_minute": 480,
+    "last_minute": 1090,
+    "first": "08:00",
+    "last": "18:10",
+    "span_minutes": 610
+  },
+  {
+    "date": "2026-06-12",
+    "weekday": 4,
+    "posts": 9,
+    "first_minute": 510,
+    "last_minute": 1080,
+    "first": "08:30",
+    "last": "18:00",
+    "span_minutes": 570
+  },
+  {
+    "date": "2026-06-13",
+    "weekday": 5,
+    "posts": 3,
+    "first_minute": 570,
+    "last_minute": 780,
+    "first": "09:30",
+    "last": "13:00",
+    "span_minutes": 210
+  },
+  {
+    "date": "2026-06-14",
+    "weekday": 6,
+    "posts": 3,
+    "first_minute": 540,
+    "last_minute": 840,
+    "first": "09:00",
+    "last": "14:00",
+    "span_minutes": 300
+  },
+  {
+    "date": "2026-06-15",
+    "weekday": 0,
+    "posts": 8,
+    "first_minute": 619,
+    "last_minute": 1150,
+    "first": "10:19",
+    "last": "19:10",
+    "span_minutes": 531
+  },
+  {
+    "date": "2026-06-16",
+    "weekday": 1,
+    "posts": 5,
+    "first_minute": 600,
+    "last_minute": 990,
+    "first": "10:00",
+    "last": "16:30",
+    "span_minutes": 390
+  },
+  {
+    "date": "2026-06-17",
+    "weekday": 2,
+    "posts": 8,
+    "first_minute": 550,
+    "last_minute": 1070,
+    "first": "09:10",
+    "last": "17:50",
+    "span_minutes": 520
+  },
+  {
+    "date": "2026-06-18",
+    "weekday": 3,
+    "posts": 5,
+    "first_minute": 480,
+    "last_minute": 1090,
+    "first": "08:00",
+    "last": "18:10",
+    "span_minutes": 610
+  },
+  {
+    "date": "2026-06-19",
+    "weekday": 4,
+    "posts": 6,
+    "first_minute": 580,
+    "last_minute": 1080,
+    "first": "09:40",
+    "last": "18:00",
+    "span_minutes": 500
+  },
+  {
+    "date": "2026-06-20",
+    "weekday": 5,
+    "posts": 5,
+    "first_minute": 540,
+    "last_minute": 930,
+    "first": "09:00",
+    "last": "15:30",
+    "span_minutes": 390
+  },
+  {
+    "date": "2026-06-21",
+    "weekday": 6,
+    "posts": 4,
+    "first_minute": 540,
+    "last_minute": 810,
+    "first": "09:00",
+    "last": "13:30",
+    "span_minutes": 270
+  },
+  {
+    "date": "2026-06-22",
+    "weekday": 0,
+    "posts": 3,
+    "first_minute": 540,
+    "last_minute": 720,
+    "first": "09:00",
+    "last": "12:00",
+    "span_minutes": 180
+  },
+  {
+    "date": "2026-06-23",
+    "weekday": 1,
+    "posts": 1,
+    "first_minute": 540,
+    "last_minute": 540,
+    "first": "09:00",
+    "last": "09:00",
+    "span_minutes": 0
+  },
+  {
+    "date": "2026-06-24",
+    "weekday": 2,
+    "posts": 3,
+    "first_minute": 570,
+    "last_minute": 720,
+    "first": "09:30",
+    "last": "12:00",
+    "span_minutes": 150
+  },
+  {
+    "date": "2026-06-25",
+    "weekday": 3,
+    "posts": 6,
+    "first_minute": 540,
+    "last_minute": 1080,
+    "first": "09:00",
+    "last": "18:00",
+    "span_minutes": 540
+  },
+  {
+    "date": "2026-06-26",
+    "weekday": 4,
+    "posts": 7,
+    "first_minute": 480,
+    "last_minute": 723,
+    "first": "08:00",
+    "last": "12:03",
+    "span_minutes": 243
+  },
+  {
+    "date": "2026-06-27",
+    "weekday": 5,
+    "posts": 6,
+    "first_minute": 540,
+    "last_minute": 1360,
+    "first": "09:00",
+    "last": "22:40",
+    "span_minutes": 820
+  },
+  {
+    "date": "2026-06-28",
+    "weekday": 6,
+    "posts": 5,
+    "first_minute": 520,
+    "last_minute": 840,
+    "first": "08:40",
+    "last": "14:00",
+    "span_minutes": 320
+  },
+  {
+    "date": "2026-06-29",
+    "weekday": 0,
+    "posts": 7,
+    "first_minute": 510,
+    "last_minute": 1100,
+    "first": "08:30",
+    "last": "18:20",
+    "span_minutes": 590
+  },
+  {
+    "date": "2026-06-30",
+    "weekday": 1,
+    "posts": 6,
+    "first_minute": 570,
+    "last_minute": 1110,
+    "first": "09:30",
+    "last": "18:30",
+    "span_minutes": 540
+  },
+  {
+    "date": "2026-07-01",
+    "weekday": 2,
+    "posts": 7,
+    "first_minute": 570,
+    "last_minute": 840,
+    "first": "09:30",
+    "last": "14:00",
+    "span_minutes": 270
+  },
+  {
+    "date": "2026-07-02",
+    "weekday": 3,
+    "posts": 8,
+    "first_minute": 480,
+    "last_minute": 990,
+    "first": "08:00",
+    "last": "16:30",
+    "span_minutes": 510
+  },
+  {
+    "date": "2026-07-03",
+    "weekday": 4,
+    "posts": 8,
+    "first_minute": 510,
+    "last_minute": 1095,
+    "first": "08:30",
+    "last": "18:15",
+    "span_minutes": 585
+  },
+  {
+    "date": "2026-07-04",
+    "weekday": 5,
+    "posts": 7,
+    "first_minute": 540,
+    "last_minute": 1110,
+    "first": "09:00",
+    "last": "18:30",
+    "span_minutes": 570
+  },
+  {
+    "date": "2026-07-05",
+    "weekday": 6,
+    "posts": 3,
+    "first_minute": 540,
+    "last_minute": 840,
+    "first": "09:00",
+    "last": "14:00",
+    "span_minutes": 300
+  },
+  {
+    "date": "2026-07-06",
+    "weekday": 0,
+    "posts": 4,
+    "first_minute": 570,
+    "last_minute": 780,
+    "first": "09:30",
+    "last": "13:00",
+    "span_minutes": 210
+  },
+  {
+    "date": "2026-07-07",
+    "weekday": 1,
+    "posts": 6,
+    "first_minute": 550,
+    "last_minute": 990,
+    "first": "09:10",
+    "last": "16:30",
+    "span_minutes": 440
+  },
+  {
+    "date": "2026-07-08",
+    "weekday": 2,
+    "posts": 7,
+    "first_minute": 540,
+    "last_minute": 930,
+    "first": "09:00",
+    "last": "15:30",
+    "span_minutes": 390
+  },
+  {
+    "date": "2026-07-09",
+    "weekday": 3,
+    "posts": 7,
+    "first_minute": 480,
+    "last_minute": 1090,
+    "first": "08:00",
+    "last": "18:10",
+    "span_minutes": 610
+  },
+  {
+    "date": "2026-07-10",
+    "weekday": 4,
+    "posts": 7,
+    "first_minute": 530,
+    "last_minute": 1080,
+    "first": "08:50",
+    "last": "18:00",
+    "span_minutes": 550
+  },
+  {
+    "date": "2026-07-11",
+    "weekday": 5,
+    "posts": 6,
+    "first_minute": 540,
+    "last_minute": 1010,
+    "first": "09:00",
+    "last": "16:50",
+    "span_minutes": 470
+  },
+  {
+    "date": "2026-07-12",
+    "weekday": 6,
+    "posts": 3,
+    "first_minute": 520,
+    "last_minute": 740,
+    "first": "08:40",
+    "last": "12:20",
+    "span_minutes": 220
+  },
+  {
+    "date": "2026-07-13",
+    "weekday": 0,
+    "posts": 6,
+    "first_minute": 600,
+    "last_minute": 1050,
+    "first": "10:00",
+    "last": "17:30",
+    "span_minutes": 450
+  },
+  {
+    "date": "2026-07-14",
+    "weekday": 1,
+    "posts": 7,
+    "first_minute": 540,
+    "last_minute": 1390,
+    "first": "09:00",
+    "last": "23:10",
+    "span_minutes": 850
+  },
+  {
+    "date": "2026-07-15",
+    "weekday": 2,
+    "posts": 11,
+    "first_minute": 540,
+    "last_minute": 1140,
+    "first": "09:00",
+    "last": "19:00",
+    "span_minutes": 600
+  },
+  {
+    "date": "2026-07-16",
+    "weekday": 3,
+    "posts": 4,
+    "first_minute": 630,
+    "last_minute": 990,
+    "first": "10:30",
+    "last": "16:30",
+    "span_minutes": 360
+  },
+  {
+    "date": "2026-07-17",
+    "weekday": 4,
+    "posts": 10,
+    "first_minute": 540,
+    "last_minute": 1360,
+    "first": "09:00",
+    "last": "22:40",
+    "span_minutes": 820
+  },
+  {
+    "date": "2026-07-18",
+    "weekday": 5,
+    "posts": 6,
+    "first_minute": 600,
+    "last_minute": 1350,
+    "first": "10:00",
+    "last": "22:30",
+    "span_minutes": 750
+  },
+  {
+    "date": "2026-07-19",
+    "weekday": 6,
+    "posts": 8,
+    "first_minute": 510,
+    "last_minute": 1050,
+    "first": "08:30",
+    "last": "17:30",
+    "span_minutes": 540
+  },
+  {
+    "date": "2026-07-20",
+    "weekday": 0,
+    "posts": 7,
+    "first_minute": 20,
+    "last_minute": 1140,
+    "first": "00:20",
+    "last": "19:00",
+    "span_minutes": 1120
+  },
+  {
+    "date": "2026-07-21",
+    "weekday": 1,
+    "posts": 7,
+    "first_minute": 540,
+    "last_minute": 1140,
+    "first": "09:00",
+    "last": "19:00",
+    "span_minutes": 600
+  },
+  {
+    "date": "2026-07-22",
+    "weekday": 2,
+    "posts": 4,
+    "first_minute": 680,
+    "last_minute": 840,
+    "first": "11:20",
+    "last": "14:00",
+    "span_minutes": 160
+  },
+  {
+    "date": "2026-07-23",
+    "weekday": 3,
+    "posts": 7,
+    "first_minute": 480,
+    "last_minute": 960,
+    "first": "08:00",
+    "last": "16:00",
+    "span_minutes": 480
+  },
+  {
+    "date": "2026-07-24",
+    "weekday": 4,
+    "posts": 8,
+    "first_minute": 540,
+    "last_minute": 1080,
+    "first": "09:00",
+    "last": "18:00",
+    "span_minutes": 540
+  },
+  {
+    "date": "2026-07-25",
+    "weekday": 5,
+    "posts": 5,
+    "first_minute": 540,
+    "last_minute": 1160,
+    "first": "09:00",
+    "last": "19:20",
+    "span_minutes": 620
+  },
+  {
+    "date": "2026-07-26",
+    "weekday": 6,
+    "posts": 3,
+    "first_minute": 540,
+    "last_minute": 780,
+    "first": "09:00",
+    "last": "13:00",
+    "span_minutes": 240
+  },
+  {
+    "date": "2026-07-27",
+    "weekday": 0,
+    "posts": 8,
+    "first_minute": 540,
+    "last_minute": 1020,
+    "first": "09:00",
+    "last": "17:00",
+    "span_minutes": 480
+  },
+  {
+    "date": "2026-07-28",
+    "weekday": 1,
+    "posts": 3,
+    "first_minute": 550,
+    "last_minute": 970,
+    "first": "09:10",
+    "last": "16:10",
+    "span_minutes": 420
+  },
+  {
+    "date": "2026-07-29",
+    "weekday": 2,
+    "posts": 7,
+    "first_minute": 480,
+    "last_minute": 1070,
+    "first": "08:00",
+    "last": "17:50",
+    "span_minutes": 590
+  },
+  {
+    "date": "2026-07-30",
+    "weekday": 3,
+    "posts": 5,
+    "first_minute": 540,
+    "last_minute": 900,
+    "first": "09:00",
+    "last": "15:00",
+    "span_minutes": 360
+  },
+  {
+    "date": "2026-07-31",
+    "weekday": 4,
+    "posts": 8,
+    "first_minute": 560,
+    "last_minute": 1110,
+    "first": "09:20",
+    "last": "18:30",
+    "span_minutes": 550
+  },
+  {
+    "date": "2026-08-01",
+    "weekday": 5,
+    "posts": 4,
+    "first_minute": 540,
+    "last_minute": 1060,
+    "first": "09:00",
+    "last": "17:40",
+    "span_minutes": 520
+  },
+  {
+    "date": "2026-08-02",
+    "weekday": 6,
+    "posts": 3,
+    "first_minute": 540,
+    "last_minute": 720,
+    "first": "09:00",
+    "last": "12:00",
+    "span_minutes": 180
+  },
+  {
+    "date": "2026-08-03",
+    "weekday": 0,
+    "posts": 5,
+    "first_minute": 520,
+    "last_minute": 750,
+    "first": "08:40",
+    "last": "12:30",
+    "span_minutes": 230
+  },
+  {
+    "date": "2026-08-04",
+    "weekday": 1,
+    "posts": 7,
+    "first_minute": 540,
+    "last_minute": 1020,
+    "first": "09:00",
+    "last": "17:00",
+    "span_minutes": 480
+  },
+  {
+    "date": "2026-08-05",
+    "weekday": 2,
+    "posts": 4,
+    "first_minute": 520,
+    "last_minute": 1020,
+    "first": "08:40",
+    "last": "17:00",
+    "span_minutes": 500
+  },
+  {
+    "date": "2026-08-06",
+    "weekday": 3,
+    "posts": 6,
+    "first_minute": 480,
+    "last_minute": 930,
+    "first": "08:00",
+    "last": "15:30",
+    "span_minutes": 450
+  },
+  {
+    "date": "2026-08-07",
+    "weekday": 4,
+    "posts": 7,
+    "first_minute": 540,
+    "last_minute": 1080,
+    "first": "09:00",
+    "last": "18:00",
+    "span_minutes": 540
+  },
+  {
+    "date": "2026-08-08",
+    "weekday": 5,
+    "posts": 3,
+    "first_minute": 590,
+    "last_minute": 810,
+    "first": "09:50",
+    "last": "13:30",
+    "span_minutes": 220
+  },
+  {
+    "date": "2026-08-09",
+    "weekday": 6,
+    "posts": 3,
+    "first_minute": 540,
+    "last_minute": 800,
+    "first": "09:00",
+    "last": "13:20",
+    "span_minutes": 260
+  },
+  {
+    "date": "2026-08-10",
+    "weekday": 0,
+    "posts": 5,
+    "first_minute": 600,
+    "last_minute": 990,
+    "first": "10:00",
+    "last": "16:30",
+    "span_minutes": 390
+  },
+  {
+    "date": "2026-08-11",
+    "weekday": 1,
+    "posts": 6,
+    "first_minute": 610,
+    "last_minute": 1100,
+    "first": "10:10",
+    "last": "18:20",
+    "span_minutes": 490
+  },
+  {
+    "date": "2026-08-12",
+    "weekday": 2,
+    "posts": 4,
+    "first_minute": 540,
+    "last_minute": 840,
+    "first": "09:00",
+    "last": "14:00",
+    "span_minutes": 300
+  },
+  {
+    "date": "2026-08-13",
+    "weekday": 3,
+    "posts": 5,
+    "first_minute": 600,
+    "last_minute": 780,
+    "first": "10:00",
+    "last": "13:00",
+    "span_minutes": 180
+  },
+  {
+    "date": "2026-08-14",
+    "weekday": 4,
+    "posts": 5,
+    "first_minute": 630,
+    "last_minute": 1080,
+    "first": "10:30",
+    "last": "18:00",
+    "span_minutes": 450
+  },
+  {
+    "date": "2026-08-15",
+    "weekday": 5,
+    "posts": 3,
+    "first_minute": 540,
+    "last_minute": 1110,
+    "first": "09:00",
+    "last": "18:30",
+    "span_minutes": 570
+  },
+  {
+    "date": "2026-08-16",
+    "weekday": 6,
+    "posts": 2,
+    "first_minute": 540,
+    "last_minute": 830,
+    "first": "09:00",
+    "last": "13:50",
+    "span_minutes": 290
+  },
+  {
+    "date": "2026-08-17",
+    "weekday": 0,
+    "posts": 5,
+    "first_minute": 600,
+    "last_minute": 1020,
+    "first": "10:00",
+    "last": "17:00",
+    "span_minutes": 420
+  },
+  {
+    "date": "2026-08-18",
+    "weekday": 1,
+    "posts": 5,
+    "first_minute": 585,
+    "last_minute": 1110,
+    "first": "09:45",
+    "last": "18:30",
+    "span_minutes": 525
+  },
+  {
+    "date": "2026-08-19",
+    "weekday": 2,
+    "posts": 4,
+    "first_minute": 580,
+    "last_minute": 840,
+    "first": "09:40",
+    "last": "14:00",
+    "span_minutes": 260
+  },
+  {
+    "date": "2026-08-20",
+    "weekday": 3,
+    "posts": 7,
+    "first_minute": 550,
+    "last_minute": 1020,
+    "first": "09:10",
+    "last": "17:00",
+    "span_minutes": 470
+  },
+  {
+    "date": "2026-08-21",
+    "weekday": 4,
+    "posts": 9,
+    "first_minute": 570,
+    "last_minute": 1080,
+    "first": "09:30",
+    "last": "18:00",
+    "span_minutes": 510
+  },
+  {
+    "date": "2026-08-22",
+    "weekday": 5,
+    "posts": 5,
+    "first_minute": 540,
+    "last_minute": 1080,
+    "first": "09:00",
+    "last": "18:00",
+    "span_minutes": 540
+  },
+  {
+    "date": "2026-08-23",
+    "weekday": 6,
+    "posts": 5,
+    "first_minute": 540,
+    "last_minute": 940,
+    "first": "09:00",
+    "last": "15:40",
+    "span_minutes": 400
+  },
+  {
+    "date": "2026-08-24",
+    "weekday": 0,
+    "posts": 5,
+    "first_minute": 600,
+    "last_minute": 1125,
+    "first": "10:00",
+    "last": "18:45",
+    "span_minutes": 525
+  },
+  {
+    "date": "2026-08-25",
+    "weekday": 1,
+    "posts": 8,
+    "first_minute": 560,
+    "last_minute": 1090,
+    "first": "09:20",
+    "last": "18:10",
+    "span_minutes": 530
+  },
+  {
+    "date": "2026-08-26",
+    "weekday": 2,
+    "posts": 6,
+    "first_minute": 480,
+    "last_minute": 840,
+    "first": "08:00",
+    "last": "14:00",
+    "span_minutes": 360
+  },
+  {
+    "date": "2026-08-27",
+    "weekday": 3,
+    "posts": 4,
+    "first_minute": 620,
+    "last_minute": 990,
+    "first": "10:20",
+    "last": "16:30",
+    "span_minutes": 370
+  },
+  {
+    "date": "2026-08-28",
+    "weekday": 4,
+    "posts": 8,
+    "first_minute": 540,
+    "last_minute": 1080,
+    "first": "09:00",
+    "last": "18:00",
+    "span_minutes": 540
+  },
+  {
+    "date": "2026-08-29",
+    "weekday": 5,
+    "posts": 5,
+    "first_minute": 540,
+    "last_minute": 900,
+    "first": "09:00",
+    "last": "15:00",
+    "span_minutes": 360
+  },
+  {
+    "date": "2026-08-30",
+    "weekday": 6,
+    "posts": 6,
+    "first_minute": 480,
+    "last_minute": 1130,
+    "first": "08:00",
+    "last": "18:50",
+    "span_minutes": 650
+  },
+  {
+    "date": "2026-08-31",
+    "weekday": 0,
+    "posts": 3,
+    "first_minute": 570,
+    "last_minute": 990,
+    "first": "09:30",
+    "last": "16:30",
+    "span_minutes": 420
+  },
+  {
+    "date": "2026-09-01",
+    "weekday": 1,
+    "posts": 9,
+    "first_minute": 540,
+    "last_minute": 1350,
+    "first": "09:00",
+    "last": "22:30",
+    "span_minutes": 810
+  },
+  {
+    "date": "2026-09-02",
+    "weekday": 2,
+    "posts": 7,
+    "first_minute": 540,
+    "last_minute": 1100,
+    "first": "09:00",
+    "last": "18:20",
+    "span_minutes": 560
+  },
+  {
+    "date": "2026-09-03",
+    "weekday": 3,
+    "posts": 8,
+    "first_minute": 480,
+    "last_minute": 1000,
+    "first": "08:00",
+    "last": "16:40",
+    "span_minutes": 520
+  },
+  {
+    "date": "2026-09-04",
+    "weekday": 4,
+    "posts": 6,
+    "first_minute": 540,
+    "last_minute": 1080,
+    "first": "09:00",
+    "last": "18:00",
+    "span_minutes": 540
+  },
+  {
+    "date": "2026-09-05",
+    "weekday": 5,
+    "posts": 6,
+    "first_minute": 490,
+    "last_minute": 1000,
+    "first": "08:10",
+    "last": "16:40",
+    "span_minutes": 510
+  },
+  {
+    "date": "2026-09-06",
+    "weekday": 6,
+    "posts": 4,
+    "first_minute": 540,
+    "last_minute": 1350,
+    "first": "09:00",
+    "last": "22:30",
+    "span_minutes": 810
+  },
+  {
+    "date": "2026-09-07",
+    "weekday": 0,
+    "posts": 5,
+    "first_minute": 540,
+    "last_minute": 840,
+    "first": "09:00",
+    "last": "14:00",
+    "span_minutes": 300
+  },
+  {
+    "date": "2026-09-08",
+    "weekday": 1,
+    "posts": 3,
+    "first_minute": 560,
+    "last_minute": 660,
+    "first": "09:20",
+    "last": "11:00",
+    "span_minutes": 100
+  },
+  {
+    "date": "2026-09-09",
+    "weekday": 2,
+    "posts": 7,
+    "first_minute": 570,
+    "last_minute": 1130,
+    "first": "09:30",
+    "last": "18:50",
+    "span_minutes": 560
+  },
+  {
+    "date": "2026-09-10",
+    "weekday": 3,
+    "posts": 7,
+    "first_minute": 540,
+    "last_minute": 990,
+    "first": "09:00",
+    "last": "16:30",
+    "span_minutes": 450
+  },
+  {
+    "date": "2026-09-11",
+    "weekday": 4,
+    "posts": 8,
+    "first_minute": 590,
+    "last_minute": 1080,
+    "first": "09:50",
+    "last": "18:00",
+    "span_minutes": 490
+  },
+  {
+    "date": "2026-09-12",
+    "weekday": 5,
+    "posts": 4,
+    "first_minute": 540,
+    "last_minute": 1030,
+    "first": "09:00",
+    "last": "17:10",
+    "span_minutes": 490
+  },
+  {
+    "date": "2026-09-13",
+    "weekday": 6,
+    "posts": 3,
+    "first_minute": 540,
+    "last_minute": 1330,
+    "first": "09:00",
+    "last": "22:10",
+    "span_minutes": 790
+  },
+  {
+    "date": "2026-09-14",
+    "weekday": 0,
+    "posts": 6,
+    "first_minute": 510,
+    "last_minute": 1070,
+    "first": "08:30",
+    "last": "17:50",
+    "span_minutes": 560
+  },
+  {
+    "date": "2026-09-15",
+    "weekday": 1,
+    "posts": 7,
+    "first_minute": 510,
+    "last_minute": 900,
+    "first": "08:30",
+    "last": "15:00",
+    "span_minutes": 390
+  },
+  {
+    "date": "2026-09-16",
+    "weekday": 2,
+    "posts": 6,
+    "first_minute": 540,
+    "last_minute": 900,
+    "first": "09:00",
+    "last": "15:00",
+    "span_minutes": 360
+  },
+  {
+    "date": "2026-09-17",
+    "weekday": 3,
+    "posts": 6,
+    "first_minute": 480,
+    "last_minute": 960,
+    "first": "08:00",
+    "last": "16:00",
+    "span_minutes": 480
+  },
+  {
+    "date": "2026-09-18",
+    "weekday": 4,
+    "posts": 5,
+    "first_minute": 610,
+    "last_minute": 1080,
+    "first": "10:10",
+    "last": "18:00",
+    "span_minutes": 470
+  },
+  {
+    "date": "2026-09-19",
+    "weekday": 5,
+    "posts": 6,
+    "first_minute": 560,
+    "last_minute": 1180,
+    "first": "09:20",
+    "last": "19:40",
+    "span_minutes": 620
+  },
+  {
+    "date": "2026-09-20",
+    "weekday": 6,
+    "posts": 3,
+    "first_minute": 540,
+    "last_minute": 840,
+    "first": "09:00",
+    "last": "14:00",
+    "span_minutes": 300
+  },
+  {
+    "date": "2026-09-21",
+    "weekday": 0,
+    "posts": 3,
+    "first_minute": 540,
+    "last_minute": 660,
+    "first": "09:00",
+    "last": "11:00",
+    "span_minutes": 120
+  },
+  {
+    "date": "2026-09-22",
+    "weekday": 1,
+    "posts": 4,
+    "first_minute": 540,
+    "last_minute": 720,
+    "first": "09:00",
+    "last": "12:00",
+    "span_minutes": 180
+  }
+]

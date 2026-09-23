@@ -1,0 +1,351 @@
+{
+  "pages": [
+    {
+      "page": 1,
+      "url": "https://exler.es/blog/?page=1&per-page=50",
+      "final_url": "https://exler.es/blog/?page=1&per-page=50",
+      "status": 200,
+      "fetched_at": "2026-09-23T11:13:09.281786+00:00",
+      "sha256": "b4a4419731defa0755aa065316e565ad53eea43923fa1841aeffb4f6425238d9",
+      "items": 50,
+      "parse_errors": [],
+      "newest": "2026-09-23T13:00",
+      "oldest": "2026-09-14T08:30"
+    },
+    {
+      "page": 2,
+      "url": "https://exler.es/blog/?page=2&per-page=50",
+      "final_url": "https://exler.es/blog/?page=2&per-page=50",
+      "status": 200,
+      "fetched_at": "2026-09-23T11:10:04.110088+00:00",
+      "sha256": "fef0701b1220ae3a7f5a772b8708e5f9c7956204d76d8aa11416ad47298512bf",
+      "items": 50,
+      "parse_errors": [],
+      "newest": "2026-09-13T22:10",
+      "oldest": "2026-09-04T12:14"
+    },
+    {
+      "page": 3,
+      "url": "https://exler.es/blog/?page=3&per-page=50",
+      "final_url": "https://exler.es/blog/?page=3&per-page=50",
+      "status": 200,
+      "fetched_at": "2026-09-23T11:10:04.217035+00:00",
+      "sha256": "8ace689a0014de8c604802f32b3f39d33c08093834810af9513cb8a9143349bf",
+      "items": 50,
+      "parse_errors": [],
+      "newest": "2026-09-04T11:20",
+      "oldest": "2026-08-27T16:30"
+    },
+    {
+      "page": 4,
+      "url": "https://exler.es/blog/?page=4&per-page=50",
+      "final_url": "https://exler.es/blog/?page=4&per-page=50",
+      "status": 200,
+      "fetched_at": "2026-09-23T11:10:04.433742+00:00",
+      "sha256": "2e54f335d0a670d569ce1e8e3ff03d7f7ba3c445e2a3ad53450727a43ba21089",
+      "items": 50,
+      "parse_errors": [],
+      "newest": "2026-08-27T13:00",
+      "oldest": "2026-08-19T11:41"
+    },
+    {
+      "page": 5,
+      "url": "https://exler.es/blog/?page=5&per-page=50",
+      "final_url": "https://exler.es/blog/?page=5&per-page=50",
+      "status": 200,
+      "fetched_at": "2026-09-23T11:10:04.331473+00:00",
+      "sha256": "29b0266eff3981c6d3998e372a2eca0658e95df3b33910f200c59f20bc34e0ec",
+      "items": 50,
+      "parse_errors": [],
+      "newest": "2026-08-19T10:00",
+      "oldest": "2026-08-07T17:00"
+    },
+    {
+      "page": 6,
+      "url": "https://exler.es/blog/?page=6&per-page=50",
+      "final_url": "https://exler.es/blog/?page=6&per-page=50",
+      "status": 200,
+      "fetched_at": "2026-09-23T11:10:11.586644+00:00",
+      "sha256": "f691cf8b161d274be7465ecc608579071551ede513522ee2d733a133bad650f0",
+      "items": 50,
+      "parse_errors": [],
+      "newest": "2026-08-07T15:30",
+      "oldest": "2026-07-29T13:00"
+    },
+    {
+      "page": 7,
+      "url": "https://exler.es/blog/?page=7&per-page=50",
+      "final_url": "https://exler.es/blog/?page=7&per-page=50",
+      "status": 200,
+      "fetched_at": "2026-09-23T11:10:11.703596+00:00",
+      "sha256": "f27da7256e21a480eb00d25c0dab0ce595c98e12d5f7d68ebbbb880a95ec8498",
+      "items": 50,
+      "parse_errors": [],
+      "newest": "2026-07-29T12:00",
+      "oldest": "2026-07-20T19:00"
+    },
+    {
+      "page": 8,
+      "url": "https://exler.es/blog/?page=8&per-page=50",
+      "final_url": "https://exler.es/blog/?page=8&per-page=50",
+      "status": 200,
+      "fetched_at": "2026-09-23T11:10:11.587525+00:00",
+      "sha256": "6da5e94db95b5a318ba4c56af21d5969cdc4f0bc16d696c2038687902eccdea0",
+      "items": 50,
+      "parse_errors": [],
+      "newest": "2026-07-20T15:30",
+      "oldest": "2026-07-14T12:14"
+    },
+    {
+      "page": 9,
+      "url": "https://exler.es/blog/?page=9&per-page=50",
+      "final_url": "https://exler.es/blog/?page=9&per-page=50",
+      "status": 200,
+      "fetched_at": "2026-09-23T11:10:11.831720+00:00",
+      "sha256": "d1a31fd17233305563893cc3ef8b89e0f0152be1382777f2a59440ec9ae4a2da",
+      "items": 50,
+      "parse_errors": [],
+      "newest": "2026-07-14T10:20",
+      "oldest": "2026-07-05T13:00"
+    },
+    {
+      "page": 10,
+      "url": "https://exler.es/blog/?page=10&per-page=50",
+      "final_url": "https://exler.es/blog/?page=10&per-page=50",
+      "status": 200,
+      "fetched_at": "2026-09-23T11:10:19.184205+00:00",
+      "sha256": "3f73522d3da9e4b16350a7990009ae37c6e0439a4e31a942cc2cbe8ce5c46df6",
+      "items": 50,
+      "parse_errors": [],
+      "newest": "2026-07-05T09:00",
+      "oldest": "2026-06-27T22:40"
+    },
+    {
+      "page": 11,
+      "url": "https://exler.es/blog/?page=11&per-page=50",
+      "final_url": "https://exler.es/blog/?page=11&per-page=50",
+      "status": 200,
+      "fetched_at": "2026-09-23T11:10:19.082661+00:00",
+      "sha256": "f66d5a193f03880f27850daccbeddc55bcd05a44d952ee158ecdcab7950ed032",
+      "items": 50,
+      "parse_errors": [],
+      "newest": "2026-06-27T13:50",
+      "oldest": "2026-06-17T11:00"
+    },
+    {
+      "page": 12,
+      "url": "https://exler.es/blog/?page=12&per-page=50",
+      "final_url": "https://exler.es/blog/?page=12&per-page=50",
+      "status": 200,
+      "fetched_at": "2026-09-23T11:10:19.220979+00:00",
+      "sha256": "61500012b9b0a53b4e720e26f0f17f8ea09f8408e3fdc085b8801cbb3898bc63",
+      "items": 50,
+      "parse_errors": [],
+      "newest": "2026-06-17T10:00",
+      "oldest": "2026-06-09T08:30"
+    },
+    {
+      "page": 13,
+      "url": "https://exler.es/blog/?page=13&per-page=50",
+      "final_url": "https://exler.es/blog/?page=13&per-page=50",
+      "status": 200,
+      "fetched_at": "2026-09-23T11:10:19.358563+00:00",
+      "sha256": "a600891170569a69861bfcc4e245f19f136071871c0ace1ca911ccc36d342a28",
+      "items": 50,
+      "parse_errors": [],
+      "newest": "2026-06-08T17:00",
+      "oldest": "2026-06-01T13:00"
+    },
+    {
+      "page": 14,
+      "url": "https://exler.es/blog/?page=14&per-page=50",
+      "final_url": "https://exler.es/blog/?page=14&per-page=50",
+      "status": 200,
+      "fetched_at": "2026-09-23T11:10:26.427842+00:00",
+      "sha256": "5fa1881973a999059f5000fa76b677f2a8b10301419466ab6deb394fff0fd667",
+      "items": 50,
+      "parse_errors": [],
+      "newest": "2026-06-01T13:00",
+      "oldest": "2026-05-26T10:00"
+    },
+    {
+      "page": 15,
+      "url": "https://exler.es/blog/?page=15&per-page=50",
+      "final_url": "https://exler.es/blog/?page=15&per-page=50",
+      "status": 200,
+      "fetched_at": "2026-09-23T11:10:26.523830+00:00",
+      "sha256": "de0ad21c77858ee51ba8904611a241fe5fc4428776bde2313c3239d2754e8004",
+      "items": 50,
+      "parse_errors": [],
+      "newest": "2026-05-26T09:00",
+      "oldest": "2026-05-18T12:30"
+    },
+    {
+      "page": 16,
+      "url": "https://exler.es/blog/?page=16&per-page=50",
+      "final_url": "https://exler.es/blog/?page=16&per-page=50",
+      "status": 200,
+      "fetched_at": "2026-09-23T11:10:26.727599+00:00",
+      "sha256": "27471099b0ed1daa7b2f6c9c14ed9f9d7ab0b0e104999c3e45d7376b7b41d4b2",
+      "items": 50,
+      "parse_errors": [],
+      "newest": "2026-05-18T11:00",
+      "oldest": "2026-05-10T10:00"
+    },
+    {
+      "page": 17,
+      "url": "https://exler.es/blog/?page=17&per-page=50",
+      "final_url": "https://exler.es/blog/?page=17&per-page=50",
+      "status": 200,
+      "fetched_at": "2026-09-23T11:10:26.523461+00:00",
+      "sha256": "e71b506889563f804166756340c077b937137bfaa0115927a98ae1c407ab828a",
+      "items": 50,
+      "parse_errors": [],
+      "newest": "2026-05-10T09:00",
+      "oldest": "2026-05-03T12:00"
+    },
+    {
+      "page": 18,
+      "url": "https://exler.es/blog/?page=18&per-page=50",
+      "final_url": "https://exler.es/blog/?page=18&per-page=50",
+      "status": 200,
+      "fetched_at": "2026-09-23T11:10:36.858129+00:00",
+      "sha256": "fd12b278b33bbcaafa19ee85923266a02583558b492b69691497ebbe0fc8cbea",
+      "items": 50,
+      "parse_errors": [],
+      "newest": "2026-05-03T11:00",
+      "oldest": "2026-04-25T13:00"
+    },
+    {
+      "page": 19,
+      "url": "https://exler.es/blog/?page=19&per-page=50",
+      "final_url": "https://exler.es/blog/?page=19&per-page=50",
+      "status": 200,
+      "fetched_at": "2026-09-23T11:10:36.988659+00:00",
+      "sha256": "6961ea24ac4606c1dc5e0a0cf013a2d700b4330da775fac4107d85a7a6e3d7dc",
+      "items": 50,
+      "parse_errors": [],
+      "newest": "2026-04-25T11:30",
+      "oldest": "2026-04-18T11:00"
+    },
+    {
+      "page": 20,
+      "url": "https://exler.es/blog/?page=20&per-page=50",
+      "final_url": "https://exler.es/blog/?page=20&per-page=50",
+      "status": 200,
+      "fetched_at": "2026-09-23T11:10:36.609090+00:00",
+      "sha256": "dea0484b1de9d07a4f345300973aea2d69319521f5c268df513ffe5b83b83fe6",
+      "items": 50,
+      "parse_errors": [],
+      "newest": "2026-04-18T10:00",
+      "oldest": "2026-04-11T11:00"
+    },
+    {
+      "page": 21,
+      "url": "https://exler.es/blog/?page=21&per-page=50",
+      "final_url": "https://exler.es/blog/?page=21&per-page=50",
+      "status": 200,
+      "fetched_at": "2026-09-23T11:10:36.953714+00:00",
+      "sha256": "55d3622b0f27f1dc6629372708e4086dc877e5edce807792bcc548ce8553d7e7",
+      "items": 50,
+      "parse_errors": [],
+      "newest": "2026-04-11T10:30",
+      "oldest": "2026-04-05T09:00"
+    },
+    {
+      "page": 22,
+      "url": "https://exler.es/blog/?page=22&per-page=50",
+      "final_url": "https://exler.es/blog/?page=22&per-page=50",
+      "status": 200,
+      "fetched_at": "2026-09-23T11:10:45.050087+00:00",
+      "sha256": "09bb3420bfd069a142da7d8b22b0f424c9573ef7ae012aca912b7bbc1c3a1b34",
+      "items": 50,
+      "parse_errors": [],
+      "newest": "2026-04-04T18:30",
+      "oldest": "2026-03-29T11:00"
+    },
+    {
+      "page": 23,
+      "url": "https://exler.es/blog/?page=23&per-page=50",
+      "final_url": "https://exler.es/blog/?page=23&per-page=50",
+      "status": 200,
+      "fetched_at": "2026-09-23T11:10:45.174584+00:00",
+      "sha256": "cb3487472f15ed32cb1ea7a42849b52acca3a17f01294dcb0b5a8d0e3966ab76",
+      "items": 50,
+      "parse_errors": [],
+      "newest": "2026-03-29T10:00",
+      "oldest": "2026-03-18T09:00"
+    },
+    {
+      "page": 24,
+      "url": "https://exler.es/blog/?page=24&per-page=50",
+      "final_url": "https://exler.es/blog/?page=24&per-page=50",
+      "status": 200,
+      "fetched_at": "2026-09-23T11:10:45.273591+00:00",
+      "sha256": "1db2f80017dd86191f288a6cab7aafb29393f3be6289ea47eba75db37c1cfed5",
+      "items": 50,
+      "parse_errors": [],
+      "newest": "2026-03-17T16:30",
+      "oldest": "2026-03-08T14:00"
+    }
+  ],
+  "fetched_labels": 1200,
+  "unique_labels": 1200,
+  "duplicate_labels": 0,
+  "period_labels": 1122,
+  "repeated_urls": {},
+  "outside_period": 78,
+  "current_day_excluded": [
+    {
+      "url": "https://exler.es/blog/kakiye-strasti.htm",
+      "title": "Какие страсти!",
+      "published_at": "2026-09-23T13:00",
+      "displayed_at": "23.09.2026 13:00",
+      "source_page": 1
+    },
+    {
+      "url": "https://exler.es/blog/oy.htm",
+      "title": "Ой!",
+      "published_at": "2026-09-23T11:30",
+      "displayed_at": "23.09.2026 11:30",
+      "source_page": 1
+    },
+    {
+      "url": "https://exler.es/blog/rynok-avtomobiley-v-ispanii.htm",
+      "title": "Рынок автомобилей в Испании",
+      "published_at": "2026-09-23T11:10",
+      "displayed_at": "23.09.2026 11:10",
+      "source_page": 1
+    },
+    {
+      "url": "https://exler.es/blog/shiroko-zhivet-reper-zhigan.htm",
+      "title": "Широко живёт рэпер Джиган",
+      "published_at": "2026-09-23T10:00",
+      "displayed_at": "23.09.2026 10:00",
+      "source_page": 1
+    }
+  ],
+  "boundary_before_start": [
+    {
+      "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-262.htm",
+      "title": "Ali | Делимся находками из китайских магазинов",
+      "published_at": "2026-03-22T09:00",
+      "displayed_at": "22.03.2026 09:00",
+      "source_page": 23
+    },
+    {
+      "url": "https://exler.es/blog/stokgolmskiy-sindrom.htm",
+      "title": "Стокгольмский синдром",
+      "published_at": "2026-03-21T14:00",
+      "displayed_at": "21.03.2026 14:00",
+      "source_page": 23
+    },
+    {
+      "url": "https://exler.es/blog/dobro-pozhalovat-v-cheburnet.htm",
+      "title": "Добро пожаловать в Чебурнет",
+      "published_at": "2026-03-21T12:30",
+      "displayed_at": "21.03.2026 12:30",
+      "source_page": 23
+    }
+  ]
+}

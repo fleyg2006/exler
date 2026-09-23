@@ -1,0 +1,1774 @@
+{
+  "period": {
+    "start_inclusive": "2026-03-23",
+    "end_exclusive": "2026-09-23",
+    "last_complete_day": "2026-09-22"
+  },
+  "scope": "All entries in the public unfiltered /blog/ feed, including article announcements; comments excluded.",
+  "time_basis": "Displayed site time; no explicit time zone or UTC offset established. No timezone conversion.",
+  "posts": 1122,
+  "calendar_days": 184,
+  "active_days": 184,
+  "zero_days": [],
+  "posts_per_day": 6.0978260869565215,
+  "median_posts_per_day": 6.0,
+  "first_median": "09:00",
+  "last_median": "17:30",
+  "median_span_minutes": 505.0,
+  "minute_zero": 636,
+  "minute_zero_or_thirty": 833,
+  "minute_multiple_ten": 1061,
+  "before_12": 587,
+  "at_or_after_18": 103,
+  "at_or_after_20": 21,
+  "between_8_and_18": 1017,
+  "earliest_clock": {
+    "url": "https://exler.es/blog/viva-espana.htm",
+    "title": "¡Viva España!",
+    "published_at": "2026-07-20T00:20",
+    "displayed_at": "20.07.2026 00:20",
+    "source_page": 8,
+    "date": "2026-07-20",
+    "weekday": 0,
+    "hour": 0,
+    "minute": 20,
+    "minute_of_day": 20
+  },
+  "latest_clock": {
+    "url": "https://exler.es/blog/pobezhdayem.htm",
+    "title": "Побеждаем!",
+    "published_at": "2026-05-02T23:10",
+    "displayed_at": "02.05.2026 23:10",
+    "source_page": 18,
+    "date": "2026-05-02",
+    "weekday": 5,
+    "hour": 23,
+    "minute": 10,
+    "minute_of_day": 1390
+  },
+  "busiest_days": [
+    {
+      "date": "2026-06-05",
+      "weekday": 4,
+      "posts": 11,
+      "first_minute": 570,
+      "last_minute": 1080,
+      "first": "09:30",
+      "last": "18:00",
+      "span_minutes": 510
+    },
+    {
+      "date": "2026-07-15",
+      "weekday": 2,
+      "posts": 11,
+      "first_minute": 540,
+      "last_minute": 1140,
+      "first": "09:00",
+      "last": "19:00",
+      "span_minutes": 600
+    },
+    {
+      "date": "2026-03-29",
+      "weekday": 6,
+      "posts": 10,
+      "first_minute": 540,
+      "last_minute": 1140,
+      "first": "09:00",
+      "last": "19:00",
+      "span_minutes": 600
+    },
+    {
+      "date": "2026-04-08",
+      "weekday": 2,
+      "posts": 10,
+      "first_minute": 480,
+      "last_minute": 1130,
+      "first": "08:00",
+      "last": "18:50",
+      "span_minutes": 650
+    },
+    {
+      "date": "2026-04-11",
+      "weekday": 5,
+      "posts": 10,
+      "first_minute": 540,
+      "last_minute": 1080,
+      "first": "09:00",
+      "last": "18:00",
+      "span_minutes": 540
+    },
+    {
+      "date": "2026-05-08",
+      "weekday": 4,
+      "posts": 10,
+      "first_minute": 550,
+      "last_minute": 1350,
+      "first": "09:10",
+      "last": "22:30",
+      "span_minutes": 800
+    },
+    {
+      "date": "2026-07-17",
+      "weekday": 4,
+      "posts": 10,
+      "first_minute": 540,
+      "last_minute": 1360,
+      "first": "09:00",
+      "last": "22:40",
+      "span_minutes": 820
+    },
+    {
+      "date": "2026-04-07",
+      "weekday": 1,
+      "posts": 9,
+      "first_minute": 540,
+      "last_minute": 960,
+      "first": "09:00",
+      "last": "16:00",
+      "span_minutes": 420
+    },
+    {
+      "date": "2026-05-23",
+      "weekday": 5,
+      "posts": 9,
+      "first_minute": 570,
+      "last_minute": 1380,
+      "first": "09:30",
+      "last": "23:00",
+      "span_minutes": 810
+    },
+    {
+      "date": "2026-05-28",
+      "weekday": 3,
+      "posts": 9,
+      "first_minute": 480,
+      "last_minute": 900,
+      "first": "08:00",
+      "last": "15:00",
+      "span_minutes": 420
+    }
+  ],
+  "top_exact_times": [
+    {
+      "time": "10:00",
+      "posts": 109
+    },
+    {
+      "time": "09:00",
+      "posts": 95
+    },
+    {
+      "time": "11:00",
+      "posts": 94
+    },
+    {
+      "time": "12:00",
+      "posts": 81
+    },
+    {
+      "time": "13:00",
+      "posts": 79
+    },
+    {
+      "time": "14:00",
+      "posts": 45
+    },
+    {
+      "time": "09:30",
+      "posts": 40
+    },
+    {
+      "time": "10:30",
+      "posts": 36
+    },
+    {
+      "time": "18:00",
+      "posts": 34
+    },
+    {
+      "time": "11:30",
+      "posts": 31
+    },
+    {
+      "time": "08:00",
+      "posts": 27
+    },
+    {
+      "time": "15:00",
+      "posts": 25
+    }
+  ],
+  "hourly": [
+    {
+      "hour": 0,
+      "posts": 1
+    },
+    {
+      "hour": 1,
+      "posts": 0
+    },
+    {
+      "hour": 2,
+      "posts": 0
+    },
+    {
+      "hour": 3,
+      "posts": 0
+    },
+    {
+      "hour": 4,
+      "posts": 0
+    },
+    {
+      "hour": 5,
+      "posts": 0
+    },
+    {
+      "hour": 6,
+      "posts": 0
+    },
+    {
+      "hour": 7,
+      "posts": 1
+    },
+    {
+      "hour": 8,
+      "posts": 59
+    },
+    {
+      "hour": 9,
+      "posts": 171
+    },
+    {
+      "hour": 10,
+      "posts": 189
+    },
+    {
+      "hour": 11,
+      "posts": 166
+    },
+    {
+      "hour": 12,
+      "posts": 130
+    },
+    {
+      "hour": 13,
+      "posts": 102
+    },
+    {
+      "hour": 14,
+      "posts": 51
+    },
+    {
+      "hour": 15,
+      "posts": 37
+    },
+    {
+      "hour": 16,
+      "posts": 54
+    },
+    {
+      "hour": 17,
+      "posts": 58
+    },
+    {
+      "hour": 18,
+      "posts": 67
+    },
+    {
+      "hour": 19,
+      "posts": 15
+    },
+    {
+      "hour": 20,
+      "posts": 3
+    },
+    {
+      "hour": 21,
+      "posts": 1
+    },
+    {
+      "hour": 22,
+      "posts": 14
+    },
+    {
+      "hour": 23,
+      "posts": 3
+    }
+  ],
+  "weekday": [
+    {
+      "weekday": 0,
+      "label": "Пн",
+      "calendar_days": 27,
+      "active_days": 27,
+      "posts": 158,
+      "posts_per_day": 5.851851851851852,
+      "first_median_minute": 540,
+      "last_median_minute": 1020,
+      "last_median": "17:00",
+      "hourly_counts": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        11,
+        20,
+        31,
+        21,
+        20,
+        13,
+        6,
+        2,
+        8,
+        14,
+        6,
+        2,
+        1,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "weekday": 1,
+      "label": "Вт",
+      "calendar_days": 27,
+      "active_days": 27,
+      "posts": 162,
+      "posts_per_day": 6.0,
+      "first_median_minute": 540,
+      "last_median_minute": 1000,
+      "last_median": "16:40",
+      "hourly_counts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        27,
+        26,
+        24,
+        20,
+        18,
+        8,
+        7,
+        13,
+        3,
+        7,
+        2,
+        1,
+        0,
+        1,
+        1
+      ]
+    },
+    {
+      "weekday": 2,
+      "label": "Ср",
+      "calendar_days": 26,
+      "active_days": 26,
+      "posts": 172,
+      "posts_per_day": 6.615384615384615,
+      "first_median_minute": 540.0,
+      "last_median_minute": 1055.0,
+      "last_median": "17:35",
+      "hourly_counts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        8,
+        28,
+        27,
+        27,
+        23,
+        15,
+        13,
+        4,
+        3,
+        10,
+        9,
+        4,
+        0,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "weekday": 3,
+      "label": "Чт",
+      "calendar_days": 26,
+      "active_days": 26,
+      "posts": 165,
+      "posts_per_day": 6.346153846153846,
+      "first_median_minute": 480.0,
+      "last_median_minute": 990.0,
+      "last_median": "16:30",
+      "hourly_counts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        20,
+        20,
+        25,
+        27,
+        20,
+        18,
+        9,
+        5,
+        11,
+        3,
+        7,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "weekday": 4,
+      "label": "Пт",
+      "calendar_days": 26,
+      "active_days": 26,
+      "posts": 193,
+      "posts_per_day": 7.423076923076923,
+      "first_median_minute": 545.0,
+      "last_median_minute": 1080.0,
+      "last_median": "18:00",
+      "hourly_counts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        5,
+        22,
+        39,
+        23,
+        23,
+        14,
+        3,
+        8,
+        9,
+        18,
+        26,
+        1,
+        0,
+        0,
+        2,
+        0
+      ]
+    },
+    {
+      "weekday": 5,
+      "label": "Сб",
+      "calendar_days": 26,
+      "active_days": 26,
+      "posts": 143,
+      "posts_per_day": 5.5,
+      "first_median_minute": 540.0,
+      "last_median_minute": 1080.0,
+      "last_median": "18:00",
+      "hourly_counts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        27,
+        25,
+        23,
+        13,
+        12,
+        5,
+        6,
+        5,
+        6,
+        7,
+        4,
+        1,
+        1,
+        4,
+        2
+      ]
+    },
+    {
+      "weekday": 6,
+      "label": "Вс",
+      "calendar_days": 26,
+      "active_days": 26,
+      "posts": 129,
+      "posts_per_day": 4.961538461538462,
+      "first_median_minute": 540.0,
+      "last_median_minute": 925.0,
+      "last_median": "15:25",
+      "hourly_counts": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        9,
+        27,
+        16,
+        21,
+        11,
+        12,
+        7,
+        5,
+        5,
+        4,
+        5,
+        2,
+        0,
+        0,
+        4,
+        0
+      ]
+    }
+  ],
+  "monthly": [
+    {
+      "month": "2026-03",
+      "calendar_days": 9,
+      "active_days": 9,
+      "posts": 47,
+      "posts_per_day": 5.222222222222222,
+      "median_post_minute": 720,
+      "median_first_minute": 540,
+      "median_last_minute": 960,
+      "before_12_share": 0.48936170212765956,
+      "at_or_after_18_share": 0.0851063829787234
+    },
+    {
+      "month": "2026-04",
+      "calendar_days": 30,
+      "active_days": 30,
+      "posts": 213,
+      "posts_per_day": 7.1,
+      "median_post_minute": 690,
+      "median_first_minute": 540.0,
+      "median_last_minute": 1080.0,
+      "before_12_share": 0.5305164319248826,
+      "at_or_after_18_share": 0.09859154929577464
+    },
+    {
+      "month": "2026-05",
+      "calendar_days": 31,
+      "active_days": 31,
+      "posts": 209,
+      "posts_per_day": 6.741935483870968,
+      "median_post_minute": 690,
+      "median_first_minute": 540,
+      "median_last_minute": 1080,
+      "before_12_share": 0.5167464114832536,
+      "at_or_after_18_share": 0.11004784688995216
+    },
+    {
+      "month": "2026-06",
+      "calendar_days": 30,
+      "active_days": 30,
+      "posts": 176,
+      "posts_per_day": 5.866666666666666,
+      "median_post_minute": 660.0,
+      "median_first_minute": 540.0,
+      "median_last_minute": 1035.0,
+      "before_12_share": 0.5568181818181818,
+      "at_or_after_18_share": 0.08522727272727272
+    },
+    {
+      "month": "2026-07",
+      "calendar_days": 31,
+      "active_days": 31,
+      "posts": 197,
+      "posts_per_day": 6.354838709677419,
+      "median_post_minute": 720,
+      "median_first_minute": 540,
+      "median_last_minute": 1050,
+      "before_12_share": 0.467005076142132,
+      "at_or_after_18_share": 0.09644670050761421
+    },
+    {
+      "month": "2026-08",
+      "calendar_days": 31,
+      "active_days": 31,
+      "posts": 157,
+      "posts_per_day": 5.064516129032258,
+      "median_post_minute": 690,
+      "median_first_minute": 540,
+      "median_last_minute": 1020,
+      "before_12_share": 0.5222929936305732,
+      "at_or_after_18_share": 0.07006369426751592
+    },
+    {
+      "month": "2026-09",
+      "calendar_days": 22,
+      "active_days": 22,
+      "posts": 123,
+      "posts_per_day": 5.590909090909091,
+      "median_post_minute": 670,
+      "median_first_minute": 540.0,
+      "median_last_minute": 1015.0,
+      "before_12_share": 0.5772357723577236,
+      "at_or_after_18_share": 0.08130081300813008
+    }
+  ],
+  "groups": {
+    "weekdays": {
+      "days": 132,
+      "posts": 850,
+      "posts_per_day": 6.4393939393939394,
+      "first_median": "09:00",
+      "last_median": "17:30",
+      "last_median_minute": 1050.0
+    },
+    "weekends": {
+      "days": 52,
+      "posts": 272,
+      "posts_per_day": 5.230769230769231,
+      "first_median": "09:00",
+      "last_median": "17:35",
+      "last_median_minute": 1055.0
+    }
+  },
+  "sections": {
+    "blog": 994,
+    "films": 49,
+    "expromt": 22,
+    "bannizm": 24,
+    "aliexpress": 25,
+    "likbez": 6,
+    "ezhe": 1,
+    "dieta": 1
+  },
+  "grid_models": {
+    "minute_00": {
+      "grid_posts": 636,
+      "remaining_posts": 486,
+      "days_with_remainder": 170,
+      "days_without_remainder": 14,
+      "remaining_last_median_minute": 1000.0,
+      "remaining_last_median": "16:40",
+      "remaining_before_14": 334,
+      "remaining_at_or_after_18": 58,
+      "remaining_sections": {
+        "blog": 443,
+        "bannizm": 21,
+        "expromt": 10,
+        "aliexpress": 1,
+        "likbez": 5,
+        "films": 6
+      },
+      "remaining_hourly": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        32,
+        76,
+        80,
+        72,
+        49,
+        23,
+        6,
+        12,
+        40,
+        36,
+        33,
+        7,
+        2,
+        0,
+        14,
+        2
+      ],
+      "remaining_weekday_hourly": [
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          10,
+          9,
+          6,
+          5,
+          8,
+          3,
+          0,
+          1,
+          8,
+          9,
+          4,
+          1,
+          0,
+          0,
+          2,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          3,
+          15,
+          12,
+          9,
+          9,
+          7,
+          1,
+          0,
+          8,
+          0,
+          7,
+          1,
+          1,
+          0,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          4,
+          16,
+          12,
+          11,
+          7,
+          2,
+          3,
+          2,
+          1,
+          8,
+          7,
+          1,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          12,
+          12,
+          16,
+          6,
+          1,
+          0,
+          2,
+          9,
+          1,
+          6,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          4,
+          13,
+          25,
+          15,
+          17,
+          3,
+          0,
+          3,
+          7,
+          11,
+          3,
+          0,
+          0,
+          0,
+          2,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          10,
+          7,
+          8,
+          1,
+          3,
+          1,
+          2,
+          4,
+          4,
+          3,
+          3,
+          1,
+          0,
+          4,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          8,
+          1,
+          6,
+          8,
+          1,
+          4,
+          1,
+          2,
+          3,
+          3,
+          3,
+          1,
+          0,
+          0,
+          4,
+          0
+        ]
+      ],
+      "monthly": [
+        {
+          "month": "2026-03",
+          "days_with_remainder": 5,
+          "posts": 8,
+          "median_last_minute": 790
+        },
+        {
+          "month": "2026-04",
+          "days_with_remainder": 29,
+          "posts": 95,
+          "median_last_minute": 1035
+        },
+        {
+          "month": "2026-05",
+          "days_with_remainder": 31,
+          "posts": 90,
+          "median_last_minute": 1035
+        },
+        {
+          "month": "2026-06",
+          "days_with_remainder": 28,
+          "posts": 80,
+          "median_last_minute": 990.0
+        },
+        {
+          "month": "2026-07",
+          "days_with_remainder": 28,
+          "posts": 98,
+          "median_last_minute": 1020.0
+        },
+        {
+          "month": "2026-08",
+          "days_with_remainder": 30,
+          "posts": 64,
+          "median_last_minute": 903.5
+        },
+        {
+          "month": "2026-09",
+          "days_with_remainder": 19,
+          "posts": 51,
+          "median_last_minute": 1000
+        }
+      ]
+    },
+    "minute_00_30": {
+      "grid_posts": 833,
+      "remaining_posts": 289,
+      "days_with_remainder": 140,
+      "days_without_remainder": 44,
+      "remaining_last_median_minute": 990.0,
+      "remaining_last_median": "16:30",
+      "remaining_before_14": 186,
+      "remaining_at_or_after_18": 40,
+      "remaining_sections": {
+        "blog": 247,
+        "bannizm": 21,
+        "expromt": 10,
+        "likbez": 5,
+        "films": 6
+      },
+      "remaining_hourly": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        20,
+        36,
+        44,
+        41,
+        29,
+        15,
+        2,
+        5,
+        29,
+        27,
+        24,
+        6,
+        1,
+        0,
+        7,
+        2
+      ],
+      "remaining_weekday_hourly": [
+        [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          6,
+          4,
+          4,
+          3,
+          1,
+          2,
+          0,
+          0,
+          5,
+          8,
+          3,
+          1,
+          0,
+          0,
+          2,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          9,
+          8,
+          6,
+          8,
+          4,
+          1,
+          0,
+          5,
+          0,
+          5,
+          1,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          5,
+          4,
+          8,
+          3,
+          1,
+          1,
+          0,
+          1,
+          8,
+          6,
+          1,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          6,
+          8,
+          9,
+          3,
+          0,
+          0,
+          1,
+          5,
+          0,
+          6,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          8,
+          15,
+          9,
+          13,
+          3,
+          0,
+          2,
+          6,
+          7,
+          1,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          4,
+          2,
+          2,
+          0,
+          2,
+          0,
+          0,
+          4,
+          2,
+          0,
+          2,
+          1,
+          0,
+          1,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          7,
+          0,
+          3,
+          4,
+          1,
+          3,
+          0,
+          2,
+          3,
+          2,
+          3,
+          1,
+          0,
+          0,
+          2,
+          0
+        ]
+      ],
+      "monthly": [
+        {
+          "month": "2026-03",
+          "days_with_remainder": 4,
+          "posts": 7,
+          "median_last_minute": 925.0
+        },
+        {
+          "month": "2026-04",
+          "days_with_remainder": 24,
+          "posts": 62,
+          "median_last_minute": 1037.5
+        },
+        {
+          "month": "2026-05",
+          "days_with_remainder": 29,
+          "posts": 54,
+          "median_last_minute": 1000
+        },
+        {
+          "month": "2026-06",
+          "days_with_remainder": 20,
+          "posts": 42,
+          "median_last_minute": 980.0
+        },
+        {
+          "month": "2026-07",
+          "days_with_remainder": 23,
+          "posts": 55,
+          "median_last_minute": 828
+        },
+        {
+          "month": "2026-08",
+          "days_with_remainder": 26,
+          "posts": 40,
+          "median_last_minute": 717.5
+        },
+        {
+          "month": "2026-09",
+          "days_with_remainder": 14,
+          "posts": 29,
+          "median_last_minute": 1000.0
+        }
+      ]
+    },
+    "every_ten_minutes": {
+      "grid_posts": 1061,
+      "remaining_posts": 61,
+      "days_with_remainder": 55,
+      "days_without_remainder": 129,
+      "remaining_last_median_minute": 711,
+      "remaining_last_median": "11:51",
+      "remaining_before_14": 53,
+      "remaining_at_or_after_18": 4,
+      "remaining_sections": {
+        "blog": 23,
+        "expromt": 10,
+        "bannizm": 18,
+        "likbez": 4,
+        "films": 6
+      },
+      "remaining_hourly": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        6,
+        10,
+        15,
+        15,
+        5,
+        1,
+        0,
+        0,
+        3,
+        3,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "remaining_weekday_hourly": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          2,
+          2,
+          3,
+          6,
+          3,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          2,
+          2,
+          4,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          3,
+          6,
+          9,
+          2,
+          0,
+          0,
+          0,
+          2,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ]
+      ],
+      "monthly": [
+        {
+          "month": "2026-03",
+          "days_with_remainder": 0,
+          "posts": 0,
+          "median_last_minute": null
+        },
+        {
+          "month": "2026-04",
+          "days_with_remainder": 10,
+          "posts": 11,
+          "median_last_minute": 676.0
+        },
+        {
+          "month": "2026-05",
+          "days_with_remainder": 10,
+          "posts": 10,
+          "median_last_minute": 739.5
+        },
+        {
+          "month": "2026-06",
+          "days_with_remainder": 6,
+          "posts": 8,
+          "median_last_minute": 685.0
+        },
+        {
+          "month": "2026-07",
+          "days_with_remainder": 11,
+          "posts": 14,
+          "median_last_minute": 735
+        },
+        {
+          "month": "2026-08",
+          "days_with_remainder": 13,
+          "posts": 13,
+          "median_last_minute": 701
+        },
+        {
+          "month": "2026-09",
+          "days_with_remainder": 5,
+          "posts": 5,
+          "median_last_minute": 711
+        }
+      ]
+    }
+  },
+  "friday_without_song_and_bannizm": {
+    "excluded": 49,
+    "posts": 144,
+    "posts_per_friday": 5.538461538461538,
+    "other_weekdays_posts_per_day": 6.19811320754717
+  },
+  "complete_weeks": [
+    {
+      "start": "2026-03-23",
+      "posts": 34
+    },
+    {
+      "start": "2026-03-30",
+      "posts": 50
+    },
+    {
+      "start": "2026-04-06",
+      "posts": 56
+    },
+    {
+      "start": "2026-04-13",
+      "posts": 48
+    },
+    {
+      "start": "2026-04-20",
+      "posts": 44
+    },
+    {
+      "start": "2026-04-27",
+      "posts": 48
+    },
+    {
+      "start": "2026-05-04",
+      "posts": 49
+    },
+    {
+      "start": "2026-05-11",
+      "posts": 44
+    },
+    {
+      "start": "2026-05-18",
+      "posts": 44
+    },
+    {
+      "start": "2026-05-25",
+      "posts": 52
+    },
+    {
+      "start": "2026-06-01",
+      "posts": 51
+    },
+    {
+      "start": "2026-06-08",
+      "posts": 40
+    },
+    {
+      "start": "2026-06-15",
+      "posts": 41
+    },
+    {
+      "start": "2026-06-22",
+      "posts": 31
+    },
+    {
+      "start": "2026-06-29",
+      "posts": 46
+    },
+    {
+      "start": "2026-07-06",
+      "posts": 40
+    },
+    {
+      "start": "2026-07-13",
+      "posts": 52
+    },
+    {
+      "start": "2026-07-20",
+      "posts": 41
+    },
+    {
+      "start": "2026-07-27",
+      "posts": 38
+    },
+    {
+      "start": "2026-08-03",
+      "posts": 35
+    },
+    {
+      "start": "2026-08-10",
+      "posts": 30
+    },
+    {
+      "start": "2026-08-17",
+      "posts": 40
+    },
+    {
+      "start": "2026-08-24",
+      "posts": 42
+    },
+    {
+      "start": "2026-08-31",
+      "posts": 43
+    },
+    {
+      "start": "2026-09-07",
+      "posts": 37
+    },
+    {
+      "start": "2026-09-14",
+      "posts": 39
+    }
+  ],
+  "longest_gaps": [
+    {
+      "hours": 24.5,
+      "from": {
+        "published_at": "2026-06-23T09:00",
+        "url": "https://exler.es/expromt/obzor-setevogo-nakopitelya-nas-terramaster-f4-425.htm",
+        "title": "Обзоры | Обзор сетевого накопителя (NAS) TerraMaster F4-425"
+      },
+      "to": {
+        "published_at": "2026-06-24T09:30",
+        "url": "https://exler.es/blog/otgulyali-na-ligo.htm",
+        "title": "Отгуляли на Лиго"
+      }
+    },
+    {
+      "hours": 22.5,
+      "from": {
+        "published_at": "2026-09-08T11:00",
+        "url": "https://exler.es/expromt/chto-interesnogo-pokazali-na-ifa-2026.htm",
+        "title": "Обзоры | Что интересного показали на IFA 2026"
+      },
+      "to": {
+        "published_at": "2026-09-09T09:30",
+        "url": "https://exler.es/blog/iskal-odnu-programmu.htm",
+        "title": "Искал одну программу"
+      }
+    },
+    {
+      "hours": 22.0,
+      "from": {
+        "published_at": "2026-09-21T11:00",
+        "url": "https://exler.es/films/dzhentlmeny-vtoroj-sezon.htm",
+        "title": "Кинорецензии | Джентльмены. Второй сезон | Сериал"
+      },
+      "to": {
+        "published_at": "2026-09-22T09:00",
+        "url": "https://exler.es/blog/tsekhovaya-solidarnost.htm",
+        "title": "Цеховая солидарность"
+      }
+    },
+    {
+      "hours": 21.666666666666668,
+      "from": {
+        "published_at": "2026-07-12T12:20",
+        "url": "https://exler.es/blog/ty-znayesh-chto-nuzhno-delat.htm",
+        "title": "Ты знаешь, что нужно делать"
+      },
+      "to": {
+        "published_at": "2026-07-13T10:00",
+        "url": "https://exler.es/films/nastrojshik-1.htm",
+        "title": "Кинорецензии | Настройщик | Драма"
+      }
+    },
+    {
+      "hours": 21.5,
+      "from": {
+        "published_at": "2026-08-13T13:00",
+        "url": "https://exler.es/blog/veselaya-strimersha.htm",
+        "title": "Весёлая стримерша"
+      },
+      "to": {
+        "published_at": "2026-08-14T10:30",
+        "url": "https://exler.es/blog/universitetskiy-eksperiment.htm",
+        "title": "Университетский эксперимент"
+      }
+    },
+    {
+      "hours": 21.0,
+      "from": {
+        "published_at": "2026-03-25T12:00",
+        "url": "https://exler.es/blog/bunker-dlya-grazhdanskikh-samoletov.htm",
+        "title": "Бункер для гражданских самолетов"
+      },
+      "to": {
+        "published_at": "2026-03-26T09:00",
+        "url": "https://exler.es/blog/obrashcheniye-yulii-navalnoy-2.htm",
+        "title": "Обращение Юлии Навальной"
+      }
+    },
+    {
+      "hours": 21.0,
+      "from": {
+        "published_at": "2026-06-22T12:00",
+        "url": "https://exler.es/blog/interesnyy-vopros-2.htm",
+        "title": "Интересный вопрос"
+      },
+      "to": {
+        "published_at": "2026-06-23T09:00",
+        "url": "https://exler.es/expromt/obzor-setevogo-nakopitelya-nas-terramaster-f4-425.htm",
+        "title": "Обзоры | Обзор сетевого накопителя (NAS) TerraMaster F4-425"
+      }
+    },
+    {
+      "hours": 21.0,
+      "from": {
+        "published_at": "2026-06-24T12:00",
+        "url": "https://exler.es/blog/leninsko-stalinskiye-lagerya.htm",
+        "title": "Ленинско-сталинские лагеря"
+      },
+      "to": {
+        "published_at": "2026-06-25T09:00",
+        "url": "https://exler.es/blog/polnostyu-importozamestili.htm",
+        "title": "Полностью импортозаместили"
+      }
+    },
+    {
+      "hours": 20.95,
+      "from": {
+        "published_at": "2026-06-26T12:03",
+        "url": "https://exler.es/bannizm/odnozhopikovye-protivopokazaniya-neozhidannyh-priznanij.htm",
+        "title": "Баннизмы | Одножопиковые противопоказания неожиданных признаний"
+      },
+      "to": {
+        "published_at": "2026-06-27T09:00",
+        "url": "https://exler.es/blog/pereotsenennyye-zapadnyye-platformy.htm",
+        "title": "Переоцененные западные платформы"
+      }
+    },
+    {
+      "hours": 20.666666666666668,
+      "from": {
+        "published_at": "2026-08-02T12:00",
+        "url": "https://exler.es/blog/zetanuvshiye-6-kadrov.htm",
+        "title": "Зетанувшие \"6 кадров\""
+      },
+      "to": {
+        "published_at": "2026-08-03T08:40",
+        "url": "https://exler.es/blog/pozdravlyayem-pobeditelya.htm",
+        "title": "Поздравляем победителя!"
+      }
+    },
+    {
+      "hours": 20.666666666666668,
+      "from": {
+        "published_at": "2026-08-09T13:20",
+        "url": "https://exler.es/blog/otkryl-dlya-sebya-karcher.htm",
+        "title": "Открыл для себя Kärcher"
+      },
+      "to": {
+        "published_at": "2026-08-10T10:00",
+        "url": "https://exler.es/films/den-razoblacheniya.htm",
+        "title": "Кинорецензии | День разоблачения | Фантастический конспирологический триллер"
+      }
+    },
+    {
+      "hours": 20.5,
+      "from": {
+        "published_at": "2026-05-12T13:00",
+        "url": "https://exler.es/blog/parad-v-pitere.htm",
+        "title": "Парад в Питере"
+      },
+      "to": {
+        "published_at": "2026-05-13T09:30",
+        "url": "https://exler.es/blog/doklad-ministra-ekonomiki.htm",
+        "title": "Доклад министра экономики"
+      }
+    }
+  ],
+  "daily_first_quantiles_minutes": [
+    20.0,
+    510.0,
+    540.0,
+    560.0,
+    680.0
+  ],
+  "daily_last_quantiles_minutes": [
+    540.0,
+    900.0,
+    1050.0,
+    1100.0,
+    1390.0
+  ]
+}
