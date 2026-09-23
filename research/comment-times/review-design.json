@@ -1,0 +1,28 @@
+{
+  "reviewer_count": 1,
+  "live_records": 1749,
+  "nonempty_own_text": 1745,
+  "initial_keyword_candidates": 122,
+  "thread_expansion": 296,
+  "control_sample": 80,
+  "control_sample_additional_sharp": 6,
+  "past_ban_crosscheck": 1,
+  "expanded_word_screen": 6,
+  "final_full_sweep": 1244,
+  "workflow": "Initial screen and context expansion, 80-item control audit, then complete own-text review of every remaining live reply. Every positive label checked against available reader context.",
+  "scale": {
+    "0": "No clear addressed sharpness under the rubric; includes ambiguous short reactions, shared jokes and external targets.",
+    "1": "Addressed derision, dismissive sarcasm, devaluation of the reader argument or scolding.",
+    "2": "Explicit personal abuse, humiliating comparisons or mockery of the reader mental/reading competence."
+  },
+  "uncertain_target_excluded": [
+    "1n0wl"
+  ],
+  "positive_parent_missing": [
+    "1mqsg",
+    "1n1sk",
+    "1o6gu",
+    "1o6hb"
+  ],
+  "rubric_limits": "Single subjective coding pass; emotional state and correctness of disputed claims not inferred. Four image-only/empty own-text replies remain in denominator but cannot supply text evidence."
+}

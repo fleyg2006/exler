@@ -1,0 +1,172 @@
+{
+  "status": "complete",
+  "period": {
+    "start_inclusive": "2026-03-23",
+    "end_exclusive": "2026-09-23"
+  },
+  "target_threads": 1125,
+  "threads_processed": 1125,
+  "threads_ok": 1125,
+  "failed_threads": 0,
+  "live_comments": 1749,
+  "archive_supplements": 4,
+  "comments_total": 1753,
+  "days_with_comments": 171,
+  "days_without_comments": 13,
+  "last_reply_median": "22:13",
+  "days_with_publication_tail": 49,
+  "publications_in_tails": 105,
+  "grid_publications_in_tails": 97,
+  "tail_median_minutes": 186,
+  "return_sensitivity": [
+    {
+      "gap_hours": 2,
+      "events": 131,
+      "days": 106
+    },
+    {
+      "gap_hours": 3,
+      "events": 117,
+      "days": 100
+    },
+    {
+      "gap_hours": 4,
+      "events": 94,
+      "days": 83
+    }
+  ],
+  "returns_three_hours": 117,
+  "return_days_three_hours": 100,
+  "hourly_comments": [
+    8,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    14,
+    66,
+    143,
+    211,
+    222,
+    214,
+    110,
+    36,
+    64,
+    88,
+    83,
+    124,
+    53,
+    13,
+    17,
+    187,
+    100
+  ],
+  "hourly_publications": [
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    1,
+    59,
+    171,
+    189,
+    166,
+    130,
+    102,
+    51,
+    37,
+    54,
+    58,
+    67,
+    15,
+    3,
+    1,
+    14,
+    3
+  ],
+  "live_hourly_comments": [
+    8,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    14,
+    66,
+    143,
+    210,
+    222,
+    213,
+    110,
+    35,
+    64,
+    88,
+    83,
+    124,
+    53,
+    13,
+    17,
+    186,
+    100
+  ],
+  "comment_minute_zero": 34,
+  "comment_minute_ten_grid": 178,
+  "screen_candidates": 122,
+  "monthly": [
+    {
+      "month": "2026-03",
+      "comments": 14,
+      "days_with_comments": 4,
+      "tail_days": 2,
+      "returns": 1
+    },
+    {
+      "month": "2026-04",
+      "comments": 191,
+      "days_with_comments": 29,
+      "tail_days": 12,
+      "returns": 16
+    },
+    {
+      "month": "2026-05",
+      "comments": 249,
+      "days_with_comments": 31,
+      "tail_days": 14,
+      "returns": 18
+    },
+    {
+      "month": "2026-06",
+      "comments": 251,
+      "days_with_comments": 26,
+      "tail_days": 6,
+      "returns": 15
+    },
+    {
+      "month": "2026-07",
+      "comments": 438,
+      "days_with_comments": 30,
+      "tail_days": 3,
+      "returns": 29
+    },
+    {
+      "month": "2026-08",
+      "comments": 354,
+      "days_with_comments": 30,
+      "tail_days": 6,
+      "returns": 22
+    },
+    {
+      "month": "2026-09",
+      "comments": 256,
+      "days_with_comments": 21,
+      "tail_days": 6,
+      "returns": 16
+    }
+  ]
+}

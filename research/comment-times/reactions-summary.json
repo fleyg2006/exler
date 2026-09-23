@@ -1,0 +1,344 @@
+{
+  "classification": "one reviewer; entire own-text corpus; positive replies checked against available context",
+  "total": {
+    "n": 1749,
+    "broad": 193,
+    "strict": 39,
+    "broad_pct": 11.034877072612922,
+    "strict_pct": 2.229845626072041,
+    "sharp_days": 85,
+    "sharp_threads": 99
+  },
+  "bands": [
+    {
+      "label": "00:00–07:59",
+      "start": 0,
+      "end": 8,
+      "n": 22,
+      "broad": 5,
+      "strict": 2,
+      "broad_pct": 22.727272727272727,
+      "strict_pct": 9.090909090909092,
+      "sharp_days": 2,
+      "sharp_threads": 2
+    },
+    {
+      "label": "08:00–11:59",
+      "start": 8,
+      "end": 12,
+      "n": 641,
+      "broad": 61,
+      "strict": 11,
+      "broad_pct": 9.51638065522621,
+      "strict_pct": 1.71606864274571,
+      "sharp_days": 40,
+      "sharp_threads": 40
+    },
+    {
+      "label": "12:00–17:59",
+      "start": 12,
+      "end": 18,
+      "n": 593,
+      "broad": 56,
+      "strict": 11,
+      "broad_pct": 9.443507588532883,
+      "strict_pct": 1.854974704890388,
+      "sharp_days": 34,
+      "sharp_threads": 36
+    },
+    {
+      "label": "18:00–23:59",
+      "start": 18,
+      "end": 24,
+      "n": 493,
+      "broad": 71,
+      "strict": 15,
+      "broad_pct": 14.401622718052739,
+      "strict_pct": 3.0425963488843815,
+      "sharp_days": 44,
+      "sharp_threads": 47
+    }
+  ],
+  "day": {
+    "n": 1234,
+    "broad": 117,
+    "strict": 22,
+    "broad_pct": 9.481361426256077,
+    "strict_pct": 1.7828200972447326,
+    "sharp_days": 64,
+    "sharp_threads": 70
+  },
+  "evening": {
+    "n": 493,
+    "broad": 71,
+    "strict": 15,
+    "broad_pct": 14.401622718052739,
+    "strict_pct": 3.0425963488843815,
+    "sharp_days": 44,
+    "sharp_threads": 47
+  },
+  "day_cluster_bootstrap": {
+    "seed": 20260923,
+    "resamples": 20000,
+    "unit": "observed date",
+    "difference": "evening minus 08:00–17:59, percentage points",
+    "percentile_95": {
+      "broad": [
+        0.7967231398954657,
+        9.241232718151164
+      ],
+      "strict": [
+        -0.509503838439421,
+        3.220515227119695
+      ]
+    }
+  },
+  "returns": {
+    "events": 117,
+    "hours": {
+      "18": 27,
+      "22": 46,
+      "21": 2,
+      "19": 10,
+      "20": 3,
+      "23": 29
+    },
+    "broad_first_reply": 16,
+    "strict_first_reply": 5,
+    "unclassified_first_reply": 0,
+    "median_gap_minutes": 334,
+    "with_posts_in_gap": 66
+  },
+  "moderation": {
+    "none": 1732,
+    "reported_comment_removal": 2,
+    "threat": 1,
+    "past_ban_reference": 1,
+    "general_policy": 6,
+    "announced_temporary_ban": 1,
+    "tone_warning": 1,
+    "past_temporary_ban_confirmation": 2,
+    "conditional_sanction_warning": 1,
+    "reported_comment_edit": 1,
+    "policy_warning": 1
+  },
+  "sections": {
+    "blog": {
+      "all": {
+        "n": 1227,
+        "broad": 140,
+        "strict": 32,
+        "broad_pct": 11.409942950285249,
+        "strict_pct": 2.6079869600651997,
+        "sharp_days": 66,
+        "sharp_threads": 72
+      },
+      "day": {
+        "n": 854,
+        "broad": 84,
+        "strict": 18,
+        "broad_pct": 9.836065573770492,
+        "strict_pct": 2.107728337236534,
+        "sharp_days": 49,
+        "sharp_threads": 52
+      },
+      "evening": {
+        "n": 356,
+        "broad": 51,
+        "strict": 12,
+        "broad_pct": 14.325842696629213,
+        "strict_pct": 3.3707865168539324,
+        "sharp_days": 34,
+        "sharp_threads": 32
+      }
+    },
+    "films": {
+      "all": {
+        "n": 235,
+        "broad": 26,
+        "strict": 3,
+        "broad_pct": 11.063829787234043,
+        "strict_pct": 1.2765957446808511,
+        "sharp_days": 19,
+        "sharp_threads": 17
+      },
+      "day": {
+        "n": 169,
+        "broad": 16,
+        "strict": 1,
+        "broad_pct": 9.467455621301776,
+        "strict_pct": 0.591715976331361,
+        "sharp_days": 11,
+        "sharp_threads": 10
+      },
+      "evening": {
+        "n": 62,
+        "broad": 10,
+        "strict": 2,
+        "broad_pct": 16.129032258064516,
+        "strict_pct": 3.225806451612903,
+        "sharp_days": 9,
+        "sharp_threads": 9
+      }
+    },
+    "expromt": {
+      "all": {
+        "n": 201,
+        "broad": 17,
+        "strict": 1,
+        "broad_pct": 8.457711442786069,
+        "strict_pct": 0.4975124378109453,
+        "sharp_days": 9,
+        "sharp_threads": 7
+      },
+      "day": {
+        "n": 137,
+        "broad": 8,
+        "strict": 0,
+        "broad_pct": 5.839416058394161,
+        "strict_pct": 0.0,
+        "sharp_days": 7,
+        "sharp_threads": 5
+      },
+      "evening": {
+        "n": 63,
+        "broad": 9,
+        "strict": 1,
+        "broad_pct": 14.285714285714286,
+        "strict_pct": 1.5873015873015872,
+        "sharp_days": 5,
+        "sharp_threads": 5
+      }
+    },
+    "likbez": {
+      "all": {
+        "n": 54,
+        "broad": 5,
+        "strict": 3,
+        "broad_pct": 9.25925925925926,
+        "strict_pct": 5.555555555555555,
+        "sharp_days": 2,
+        "sharp_threads": 1
+      },
+      "day": {
+        "n": 46,
+        "broad": 5,
+        "strict": 3,
+        "broad_pct": 10.869565217391305,
+        "strict_pct": 6.521739130434782,
+        "sharp_days": 2,
+        "sharp_threads": 1
+      },
+      "evening": {
+        "n": 8,
+        "broad": 0,
+        "strict": 0,
+        "broad_pct": 0.0,
+        "strict_pct": 0.0,
+        "sharp_days": 0,
+        "sharp_threads": 0
+      }
+    },
+    "aliexpress": {
+      "all": {
+        "n": 8,
+        "broad": 1,
+        "strict": 0,
+        "broad_pct": 12.5,
+        "strict_pct": 0.0,
+        "sharp_days": 1,
+        "sharp_threads": 1
+      },
+      "day": {
+        "n": 8,
+        "broad": 1,
+        "strict": 0,
+        "broad_pct": 12.5,
+        "strict_pct": 0.0,
+        "sharp_days": 1,
+        "sharp_threads": 1
+      },
+      "evening": {
+        "n": 0,
+        "broad": 0,
+        "strict": 0,
+        "broad_pct": null,
+        "strict_pct": null,
+        "sharp_days": 0,
+        "sharp_threads": 0
+      }
+    },
+    "other": {
+      "all": {
+        "n": 24,
+        "broad": 4,
+        "strict": 0,
+        "broad_pct": 16.666666666666668,
+        "strict_pct": 0.0,
+        "sharp_days": 2,
+        "sharp_threads": 1
+      },
+      "day": {
+        "n": 20,
+        "broad": 3,
+        "strict": 0,
+        "broad_pct": 15.0,
+        "strict_pct": 0.0,
+        "sharp_days": 1,
+        "sharp_threads": 1
+      },
+      "evening": {
+        "n": 4,
+        "broad": 1,
+        "strict": 0,
+        "broad_pct": 25.0,
+        "strict_pct": 0.0,
+        "sharp_days": 1,
+        "sharp_threads": 1
+      }
+    }
+  },
+  "empty_own_text": 4,
+  "top_sharp_threads": [
+    [
+      "https://exler.es/blog/vsemirnaya-istoriya-chast-1.htm",
+      8
+    ],
+    [
+      "https://exler.es/blog/s-balami-mozhet-ne-slozhitsya.htm",
+      7
+    ],
+    [
+      "https://exler.es/blog/vitaliy-portnikov-ob-otstavke-fedorova.htm",
+      7
+    ],
+    [
+      "https://exler.es/blog/saytu-exleres-ochen-nuzhna-vasha-podderzhka.htm",
+      7
+    ],
+    [
+      "https://exler.es/expromt/obzor-smartfona-xiaomi-15t-pro-on-ochen-horosh.htm",
+      5
+    ],
+    [
+      "https://exler.es/blog/monastyr-san-migel-del-fay.htm",
+      5
+    ],
+    [
+      "https://exler.es/blog/mini-retsenzii-vypusk-2.htm",
+      5
+    ],
+    [
+      "https://exler.es/blog/ispantsy-v-finale.htm",
+      5
+    ],
+    [
+      "https://exler.es/likbez/smartfony-kakih-proizvoditelej-imeet-smysl-priobretat.htm",
+      5
+    ],
+    [
+      "https://exler.es/expromt/obzor-flagmanskogo-smartfona-motorola-signature.htm",
+      5
+    ]
+  ]
+}

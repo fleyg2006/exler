@@ -1,0 +1,1401 @@
+{
+  "status": "complete",
+  "targets": 1125,
+  "processed": 1125,
+  "failed": [],
+  "unvisited": [],
+  "parse_errors": [],
+  "pagination": [],
+  "declared_visible_differences": [
+    {
+      "url": "https://exler.es/blog/soratnik-alaudinova.htm",
+      "declared": 121,
+      "visible": 120
+    },
+    {
+      "url": "https://exler.es/blog/intervyu-yulii-mendel-takeru-karlsonu.htm",
+      "declared": 392,
+      "visible": 387
+    },
+    {
+      "url": "https://exler.es/expromt/obzor-smartfona-xiaomi-15t-pro-on-ochen-horosh.htm",
+      "declared": 164,
+      "visible": 162
+    },
+    {
+      "url": "https://exler.es/blog/pervyy-ofis-amazoncom.htm",
+      "declared": 94,
+      "visible": 95
+    },
+    {
+      "url": "https://exler.es/blog/22-litra-benzina.htm",
+      "declared": 332,
+      "visible": 333
+    },
+    {
+      "url": "https://exler.es/blog/zetanuvshiye-6-kadrov.htm",
+      "declared": 262,
+      "visible": 229
+    },
+    {
+      "url": "https://exler.es/blog/veselaya-strimersha.htm",
+      "declared": 216,
+      "visible": 212
+    },
+    {
+      "url": "https://exler.es/blog/vse-po-chesnoku-rasskazal.htm",
+      "declared": 167,
+      "visible": 163
+    },
+    {
+      "url": "https://exler.es/films/udachi-veselya-ne-sdohni.htm",
+      "declared": 65,
+      "visible": 57
+    },
+    {
+      "url": "https://exler.es/blog/novyy-premyer-ministr-vengrii-peter-madyar-pro-ukrainu.htm",
+      "declared": 94,
+      "visible": 90
+    },
+    {
+      "url": "https://exler.es/blog/rekordnyy-ulov-v-ispanii.htm",
+      "declared": 25,
+      "visible": 26
+    },
+    {
+      "url": "https://exler.es/blog/saytu-exleres-ochen-nuzhna-vasha-pomoshch-3.htm",
+      "declared": 2,
+      "visible": 1
+    },
+    {
+      "url": "https://exler.es/blog/otvet-zvyagintseva-peskovu.htm",
+      "declared": 146,
+      "visible": 138
+    },
+    {
+      "url": "https://exler.es/blog/uvolneniya-v-oracle-i-investitsii-v-ii.htm",
+      "declared": 144,
+      "visible": 142
+    },
+    {
+      "url": "https://exler.es/blog/korotko-i-yasno.htm",
+      "declared": 552,
+      "visible": 549
+    },
+    {
+      "url": "https://exler.es/blog/kak-v-rf-nynche-uchat-vrachey.htm",
+      "declared": 83,
+      "visible": 84
+    },
+    {
+      "url": "https://exler.es/blog/stendap-na-pmef.htm",
+      "declared": 65,
+      "visible": 64
+    },
+    {
+      "url": "https://exler.es/films/na-vershine.htm",
+      "declared": 78,
+      "visible": 77
+    },
+    {
+      "url": "https://exler.es/expromt/novye-vozmozhnosti-obolochki-one-ui-8-5-ot-samsung.htm",
+      "declared": 41,
+      "visible": 40
+    },
+    {
+      "url": "https://exler.es/blog/forum-club443ru.htm",
+      "declared": 17,
+      "visible": 18
+    },
+    {
+      "url": "https://exler.es/blog/administratsiya-trampa-rassleduyet-delo-noelii-kastilo.htm",
+      "declared": 99,
+      "visible": 97
+    },
+    {
+      "url": "https://exler.es/blog/klyuchevyye-vyvody-500-stranichnogo-otcheta-po-kovidu.htm",
+      "declared": 356,
+      "visible": 345
+    },
+    {
+      "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-265.htm",
+      "declared": 123,
+      "visible": 124
+    },
+    {
+      "url": "https://exler.es/blog/osvyatil-oskara.htm",
+      "declared": 146,
+      "visible": 144
+    },
+    {
+      "url": "https://exler.es/blog/razmekh-strategicheskogo-geniya.htm",
+      "declared": 317,
+      "visible": 241
+    },
+    {
+      "url": "https://exler.es/blog/proyasnil-za-proliv.htm",
+      "declared": 305,
+      "visible": 304
+    },
+    {
+      "url": "https://exler.es/blog/zdorovoye-pitaniye-v-ispanskikh-shkolakh.htm",
+      "declared": 121,
+      "visible": 118
+    },
+    {
+      "url": "https://exler.es/blog/spetsproyekt-tass.htm",
+      "declared": 83,
+      "visible": 82
+    },
+    {
+      "url": "https://exler.es/expromt/smartfony-xiaomi-17t-i-17t-pro.htm",
+      "declared": 38,
+      "visible": 39
+    },
+    {
+      "url": "https://exler.es/blog/ya-ne-tormoz.htm",
+      "declared": 186,
+      "visible": 189
+    },
+    {
+      "url": "https://exler.es/blog/neyroslop-v-uchebnikakh.htm",
+      "declared": 211,
+      "visible": 213
+    },
+    {
+      "url": "https://exler.es/blog/svyataya-pravda-3.htm",
+      "declared": 127,
+      "visible": 94
+    },
+    {
+      "url": "https://exler.es/blog/interesnyy-vopros-2.htm",
+      "declared": 184,
+      "visible": 185
+    },
+    {
+      "url": "https://exler.es/blog/z-inoagent-plachetsya.htm",
+      "declared": 72,
+      "visible": 70
+    },
+    {
+      "url": "https://exler.es/blog/v-popugayakh-on-dlinneye.htm",
+      "declared": 99,
+      "visible": 98
+    },
+    {
+      "url": "https://exler.es/blog/dimonu-nado-napryachsya.htm",
+      "declared": 43,
+      "visible": 42
+    },
+    {
+      "url": "https://exler.es/blog/o-skolko-yey-otkrytiy-chudnykh.htm",
+      "declared": 458,
+      "visible": 455
+    },
+    {
+      "url": "https://exler.es/blog/skulyat-voyenkory.htm",
+      "declared": 142,
+      "visible": 136
+    },
+    {
+      "url": "https://exler.es/blog/pochemu-goryat-sklady-wildberries.htm",
+      "declared": 422,
+      "visible": 417
+    },
+    {
+      "url": "https://exler.es/blog/pozdravlyayem-pobeditelya.htm",
+      "declared": 216,
+      "visible": 144
+    },
+    {
+      "url": "https://exler.es/blog/ukraina-i-polsha.htm",
+      "declared": 517,
+      "visible": 510
+    },
+    {
+      "url": "https://exler.es/blog/peysatel-vozmushchen.htm",
+      "declared": 146,
+      "visible": 145
+    },
+    {
+      "url": "https://exler.es/expromt/obzor-premialnyh-umnyh-chasov-huawei-watch-5.htm",
+      "declared": 57,
+      "visible": 55
+    },
+    {
+      "url": "https://exler.es/blog/bolshiye-plany.htm",
+      "declared": 259,
+      "visible": 260
+    },
+    {
+      "url": "https://exler.es/blog/interesnyy-pretsedent-4.htm",
+      "declared": 111,
+      "visible": 110
+    },
+    {
+      "url": "https://exler.es/blog/uzhasnaya-svadba.htm",
+      "declared": 158,
+      "visible": 153
+    },
+    {
+      "url": "https://exler.es/films/ograblenie-londona.htm",
+      "declared": 51,
+      "visible": 50
+    },
+    {
+      "url": "https://exler.es/blog/a-chto-im-yeshche-ostayetsya.htm",
+      "declared": 104,
+      "visible": 103
+    },
+    {
+      "url": "https://exler.es/blog/last-call-v-nashem-sentyabrskom-ture-po-pyemontu.htm",
+      "declared": 37,
+      "visible": 30
+    },
+    {
+      "url": "https://exler.es/blog/kto-by-mog-podumat-2.htm",
+      "declared": 103,
+      "visible": 102
+    },
+    {
+      "url": "https://exler.es/blog/nikogda-ne-zhili-luchshe-chem-seychas.htm",
+      "declared": 41,
+      "visible": 40
+    },
+    {
+      "url": "https://exler.es/blog/razvenchat-mif-o-tovarishche.htm",
+      "declared": 167,
+      "visible": 166
+    },
+    {
+      "url": "https://exler.es/blog/vot-chto-makh-zhivotvoryashchiy-delayet.htm",
+      "declared": 96,
+      "visible": 94
+    },
+    {
+      "url": "https://exler.es/blog/maloye-koltso-pvo.htm",
+      "declared": 103,
+      "visible": 104
+    },
+    {
+      "url": "https://exler.es/blog/istoriya-noelii-kastilo.htm",
+      "declared": 228,
+      "visible": 227
+    },
+    {
+      "url": "https://exler.es/blog/pravilnyye-skazki.htm",
+      "declared": 78,
+      "visible": 77
+    },
+    {
+      "url": "https://exler.es/blog/pravilnoye-kung-fu-shi-yunsinya.htm",
+      "declared": 21,
+      "visible": 19
+    },
+    {
+      "url": "https://exler.es/blog/iloveyou.htm",
+      "declared": 73,
+      "visible": 71
+    },
+    {
+      "url": "https://exler.es/blog/silnoye-zayavleniye-2.htm",
+      "declared": 549,
+      "visible": 518
+    },
+    {
+      "url": "https://exler.es/films/odisseya.htm",
+      "declared": 265,
+      "visible": 266
+    },
+    {
+      "url": "https://exler.es/blog/pochti-ne-navrali.htm",
+      "declared": 21,
+      "visible": 22
+    },
+    {
+      "url": "https://exler.es/blog/sklady-wb-chichvarkin-i-sheytelman.htm",
+      "declared": 228,
+      "visible": 227
+    },
+    {
+      "url": "https://exler.es/blog/kubok-rossii-po-futbolu.htm",
+      "declared": 153,
+      "visible": 157
+    },
+    {
+      "url": "https://exler.es/blog/kliyentooriyentirovannost.htm",
+      "declared": 81,
+      "visible": 82
+    },
+    {
+      "url": "https://exler.es/expromt/prilozhenie-google-dlya-windows-novyj-uroven-poiska-na-baze-ii.htm",
+      "declared": 81,
+      "visible": 82
+    },
+    {
+      "url": "https://exler.es/blog/i-s-vatikanom-tozhe.htm",
+      "declared": 127,
+      "visible": 125
+    },
+    {
+      "url": "https://exler.es/films/ya-rugayus.htm",
+      "declared": 87,
+      "visible": 85
+    },
+    {
+      "url": "https://exler.es/blog/marketpleysy-v-rf.htm",
+      "declared": 57,
+      "visible": 54
+    },
+    {
+      "url": "https://exler.es/blog/vse-foto-cheloveka-v-seti.htm",
+      "declared": 73,
+      "visible": 71
+    },
+    {
+      "url": "https://exler.es/blog/luchshiy-drug-vsekh-fizkulturnikov.htm",
+      "declared": 168,
+      "visible": 166
+    },
+    {
+      "url": "https://exler.es/blog/net-detey-na-svo.htm",
+      "declared": 67,
+      "visible": 50
+    },
+    {
+      "url": "https://exler.es/blog/meta-na-sluzhbe-moshennikov.htm",
+      "declared": 44,
+      "visible": 42
+    },
+    {
+      "url": "https://exler.es/films/ostrye-kozyrki-bessmertnyj-chelovek.htm",
+      "declared": 37,
+      "visible": 36
+    },
+    {
+      "url": "https://exler.es/blog/gorod-proven-v-shampani.htm",
+      "declared": 67,
+      "visible": 64
+    },
+    {
+      "url": "https://exler.es/blog/nalog-na-vpn.htm",
+      "declared": 84,
+      "visible": 83
+    },
+    {
+      "url": "https://exler.es/blog/blestyashchiye-dostizheniya.htm",
+      "declared": 75,
+      "visible": 65
+    },
+    {
+      "url": "https://exler.es/blog/stendapery.htm",
+      "declared": 147,
+      "visible": 144
+    },
+    {
+      "url": "https://exler.es/blog/film-digger.htm",
+      "declared": 88,
+      "visible": 86
+    },
+    {
+      "url": "https://exler.es/blog/stsenka-v-magazine.htm",
+      "declared": 239,
+      "visible": 238
+    },
+    {
+      "url": "https://exler.es/blog/lady-gaga.htm",
+      "declared": 27,
+      "visible": 25
+    },
+    {
+      "url": "https://exler.es/blog/meloni-umolyala.htm",
+      "declared": 273,
+      "visible": 270
+    },
+    {
+      "url": "https://exler.es/blog/zhurnalist-sergey-sholokhov-umer.htm",
+      "declared": 43,
+      "visible": 41
+    },
+    {
+      "url": "https://exler.es/blog/skripka-za-million.htm",
+      "declared": 54,
+      "visible": 59
+    },
+    {
+      "url": "https://exler.es/blog/vozmushchennaya-sobchak.htm",
+      "declared": 108,
+      "visible": 96
+    },
+    {
+      "url": "https://exler.es/blog/prodolzheniye-vlastelina-kolets.htm",
+      "declared": 186,
+      "visible": 162
+    },
+    {
+      "url": "https://exler.es/blog/i-tut-do-neye-nakonets-to-doshlo.htm",
+      "declared": 182,
+      "visible": 176
+    },
+    {
+      "url": "https://exler.es/likbez/planshety-kakih-proizvoditelej-imeet-smysl-priobretat.htm",
+      "declared": 78,
+      "visible": 81
+    },
+    {
+      "url": "https://exler.es/blog/kakoye-nizkoye-kovarstvo-2.htm",
+      "declared": 257,
+      "visible": 253
+    },
+    {
+      "url": "https://exler.es/blog/interesnyy-pretsedent-5.htm",
+      "declared": 39,
+      "visible": 38
+    },
+    {
+      "url": "https://exler.es/blog/dvukhfaktornaya-autentifikatsiya.htm",
+      "declared": 36,
+      "visible": 35
+    },
+    {
+      "url": "https://exler.es/blog/chem-oni-budut-zanimatsya.htm",
+      "declared": 170,
+      "visible": 128
+    },
+    {
+      "url": "https://exler.es/blog/nosochki.htm",
+      "declared": 164,
+      "visible": 158
+    },
+    {
+      "url": "https://exler.es/likbez/reversivnaya-zaryadka-chto-eto-takoe.htm",
+      "declared": 35,
+      "visible": 34
+    },
+    {
+      "url": "https://exler.es/blog/ormuzskiy-proliv-ikh.htm",
+      "declared": 289,
+      "visible": 290
+    },
+    {
+      "url": "https://exler.es/blog/konsultativnaya-gruppa-pri-pase.htm",
+      "declared": 294,
+      "visible": 295
+    },
+    {
+      "url": "https://exler.es/blog/kak-sdelat-pesnyu-s-pomoshchyu-sosedskogo-kota.htm",
+      "declared": 22,
+      "visible": 21
+    },
+    {
+      "url": "https://exler.es/blog/parad-pobedy-na-9-maya.htm",
+      "declared": 81,
+      "visible": 66
+    },
+    {
+      "url": "https://exler.es/blog/vystupleniye-senatora-kloda-malyure.htm",
+      "declared": 339,
+      "visible": 290
+    },
+    {
+      "url": "https://exler.es/films/ohota-za-tenyu.htm",
+      "declared": 28,
+      "visible": 27
+    },
+    {
+      "url": "https://exler.es/expromt/obzor-flagmanskogo-smartfona-motorola-signature.htm",
+      "declared": 117,
+      "visible": 118
+    },
+    {
+      "url": "https://exler.es/blog/moskva-segodnya.htm",
+      "declared": 526,
+      "visible": 520
+    },
+    {
+      "url": "https://exler.es/blog/prelestnaya-istoriya-s-uk-treasury.htm",
+      "declared": 104,
+      "visible": 82
+    },
+    {
+      "url": "https://exler.es/blog/skhema-odinakovaya.htm",
+      "declared": 135,
+      "visible": 94
+    },
+    {
+      "url": "https://exler.es/blog/iz-mira-veruyushchikh-lyudey.htm",
+      "declared": 114,
+      "visible": 111
+    },
+    {
+      "url": "https://exler.es/blog/prognoz-pogody-v-pitere.htm",
+      "declared": 26,
+      "visible": 25
+    },
+    {
+      "url": "https://exler.es/blog/intelligentnaya-moskvichka.htm",
+      "declared": 364,
+      "visible": 363
+    },
+    {
+      "url": "https://exler.es/blog/triumtrampova-arka.htm",
+      "declared": 333,
+      "visible": 334
+    },
+    {
+      "url": "https://exler.es/blog/chto-eto-s-prokhanovym-2.htm",
+      "declared": 143,
+      "visible": 113
+    },
+    {
+      "url": "https://exler.es/blog/smotrite-kakoy-on-dovolnyy.htm",
+      "declared": 57,
+      "visible": 53
+    },
+    {
+      "url": "https://exler.es/blog/priyekhal-poco-x8-pro.htm",
+      "declared": 31,
+      "visible": 28
+    },
+    {
+      "url": "https://exler.es/blog/ukraina-poteryala-ves-svoy-morskoy-flot.htm",
+      "declared": 161,
+      "visible": 158
+    },
+    {
+      "url": "https://exler.es/blog/geneticheskiy-kod-pobediteley.htm",
+      "declared": 73,
+      "visible": 74
+    },
+    {
+      "url": "https://exler.es/blog/oni-menyayut-im-sistemu.htm",
+      "declared": 150,
+      "visible": 149
+    },
+    {
+      "url": "https://exler.es/blog/reklama-kinofestivalya-uboynaya-lesbiyanka.htm",
+      "declared": 82,
+      "visible": 81
+    },
+    {
+      "url": "https://exler.es/blog/malenkiy-myshonok-zhaluyetsya.htm",
+      "declared": 176,
+      "visible": 172
+    },
+    {
+      "url": "https://exler.es/blog/tuapse.htm",
+      "declared": 239,
+      "visible": 238
+    },
+    {
+      "url": "https://exler.es/blog/mayk-pompeo-i-belyy-dom.htm",
+      "declared": 121,
+      "visible": 103
+    },
+    {
+      "url": "https://exler.es/blog/zapret-sotssetey-do-16-let-v-velikobritanii.htm",
+      "declared": 173,
+      "visible": 174
+    },
+    {
+      "url": "https://exler.es/blog/gryaznoye-belishko-sobchak.htm",
+      "declared": 201,
+      "visible": 199
+    },
+    {
+      "url": "https://exler.es/blog/fantasticheskiye-tvari-o-noelii-kastilo-ramos.htm",
+      "declared": 60,
+      "visible": 58
+    },
+    {
+      "url": "https://exler.es/blog/ona-znayet-retsept.htm",
+      "declared": 70,
+      "visible": 68
+    },
+    {
+      "url": "https://exler.es/films/vecherinka.htm",
+      "declared": 102,
+      "visible": 103
+    },
+    {
+      "url": "https://exler.es/blog/kogda-nachnut-vedm-szhigat.htm",
+      "declared": 109,
+      "visible": 105
+    },
+    {
+      "url": "https://exler.es/blog/pryam-v-svetloye-proshloye.htm",
+      "declared": 53,
+      "visible": 54
+    },
+    {
+      "url": "https://exler.es/blog/situatsiya-v-seute.htm",
+      "declared": 138,
+      "visible": 135
+    },
+    {
+      "url": "https://exler.es/blog/s-balami-mozhet-ne-slozhitsya.htm",
+      "declared": 305,
+      "visible": 287
+    },
+    {
+      "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-268.htm",
+      "declared": 72,
+      "visible": 73
+    },
+    {
+      "url": "https://exler.es/blog/ne-tolko-bonya.htm",
+      "declared": 64,
+      "visible": 47
+    },
+    {
+      "url": "https://exler.es/blog/kak-odin-byurger-pekarnyu-pobedil.htm",
+      "declared": 323,
+      "visible": 324
+    },
+    {
+      "url": "https://exler.es/blog/menshe-kormit-i-bolshe-doit.htm",
+      "declared": 90,
+      "visible": 70
+    },
+    {
+      "url": "https://exler.es/blog/kvota-na-ubiystva-studentov.htm",
+      "declared": 181,
+      "visible": 162
+    },
+    {
+      "url": "https://exler.es/blog/nelzya-nazyvat-voynu-voynoy.htm",
+      "declared": 121,
+      "visible": 120
+    },
+    {
+      "url": "https://exler.es/blog/podozritelnyye-polzovateli-smartfonov-pixel.htm",
+      "declared": 430,
+      "visible": 431
+    },
+    {
+      "url": "https://exler.es/blog/obreteniye-moshchey-dmitriya-donskogo.htm",
+      "declared": 192,
+      "visible": 182
+    },
+    {
+      "url": "https://exler.es/films/u-margo-problemy-s-dengami.htm",
+      "declared": 69,
+      "visible": 68
+    },
+    {
+      "url": "https://exler.es/blog/tass-upal-namochennyy.htm",
+      "declared": 146,
+      "visible": 145
+    },
+    {
+      "url": "https://exler.es/blog/perepis-tuporylykh.htm",
+      "declared": 269,
+      "visible": 261
+    },
+    {
+      "url": "https://exler.es/blog/krayeugolnyy-kamen-vsekh-problem-na-planete.htm",
+      "declared": 52,
+      "visible": 50
+    },
+    {
+      "url": "https://exler.es/blog/po-tsentram-prinyatiya-resheniy.htm",
+      "declared": 253,
+      "visible": 254
+    },
+    {
+      "url": "https://exler.es/blog/chto-sluchilos-v-starobelske.htm",
+      "declared": 327,
+      "visible": 316
+    },
+    {
+      "url": "https://exler.es/blog/samoubiystvennyy-kollaps-yes.htm",
+      "declared": 213,
+      "visible": 211
+    },
+    {
+      "url": "https://exler.es/blog/khozyayke-na-zametku-8.htm",
+      "declared": 224,
+      "visible": 223
+    },
+    {
+      "url": "https://exler.es/blog/yeshche-foto-zatmeniya.htm",
+      "declared": 57,
+      "visible": 54
+    },
+    {
+      "url": "https://exler.es/blog/barselonskiye-budni.htm",
+      "declared": 166,
+      "visible": 163
+    },
+    {
+      "url": "https://exler.es/blog/khulio-iglesias-i-obvineniya-protiv-nego.htm",
+      "declared": 103,
+      "visible": 102
+    },
+    {
+      "url": "https://exler.es/blog/avtomobil-s-dzhoystikom-vmesto-rulya.htm",
+      "declared": 82,
+      "visible": 83
+    },
+    {
+      "url": "https://exler.es/blog/umnoye-koltso-dlya-izmereniya-davleniya.htm",
+      "declared": 103,
+      "visible": 104
+    },
+    {
+      "url": "https://exler.es/blog/chut-ne-kupilsya.htm",
+      "declared": 54,
+      "visible": 55
+    },
+    {
+      "url": "https://exler.es/blog/legkaya-shizofreniya-2.htm",
+      "declared": 130,
+      "visible": 127
+    },
+    {
+      "url": "https://exler.es/blog/reyting-svobody-interneta.htm",
+      "declared": 91,
+      "visible": 79
+    },
+    {
+      "url": "https://exler.es/blog/u-latyninoy-yest-ideya.htm",
+      "declared": 327,
+      "visible": 326
+    },
+    {
+      "url": "https://exler.es/blog/kak-sozdayetsya-film-s-pomoshchyu-ii.htm",
+      "declared": 76,
+      "visible": 69
+    },
+    {
+      "url": "https://exler.es/blog/krossovki-asics-2.htm",
+      "declared": 126,
+      "visible": 123
+    },
+    {
+      "url": "https://exler.es/blog/el-shkandal-sredi-khamasolyubov.htm",
+      "declared": 56,
+      "visible": 51
+    },
+    {
+      "url": "https://exler.es/blog/vybory-vybory-3.htm",
+      "declared": 278,
+      "visible": 279
+    },
+    {
+      "url": "https://exler.es/blog/u-menya-skladyvayetsya-vpechatleniye.htm",
+      "declared": 185,
+      "visible": 186
+    },
+    {
+      "url": "https://exler.es/blog/v-bagdade-vse-spokoyno-2.htm",
+      "declared": 75,
+      "visible": 73
+    },
+    {
+      "url": "https://exler.es/blog/top-5-proizvoditeley-smartfonov-v-yevrope.htm",
+      "declared": 109,
+      "visible": 107
+    },
+    {
+      "url": "https://exler.es/blog/ispantsy-v-finale.htm",
+      "declared": 147,
+      "visible": 141
+    },
+    {
+      "url": "https://exler.es/bannizm/slivnye-denty-planetarnyh-ldov.htm",
+      "declared": 103,
+      "visible": 101
+    },
+    {
+      "url": "https://exler.es/blog/tramp-proyasnil-za-khrista.htm",
+      "declared": 31,
+      "visible": 22
+    },
+    {
+      "url": "https://exler.es/blog/seuta-i-nelegaly.htm",
+      "declared": 387,
+      "visible": 386
+    },
+    {
+      "url": "https://exler.es/blog/on-russkiy-i-eto-mnogoye.htm",
+      "declared": 119,
+      "visible": 116
+    },
+    {
+      "url": "https://exler.es/blog/novyye-dinamicheskiye-radary-v-ispanii.htm",
+      "declared": 167,
+      "visible": 164
+    },
+    {
+      "url": "https://exler.es/blog/moshchnoye-priznaniye.htm",
+      "declared": 52,
+      "visible": 49
+    },
+    {
+      "url": "https://exler.es/blog/kakuyu-model-predpochest.htm",
+      "declared": 82,
+      "visible": 85
+    },
+    {
+      "url": "https://exler.es/blog/saytu-exleres-ochen-nuzhna-vasha-pomoshch-2.htm",
+      "declared": 28,
+      "visible": 22
+    },
+    {
+      "url": "https://exler.es/blog/patrioticheskiy-monolog.htm",
+      "declared": 157,
+      "visible": 156
+    },
+    {
+      "url": "https://exler.es/blog/chto-takoye-yuzhnyy-tsentr-po-borbe-s-bednostyu.htm",
+      "declared": 132,
+      "visible": 133
+    },
+    {
+      "url": "https://exler.es/blog/zinaida-pronchenko-pogovorila-s-kseniyey-sobchak.htm",
+      "declared": 124,
+      "visible": 122
+    },
+    {
+      "url": "https://exler.es/blog/parizh-etoy-nochyu.htm",
+      "declared": 122,
+      "visible": 118
+    },
+    {
+      "url": "https://exler.es/blog/chay-na-50-millionov.htm",
+      "declared": 168,
+      "visible": 169
+    },
+    {
+      "url": "https://exler.es/blog/the-beatles-na-abbey-road.htm",
+      "declared": 75,
+      "visible": 73
+    },
+    {
+      "url": "https://exler.es/blog/khorosho-monetizirovannaya-latynina.htm",
+      "declared": 120,
+      "visible": 119
+    },
+    {
+      "url": "https://exler.es/blog/chem-otvetit-velikaya-rossiya.htm",
+      "declared": 64,
+      "visible": 58
+    },
+    {
+      "url": "https://exler.es/blog/predateli.htm",
+      "declared": 113,
+      "visible": 110
+    },
+    {
+      "url": "https://exler.es/blog/krosivoye-3.htm",
+      "declared": 45,
+      "visible": 21
+    },
+    {
+      "url": "https://exler.es/blog/novaya-kollektsiya-ayfonov-ot-caviar.htm",
+      "declared": 98,
+      "visible": 96
+    },
+    {
+      "url": "https://exler.es/blog/pyatnishnaya-pesenka-454.htm",
+      "declared": 23,
+      "visible": 22
+    },
+    {
+      "url": "https://exler.es/blog/ispaniya-portugaliya.htm",
+      "declared": 97,
+      "visible": 84
+    },
+    {
+      "url": "https://exler.es/bannizm/sgushenye-novacii-zlachnyh-bahil.htm",
+      "declared": 68,
+      "visible": 66
+    },
+    {
+      "url": "https://exler.es/blog/donoschik-remeslo-u-sobchak.htm",
+      "declared": 135,
+      "visible": 134
+    },
+    {
+      "url": "https://exler.es/blog/paragvaytsev-soblaznyayut-rabotoy-v-rf.htm",
+      "declared": 62,
+      "visible": 56
+    },
+    {
+      "url": "https://exler.es/blog/ozhidayemo.htm",
+      "declared": 242,
+      "visible": 174
+    },
+    {
+      "url": "https://exler.es/blog/skolko-kushayet-nas.htm",
+      "declared": 136,
+      "visible": 138
+    },
+    {
+      "url": "https://exler.es/blog/ne-zaskandirovalos-u-nikh.htm",
+      "declared": 76,
+      "visible": 74
+    },
+    {
+      "url": "https://exler.es/blog/atmosfera-nyu-yorka.htm",
+      "declared": 78,
+      "visible": 75
+    },
+    {
+      "url": "https://exler.es/blog/poputavshiye-berega.htm",
+      "declared": 43,
+      "visible": 41
+    },
+    {
+      "url": "https://exler.es/blog/slova-putina-vyzvali-paniku-na-zapade.htm",
+      "declared": 111,
+      "visible": 110
+    },
+    {
+      "url": "https://exler.es/blog/geroi-boyevikov-80-kh.htm",
+      "declared": 65,
+      "visible": 66
+    },
+    {
+      "url": "https://exler.es/blog/ocherednoy-rekord.htm",
+      "declared": 148,
+      "visible": 146
+    },
+    {
+      "url": "https://exler.es/blog/pozdravili-maska.htm",
+      "declared": 182,
+      "visible": 177
+    },
+    {
+      "url": "https://exler.es/expromt/predstavlena-linejka-smartfonov-pixel-11.htm",
+      "declared": 85,
+      "visible": 86
+    },
+    {
+      "url": "https://exler.es/blog/vse-idet-po-planu-2.htm",
+      "declared": 118,
+      "visible": 112
+    },
+    {
+      "url": "https://exler.es/blog/izrail-na-yevrovidenii.htm",
+      "declared": 49,
+      "visible": 47
+    },
+    {
+      "url": "https://exler.es/blog/oni-razmnozhayutsya.htm",
+      "declared": 59,
+      "visible": 57
+    },
+    {
+      "url": "https://exler.es/blog/robot-ot-sony-obygryvayet-igrokov-v-ping-pong.htm",
+      "declared": 108,
+      "visible": 106
+    },
+    {
+      "url": "https://exler.es/blog/tekst-v-rech.htm",
+      "declared": 76,
+      "visible": 77
+    },
+    {
+      "url": "https://exler.es/expromt/obzor-chasov-oneplus-watch-4-pochti-idealnye.htm",
+      "declared": 85,
+      "visible": 86
+    },
+    {
+      "url": "https://exler.es/blog/khantavirus-chto-izvestno.htm",
+      "declared": 206,
+      "visible": 202
+    },
+    {
+      "url": "https://exler.es/blog/voskresnaya-pesenka-23.htm",
+      "declared": 25,
+      "visible": 24
+    },
+    {
+      "url": "https://exler.es/blog/vot-vam-i-vsya-eta-nata.htm",
+      "declared": 246,
+      "visible": 245
+    },
+    {
+      "url": "https://exler.es/blog/letayushchiye-tarelki.htm",
+      "declared": 236,
+      "visible": 230
+    },
+    {
+      "url": "https://exler.es/blog/strannosti-s-waze.htm",
+      "declared": 224,
+      "visible": 222
+    },
+    {
+      "url": "https://exler.es/blog/sumudnuyu-flotiliyu-sotryasayet-skandal.htm",
+      "declared": 137,
+      "visible": 135
+    },
+    {
+      "url": "https://exler.es/blog/svyashchennaya-borba-s-vpn-ii.htm",
+      "declared": 127,
+      "visible": 120
+    },
+    {
+      "url": "https://exler.es/expromt/obzor-multivarki-aerogrilya-moulinex-multicook-fry.htm",
+      "declared": 40,
+      "visible": 42
+    },
+    {
+      "url": "https://exler.es/blog/ob-otstavke-fedorova.htm",
+      "declared": 472,
+      "visible": 473
+    },
+    {
+      "url": "https://exler.es/blog/sayte-exleres-ochen-nuzhna-vasha-podderzhka.htm",
+      "declared": 5,
+      "visible": 4
+    },
+    {
+      "url": "https://exler.es/blog/samaya-velikolepnaya-triumfalnaya-arka.htm",
+      "declared": 99,
+      "visible": 92
+    },
+    {
+      "url": "https://exler.es/blog/omegabol.htm",
+      "declared": 77,
+      "visible": 78
+    },
+    {
+      "url": "https://exler.es/blog/36-stran-prisoyedinilis-k-spetstribunalu-dlya-putina.htm",
+      "declared": 118,
+      "visible": 113
+    },
+    {
+      "url": "https://exler.es/blog/u-geytsa-oblom.htm",
+      "declared": 106,
+      "visible": 89
+    },
+    {
+      "url": "https://exler.es/blog/peredozirovka-platsebo.htm",
+      "declared": 154,
+      "visible": 151
+    },
+    {
+      "url": "https://exler.es/blog/interesnaya-mysl-4.htm",
+      "declared": 201,
+      "visible": 198
+    },
+    {
+      "url": "https://exler.es/films/sekretnyj-agent-1.htm",
+      "declared": 39,
+      "visible": 35
+    },
+    {
+      "url": "https://exler.es/blog/seryeznoye-obvineniye-v-adres-netanyakhu.htm",
+      "declared": 142,
+      "visible": 143
+    },
+    {
+      "url": "https://exler.es/films/ruster.htm",
+      "declared": 28,
+      "visible": 30
+    },
+    {
+      "url": "https://exler.es/blog/trudnyye-puti-pobedy.htm",
+      "declared": 120,
+      "visible": 114
+    },
+    {
+      "url": "https://exler.es/blog/nu-chto-budem-smotret-final.htm",
+      "declared": 300,
+      "visible": 297
+    },
+    {
+      "url": "https://exler.es/blog/zabyli-pro-sumudnuyu-flotiliyu.htm",
+      "declared": 49,
+      "visible": 48
+    },
+    {
+      "url": "https://exler.es/blog/kosta-brava-4.htm",
+      "declared": 24,
+      "visible": 23
+    },
+    {
+      "url": "https://exler.es/blog/yekaterina-duntsova-zadayet-vopros-vlasti.htm",
+      "declared": 265,
+      "visible": 264
+    },
+    {
+      "url": "https://exler.es/blog/ispanskiye-budni.htm",
+      "declared": 109,
+      "visible": 110
+    },
+    {
+      "url": "https://exler.es/blog/perevod-rechi-s-pomoshchyu-gemini-35-live-translate.htm",
+      "declared": 124,
+      "visible": 93
+    },
+    {
+      "url": "https://exler.es/blog/plan-spaseniya-rossiyskogo-kino.htm",
+      "declared": 53,
+      "visible": 50
+    },
+    {
+      "url": "https://exler.es/blog/robot-menyayet-shiny-ne-snimaya-koles.htm",
+      "declared": 174,
+      "visible": 169
+    },
+    {
+      "url": "https://exler.es/blog/pavla-durova-v-rf-obyavili-v-rozysk.htm",
+      "declared": 98,
+      "visible": 97
+    },
+    {
+      "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-263.htm",
+      "declared": 108,
+      "visible": 106
+    },
+    {
+      "url": "https://exler.es/blog/trogatelnoye-yedinodushiye.htm",
+      "declared": 290,
+      "visible": 281
+    },
+    {
+      "url": "https://exler.es/blog/razdelnoye-obucheniye.htm",
+      "declared": 163,
+      "visible": 158
+    },
+    {
+      "url": "https://exler.es/films/buhta-vdov.htm",
+      "declared": 42,
+      "visible": 43
+    },
+    {
+      "url": "https://exler.es/blog/tri-goda-za-kalyan-na-kuliche.htm",
+      "declared": 236,
+      "visible": 237
+    },
+    {
+      "url": "https://exler.es/blog/luchshiye-smartfony-2026-goda.htm",
+      "declared": 73,
+      "visible": 72
+    },
+    {
+      "url": "https://exler.es/blog/dolzhen.htm",
+      "declared": 33,
+      "visible": 32
+    },
+    {
+      "url": "https://exler.es/blog/istoriya-s-mikhailom-loshchininym.htm",
+      "declared": 118,
+      "visible": 110
+    },
+    {
+      "url": "https://exler.es/blog/vypuskniki-v-pitere.htm",
+      "declared": 110,
+      "visible": 108
+    },
+    {
+      "url": "https://exler.es/blog/pora-prekratit-eto-bezumiye.htm",
+      "declared": 604,
+      "visible": 605
+    },
+    {
+      "url": "https://exler.es/blog/povedeniye-argentinskoy-sbornoy-v-finale.htm",
+      "declared": 187,
+      "visible": 186
+    },
+    {
+      "url": "https://exler.es/blog/otvechayet-ii.htm",
+      "declared": 98,
+      "visible": 92
+    },
+    {
+      "url": "https://exler.es/blog/yevrovideniye-kto-pobedil.htm",
+      "declared": 267,
+      "visible": 241
+    },
+    {
+      "url": "https://exler.es/blog/on-ot-babushki-ushel.htm",
+      "declared": 198,
+      "visible": 199
+    },
+    {
+      "url": "https://exler.es/expromt/obzor-smartfona-poco-x8-pro.htm",
+      "declared": 36,
+      "visible": 37
+    },
+    {
+      "url": "https://exler.es/blog/ogromnyy-grekh.htm",
+      "declared": 63,
+      "visible": 64
+    },
+    {
+      "url": "https://exler.es/likbez/smartfony-kakih-proizvoditelej-imeet-smysl-priobretat.htm",
+      "declared": 175,
+      "visible": 164
+    },
+    {
+      "url": "https://exler.es/blog/bunker-dlya-grazhdanskikh-samoletov.htm",
+      "declared": 50,
+      "visible": 48
+    },
+    {
+      "url": "https://exler.es/blog/bestsennyye-sovety-ot-velikogo-artista.htm",
+      "declared": 38,
+      "visible": 37
+    },
+    {
+      "url": "https://exler.es/blog/zheleznaya-logika-4.htm",
+      "declared": 204,
+      "visible": 194
+    },
+    {
+      "url": "https://exler.es/blog/destruktivnaya-sekta.htm",
+      "declared": 313,
+      "visible": 311
+    },
+    {
+      "url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-276.htm",
+      "declared": 46,
+      "visible": 47
+    },
+    {
+      "url": "https://exler.es/blog/obrashcheniye-rossiyskogo-aytishnika.htm",
+      "declared": 120,
+      "visible": 119
+    },
+    {
+      "url": "https://exler.es/expromt/obzor-malenkogo-ridera-xteink-x4-s-ekranom-4-3.htm",
+      "declared": 126,
+      "visible": 127
+    },
+    {
+      "url": "https://exler.es/expromt/obzor-zashishyonnogo-smartfona-cubot-kingkong-dura.htm",
+      "declared": 51,
+      "visible": 53
+    },
+    {
+      "url": "https://exler.es/bannizm/horoshee-obrashenie-rabotyashih-medsester.htm",
+      "declared": 96,
+      "visible": 97
+    },
+    {
+      "url": "https://exler.es/blog/vse-idet-po-planu-3.htm",
+      "declared": 415,
+      "visible": 414
+    },
+    {
+      "url": "https://exler.es/blog/prezentatsiya-apple-chto-interesnogo.htm",
+      "declared": 128,
+      "visible": 129
+    },
+    {
+      "url": "https://exler.es/blog/kak-kofe-uluchshayet-nastroyeniye.htm",
+      "declared": 164,
+      "visible": 159
+    },
+    {
+      "url": "https://exler.es/blog/pypa-prinyal-voyennyy-karaul.htm",
+      "declared": 266,
+      "visible": 265
+    },
+    {
+      "url": "https://exler.es/blog/shestidnevka-po-12-chasov.htm",
+      "declared": 257,
+      "visible": 252
+    },
+    {
+      "url": "https://exler.es/blog/mat-drakonov-govorit-po-russki.htm",
+      "declared": 62,
+      "visible": 61
+    }
+  ],
+  "visible_reader_and_author_comments": 118827,
+  "archive_match_count": 637,
+  "archive_timestamp_differences": [],
+  "archive_unmatched_count_before_completion": 4,
+  "archive_supplements": [
+    {
+      "anchor": "1no4d",
+      "url": "https://exler.es/blog/priyekhal-poco-x8-pro.htm#1no4d",
+      "commented_at": "2026-06-09T12:58",
+      "author": "Alex Exler",
+      "source_post_url": "https://exler.es/blog/priyekhal-poco-x8-pro.htm",
+      "post_title": "Приехал POCO X8 Pro",
+      "source_type": "archive_metadata_only",
+      "archive_id": "1246747",
+      "own_text": null,
+      "context": [],
+      "scope": "archive_supplement",
+      "date": "2026-06-09",
+      "hour": 12,
+      "minute": 58,
+      "minute_of_day": 778,
+      "weekday": 1
+    },
+    {
+      "anchor": "1no6a",
+      "url": "https://exler.es/blog/priyekhal-poco-x8-pro.htm#1no6a",
+      "commented_at": "2026-06-09T14:02",
+      "author": "Alex Exler",
+      "source_post_url": "https://exler.es/blog/priyekhal-poco-x8-pro.htm",
+      "post_title": "Приехал POCO X8 Pro",
+      "source_type": "archive_metadata_only",
+      "archive_id": "1246749",
+      "own_text": null,
+      "context": [],
+      "scope": "archive_supplement",
+      "date": "2026-06-09",
+      "hour": 14,
+      "minute": 2,
+      "minute_of_day": 842,
+      "weekday": 1
+    },
+    {
+      "anchor": "1nm2p",
+      "url": "https://exler.es/blog/pravilnyye-skazki.htm#1nm2p",
+      "commented_at": "2026-06-04T22:42",
+      "author": "Alex Exler",
+      "source_post_url": "https://exler.es/blog/pravilnyye-skazki.htm",
+      "post_title": "Правильные сказки",
+      "source_type": "archive_metadata_only",
+      "archive_id": "1249506",
+      "own_text": null,
+      "context": [],
+      "scope": "archive_supplement",
+      "date": "2026-06-04",
+      "hour": 22,
+      "minute": 42,
+      "minute_of_day": 1362,
+      "weekday": 3
+    },
+    {
+      "anchor": "1naxm",
+      "url": "https://exler.es/expromt/obzor-smartfona-xiaomi-15t-pro-on-ochen-horosh.htm#1naxm",
+      "commented_at": "2026-05-13T10:49",
+      "author": "Alex Exler",
+      "source_post_url": "https://exler.es/expromt/obzor-smartfona-xiaomi-15t-pro-on-ochen-horosh.htm",
+      "post_title": "Обзоры | Обзор смартфона Xiaomi 15T Pro - он очень хорош!",
+      "source_type": "archive_metadata_only",
+      "archive_id": "1263573",
+      "own_text": null,
+      "context": [],
+      "scope": "archive_supplement",
+      "date": "2026-05-13",
+      "hour": 10,
+      "minute": 49,
+      "minute_of_day": 649,
+      "weekday": 2
+    }
+  ],
+  "identity_without_owner_mark": [],
+  "parents_missing": [
+    "https://exler.es/blog/comments/meloni-umolyala.htm#1nuer",
+    "https://exler.es/blog/comments/vystupleniye-senatora-kloda-malyure.htm#1mqsg",
+    "https://exler.es/blog/comments/vystupleniye-senatora-kloda-malyure.htm#1mqt7",
+    "https://exler.es/blog/comments/ispantsy-v-finale.htm#1o6gu",
+    "https://exler.es/blog/comments/ispantsy-v-finale.htm#1o6hb",
+    "https://exler.es/blog/comments/ispantsy-v-finale.htm#1o6hx",
+    "https://exler.es/blog/comments/ispantsy-v-finale.htm#1oahu",
+    "https://exler.es/blog/comments/strannosti-s-waze.htm#1oous",
+    "https://exler.es/films/comments/sekretnyj-agent-1.htm#1n1sk"
+  ]
+}

@@ -1,0 +1,4793 @@
+[
+  {
+    "date": "2026-03-29",
+    "gap_minutes": 244,
+    "before": {
+      "commented_at": "2026-03-29T14:18",
+      "url": "https://exler.es/blog/comments/interesnyy-pretsedent-4.htm#1mnem",
+      "source_post_url": "https://exler.es/blog/interesnyy-pretsedent-4.htm",
+      "post_title": "Интересный прецедент",
+      "source_type": "live_html",
+      "anchor": "1mnem"
+    },
+    "return": {
+      "commented_at": "2026-03-29T18:22",
+      "url": "https://exler.es/blog/comments/interesnyy-pretsedent-4.htm#1mnl1",
+      "source_post_url": "https://exler.es/blog/interesnyy-pretsedent-4.htm",
+      "post_title": "Интересный прецедент",
+      "source_type": "live_html",
+      "anchor": "1mnl1"
+    },
+    "posts_in_gap": 3,
+    "grid_posts_in_gap": 3,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/na-eto-u-nikh-dengi-yest.htm",
+        "title": "На это у них деньги есть",
+        "published_at": "2026-03-29T15:00",
+        "displayed_at": "29.03.2026 15:00",
+        "source_page": 22,
+        "date": "2026-03-29",
+        "weekday": 6,
+        "hour": 15,
+        "minute": 0,
+        "minute_of_day": 900
+      },
+      {
+        "url": "https://exler.es/blog/vse-v-delo-poydet.htm",
+        "title": "Все в дело пойдет",
+        "published_at": "2026-03-29T16:00",
+        "displayed_at": "29.03.2026 16:00",
+        "source_page": 22,
+        "date": "2026-03-29",
+        "weekday": 6,
+        "hour": 16,
+        "minute": 0,
+        "minute_of_day": 960
+      },
+      {
+        "url": "https://exler.es/blog/osvyatil-oskara.htm",
+        "title": "Освятил \"Оскара\"",
+        "published_at": "2026-03-29T17:40",
+        "displayed_at": "29.03.2026 17:40",
+        "source_page": 22,
+        "date": "2026-03-29",
+        "weekday": 6,
+        "hour": 17,
+        "minute": 40,
+        "minute_of_day": 1060
+      }
+    ],
+    "comments_after_return_same_day": 3,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-04-04",
+    "gap_minutes": 365,
+    "before": {
+      "commented_at": "2026-04-04T12:54",
+      "url": "https://exler.es/blog/comments/vystupleniye-senatora-kloda-malyure.htm#1mqhy",
+      "source_post_url": "https://exler.es/blog/vystupleniye-senatora-kloda-malyure.htm",
+      "post_title": "Выступление сенатора Клода Малюре",
+      "source_type": "live_html",
+      "anchor": "1mqhy"
+    },
+    "return": {
+      "commented_at": "2026-04-04T18:59",
+      "url": "https://exler.es/blog/comments/vot-teper-pokhozhe-na-vesnu.htm#1mqp6",
+      "source_post_url": "https://exler.es/blog/vot-teper-pokhozhe-na-vesnu.htm",
+      "post_title": "Вот теперь похоже на весну",
+      "source_type": "live_html",
+      "anchor": "1mqp6"
+    },
+    "posts_in_gap": 2,
+    "grid_posts_in_gap": 2,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/vot-teper-pokhozhe-na-vesnu.htm",
+        "title": "Вот теперь похоже на весну",
+        "published_at": "2026-04-04T14:30",
+        "displayed_at": "04.04.2026 14:30",
+        "source_page": 22,
+        "date": "2026-04-04",
+        "weekday": 5,
+        "hour": 14,
+        "minute": 30,
+        "minute_of_day": 870
+      },
+      {
+        "url": "https://exler.es/blog/guber-vologodskoy-oblasti.htm",
+        "title": "Губер Вологодской области",
+        "published_at": "2026-04-04T18:30",
+        "displayed_at": "04.04.2026 18:30",
+        "source_page": 22,
+        "date": "2026-04-04",
+        "weekday": 5,
+        "hour": 18,
+        "minute": 30,
+        "minute_of_day": 1110
+      }
+    ],
+    "comments_after_return_same_day": 5,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-04-04",
+    "gap_minutes": 220,
+    "before": {
+      "commented_at": "2026-04-04T18:59",
+      "url": "https://exler.es/blog/comments/vot-teper-pokhozhe-na-vesnu.htm#1mqp6",
+      "source_post_url": "https://exler.es/blog/vot-teper-pokhozhe-na-vesnu.htm",
+      "post_title": "Вот теперь похоже на весну",
+      "source_type": "live_html",
+      "anchor": "1mqp6"
+    },
+    "return": {
+      "commented_at": "2026-04-04T22:39",
+      "url": "https://exler.es/blog/comments/vystupleniye-senatora-kloda-malyure.htm#1mqsg",
+      "source_post_url": "https://exler.es/blog/vystupleniye-senatora-kloda-malyure.htm",
+      "post_title": "Выступление сенатора Клода Малюре",
+      "source_type": "live_html",
+      "anchor": "1mqsg"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 4,
+    "return_severity": 1
+  },
+  {
+    "date": "2026-04-08",
+    "gap_minutes": 328,
+    "before": {
+      "commented_at": "2026-04-08T12:41",
+      "url": "https://exler.es/blog/comments/izlishki-yedy-v-ispanii.htm#1msze",
+      "source_post_url": "https://exler.es/blog/izlishki-yedy-v-ispanii.htm",
+      "post_title": "Излишки еды в Испании",
+      "source_type": "live_html",
+      "anchor": "1msze"
+    },
+    "return": {
+      "commented_at": "2026-04-08T18:09",
+      "url": "https://exler.es/blog/comments/zazhgi-svoyu-zvezdu.htm#1mt8a",
+      "source_post_url": "https://exler.es/blog/zazhgi-svoyu-zvezdu.htm",
+      "post_title": "Зажги свою звезду!",
+      "source_type": "live_html",
+      "anchor": "1mt8a"
+    },
+    "posts_in_gap": 4,
+    "grid_posts_in_gap": 4,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/khronologiya-zayavleniy.htm",
+        "title": "Хронология заявлений",
+        "published_at": "2026-04-08T13:00",
+        "displayed_at": "08.04.2026 13:00",
+        "source_page": 21,
+        "date": "2026-04-08",
+        "weekday": 2,
+        "hour": 13,
+        "minute": 0,
+        "minute_of_day": 780
+      },
+      {
+        "url": "https://exler.es/blog/oshchutili-na-sebe.htm",
+        "title": "Ощутили на себе",
+        "published_at": "2026-04-08T14:00",
+        "displayed_at": "08.04.2026 14:00",
+        "source_page": 21,
+        "date": "2026-04-08",
+        "weekday": 2,
+        "hour": 14,
+        "minute": 0,
+        "minute_of_day": 840
+      },
+      {
+        "url": "https://exler.es/blog/zabyli-pro-sumudnuyu-flotiliyu.htm",
+        "title": "Забыли про сумудную флотилию?",
+        "published_at": "2026-04-08T15:00",
+        "displayed_at": "08.04.2026 15:00",
+        "source_page": 21,
+        "date": "2026-04-08",
+        "weekday": 2,
+        "hour": 15,
+        "minute": 0,
+        "minute_of_day": 900
+      },
+      {
+        "url": "https://exler.es/blog/zazhgi-svoyu-zvezdu.htm",
+        "title": "Зажги свою звезду!",
+        "published_at": "2026-04-08T17:10",
+        "displayed_at": "08.04.2026 17:10",
+        "source_page": 21,
+        "date": "2026-04-08",
+        "weekday": 2,
+        "hour": 17,
+        "minute": 10,
+        "minute_of_day": 1030
+      }
+    ],
+    "comments_after_return_same_day": 2,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-04-09",
+    "gap_minutes": 593,
+    "before": {
+      "commented_at": "2026-04-09T12:47",
+      "url": "https://exler.es/blog/comments/kosta-brava-5.htm#1mtka",
+      "source_post_url": "https://exler.es/blog/kosta-brava-5.htm",
+      "post_title": "Коста-Брава",
+      "source_type": "live_html",
+      "anchor": "1mtka"
+    },
+    "return": {
+      "commented_at": "2026-04-09T22:40",
+      "url": "https://exler.es/blog/comments/kosta-brava-5.htm#1mtvh",
+      "source_post_url": "https://exler.es/blog/kosta-brava-5.htm",
+      "post_title": "Коста-Брава",
+      "source_type": "live_html",
+      "anchor": "1mtvh"
+    },
+    "posts_in_gap": 1,
+    "grid_posts_in_gap": 1,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/ocherednaya-barselonskaya-istoriya.htm",
+        "title": "Очередная барселонская история",
+        "published_at": "2026-04-09T13:00",
+        "displayed_at": "09.04.2026 13:00",
+        "source_page": 21,
+        "date": "2026-04-09",
+        "weekday": 3,
+        "hour": 13,
+        "minute": 0,
+        "minute_of_day": 780
+      }
+    ],
+    "comments_after_return_same_day": 2,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-04-11",
+    "gap_minutes": 206,
+    "before": {
+      "commented_at": "2026-04-11T19:09",
+      "url": "https://exler.es/blog/comments/quando-quando-quando.htm#1mus3",
+      "source_post_url": "https://exler.es/blog/quando-quando-quando.htm",
+      "post_title": "Quando, quando, quando",
+      "source_type": "live_html",
+      "anchor": "1mus3"
+    },
+    "return": {
+      "commented_at": "2026-04-11T22:35",
+      "url": "https://exler.es/blog/comments/pedro-paskal-v-snl.htm#1mutt",
+      "source_post_url": "https://exler.es/blog/pedro-paskal-v-snl.htm",
+      "post_title": "Педро Паскаль в SNL",
+      "source_type": "live_html",
+      "anchor": "1mutt"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 1,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-04-14",
+    "gap_minutes": 263,
+    "before": {
+      "commented_at": "2026-04-14T14:07",
+      "url": "https://exler.es/blog/comments/reklama-chasov.htm#1mvut",
+      "source_post_url": "https://exler.es/blog/reklama-chasov.htm",
+      "post_title": "Реклама часов",
+      "source_type": "live_html",
+      "anchor": "1mvut"
+    },
+    "return": {
+      "commented_at": "2026-04-14T18:30",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-realme-14-5g.htm#1mw0b",
+      "source_post_url": "https://exler.es/expromt/obzor-smartfona-realme-14-5g.htm",
+      "post_title": "Обзоры | Обзор смартфона Realme 14 5G",
+      "source_type": "live_html",
+      "anchor": "1mw0b"
+    },
+    "posts_in_gap": 2,
+    "grid_posts_in_gap": 2,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/kak-belgiyskiy-grazhdanin-priyekhal-v-rf.htm",
+        "title": "Как бельгийский гражданин приехал в РФ",
+        "published_at": "2026-04-14T15:00",
+        "displayed_at": "14.04.2026 15:00",
+        "source_page": 20,
+        "date": "2026-04-14",
+        "weekday": 1,
+        "hour": 15,
+        "minute": 0,
+        "minute_of_day": 900
+      },
+      {
+        "url": "https://exler.es/blog/sumudnuyu-flotiliyu-sotryasayet-skandal.htm",
+        "title": "Сумудную флотилию сотрясает скандал",
+        "published_at": "2026-04-14T18:20",
+        "displayed_at": "14.04.2026 18:20",
+        "source_page": 20,
+        "date": "2026-04-14",
+        "weekday": 1,
+        "hour": 18,
+        "minute": 20,
+        "minute_of_day": 1100
+      }
+    ],
+    "comments_after_return_same_day": 2,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-04-15",
+    "gap_minutes": 406,
+    "before": {
+      "commented_at": "2026-04-15T11:43",
+      "url": "https://exler.es/blog/comments/v-tyurmu-za-propusk-detmi-shkoly.htm#1mwam",
+      "source_post_url": "https://exler.es/blog/v-tyurmu-za-propusk-detmi-shkoly.htm",
+      "post_title": "В тюрьму за пропуск детьми школы",
+      "source_type": "live_html",
+      "anchor": "1mwam"
+    },
+    "return": {
+      "commented_at": "2026-04-15T18:29",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-realme-14-5g.htm#1mwjg",
+      "source_post_url": "https://exler.es/expromt/obzor-smartfona-realme-14-5g.htm",
+      "post_title": "Обзоры | Обзор смартфона Realme 14 5G",
+      "source_type": "live_html",
+      "anchor": "1mwjg"
+    },
+    "posts_in_gap": 3,
+    "grid_posts_in_gap": 3,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/ocherednoye-dnishche-2.htm",
+        "title": "Очередное днище",
+        "published_at": "2026-04-15T12:00",
+        "displayed_at": "15.04.2026 12:00",
+        "source_page": 20,
+        "date": "2026-04-15",
+        "weekday": 2,
+        "hour": 12,
+        "minute": 0,
+        "minute_of_day": 720
+      },
+      {
+        "url": "https://exler.es/blog/pochemu-ekonomika-rf-nesetsya-vniz.htm",
+        "title": "Почему экономика РФ несется вниз",
+        "published_at": "2026-04-15T17:10",
+        "displayed_at": "15.04.2026 17:10",
+        "source_page": 20,
+        "date": "2026-04-15",
+        "weekday": 2,
+        "hour": 17,
+        "minute": 10,
+        "minute_of_day": 1030
+      },
+      {
+        "url": "https://exler.es/blog/u-khrista-yest-karty.htm",
+        "title": "У Христа есть карты",
+        "published_at": "2026-04-15T18:20",
+        "displayed_at": "15.04.2026 18:20",
+        "source_page": 20,
+        "date": "2026-04-15",
+        "weekday": 2,
+        "hour": 18,
+        "minute": 20,
+        "minute_of_day": 1100
+      }
+    ],
+    "comments_after_return_same_day": 3,
+    "return_severity": 1
+  },
+  {
+    "date": "2026-04-15",
+    "gap_minutes": 180,
+    "before": {
+      "commented_at": "2026-04-15T18:29",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-realme-14-5g.htm#1mwjg",
+      "source_post_url": "https://exler.es/expromt/obzor-smartfona-realme-14-5g.htm",
+      "post_title": "Обзоры | Обзор смартфона Realme 14 5G",
+      "source_type": "live_html",
+      "anchor": "1mwjg"
+    },
+    "return": {
+      "commented_at": "2026-04-15T21:29",
+      "url": "https://exler.es/blog/comments/u-khrista-yest-karty.htm#1mwn6",
+      "source_post_url": "https://exler.es/blog/u-khrista-yest-karty.htm",
+      "post_title": "У Христа есть карты",
+      "source_type": "live_html",
+      "anchor": "1mwn6"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 2,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-04-16",
+    "gap_minutes": 376,
+    "before": {
+      "commented_at": "2026-04-16T12:03",
+      "url": "https://exler.es/films/comments/molodoj-sherlok.htm#1mwus",
+      "source_post_url": "https://exler.es/films/molodoj-sherlok.htm",
+      "post_title": "Кинорецензии | Молодой Шерлок | Сериал",
+      "source_type": "live_html",
+      "anchor": "1mwus"
+    },
+    "return": {
+      "commented_at": "2026-04-16T18:19",
+      "url": "https://exler.es/blog/comments/vtoroye-prishestviye-boni.htm#1mx2j",
+      "source_post_url": "https://exler.es/blog/vtoroye-prishestviye-boni.htm",
+      "post_title": "Второе пришествие Бони",
+      "source_type": "live_html",
+      "anchor": "1mx2j"
+    },
+    "posts_in_gap": 2,
+    "grid_posts_in_gap": 2,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/on-prosto-lyuboznatelnyy.htm",
+        "title": "Он просто любознательный",
+        "published_at": "2026-04-16T13:00",
+        "displayed_at": "16.04.2026 13:00",
+        "source_page": 20,
+        "date": "2026-04-16",
+        "weekday": 3,
+        "hour": 13,
+        "minute": 0,
+        "minute_of_day": 780
+      },
+      {
+        "url": "https://exler.es/blog/vtoroye-prishestviye-boni.htm",
+        "title": "Второе пришествие Бони",
+        "published_at": "2026-04-16T17:00",
+        "displayed_at": "16.04.2026 17:00",
+        "source_page": 20,
+        "date": "2026-04-16",
+        "weekday": 3,
+        "hour": 17,
+        "minute": 0,
+        "minute_of_day": 1020
+      }
+    ],
+    "comments_after_return_same_day": 1,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-04-17",
+    "gap_minutes": 355,
+    "before": {
+      "commented_at": "2026-04-17T16:56",
+      "url": "https://exler.es/blog/comments/mysli-velikikh-3.htm#1mxgz",
+      "source_post_url": "https://exler.es/blog/mysli-velikikh-3.htm",
+      "post_title": "Мысли великих",
+      "source_type": "live_html",
+      "anchor": "1mxgz"
+    },
+    "return": {
+      "commented_at": "2026-04-17T22:51",
+      "url": "https://exler.es/blog/comments/blagotvornoye-vliyaniye-svo.htm#1mxnf",
+      "source_post_url": "https://exler.es/blog/blagotvornoye-vliyaniye-svo.htm",
+      "post_title": "Благотворное влияние СВО",
+      "source_type": "live_html",
+      "anchor": "1mxnf"
+    },
+    "posts_in_gap": 2,
+    "grid_posts_in_gap": 2,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/malenkiy-myshonok-zhaluyetsya.htm",
+        "title": "Маленький мышонок жалуется",
+        "published_at": "2026-04-17T17:10",
+        "displayed_at": "17.04.2026 17:10",
+        "source_page": 20,
+        "date": "2026-04-17",
+        "weekday": 4,
+        "hour": 17,
+        "minute": 10,
+        "minute_of_day": 1030
+      },
+      {
+        "url": "https://exler.es/blog/pyatnishnaya-pesenka-455.htm",
+        "title": "Пятнишная песенка",
+        "published_at": "2026-04-17T18:00",
+        "displayed_at": "17.04.2026 18:00",
+        "source_page": 20,
+        "date": "2026-04-17",
+        "weekday": 4,
+        "hour": 18,
+        "minute": 0,
+        "minute_of_day": 1080
+      }
+    ],
+    "comments_after_return_same_day": 1,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-04-19",
+    "gap_minutes": 425,
+    "before": {
+      "commented_at": "2026-04-19T12:09",
+      "url": "https://exler.es/blog/comments/ogromnyy-grekh.htm#1my45",
+      "source_post_url": "https://exler.es/blog/ogromnyy-grekh.htm",
+      "post_title": "Огромный грех",
+      "source_type": "live_html",
+      "anchor": "1my45"
+    },
+    "return": {
+      "commented_at": "2026-04-19T19:14",
+      "url": "https://exler.es/blog/comments/dumayete-u-baydena-tak-poluchilos-by.htm#1mybn",
+      "source_post_url": "https://exler.es/blog/dumayete-u-baydena-tak-poluchilos-by.htm",
+      "post_title": "Думаете, у Байдена так получилось бы?",
+      "source_type": "live_html",
+      "anchor": "1mybn"
+    },
+    "posts_in_gap": 3,
+    "grid_posts_in_gap": 3,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/kak-vengriya-stala-veselym-barakom-gazproma.htm",
+        "title": "Как Венгрия стала веселым бараком Газпрома",
+        "published_at": "2026-04-19T13:00",
+        "displayed_at": "19.04.2026 13:00",
+        "source_page": 19,
+        "date": "2026-04-19",
+        "weekday": 6,
+        "hour": 13,
+        "minute": 0,
+        "minute_of_day": 780
+      },
+      {
+        "url": "https://exler.es/blog/skripka-za-million.htm",
+        "title": "Скрипка за миллион",
+        "published_at": "2026-04-19T15:00",
+        "displayed_at": "19.04.2026 15:00",
+        "source_page": 19,
+        "date": "2026-04-19",
+        "weekday": 6,
+        "hour": 15,
+        "minute": 0,
+        "minute_of_day": 900
+      },
+      {
+        "url": "https://exler.es/blog/dumayete-u-baydena-tak-poluchilos-by.htm",
+        "title": "Думаете, у Байдена так получилось бы?",
+        "published_at": "2026-04-19T17:40",
+        "displayed_at": "19.04.2026 17:40",
+        "source_page": 19,
+        "date": "2026-04-19",
+        "weekday": 6,
+        "hour": 17,
+        "minute": 40,
+        "minute_of_day": 1060
+      }
+    ],
+    "comments_after_return_same_day": 6,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-04-21",
+    "gap_minutes": 371,
+    "before": {
+      "commented_at": "2026-04-21T16:45",
+      "url": "https://exler.es/expromt/comments/prilozhenie-google-dlya-windows-novyj-uroven-poiska-na-baze-ii.htm#1mz6u",
+      "source_post_url": "https://exler.es/expromt/prilozhenie-google-dlya-windows-novyj-uroven-poiska-na-baze-ii.htm",
+      "post_title": "Обзоры | Приложение Google для Windows - новый уровень поиска на базе ИИ",
+      "source_type": "live_html",
+      "anchor": "1mz6u"
+    },
+    "return": {
+      "commented_at": "2026-04-21T22:56",
+      "url": "https://exler.es/blog/comments/obizhayut-markova.htm#1mze9",
+      "source_post_url": "https://exler.es/blog/obizhayut-markova.htm",
+      "post_title": "Обижают Маркова",
+      "source_type": "live_html",
+      "anchor": "1mze9"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 5,
+    "return_severity": 2
+  },
+  {
+    "date": "2026-04-22",
+    "gap_minutes": 553,
+    "before": {
+      "commented_at": "2026-04-22T09:17",
+      "url": "https://exler.es/blog/comments/bastrykin-poruchil-proverit.htm#1mzgw",
+      "source_post_url": "https://exler.es/blog/bastrykin-poruchil-proverit.htm",
+      "post_title": "Бастрыкин поручил проверить",
+      "source_type": "live_html",
+      "anchor": "1mzgw"
+    },
+    "return": {
+      "commented_at": "2026-04-22T18:30",
+      "url": "https://exler.es/blog/comments/spasibo-dedu.htm#1mzsg",
+      "source_post_url": "https://exler.es/blog/spasibo-dedu.htm",
+      "post_title": "Спасибо деду",
+      "source_type": "live_html",
+      "anchor": "1mzsg"
+    },
+    "posts_in_gap": 5,
+    "grid_posts_in_gap": 5,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/patriotichnoye-vorovstvo.htm",
+        "title": "Патриотичное воровство",
+        "published_at": "2026-04-22T10:10",
+        "displayed_at": "22.04.2026 10:10",
+        "source_page": 19,
+        "date": "2026-04-22",
+        "weekday": 2,
+        "hour": 10,
+        "minute": 10,
+        "minute_of_day": 610
+      },
+      {
+        "url": "https://exler.es/blog/poltora-goda-lisheniya-svobody-za-pereskaz-filmov.htm",
+        "title": "Полтора года лишения свободы за пересказ фильмов",
+        "published_at": "2026-04-22T10:30",
+        "displayed_at": "22.04.2026 10:30",
+        "source_page": 19,
+        "date": "2026-04-22",
+        "weekday": 2,
+        "hour": 10,
+        "minute": 30,
+        "minute_of_day": 630
+      },
+      {
+        "url": "https://exler.es/blog/zabavnaya-istoriya-s-maga-inflyuensershey.htm",
+        "title": "Забавная история с MAGA-инфлюэнсершей",
+        "published_at": "2026-04-22T13:20",
+        "displayed_at": "22.04.2026 13:20",
+        "source_page": 19,
+        "date": "2026-04-22",
+        "weekday": 2,
+        "hour": 13,
+        "minute": 20,
+        "minute_of_day": 800
+      },
+      {
+        "url": "https://exler.es/blog/samyye-prodavayemyye-brendy-televizorov.htm",
+        "title": "Самые продаваемые бренды телевизоров",
+        "published_at": "2026-04-22T17:10",
+        "displayed_at": "22.04.2026 17:10",
+        "source_page": 19,
+        "date": "2026-04-22",
+        "weekday": 2,
+        "hour": 17,
+        "minute": 10,
+        "minute_of_day": 1030
+      },
+      {
+        "url": "https://exler.es/blog/spasibo-dedu.htm",
+        "title": "Спасибо деду",
+        "published_at": "2026-04-22T18:10",
+        "displayed_at": "22.04.2026 18:10",
+        "source_page": 19,
+        "date": "2026-04-22",
+        "weekday": 2,
+        "hour": 18,
+        "minute": 10,
+        "minute_of_day": 1090
+      }
+    ],
+    "comments_after_return_same_day": 1,
+    "return_severity": 1
+  },
+  {
+    "date": "2026-04-23",
+    "gap_minutes": 379,
+    "before": {
+      "commented_at": "2026-04-23T14:35",
+      "url": "https://exler.es/blog/comments/oneplus-watch-4.htm#1n094",
+      "source_post_url": "https://exler.es/blog/oneplus-watch-4.htm",
+      "post_title": "OnePlus Watch 4",
+      "source_type": "live_html",
+      "anchor": "1n094"
+    },
+    "return": {
+      "commented_at": "2026-04-23T20:54",
+      "url": "https://exler.es/blog/comments/oneplus-watch-4.htm#1n0i3",
+      "source_post_url": "https://exler.es/blog/oneplus-watch-4.htm",
+      "post_title": "OnePlus Watch 4",
+      "source_type": "live_html",
+      "anchor": "1n0i3"
+    },
+    "posts_in_gap": 2,
+    "grid_posts_in_gap": 2,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/smennyye-akkumulyatory-v-smartfonakh-s-2027-goda.htm",
+        "title": "Сменные аккумуляторы в смартфонах с 2027 года",
+        "published_at": "2026-04-23T16:50",
+        "displayed_at": "23.04.2026 16:50",
+        "source_page": 19,
+        "date": "2026-04-23",
+        "weekday": 3,
+        "hour": 16,
+        "minute": 50,
+        "minute_of_day": 1010
+      },
+      {
+        "url": "https://exler.es/blog/z-inoagent-plachetsya.htm",
+        "title": "Z-иноагент плачется",
+        "published_at": "2026-04-23T18:20",
+        "displayed_at": "23.04.2026 18:20",
+        "source_page": 19,
+        "date": "2026-04-23",
+        "weekday": 3,
+        "hour": 18,
+        "minute": 20,
+        "minute_of_day": 1100
+      }
+    ],
+    "comments_after_return_same_day": 4,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-04-27",
+    "gap_minutes": 709,
+    "before": {
+      "commented_at": "2026-04-27T09:49",
+      "url": "https://exler.es/blog/comments/marafon-meneye-chem-za-2-chasa.htm#1n1xk",
+      "source_post_url": "https://exler.es/blog/marafon-meneye-chem-za-2-chasa.htm",
+      "post_title": "Марафон менее чем за 2 часа",
+      "source_type": "live_html",
+      "anchor": "1n1xk"
+    },
+    "return": {
+      "commented_at": "2026-04-27T21:38",
+      "url": "https://exler.es/blog/comments/serial-rooster.htm#1n2i6",
+      "source_post_url": "https://exler.es/blog/serial-rooster.htm",
+      "post_title": "Сериал \"Rooster\"",
+      "source_type": "live_html",
+      "anchor": "1n2i6"
+    },
+    "posts_in_gap": 4,
+    "grid_posts_in_gap": 4,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/films/sentimentalnaya-cennost.htm",
+        "title": "Кинорецензии | Сентиментальная ценность | Драма",
+        "published_at": "2026-04-27T10:00",
+        "displayed_at": "27.04.2026 10:00",
+        "source_page": 18,
+        "date": "2026-04-27",
+        "weekday": 0,
+        "hour": 10,
+        "minute": 0,
+        "minute_of_day": 600
+      },
+      {
+        "url": "https://exler.es/blog/donoschik-remeslo-u-sobchak.htm",
+        "title": "Доносчик Ремесло у Собчак",
+        "published_at": "2026-04-27T10:40",
+        "displayed_at": "27.04.2026 10:40",
+        "source_page": 18,
+        "date": "2026-04-27",
+        "weekday": 0,
+        "hour": 10,
+        "minute": 40,
+        "minute_of_day": 640
+      },
+      {
+        "url": "https://exler.es/blog/smeshnaya-istoriya-s-bolshoy-knigoy.htm",
+        "title": "Смешная история с \"Большой книгой\"",
+        "published_at": "2026-04-27T12:00",
+        "displayed_at": "27.04.2026 12:00",
+        "source_page": 18,
+        "date": "2026-04-27",
+        "weekday": 0,
+        "hour": 12,
+        "minute": 0,
+        "minute_of_day": 720
+      },
+      {
+        "url": "https://exler.es/blog/konsultativnaya-gruppa-pri-pase.htm",
+        "title": "Консультативная группа при ПАСЕ",
+        "published_at": "2026-04-27T17:20",
+        "displayed_at": "27.04.2026 17:20",
+        "source_page": 18,
+        "date": "2026-04-27",
+        "weekday": 0,
+        "hour": 17,
+        "minute": 20,
+        "minute_of_day": 1040
+      }
+    ],
+    "comments_after_return_same_day": 1,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-04-28",
+    "gap_minutes": 199,
+    "before": {
+      "commented_at": "2026-04-28T19:21",
+      "url": "https://exler.es/blog/comments/ispanskiye-budni.htm#1n345",
+      "source_post_url": "https://exler.es/blog/ispanskiye-budni.htm",
+      "post_title": "Испанские будни",
+      "source_type": "live_html",
+      "anchor": "1n345"
+    },
+    "return": {
+      "commented_at": "2026-04-28T22:40",
+      "url": "https://exler.es/blog/comments/vpn-dlya-rf-2.htm#1n37y",
+      "source_post_url": "https://exler.es/blog/vpn-dlya-rf-2.htm",
+      "post_title": "VPN для РФ",
+      "source_type": "live_html",
+      "anchor": "1n37y"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 2,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-05-08",
+    "gap_minutes": 296,
+    "before": {
+      "commented_at": "2026-05-08T17:51",
+      "url": "https://exler.es/blog/comments/skhvatka-sveta-protiv-tmy.htm#1n8dm",
+      "source_post_url": "https://exler.es/blog/skhvatka-sveta-protiv-tmy.htm",
+      "post_title": "Схватка света против тьмы",
+      "source_type": "live_html",
+      "anchor": "1n8dm"
+    },
+    "return": {
+      "commented_at": "2026-05-08T22:47",
+      "url": "https://exler.es/blog/comments/tramp-obyavil-o-peremirii.htm#1n8ln",
+      "source_post_url": "https://exler.es/blog/tramp-obyavil-o-peremirii.htm",
+      "post_title": "Трамп объявил о перемирии",
+      "source_type": "live_html",
+      "anchor": "1n8ln"
+    },
+    "posts_in_gap": 3,
+    "grid_posts_in_gap": 3,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/pyatnishnaya-pesenka-458.htm",
+        "title": "Пятнишная песенка",
+        "published_at": "2026-05-08T18:00",
+        "displayed_at": "08.05.2026 18:00",
+        "source_page": 17,
+        "date": "2026-05-08",
+        "weekday": 4,
+        "hour": 18,
+        "minute": 0,
+        "minute_of_day": 1080
+      },
+      {
+        "url": "https://exler.es/blog/paranoyya-progressiruyet.htm",
+        "title": "Паранойя прогрессирует",
+        "published_at": "2026-05-08T19:00",
+        "displayed_at": "08.05.2026 19:00",
+        "source_page": 17,
+        "date": "2026-05-08",
+        "weekday": 4,
+        "hour": 19,
+        "minute": 0,
+        "minute_of_day": 1140
+      },
+      {
+        "url": "https://exler.es/blog/tramp-obyavil-o-peremirii.htm",
+        "title": "Трамп объявил о перемирии",
+        "published_at": "2026-05-08T22:30",
+        "displayed_at": "08.05.2026 22:30",
+        "source_page": 17,
+        "date": "2026-05-08",
+        "weekday": 4,
+        "hour": 22,
+        "minute": 30,
+        "minute_of_day": 1350
+      }
+    ],
+    "comments_after_return_same_day": 6,
+    "return_severity": 1
+  },
+  {
+    "date": "2026-05-10",
+    "gap_minutes": 671,
+    "before": {
+      "commented_at": "2026-05-10T11:28",
+      "url": "https://exler.es/blog/comments/trump-mobile-i-zolotoy-telefonchik-v.htm#1n9gi",
+      "source_post_url": "https://exler.es/blog/trump-mobile-i-zolotoy-telefonchik-v.htm",
+      "post_title": "Trump Mobile и золотой телефончик - V",
+      "source_type": "live_html",
+      "anchor": "1n9gi"
+    },
+    "return": {
+      "commented_at": "2026-05-10T22:39",
+      "url": "https://exler.es/blog/comments/snl-svezhenkoye.htm#1n9ok",
+      "source_post_url": "https://exler.es/blog/snl-svezhenkoye.htm",
+      "post_title": "SNL - свеженькое",
+      "source_type": "live_html",
+      "anchor": "1n9ok"
+    },
+    "posts_in_gap": 1,
+    "grid_posts_in_gap": 1,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/snl-svezhenkoye.htm",
+        "title": "SNL - свеженькое",
+        "published_at": "2026-05-10T18:20",
+        "displayed_at": "10.05.2026 18:20",
+        "source_page": 16,
+        "date": "2026-05-10",
+        "weekday": 6,
+        "hour": 18,
+        "minute": 20,
+        "minute_of_day": 1100
+      }
+    ],
+    "comments_after_return_same_day": 2,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-05-11",
+    "gap_minutes": 426,
+    "before": {
+      "commented_at": "2026-05-11T11:27",
+      "url": "https://exler.es/films/comments/vot-eto-drama.htm#1n9ui",
+      "source_post_url": "https://exler.es/films/vot-eto-drama.htm",
+      "post_title": "Кинорецензии | Вот это драма! | Драма",
+      "source_type": "live_html",
+      "anchor": "1n9ui"
+    },
+    "return": {
+      "commented_at": "2026-05-11T18:33",
+      "url": "https://exler.es/blog/comments/parusnik-i-volnorez.htm#1na2m",
+      "source_post_url": "https://exler.es/blog/parusnik-i-volnorez.htm",
+      "post_title": "Парусник и волнорез",
+      "source_type": "live_html",
+      "anchor": "1na2m"
+    },
+    "posts_in_gap": 2,
+    "grid_posts_in_gap": 2,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/khantavirus-chto-izvestno.htm",
+        "title": "Хантавирус - что известно",
+        "published_at": "2026-05-11T12:00",
+        "displayed_at": "11.05.2026 12:00",
+        "source_page": 16,
+        "date": "2026-05-11",
+        "weekday": 0,
+        "hour": 12,
+        "minute": 0,
+        "minute_of_day": 720
+      },
+      {
+        "url": "https://exler.es/blog/ivan-zhdanov-u-iriny-shikhman.htm",
+        "title": "Иван Жданов у Ирины Шихман",
+        "published_at": "2026-05-11T17:40",
+        "displayed_at": "11.05.2026 17:40",
+        "source_page": 16,
+        "date": "2026-05-11",
+        "weekday": 0,
+        "hour": 17,
+        "minute": 40,
+        "minute_of_day": 1060
+      }
+    ],
+    "comments_after_return_same_day": 1,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-05-12",
+    "gap_minutes": 227,
+    "before": {
+      "commented_at": "2026-05-12T18:35",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-xiaomi-15t-pro-on-ochen-horosh.htm#1napr",
+      "source_post_url": "https://exler.es/expromt/obzor-smartfona-xiaomi-15t-pro-on-ochen-horosh.htm",
+      "post_title": "Обзоры | Обзор смартфона Xiaomi 15T Pro - он очень хорош!",
+      "source_type": "live_html",
+      "anchor": "1napr"
+    },
+    "return": {
+      "commented_at": "2026-05-12T22:22",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-xiaomi-15t-pro-on-ochen-horosh.htm#1nasi",
+      "source_post_url": "https://exler.es/expromt/obzor-smartfona-xiaomi-15t-pro-on-ochen-horosh.htm",
+      "post_title": "Обзоры | Обзор смартфона Xiaomi 15T Pro - он очень хорош!",
+      "source_type": "live_html",
+      "anchor": "1nasi"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 9,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-05-14",
+    "gap_minutes": 439,
+    "before": {
+      "commented_at": "2026-05-14T15:05",
+      "url": "https://exler.es/blog/comments/ministerstvo-yustitsii-ssha-i-ice.htm#1nbor",
+      "source_post_url": "https://exler.es/blog/ministerstvo-yustitsii-ssha-i-ice.htm",
+      "post_title": "Министерство юстиции США и ICE",
+      "source_type": "live_html",
+      "anchor": "1nbor"
+    },
+    "return": {
+      "commented_at": "2026-05-14T22:24",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-xiaomi-15t-pro-on-ochen-horosh.htm#1nbxk",
+      "source_post_url": "https://exler.es/expromt/obzor-smartfona-xiaomi-15t-pro-on-ochen-horosh.htm",
+      "post_title": "Обзоры | Обзор смартфона Xiaomi 15T Pro - он очень хорош!",
+      "source_type": "live_html",
+      "anchor": "1nbxk"
+    },
+    "posts_in_gap": 1,
+    "grid_posts_in_gap": 1,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/talantlivyye-lyudi-bystro-nakhodyat-otvety.htm",
+        "title": "Талантливые люди быстро находят ответы",
+        "published_at": "2026-05-14T15:40",
+        "displayed_at": "14.05.2026 15:40",
+        "source_page": 16,
+        "date": "2026-05-14",
+        "weekday": 3,
+        "hour": 15,
+        "minute": 40,
+        "minute_of_day": 940
+      }
+    ],
+    "comments_after_return_same_day": 1,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-05-16",
+    "gap_minutes": 367,
+    "before": {
+      "commented_at": "2026-05-16T12:44",
+      "url": "https://exler.es/blog/comments/film-karatel-posledneye-ubiystvo.htm#1ncj0",
+      "source_post_url": "https://exler.es/blog/film-karatel-posledneye-ubiystvo.htm",
+      "post_title": "Фильм \"Каратель: Последнее убийство\"",
+      "source_type": "live_html",
+      "anchor": "1ncj0"
+    },
+    "return": {
+      "commented_at": "2026-05-16T18:51",
+      "url": "https://exler.es/blog/comments/film-karatel-posledneye-ubiystvo.htm#1ncrg",
+      "source_post_url": "https://exler.es/blog/film-karatel-posledneye-ubiystvo.htm",
+      "post_title": "Фильм \"Каратель: Последнее убийство\"",
+      "source_type": "live_html",
+      "anchor": "1ncrg"
+    },
+    "posts_in_gap": 3,
+    "grid_posts_in_gap": 3,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/izrail-na-yevrovidenii.htm",
+        "title": "Израиль на \"Евровидении\"",
+        "published_at": "2026-05-16T13:00",
+        "displayed_at": "16.05.2026 13:00",
+        "source_page": 16,
+        "date": "2026-05-16",
+        "weekday": 5,
+        "hour": 13,
+        "minute": 0,
+        "minute_of_day": 780
+      },
+      {
+        "url": "https://exler.es/blog/rossiyskiy-patsifist.htm",
+        "title": "Российский пацифист",
+        "published_at": "2026-05-16T15:00",
+        "displayed_at": "16.05.2026 15:00",
+        "source_page": 16,
+        "date": "2026-05-16",
+        "weekday": 5,
+        "hour": 15,
+        "minute": 0,
+        "minute_of_day": 900
+      },
+      {
+        "url": "https://exler.es/blog/tramp-slivayet-tayvan.htm",
+        "title": "Трамп сливает Тайвань?",
+        "published_at": "2026-05-16T17:00",
+        "displayed_at": "16.05.2026 17:00",
+        "source_page": 16,
+        "date": "2026-05-16",
+        "weekday": 5,
+        "hour": 17,
+        "minute": 0,
+        "minute_of_day": 1020
+      }
+    ],
+    "comments_after_return_same_day": 2,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-05-17",
+    "gap_minutes": 185,
+    "before": {
+      "commented_at": "2026-05-17T18:59",
+      "url": "https://exler.es/blog/comments/paul-mccartney-band-on-the-run-snl.htm#1nd97",
+      "source_post_url": "https://exler.es/blog/paul-mccartney-band-on-the-run-snl.htm",
+      "post_title": "Paul McCartney: Band on the Run - SNL",
+      "source_type": "live_html",
+      "anchor": "1nd97"
+    },
+    "return": {
+      "commented_at": "2026-05-17T22:04",
+      "url": "https://exler.es/blog/comments/film-karatel-posledneye-ubiystvo.htm#1ndbd",
+      "source_post_url": "https://exler.es/blog/film-karatel-posledneye-ubiystvo.htm",
+      "post_title": "Фильм \"Каратель: Последнее убийство\"",
+      "source_type": "live_html",
+      "anchor": "1ndbd"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 9,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-05-18",
+    "gap_minutes": 630,
+    "before": {
+      "commented_at": "2026-05-18T12:01",
+      "url": "https://exler.es/blog/comments/prodolzhayetsya-zapis-v-nash-oktyabrskiy-tur-po-burgundii-2.htm#1ndjt",
+      "source_post_url": "https://exler.es/blog/prodolzhayetsya-zapis-v-nash-oktyabrskiy-tur-po-burgundii-2.htm",
+      "post_title": "Продолжается запись в наш октябрьский тур по Бургундии",
+      "source_type": "live_html",
+      "anchor": "1ndjt"
+    },
+    "return": {
+      "commented_at": "2026-05-18T22:31",
+      "url": "https://exler.es/blog/comments/ne-mozhet-byt-2.htm#1ne0r",
+      "source_post_url": "https://exler.es/blog/ne-mozhet-byt-2.htm",
+      "post_title": "Не может быть!",
+      "source_type": "live_html",
+      "anchor": "1ne0r"
+    },
+    "posts_in_gap": 3,
+    "grid_posts_in_gap": 3,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/robot-menyayet-shiny-ne-snimaya-koles.htm",
+        "title": "Робот меняет шины не снимая колес",
+        "published_at": "2026-05-18T12:30",
+        "displayed_at": "18.05.2026 12:30",
+        "source_page": 15,
+        "date": "2026-05-18",
+        "weekday": 0,
+        "hour": 12,
+        "minute": 30,
+        "minute_of_day": 750
+      },
+      {
+        "url": "https://exler.es/blog/zachem-osvobozhdali.htm",
+        "title": "Зачем \"освобождали\"",
+        "published_at": "2026-05-18T17:10",
+        "displayed_at": "18.05.2026 17:10",
+        "source_page": 15,
+        "date": "2026-05-18",
+        "weekday": 0,
+        "hour": 17,
+        "minute": 10,
+        "minute_of_day": 1030
+      },
+      {
+        "url": "https://exler.es/blog/ne-mozhet-byt-2.htm",
+        "title": "Не может быть!",
+        "published_at": "2026-05-18T18:30",
+        "displayed_at": "18.05.2026 18:30",
+        "source_page": 15,
+        "date": "2026-05-18",
+        "weekday": 0,
+        "hour": 18,
+        "minute": 30,
+        "minute_of_day": 1110
+      }
+    ],
+    "comments_after_return_same_day": 1,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-05-19",
+    "gap_minutes": 325,
+    "before": {
+      "commented_at": "2026-05-19T12:39",
+      "url": "https://exler.es/blog/comments/syna-pogibshego-isaka-mandika-zaderzhali-v-ispanii.htm#1ne91",
+      "source_post_url": "https://exler.es/blog/syna-pogibshego-isaka-mandika-zaderzhali-v-ispanii.htm",
+      "post_title": "Сына погибшего Исака Андика задержали в Испании",
+      "source_type": "live_html",
+      "anchor": "1ne91"
+    },
+    "return": {
+      "commented_at": "2026-05-19T18:04",
+      "url": "https://exler.es/blog/comments/paul-mccartney-band-on-the-run-snl.htm#1nedk",
+      "source_post_url": "https://exler.es/blog/paul-mccartney-band-on-the-run-snl.htm",
+      "post_title": "Paul McCartney: Band on the Run - SNL",
+      "source_type": "live_html",
+      "anchor": "1nedk"
+    },
+    "posts_in_gap": 2,
+    "grid_posts_in_gap": 1,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/expromt/obzor-umnyh-chasov-huawei-watch-fit-5.htm",
+        "title": "Обзоры | Обзор умных часов Huawei Watch FIT 5",
+        "published_at": "2026-05-19T12:57",
+        "displayed_at": "19.05.2026 12:57",
+        "source_page": 15,
+        "date": "2026-05-19",
+        "weekday": 1,
+        "hour": 12,
+        "minute": 57,
+        "minute_of_day": 777
+      },
+      {
+        "url": "https://exler.es/blog/karikatura-ot-chatgpt.htm",
+        "title": "Карикатура от ChatGPT",
+        "published_at": "2026-05-19T15:00",
+        "displayed_at": "19.05.2026 15:00",
+        "source_page": 15,
+        "date": "2026-05-19",
+        "weekday": 1,
+        "hour": 15,
+        "minute": 0,
+        "minute_of_day": 900
+      }
+    ],
+    "comments_after_return_same_day": 1,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-05-20",
+    "gap_minutes": 420,
+    "before": {
+      "commented_at": "2026-05-20T11:17",
+      "url": "https://exler.es/blog/comments/gryadushchaya-wear-os-7.htm#1nej8",
+      "source_post_url": "https://exler.es/blog/gryadushchaya-wear-os-7.htm",
+      "post_title": "Грядущая Wear OS 7",
+      "source_type": "live_html",
+      "anchor": "1nej8"
+    },
+    "return": {
+      "commented_at": "2026-05-20T18:17",
+      "url": "https://exler.es/expromt/comments/obzor-umnyh-chasov-huawei-watch-fit-5.htm#1neqe",
+      "source_post_url": "https://exler.es/expromt/obzor-umnyh-chasov-huawei-watch-fit-5.htm",
+      "post_title": "Обзоры | Обзор умных часов Huawei Watch FIT 5",
+      "source_type": "live_html",
+      "anchor": "1neqe"
+    },
+    "posts_in_gap": 2,
+    "grid_posts_in_gap": 2,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/test-subyektivnogo-vozrasta.htm",
+        "title": "Тест субъективного возраста",
+        "published_at": "2026-05-20T12:00",
+        "displayed_at": "20.05.2026 12:00",
+        "source_page": 15,
+        "date": "2026-05-20",
+        "weekday": 2,
+        "hour": 12,
+        "minute": 0,
+        "minute_of_day": 720
+      },
+      {
+        "url": "https://exler.es/blog/triumtrampova-arka.htm",
+        "title": "Триумтрампова арка",
+        "published_at": "2026-05-20T13:00",
+        "displayed_at": "20.05.2026 13:00",
+        "source_page": 15,
+        "date": "2026-05-20",
+        "weekday": 2,
+        "hour": 13,
+        "minute": 0,
+        "minute_of_day": 780
+      }
+    ],
+    "comments_after_return_same_day": 3,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-05-21",
+    "gap_minutes": 187,
+    "before": {
+      "commented_at": "2026-05-21T16:52",
+      "url": "https://exler.es/blog/comments/monastyr-san-migel-del-fay.htm#1nf51",
+      "source_post_url": "https://exler.es/blog/monastyr-san-migel-del-fay.htm",
+      "post_title": "Монастырь Сан-Мигель-дель-Фай",
+      "source_type": "live_html",
+      "anchor": "1nf51"
+    },
+    "return": {
+      "commented_at": "2026-05-21T19:59",
+      "url": "https://exler.es/blog/comments/monastyr-san-migel-del-fay.htm#1nf6v",
+      "source_post_url": "https://exler.es/blog/monastyr-san-migel-del-fay.htm",
+      "post_title": "Монастырь Сан-Мигель-дель-Фай",
+      "source_type": "live_html",
+      "anchor": "1nf6v"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 4,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-05-21",
+    "gap_minutes": 196,
+    "before": {
+      "commented_at": "2026-05-21T19:59",
+      "url": "https://exler.es/blog/comments/monastyr-san-migel-del-fay.htm#1nf6v",
+      "source_post_url": "https://exler.es/blog/monastyr-san-migel-del-fay.htm",
+      "post_title": "Монастырь Сан-Мигель-дель-Фай",
+      "source_type": "live_html",
+      "anchor": "1nf6v"
+    },
+    "return": {
+      "commented_at": "2026-05-21T23:15",
+      "url": "https://exler.es/blog/comments/monastyr-san-migel-del-fay.htm#1nf8q",
+      "source_post_url": "https://exler.es/blog/monastyr-san-migel-del-fay.htm",
+      "post_title": "Монастырь Сан-Мигель-дель-Фай",
+      "source_type": "live_html",
+      "anchor": "1nf8q"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 3,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-05-22",
+    "gap_minutes": 320,
+    "before": {
+      "commented_at": "2026-05-22T17:56",
+      "url": "https://exler.es/blog/comments/monastyr-san-migel-del-fay.htm#1nfm9",
+      "source_post_url": "https://exler.es/blog/monastyr-san-migel-del-fay.htm",
+      "post_title": "Монастырь Сан-Мигель-дель-Фай",
+      "source_type": "live_html",
+      "anchor": "1nfm9"
+    },
+    "return": {
+      "commented_at": "2026-05-22T23:16",
+      "url": "https://exler.es/blog/comments/monastyr-san-migel-del-fay.htm#1nfrk",
+      "source_post_url": "https://exler.es/blog/monastyr-san-migel-del-fay.htm",
+      "post_title": "Монастырь Сан-Мигель-дель-Фай",
+      "source_type": "live_html",
+      "anchor": "1nfrk"
+    },
+    "posts_in_gap": 1,
+    "grid_posts_in_gap": 1,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/pyatnishnaya-pesenka-460.htm",
+        "title": "Пятнишная песенка",
+        "published_at": "2026-05-22T18:00",
+        "displayed_at": "22.05.2026 18:00",
+        "source_page": 15,
+        "date": "2026-05-22",
+        "weekday": 4,
+        "hour": 18,
+        "minute": 0,
+        "minute_of_day": 1080
+      }
+    ],
+    "comments_after_return_same_day": 1,
+    "return_severity": 1
+  },
+  {
+    "date": "2026-05-23",
+    "gap_minutes": 640,
+    "before": {
+      "commented_at": "2026-05-23T09:14",
+      "url": "https://exler.es/blog/comments/monastyr-san-migel-del-fay.htm#1nfua",
+      "source_post_url": "https://exler.es/blog/monastyr-san-migel-del-fay.htm",
+      "post_title": "Монастырь Сан-Мигель-дель-Фай",
+      "source_type": "live_html",
+      "anchor": "1nfua"
+    },
+    "return": {
+      "commented_at": "2026-05-23T19:54",
+      "url": "https://exler.es/blog/comments/bryus-springstin-u-stivena-kolbera.htm#1ng27",
+      "source_post_url": "https://exler.es/blog/bryus-springstin-u-stivena-kolbera.htm",
+      "post_title": "Брюс Спрингстин у Стивена Кольбера",
+      "source_type": "live_html",
+      "anchor": "1ng27"
+    },
+    "posts_in_gap": 7,
+    "grid_posts_in_gap": 7,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/avtovaz-vygonit-kitayskiye-avtomobili.htm",
+        "title": "АвтоВАЗ выгонит китайские автомобили?",
+        "published_at": "2026-05-23T09:30",
+        "displayed_at": "23.05.2026 09:30",
+        "source_page": 15,
+        "date": "2026-05-23",
+        "weekday": 5,
+        "hour": 9,
+        "minute": 30,
+        "minute_of_day": 570
+      },
+      {
+        "url": "https://exler.es/blog/plokhiye-novosti-iz-maloy-tokmachki.htm",
+        "title": "Плохие новости из Малой Токмачки",
+        "published_at": "2026-05-23T10:00",
+        "displayed_at": "23.05.2026 10:00",
+        "source_page": 15,
+        "date": "2026-05-23",
+        "weekday": 5,
+        "hour": 10,
+        "minute": 0,
+        "minute_of_day": 600
+      },
+      {
+        "url": "https://exler.es/blog/bryus-springstin-u-stivena-kolbera.htm",
+        "title": "Брюс Спрингстин у Стивена Кольбера",
+        "published_at": "2026-05-23T11:00",
+        "displayed_at": "23.05.2026 11:00",
+        "source_page": 15,
+        "date": "2026-05-23",
+        "weekday": 5,
+        "hour": 11,
+        "minute": 0,
+        "minute_of_day": 660
+      },
+      {
+        "url": "https://exler.es/blog/kak-mordor-budet-grabit-relokantov.htm",
+        "title": "Как Мордор будет грабить релокантов",
+        "published_at": "2026-05-23T12:00",
+        "displayed_at": "23.05.2026 12:00",
+        "source_page": 15,
+        "date": "2026-05-23",
+        "weekday": 5,
+        "hour": 12,
+        "minute": 0,
+        "minute_of_day": 720
+      },
+      {
+        "url": "https://exler.es/blog/nepatsanskiye-perevody-aristotelya.htm",
+        "title": "Непацанские переводы Аристотеля",
+        "published_at": "2026-05-23T13:00",
+        "displayed_at": "23.05.2026 13:00",
+        "source_page": 15,
+        "date": "2026-05-23",
+        "weekday": 5,
+        "hour": 13,
+        "minute": 0,
+        "minute_of_day": 780
+      },
+      {
+        "url": "https://exler.es/blog/o-russkoy-punktuatsii.htm",
+        "title": "О русской пунктуации",
+        "published_at": "2026-05-23T14:00",
+        "displayed_at": "23.05.2026 14:00",
+        "source_page": 15,
+        "date": "2026-05-23",
+        "weekday": 5,
+        "hour": 14,
+        "minute": 0,
+        "minute_of_day": 840
+      },
+      {
+        "url": "https://exler.es/blog/kak-sozdayetsya-film-s-pomoshchyu-ii.htm",
+        "title": "Как создается фильм с помощью ИИ",
+        "published_at": "2026-05-23T16:00",
+        "displayed_at": "23.05.2026 16:00",
+        "source_page": 15,
+        "date": "2026-05-23",
+        "weekday": 5,
+        "hour": 16,
+        "minute": 0,
+        "minute_of_day": 960
+      }
+    ],
+    "comments_after_return_same_day": 1,
+    "return_severity": 2
+  },
+  {
+    "date": "2026-05-26",
+    "gap_minutes": 358,
+    "before": {
+      "commented_at": "2026-05-26T12:28",
+      "url": "https://exler.es/blog/comments/stsenka-v-magazine.htm#1nhan",
+      "source_post_url": "https://exler.es/blog/stsenka-v-magazine.htm",
+      "post_title": "Сценка в магазине",
+      "source_type": "live_html",
+      "anchor": "1nhan"
+    },
+    "return": {
+      "commented_at": "2026-05-26T18:26",
+      "url": "https://exler.es/blog/comments/samyy-luchshiy-don.htm#1nhib",
+      "source_post_url": "https://exler.es/blog/samyy-luchshiy-don.htm",
+      "post_title": "Самый лучший, дон",
+      "source_type": "live_html",
+      "anchor": "1nhib"
+    },
+    "posts_in_gap": 3,
+    "grid_posts_in_gap": 2,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/likbez/reversivnaya-zaryadka-chto-eto-takoe.htm",
+        "title": "Ликбез | Реверсивная зарядка - что это такое",
+        "published_at": "2026-05-26T12:31",
+        "displayed_at": "26.05.2026 12:31",
+        "source_page": 14,
+        "date": "2026-05-26",
+        "weekday": 1,
+        "hour": 12,
+        "minute": 31,
+        "minute_of_day": 751
+      },
+      {
+        "url": "https://exler.es/blog/kogda-nachnut-vedm-szhigat.htm",
+        "title": "Когда начнут ведьм сжигать?",
+        "published_at": "2026-05-26T16:40",
+        "displayed_at": "26.05.2026 16:40",
+        "source_page": 14,
+        "date": "2026-05-26",
+        "weekday": 1,
+        "hour": 16,
+        "minute": 40,
+        "minute_of_day": 1000
+      },
+      {
+        "url": "https://exler.es/blog/samyy-luchshiy-don.htm",
+        "title": "Самый лучший, дон",
+        "published_at": "2026-05-26T17:00",
+        "displayed_at": "26.05.2026 17:00",
+        "source_page": 14,
+        "date": "2026-05-26",
+        "weekday": 1,
+        "hour": 17,
+        "minute": 0,
+        "minute_of_day": 1020
+      }
+    ],
+    "comments_after_return_same_day": 4,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-05-26",
+    "gap_minutes": 230,
+    "before": {
+      "commented_at": "2026-05-26T18:26",
+      "url": "https://exler.es/blog/comments/samyy-luchshiy-don.htm#1nhib",
+      "source_post_url": "https://exler.es/blog/samyy-luchshiy-don.htm",
+      "post_title": "Самый лучший, дон",
+      "source_type": "live_html",
+      "anchor": "1nhib"
+    },
+    "return": {
+      "commented_at": "2026-05-26T22:16",
+      "url": "https://exler.es/blog/comments/samyy-luchshiy-don.htm#1nhm8",
+      "source_post_url": "https://exler.es/blog/samyy-luchshiy-don.htm",
+      "post_title": "Самый лучший, дон",
+      "source_type": "live_html",
+      "anchor": "1nhm8"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 3,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-05-28",
+    "gap_minutes": 474,
+    "before": {
+      "commented_at": "2026-05-28T15:13",
+      "url": "https://exler.es/blog/comments/reshili-ne-otstranyat.htm#1niid",
+      "source_post_url": "https://exler.es/blog/reshili-ne-otstranyat.htm",
+      "post_title": "Решили не отстранять",
+      "source_type": "live_html",
+      "anchor": "1niid"
+    },
+    "return": {
+      "commented_at": "2026-05-28T23:07",
+      "url": "https://exler.es/films/comments/na-vershine.htm#1niql",
+      "source_post_url": "https://exler.es/films/na-vershine.htm",
+      "post_title": "Кинорецензии | На вершине | Триллер",
+      "source_type": "live_html",
+      "anchor": "1niql"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 1,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-05-30",
+    "gap_minutes": 672,
+    "before": {
+      "commented_at": "2026-05-30T11:32",
+      "url": "https://exler.es/blog/comments/prilozheniye-dlya-otslezhivaniya-khrapa.htm#1njd8",
+      "source_post_url": "https://exler.es/blog/prilozheniye-dlya-otslezhivaniya-khrapa.htm",
+      "post_title": "Приложение для отслеживания храпа",
+      "source_type": "live_html",
+      "anchor": "1njd8"
+    },
+    "return": {
+      "commented_at": "2026-05-30T22:44",
+      "url": "https://exler.es/blog/comments/kak-nam-nuzhna-seychas.htm#1njly",
+      "source_post_url": "https://exler.es/blog/kak-nam-nuzhna-seychas.htm",
+      "post_title": "Как нам нужна сейчас",
+      "source_type": "live_html",
+      "anchor": "1njly"
+    },
+    "posts_in_gap": 4,
+    "grid_posts_in_gap": 4,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/monitor-iz-klaviatur.htm",
+        "title": "Монитор из клавиатур",
+        "published_at": "2026-05-30T12:00",
+        "displayed_at": "30.05.2026 12:00",
+        "source_page": 14,
+        "date": "2026-05-30",
+        "weekday": 5,
+        "hour": 12,
+        "minute": 0,
+        "minute_of_day": 720
+      },
+      {
+        "url": "https://exler.es/blog/kto-iz-the-beatles-bolshe-vsego-nravilsya-polu.htm",
+        "title": "Кто из The Beatles больше всего нравился Полу",
+        "published_at": "2026-05-30T15:00",
+        "displayed_at": "30.05.2026 15:00",
+        "source_page": 14,
+        "date": "2026-05-30",
+        "weekday": 5,
+        "hour": 15,
+        "minute": 0,
+        "minute_of_day": 900
+      },
+      {
+        "url": "https://exler.es/blog/samaya-glavnaya-zvezda-v-mire.htm",
+        "title": "Самая главная звезда в мире",
+        "published_at": "2026-05-30T19:00",
+        "displayed_at": "30.05.2026 19:00",
+        "source_page": 14,
+        "date": "2026-05-30",
+        "weekday": 5,
+        "hour": 19,
+        "minute": 0,
+        "minute_of_day": 1140
+      },
+      {
+        "url": "https://exler.es/blog/kak-nam-nuzhna-seychas.htm",
+        "title": "Как нам нужна сейчас",
+        "published_at": "2026-05-30T22:30",
+        "displayed_at": "30.05.2026 22:30",
+        "source_page": 14,
+        "date": "2026-05-30",
+        "weekday": 5,
+        "hour": 22,
+        "minute": 30,
+        "minute_of_day": 1350
+      }
+    ],
+    "comments_after_return_same_day": 2,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-06-04",
+    "gap_minutes": 359,
+    "before": {
+      "commented_at": "2026-06-04T12:06",
+      "url": "https://exler.es/films/comments/neobychajno-umnye-sozdaniya.htm#1nlo6",
+      "source_post_url": "https://exler.es/films/neobychajno-umnye-sozdaniya.htm",
+      "post_title": "Кинорецензии | Необычайно умные создания | Мелодрама",
+      "source_type": "live_html",
+      "anchor": "1nlo6"
+    },
+    "return": {
+      "commented_at": "2026-06-04T18:05",
+      "url": "https://exler.es/blog/comments/pravilnyye-skazki.htm#1nly5",
+      "source_post_url": "https://exler.es/blog/pravilnyye-skazki.htm",
+      "post_title": "Правильные сказки",
+      "source_type": "live_html",
+      "anchor": "1nly5"
+    },
+    "posts_in_gap": 2,
+    "grid_posts_in_gap": 2,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/kak-na-tonenkiy-ledok-vypal-belenkiy-snezhok.htm",
+        "title": "Как на тоненький ледок выпал беленький снежок",
+        "published_at": "2026-06-04T12:30",
+        "displayed_at": "04.06.2026 12:30",
+        "source_page": 13,
+        "date": "2026-06-04",
+        "weekday": 3,
+        "hour": 12,
+        "minute": 30,
+        "minute_of_day": 750
+      },
+      {
+        "url": "https://exler.es/blog/intelligentnaya-moskvichka.htm",
+        "title": "Интеллигентная москвичка",
+        "published_at": "2026-06-04T14:00",
+        "displayed_at": "04.06.2026 14:00",
+        "source_page": 13,
+        "date": "2026-06-04",
+        "weekday": 3,
+        "hour": 14,
+        "minute": 0,
+        "minute_of_day": 840
+      }
+    ],
+    "comments_after_return_same_day": 11,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-06-04",
+    "gap_minutes": 260,
+    "before": {
+      "commented_at": "2026-06-04T18:05",
+      "url": "https://exler.es/blog/comments/pravilnyye-skazki.htm#1nly5",
+      "source_post_url": "https://exler.es/blog/pravilnyye-skazki.htm",
+      "post_title": "Правильные сказки",
+      "source_type": "live_html",
+      "anchor": "1nly5"
+    },
+    "return": {
+      "commented_at": "2026-06-04T22:25",
+      "url": "https://exler.es/blog/comments/pravilnyye-skazki.htm#1nm27",
+      "source_post_url": "https://exler.es/blog/pravilnyye-skazki.htm",
+      "post_title": "Правильные сказки",
+      "source_type": "live_html",
+      "anchor": "1nm27"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 10,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-06-06",
+    "gap_minutes": 340,
+    "before": {
+      "commented_at": "2026-06-06T13:06",
+      "url": "https://exler.es/blog/comments/novaya-kollektsiya-ayfonov-ot-caviar.htm#1nmu9",
+      "source_post_url": "https://exler.es/blog/novaya-kollektsiya-ayfonov-ot-caviar.htm",
+      "post_title": "Новая коллекция айфонов от Caviar",
+      "source_type": "live_html",
+      "anchor": "1nmu9"
+    },
+    "return": {
+      "commented_at": "2026-06-06T18:46",
+      "url": "https://exler.es/blog/comments/u-latyninoy-yest-ideya.htm#1nmy1",
+      "source_post_url": "https://exler.es/blog/u-latyninoy-yest-ideya.htm",
+      "post_title": "У Латыниной есть идея",
+      "source_type": "live_html",
+      "anchor": "1nmy1"
+    },
+    "posts_in_gap": 1,
+    "grid_posts_in_gap": 1,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/u-latyninoy-yest-ideya.htm",
+        "title": "У Латыниной есть идея",
+        "published_at": "2026-06-06T17:30",
+        "displayed_at": "06.06.2026 17:30",
+        "source_page": 13,
+        "date": "2026-06-06",
+        "weekday": 5,
+        "hour": 17,
+        "minute": 30,
+        "minute_of_day": 1050
+      }
+    ],
+    "comments_after_return_same_day": 1,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-06-07",
+    "gap_minutes": 373,
+    "before": {
+      "commented_at": "2026-06-07T13:07",
+      "url": "https://exler.es/films/comments/kristofery.htm#1nn8o",
+      "source_post_url": "https://exler.es/films/kristofery.htm",
+      "post_title": "Кинорецензии | Кристоферы | Драмеди",
+      "source_type": "live_html",
+      "anchor": "1nn8o"
+    },
+    "return": {
+      "commented_at": "2026-06-07T19:20",
+      "url": "https://exler.es/blog/comments/prodolzhayetsya-zapis-v-nash-sentyabrskiy-tur-po-pyemontu-4.htm#1nndn",
+      "source_post_url": "https://exler.es/blog/prodolzhayetsya-zapis-v-nash-sentyabrskiy-tur-po-pyemontu-4.htm",
+      "post_title": "Продолжается запись в наш сентябрьский тур по Пьемонту",
+      "source_type": "live_html",
+      "anchor": "1nndn"
+    },
+    "posts_in_gap": 1,
+    "grid_posts_in_gap": 1,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/on-russkiy-i-eto-mnogoye.htm",
+        "title": "Он - русский, и это многое",
+        "published_at": "2026-06-07T14:30",
+        "displayed_at": "07.06.2026 14:30",
+        "source_page": 13,
+        "date": "2026-06-07",
+        "weekday": 6,
+        "hour": 14,
+        "minute": 30,
+        "minute_of_day": 870
+      }
+    ],
+    "comments_after_return_same_day": 2,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-06-09",
+    "gap_minutes": 500,
+    "before": {
+      "commented_at": "2026-06-09T14:02",
+      "url": "https://exler.es/blog/priyekhal-poco-x8-pro.htm#1no6a",
+      "source_post_url": "https://exler.es/blog/priyekhal-poco-x8-pro.htm",
+      "post_title": "Приехал POCO X8 Pro",
+      "source_type": "archive_metadata_only",
+      "anchor": "1no6a"
+    },
+    "return": {
+      "commented_at": "2026-06-09T22:22",
+      "url": "https://exler.es/blog/comments/priyekhal-poco-x8-pro.htm#1noek",
+      "source_post_url": "https://exler.es/blog/priyekhal-poco-x8-pro.htm",
+      "post_title": "Приехал POCO X8 Pro",
+      "source_type": "live_html",
+      "anchor": "1noek"
+    },
+    "posts_in_gap": 1,
+    "grid_posts_in_gap": 1,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/deputat-zaksobraniya-pitera.htm",
+        "title": "Депутат Заксобрания Питера",
+        "published_at": "2026-06-09T19:10",
+        "displayed_at": "09.06.2026 19:10",
+        "source_page": 12,
+        "date": "2026-06-09",
+        "weekday": 1,
+        "hour": 19,
+        "minute": 10,
+        "minute_of_day": 1150
+      }
+    ],
+    "comments_after_return_same_day": 6,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-06-10",
+    "gap_minutes": 201,
+    "before": {
+      "commented_at": "2026-06-10T19:53",
+      "url": "https://exler.es/blog/comments/mini-retsenzii-vypusk-2.htm#1nosu",
+      "source_post_url": "https://exler.es/blog/mini-retsenzii-vypusk-2.htm",
+      "post_title": "Мини-рецензии (выпуск 2)",
+      "source_type": "live_html",
+      "anchor": "1nosu"
+    },
+    "return": {
+      "commented_at": "2026-06-10T23:14",
+      "url": "https://exler.es/films/comments/ograblenie-londona.htm#1nowb",
+      "source_post_url": "https://exler.es/films/ograblenie-londona.htm",
+      "post_title": "Кинорецензии | Ограбить Лондон | Криминальный триллер",
+      "source_type": "live_html",
+      "anchor": "1nowb"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 3,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-06-11",
+    "gap_minutes": 691,
+    "before": {
+      "commented_at": "2026-06-11T10:39",
+      "url": "https://exler.es/blog/comments/uzhe-film-snyali.htm#1np1b",
+      "source_post_url": "https://exler.es/blog/uzhe-film-snyali.htm",
+      "post_title": "Уже фильм сняли",
+      "source_type": "live_html",
+      "anchor": "1np1b"
+    },
+    "return": {
+      "commented_at": "2026-06-11T22:10",
+      "url": "https://exler.es/blog/comments/pyatnishnaya-pesenka-463.htm#1npfy",
+      "source_post_url": "https://exler.es/blog/pyatnishnaya-pesenka-463.htm",
+      "post_title": "Четверговая песенка",
+      "source_type": "live_html",
+      "anchor": "1npfy"
+    },
+    "posts_in_gap": 3,
+    "grid_posts_in_gap": 3,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/kak-pomer-stalin.htm",
+        "title": "Как помер Сталин",
+        "published_at": "2026-06-11T11:00",
+        "displayed_at": "11.06.2026 11:00",
+        "source_page": 12,
+        "date": "2026-06-11",
+        "weekday": 3,
+        "hour": 11,
+        "minute": 0,
+        "minute_of_day": 660
+      },
+      {
+        "url": "https://exler.es/blog/shtraf-v-zavisimosti-ot-dokhodov.htm",
+        "title": "Штраф в зависимости от доходов",
+        "published_at": "2026-06-11T13:00",
+        "displayed_at": "11.06.2026 13:00",
+        "source_page": 12,
+        "date": "2026-06-11",
+        "weekday": 3,
+        "hour": 13,
+        "minute": 0,
+        "minute_of_day": 780
+      },
+      {
+        "url": "https://exler.es/blog/pyatnishnaya-pesenka-463.htm",
+        "title": "Четверговая песенка",
+        "published_at": "2026-06-11T18:10",
+        "displayed_at": "11.06.2026 18:10",
+        "source_page": 12,
+        "date": "2026-06-11",
+        "weekday": 3,
+        "hour": 18,
+        "minute": 10,
+        "minute_of_day": 1090
+      }
+    ],
+    "comments_after_return_same_day": 1,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-06-12",
+    "gap_minutes": 394,
+    "before": {
+      "commented_at": "2026-06-12T12:29",
+      "url": "https://exler.es/blog/comments/150-let-estrella-damm.htm#1nppf",
+      "source_post_url": "https://exler.es/blog/150-let-estrella-damm.htm",
+      "post_title": "150 лет Estrella Damm",
+      "source_type": "live_html",
+      "anchor": "1nppf"
+    },
+    "return": {
+      "commented_at": "2026-06-12T19:03",
+      "url": "https://exler.es/blog/comments/vsemirnaya-istoriya-chast-1.htm#1nq1w",
+      "source_post_url": "https://exler.es/blog/vsemirnaya-istoriya-chast-1.htm",
+      "post_title": "Всемирная история, часть 1",
+      "source_type": "live_html",
+      "anchor": "1nq1w"
+    },
+    "posts_in_gap": 4,
+    "grid_posts_in_gap": 4,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/uzhasnaya-svadba.htm",
+        "title": "Ужасная свадьба",
+        "published_at": "2026-06-12T12:40",
+        "displayed_at": "12.06.2026 12:40",
+        "source_page": 12,
+        "date": "2026-06-12",
+        "weekday": 4,
+        "hour": 12,
+        "minute": 40,
+        "minute_of_day": 760
+      },
+      {
+        "url": "https://exler.es/blog/tass-upal-namochennyy.htm",
+        "title": "ТАСС упал намоченный",
+        "published_at": "2026-06-12T15:00",
+        "displayed_at": "12.06.2026 15:00",
+        "source_page": 12,
+        "date": "2026-06-12",
+        "weekday": 4,
+        "hour": 15,
+        "minute": 0,
+        "minute_of_day": 900
+      },
+      {
+        "url": "https://exler.es/blog/vsemirnaya-istoriya-chast-1.htm",
+        "title": "Всемирная история, часть 1",
+        "published_at": "2026-06-12T16:50",
+        "displayed_at": "12.06.2026 16:50",
+        "source_page": 12,
+        "date": "2026-06-12",
+        "weekday": 4,
+        "hour": 16,
+        "minute": 50,
+        "minute_of_day": 1010
+      },
+      {
+        "url": "https://exler.es/blog/pyatnishnaya-pesenka-464.htm",
+        "title": "Пятнишная песенка",
+        "published_at": "2026-06-12T18:00",
+        "displayed_at": "12.06.2026 18:00",
+        "source_page": 12,
+        "date": "2026-06-12",
+        "weekday": 4,
+        "hour": 18,
+        "minute": 0,
+        "minute_of_day": 1080
+      }
+    ],
+    "comments_after_return_same_day": 17,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-06-13",
+    "gap_minutes": 381,
+    "before": {
+      "commented_at": "2026-06-13T16:55",
+      "url": "https://exler.es/blog/comments/kazhdyy-vtoroy-rubl.htm#1nqhq",
+      "source_post_url": "https://exler.es/blog/kazhdyy-vtoroy-rubl.htm",
+      "post_title": "Каждый второй рубль",
+      "source_type": "live_html",
+      "anchor": "1nqhq"
+    },
+    "return": {
+      "commented_at": "2026-06-13T23:16",
+      "url": "https://exler.es/blog/comments/vsemirnaya-istoriya-chast-1.htm#1nqky",
+      "source_post_url": "https://exler.es/blog/vsemirnaya-istoriya-chast-1.htm",
+      "post_title": "Всемирная история, часть 1",
+      "source_type": "live_html",
+      "anchor": "1nqky"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 1,
+    "return_severity": 2
+  },
+  {
+    "date": "2026-06-15",
+    "gap_minutes": 330,
+    "before": {
+      "commented_at": "2026-06-15T13:34",
+      "url": "https://exler.es/blog/comments/dukh-ankoridzha-slegka-zavonyalsya.htm#1nr68",
+      "source_post_url": "https://exler.es/blog/dukh-ankoridzha-slegka-zavonyalsya.htm",
+      "post_title": "Дух Анкориджа слегка завонялся",
+      "source_type": "live_html",
+      "anchor": "1nr68"
+    },
+    "return": {
+      "commented_at": "2026-06-15T19:04",
+      "url": "https://exler.es/blog/comments/chto-to-goyda-pryam-sdulas.htm#1nrc8",
+      "source_post_url": "https://exler.es/blog/chto-to-goyda-pryam-sdulas.htm",
+      "post_title": "Что-то гойда прям сдулась",
+      "source_type": "live_html",
+      "anchor": "1nrc8"
+    },
+    "posts_in_gap": 2,
+    "grid_posts_in_gap": 2,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/chto-to-goyda-pryam-sdulas.htm",
+        "title": "Что-то гойда прям сдулась",
+        "published_at": "2026-06-15T17:40",
+        "displayed_at": "15.06.2026 17:40",
+        "source_page": 12,
+        "date": "2026-06-15",
+        "weekday": 0,
+        "hour": 17,
+        "minute": 40,
+        "minute_of_day": 1060
+      },
+      {
+        "url": "https://exler.es/blog/chto-zhe-oni-podpisali.htm",
+        "title": "Что же они подписали",
+        "published_at": "2026-06-15T18:00",
+        "displayed_at": "15.06.2026 18:00",
+        "source_page": 12,
+        "date": "2026-06-15",
+        "weekday": 0,
+        "hour": 18,
+        "minute": 0,
+        "minute_of_day": 1080
+      }
+    ],
+    "comments_after_return_same_day": 8,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-06-16",
+    "gap_minutes": 422,
+    "before": {
+      "commented_at": "2026-06-16T13:00",
+      "url": "https://exler.es/expromt/comments/smartfony-xiaomi-17t-i-17t-pro.htm#1nrp4",
+      "source_post_url": "https://exler.es/expromt/smartfony-xiaomi-17t-i-17t-pro.htm",
+      "post_title": "Обзоры | Сравнение смартфонов Xiaomi 17T и 17T Pro",
+      "source_type": "live_html",
+      "anchor": "1nrp4"
+    },
+    "return": {
+      "commented_at": "2026-06-16T20:02",
+      "url": "https://exler.es/expromt/comments/smartfony-xiaomi-17t-i-17t-pro.htm#1nry3",
+      "source_post_url": "https://exler.es/expromt/smartfony-xiaomi-17t-i-17t-pro.htm",
+      "post_title": "Обзоры | Сравнение смартфонов Xiaomi 17T и 17T Pro",
+      "source_type": "live_html",
+      "anchor": "1nry3"
+    },
+    "posts_in_gap": 1,
+    "grid_posts_in_gap": 1,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/ogranicheniya-nekritichnyye.htm",
+        "title": "Ограничения некритичные",
+        "published_at": "2026-06-16T16:30",
+        "displayed_at": "16.06.2026 16:30",
+        "source_page": 12,
+        "date": "2026-06-16",
+        "weekday": 1,
+        "hour": 16,
+        "minute": 30,
+        "minute_of_day": 990
+      }
+    ],
+    "comments_after_return_same_day": 5,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-06-24",
+    "gap_minutes": 370,
+    "before": {
+      "commented_at": "2026-06-24T13:34",
+      "url": "https://exler.es/blog/comments/otgulyali-na-ligo.htm#1nvhw",
+      "source_post_url": "https://exler.es/blog/otgulyali-na-ligo.htm",
+      "post_title": "Отгуляли на Лиго",
+      "source_type": "live_html",
+      "anchor": "1nvhw"
+    },
+    "return": {
+      "commented_at": "2026-06-24T19:44",
+      "url": "https://exler.es/blog/comments/otgulyali-na-ligo.htm#1nvmm",
+      "source_post_url": "https://exler.es/blog/otgulyali-na-ligo.htm",
+      "post_title": "Отгуляли на Лиго",
+      "source_type": "live_html",
+      "anchor": "1nvmm"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 1,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-06-29",
+    "gap_minutes": 348,
+    "before": {
+      "commented_at": "2026-06-29T12:23",
+      "url": "https://exler.es/blog/comments/ukraina-predlozhila-ne-obstrelivat-rossiyu.htm#1ny9y",
+      "source_post_url": "https://exler.es/blog/ukraina-predlozhila-ne-obstrelivat-rossiyu.htm",
+      "post_title": "Украина предложила не обстреливать Россию",
+      "source_type": "live_html",
+      "anchor": "1ny9y"
+    },
+    "return": {
+      "commented_at": "2026-06-29T18:11",
+      "url": "https://exler.es/blog/comments/premyera-minonov-i-monstrov.htm#1nyir",
+      "source_post_url": "https://exler.es/blog/premyera-minonov-i-monstrov.htm",
+      "post_title": "Премьера \"Миньонов и монстров\"",
+      "source_type": "live_html",
+      "anchor": "1nyir"
+    },
+    "posts_in_gap": 1,
+    "grid_posts_in_gap": 1,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/premyera-minonov-i-monstrov.htm",
+        "title": "Премьера \"Миньонов и монстров\"",
+        "published_at": "2026-06-29T14:00",
+        "displayed_at": "29.06.2026 14:00",
+        "source_page": 10,
+        "date": "2026-06-29",
+        "weekday": 0,
+        "hour": 14,
+        "minute": 0,
+        "minute_of_day": 840
+      }
+    ],
+    "comments_after_return_same_day": 2,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-06-29",
+    "gap_minutes": 306,
+    "before": {
+      "commented_at": "2026-06-29T18:11",
+      "url": "https://exler.es/blog/comments/premyera-minonov-i-monstrov.htm#1nyir",
+      "source_post_url": "https://exler.es/blog/premyera-minonov-i-monstrov.htm",
+      "post_title": "Премьера \"Миньонов и монстров\"",
+      "source_type": "live_html",
+      "anchor": "1nyir"
+    },
+    "return": {
+      "commented_at": "2026-06-29T23:17",
+      "url": "https://exler.es/films/comments/holostyak-v-italii.htm#1nypz",
+      "source_post_url": "https://exler.es/films/holostyak-v-italii.htm",
+      "post_title": "Кинорецензии | Холостяк в Италии | Ромком",
+      "source_type": "live_html",
+      "anchor": "1nypz"
+    },
+    "posts_in_gap": 1,
+    "grid_posts_in_gap": 1,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/gde-benzin-naglyadno.htm",
+        "title": "Где бензин - наглядно",
+        "published_at": "2026-06-29T18:20",
+        "displayed_at": "29.06.2026 18:20",
+        "source_page": 10,
+        "date": "2026-06-29",
+        "weekday": 0,
+        "hour": 18,
+        "minute": 20,
+        "minute_of_day": 1100
+      }
+    ],
+    "comments_after_return_same_day": 1,
+    "return_severity": 2
+  },
+  {
+    "date": "2026-06-30",
+    "gap_minutes": 261,
+    "before": {
+      "commented_at": "2026-06-30T18:39",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-poco-x8-pro.htm#1nz2y",
+      "source_post_url": "https://exler.es/expromt/obzor-smartfona-poco-x8-pro.htm",
+      "post_title": "Обзоры | Обзор смартфона POCO X8 Pro",
+      "source_type": "live_html",
+      "anchor": "1nz2y"
+    },
+    "return": {
+      "commented_at": "2026-06-30T23:00",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-poco-x8-pro.htm#1nz6a",
+      "source_post_url": "https://exler.es/expromt/obzor-smartfona-poco-x8-pro.htm",
+      "post_title": "Обзоры | Обзор смартфона POCO X8 Pro",
+      "source_type": "live_html",
+      "anchor": "1nz6a"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 4,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-07-01",
+    "gap_minutes": 498,
+    "before": {
+      "commented_at": "2026-07-01T15:15",
+      "url": "https://exler.es/blog/comments/klubnichnaya-luna.htm#1nzha",
+      "source_post_url": "https://exler.es/blog/klubnichnaya-luna.htm",
+      "post_title": "Клубничная Луна",
+      "source_type": "live_html",
+      "anchor": "1nzha"
+    },
+    "return": {
+      "commented_at": "2026-07-01T23:33",
+      "url": "https://exler.es/expromt/comments/obzor-smartfona-poco-x8-pro.htm#1nznw",
+      "source_post_url": "https://exler.es/expromt/obzor-smartfona-poco-x8-pro.htm",
+      "post_title": "Обзоры | Обзор смартфона POCO X8 Pro",
+      "source_type": "live_html",
+      "anchor": "1nznw"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 7,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-07-02",
+    "gap_minutes": 216,
+    "before": {
+      "commented_at": "2026-07-02T19:45",
+      "url": "https://exler.es/films/comments/u-margo-problemy-s-dengami.htm#1o064",
+      "source_post_url": "https://exler.es/films/u-margo-problemy-s-dengami.htm",
+      "post_title": "Кинорецензии | У Марго проблемы с деньгами | Сериал",
+      "source_type": "live_html",
+      "anchor": "1o064"
+    },
+    "return": {
+      "commented_at": "2026-07-02T23:21",
+      "url": "https://exler.es/films/comments/u-margo-problemy-s-dengami.htm#1o09u",
+      "source_post_url": "https://exler.es/films/u-margo-problemy-s-dengami.htm",
+      "post_title": "Кинорецензии | У Марго проблемы с деньгами | Сериал",
+      "source_type": "live_html",
+      "anchor": "1o09u"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 7,
+    "return_severity": 1
+  },
+  {
+    "date": "2026-07-03",
+    "gap_minutes": 354,
+    "before": {
+      "commented_at": "2026-07-03T12:15",
+      "url": "https://exler.es/blog/comments/podkup-sotrudnika-benzokolonki.htm#1o0hj",
+      "source_post_url": "https://exler.es/blog/podkup-sotrudnika-benzokolonki.htm",
+      "post_title": "Подкуп сотрудника бензоколонки",
+      "source_type": "live_html",
+      "anchor": "1o0hj"
+    },
+    "return": {
+      "commented_at": "2026-07-03T18:09",
+      "url": "https://exler.es/blog/comments/skulyat-voyenkory.htm#1o0o1",
+      "source_post_url": "https://exler.es/blog/skulyat-voyenkory.htm",
+      "post_title": "Скулят военкоры",
+      "source_type": "live_html",
+      "anchor": "1o0o1"
+    },
+    "posts_in_gap": 2,
+    "grid_posts_in_gap": 2,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/khantavirus-raskhodimsya.htm",
+        "title": "Хантавирус - расходимся",
+        "published_at": "2026-07-03T13:00",
+        "displayed_at": "03.07.2026 13:00",
+        "source_page": 10,
+        "date": "2026-07-03",
+        "weekday": 4,
+        "hour": 13,
+        "minute": 0,
+        "minute_of_day": 780
+      },
+      {
+        "url": "https://exler.es/blog/skulyat-voyenkory.htm",
+        "title": "Скулят военкоры",
+        "published_at": "2026-07-03T17:30",
+        "displayed_at": "03.07.2026 17:30",
+        "source_page": 10,
+        "date": "2026-07-03",
+        "weekday": 4,
+        "hour": 17,
+        "minute": 30,
+        "minute_of_day": 1050
+      }
+    ],
+    "comments_after_return_same_day": 3,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-07-04",
+    "gap_minutes": 267,
+    "before": {
+      "commented_at": "2026-07-04T14:00",
+      "url": "https://exler.es/blog/comments/lesnoy-pozhar-v-bisbale-kosta-brava.htm#1o12g",
+      "source_post_url": "https://exler.es/blog/lesnoy-pozhar-v-bisbale-kosta-brava.htm",
+      "post_title": "Лесной пожар в Бисбале, Коста-Брава",
+      "source_type": "live_html",
+      "anchor": "1o12g"
+    },
+    "return": {
+      "commented_at": "2026-07-04T18:27",
+      "url": "https://exler.es/blog/comments/argentina-kabo-verde.htm#1o173",
+      "source_post_url": "https://exler.es/blog/argentina-kabo-verde.htm",
+      "post_title": "Аргентина - Кабо Верде",
+      "source_type": "live_html",
+      "anchor": "1o173"
+    },
+    "posts_in_gap": 1,
+    "grid_posts_in_gap": 1,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/argentina-kabo-verde.htm",
+        "title": "Аргентина - Кабо Верде",
+        "published_at": "2026-07-04T18:00",
+        "displayed_at": "04.07.2026 18:00",
+        "source_page": 10,
+        "date": "2026-07-04",
+        "weekday": 5,
+        "hour": 18,
+        "minute": 0,
+        "minute_of_day": 1080
+      }
+    ],
+    "comments_after_return_same_day": 2,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-07-04",
+    "gap_minutes": 266,
+    "before": {
+      "commented_at": "2026-07-04T18:27",
+      "url": "https://exler.es/blog/comments/argentina-kabo-verde.htm#1o173",
+      "source_post_url": "https://exler.es/blog/argentina-kabo-verde.htm",
+      "post_title": "Аргентина - Кабо Верде",
+      "source_type": "live_html",
+      "anchor": "1o173"
+    },
+    "return": {
+      "commented_at": "2026-07-04T22:53",
+      "url": "https://exler.es/blog/comments/lesnoy-pozhar-v-bisbale-kosta-brava.htm#1o19y",
+      "source_post_url": "https://exler.es/blog/lesnoy-pozhar-v-bisbale-kosta-brava.htm",
+      "post_title": "Лесной пожар в Бисбале, Коста-Брава",
+      "source_type": "live_html",
+      "anchor": "1o19y"
+    },
+    "posts_in_gap": 1,
+    "grid_posts_in_gap": 1,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/a-ya-vam-seychas-pokazhu-kartu.htm",
+        "title": "А я вам сейчас покажу карту",
+        "published_at": "2026-07-04T18:30",
+        "displayed_at": "04.07.2026 18:30",
+        "source_page": 10,
+        "date": "2026-07-04",
+        "weekday": 5,
+        "hour": 18,
+        "minute": 30,
+        "minute_of_day": 1110
+      }
+    ],
+    "comments_after_return_same_day": 1,
+    "return_severity": 1
+  },
+  {
+    "date": "2026-07-06",
+    "gap_minutes": 637,
+    "before": {
+      "commented_at": "2026-07-06T12:42",
+      "url": "https://exler.es/films/comments/majkl-1.htm#1o1oc",
+      "source_post_url": "https://exler.es/films/majkl-1.htm",
+      "post_title": "Кинорецензии | Майкл | Музыкальный байопик",
+      "source_type": "live_html",
+      "anchor": "1o1oc"
+    },
+    "return": {
+      "commented_at": "2026-07-06T23:19",
+      "url": "https://exler.es/films/comments/majkl-1.htm#1o23w",
+      "source_post_url": "https://exler.es/films/majkl-1.htm",
+      "post_title": "Кинорецензии | Майкл | Музыкальный байопик",
+      "source_type": "live_html",
+      "anchor": "1o23w"
+    },
+    "posts_in_gap": 1,
+    "grid_posts_in_gap": 1,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/pomenyalsya-li-futbol.htm",
+        "title": "Поменялся ли футбол",
+        "published_at": "2026-07-06T13:00",
+        "displayed_at": "06.07.2026 13:00",
+        "source_page": 9,
+        "date": "2026-07-06",
+        "weekday": 0,
+        "hour": 13,
+        "minute": 0,
+        "minute_of_day": 780
+      }
+    ],
+    "comments_after_return_same_day": 1,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-07-09",
+    "gap_minutes": 328,
+    "before": {
+      "commented_at": "2026-07-09T12:53",
+      "url": "https://exler.es/films/comments/sledstvie-vedut-ovechki.htm#1o3hr",
+      "source_post_url": "https://exler.es/films/sledstvie-vedut-ovechki.htm",
+      "post_title": "Кинорецензии | Следствие ведут овечки | Комедийный детектив",
+      "source_type": "live_html",
+      "anchor": "1o3hr"
+    },
+    "return": {
+      "commented_at": "2026-07-09T18:21",
+      "url": "https://exler.es/blog/comments/stagnatsiya-so-smartfonami.htm#1o3pr",
+      "source_post_url": "https://exler.es/blog/stagnatsiya-so-smartfonami.htm",
+      "post_title": "Стагнация со смартфонами",
+      "source_type": "live_html",
+      "anchor": "1o3pr"
+    },
+    "posts_in_gap": 3,
+    "grid_posts_in_gap": 3,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/stagnatsiya-so-smartfonami.htm",
+        "title": "Стагнация со смартфонами",
+        "published_at": "2026-07-09T14:00",
+        "displayed_at": "09.07.2026 14:00",
+        "source_page": 9,
+        "date": "2026-07-09",
+        "weekday": 3,
+        "hour": 14,
+        "minute": 0,
+        "minute_of_day": 840
+      },
+      {
+        "url": "https://exler.es/blog/aktualnoye.htm",
+        "title": "Актуальное",
+        "published_at": "2026-07-09T16:40",
+        "displayed_at": "09.07.2026 16:40",
+        "source_page": 9,
+        "date": "2026-07-09",
+        "weekday": 3,
+        "hour": 16,
+        "minute": 40,
+        "minute_of_day": 1000
+      },
+      {
+        "url": "https://exler.es/blog/borba-za-demografiyu.htm",
+        "title": "Борьба за демографию",
+        "published_at": "2026-07-09T18:10",
+        "displayed_at": "09.07.2026 18:10",
+        "source_page": 9,
+        "date": "2026-07-09",
+        "weekday": 3,
+        "hour": 18,
+        "minute": 10,
+        "minute_of_day": 1090
+      }
+    ],
+    "comments_after_return_same_day": 5,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-07-10",
+    "gap_minutes": 515,
+    "before": {
+      "commented_at": "2026-07-10T10:01",
+      "url": "https://exler.es/blog/comments/frantsiya-marokko.htm#1o3z6",
+      "source_post_url": "https://exler.es/blog/frantsiya-marokko.htm",
+      "post_title": "Франция-Марокко",
+      "source_type": "live_html",
+      "anchor": "1o3z6"
+    },
+    "return": {
+      "commented_at": "2026-07-10T18:36",
+      "url": "https://exler.es/blog/comments/krossovki-asics-2.htm#1o4av",
+      "source_post_url": "https://exler.es/blog/krossovki-asics-2.htm",
+      "post_title": "Кроссовки Asics",
+      "source_type": "live_html",
+      "anchor": "1o4av"
+    },
+    "posts_in_gap": 5,
+    "grid_posts_in_gap": 5,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/gryaznoye-belishko-sobchak.htm",
+        "title": "Грязное бельишко Собчак",
+        "published_at": "2026-07-10T11:00",
+        "displayed_at": "10.07.2026 11:00",
+        "source_page": 9,
+        "date": "2026-07-10",
+        "weekday": 4,
+        "hour": 11,
+        "minute": 0,
+        "minute_of_day": 660
+      },
+      {
+        "url": "https://exler.es/bannizm/uvelichenie-rekonstrukcij-andryuhinogo-stazha.htm",
+        "title": "Баннизмы | Увеличение реконструкций андрюхиного стажа",
+        "published_at": "2026-07-10T12:50",
+        "displayed_at": "10.07.2026 12:50",
+        "source_page": 9,
+        "date": "2026-07-10",
+        "weekday": 4,
+        "hour": 12,
+        "minute": 50,
+        "minute_of_day": 770
+      },
+      {
+        "url": "https://exler.es/blog/vyyezdnyye-vizy.htm",
+        "title": "Выездные визы",
+        "published_at": "2026-07-10T13:00",
+        "displayed_at": "10.07.2026 13:00",
+        "source_page": 9,
+        "date": "2026-07-10",
+        "weekday": 4,
+        "hour": 13,
+        "minute": 0,
+        "minute_of_day": 780
+      },
+      {
+        "url": "https://exler.es/blog/krossovki-asics-2.htm",
+        "title": "Кроссовки Asics",
+        "published_at": "2026-07-10T17:10",
+        "displayed_at": "10.07.2026 17:10",
+        "source_page": 9,
+        "date": "2026-07-10",
+        "weekday": 4,
+        "hour": 17,
+        "minute": 10,
+        "minute_of_day": 1030
+      },
+      {
+        "url": "https://exler.es/blog/pyatnishnaya-pesenka-468.htm",
+        "title": "Пятнишная песенка",
+        "published_at": "2026-07-10T18:00",
+        "displayed_at": "10.07.2026 18:00",
+        "source_page": 9,
+        "date": "2026-07-10",
+        "weekday": 4,
+        "hour": 18,
+        "minute": 0,
+        "minute_of_day": 1080
+      }
+    ],
+    "comments_after_return_same_day": 2,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-07-10",
+    "gap_minutes": 278,
+    "before": {
+      "commented_at": "2026-07-10T18:36",
+      "url": "https://exler.es/blog/comments/krossovki-asics-2.htm#1o4av",
+      "source_post_url": "https://exler.es/blog/krossovki-asics-2.htm",
+      "post_title": "Кроссовки Asics",
+      "source_type": "live_html",
+      "anchor": "1o4av"
+    },
+    "return": {
+      "commented_at": "2026-07-10T23:14",
+      "url": "https://exler.es/blog/comments/krossovki-asics-2.htm#1o4gs",
+      "source_post_url": "https://exler.es/blog/krossovki-asics-2.htm",
+      "post_title": "Кроссовки Asics",
+      "source_type": "live_html",
+      "anchor": "1o4gs"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 1,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-07-11",
+    "gap_minutes": 251,
+    "before": {
+      "commented_at": "2026-07-11T18:30",
+      "url": "https://exler.es/blog/comments/zaochnyy-arest-semena-slepakova.htm#1o4u3",
+      "source_post_url": "https://exler.es/blog/zaochnyy-arest-semena-slepakova.htm",
+      "post_title": "Заочный арест Семена Слепакова",
+      "source_type": "live_html",
+      "anchor": "1o4u3"
+    },
+    "return": {
+      "commented_at": "2026-07-11T22:41",
+      "url": "https://exler.es/blog/comments/stagnatsiya-so-smartfonami.htm#1o4xh",
+      "source_post_url": "https://exler.es/blog/stagnatsiya-so-smartfonami.htm",
+      "post_title": "Стагнация со смартфонами",
+      "source_type": "live_html",
+      "anchor": "1o4xh"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 1,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-07-12",
+    "gap_minutes": 490,
+    "before": {
+      "commented_at": "2026-07-12T14:56",
+      "url": "https://exler.es/blog/comments/ty-znayesh-chto-nuzhno-delat.htm#1o55o",
+      "source_post_url": "https://exler.es/blog/ty-znayesh-chto-nuzhno-delat.htm",
+      "post_title": "Ты знаешь, что нужно делать",
+      "source_type": "live_html",
+      "anchor": "1o55o"
+    },
+    "return": {
+      "commented_at": "2026-07-12T23:06",
+      "url": "https://exler.es/blog/comments/norvegiya-angliya-chetvertfinal.htm#1o5dv",
+      "source_post_url": "https://exler.es/blog/norvegiya-angliya-chetvertfinal.htm",
+      "post_title": "Норвегия-Англия, четвертьфинал",
+      "source_type": "live_html",
+      "anchor": "1o5dv"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 3,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-07-13",
+    "gap_minutes": 256,
+    "before": {
+      "commented_at": "2026-07-13T15:48",
+      "url": "https://exler.es/blog/comments/semya-auktsionistov-skota.htm#1o5nv",
+      "source_post_url": "https://exler.es/blog/semya-auktsionistov-skota.htm",
+      "post_title": "Семья аукционистов скота",
+      "source_type": "live_html",
+      "anchor": "1o5nv"
+    },
+    "return": {
+      "commented_at": "2026-07-13T20:04",
+      "url": "https://exler.es/blog/comments/demonstratsiya-ekstremistskoy-simvoliki.htm#1o5sw",
+      "source_post_url": "https://exler.es/blog/demonstratsiya-ekstremistskoy-simvoliki.htm",
+      "post_title": "Демонстрация экстремистской символики",
+      "source_type": "live_html",
+      "anchor": "1o5sw"
+    },
+    "posts_in_gap": 2,
+    "grid_posts_in_gap": 2,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/film-digger.htm",
+        "title": "Фильм \"Диггер\"",
+        "published_at": "2026-07-13T16:50",
+        "displayed_at": "13.07.2026 16:50",
+        "source_page": 9,
+        "date": "2026-07-13",
+        "weekday": 0,
+        "hour": 16,
+        "minute": 50,
+        "minute_of_day": 1010
+      },
+      {
+        "url": "https://exler.es/blog/demonstratsiya-ekstremistskoy-simvoliki.htm",
+        "title": "Демонстрация экстремистской символики",
+        "published_at": "2026-07-13T17:30",
+        "displayed_at": "13.07.2026 17:30",
+        "source_page": 9,
+        "date": "2026-07-13",
+        "weekday": 0,
+        "hour": 17,
+        "minute": 30,
+        "minute_of_day": 1050
+      }
+    ],
+    "comments_after_return_same_day": 4,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-07-14",
+    "gap_minutes": 347,
+    "before": {
+      "commented_at": "2026-07-14T12:37",
+      "url": "https://exler.es/blog/comments/bitva-dronov.htm#1o616",
+      "source_post_url": "https://exler.es/blog/bitva-dronov.htm",
+      "post_title": "Битва дронов",
+      "source_type": "live_html",
+      "anchor": "1o616"
+    },
+    "return": {
+      "commented_at": "2026-07-14T18:24",
+      "url": "https://exler.es/expromt/comments/obzor-tws-naushnikov-ugreen-echobuds-plus.htm#1o66d",
+      "source_post_url": "https://exler.es/expromt/obzor-tws-naushnikov-ugreen-echobuds-plus.htm",
+      "post_title": "Обзоры | Обзор TWS-наушников UGREEN EchoBuds Plus",
+      "source_type": "live_html",
+      "anchor": "1o66d"
+    },
+    "posts_in_gap": 2,
+    "grid_posts_in_gap": 2,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/kak-zhe-tak-poluchayetsya.htm",
+        "title": "Как же так получается?",
+        "published_at": "2026-07-14T13:00",
+        "displayed_at": "14.07.2026 13:00",
+        "source_page": 8,
+        "date": "2026-07-14",
+        "weekday": 1,
+        "hour": 13,
+        "minute": 0,
+        "minute_of_day": 780
+      },
+      {
+        "url": "https://exler.es/blog/navstrechu-polufinalu.htm",
+        "title": "Навстречу полуфиналу",
+        "published_at": "2026-07-14T18:20",
+        "displayed_at": "14.07.2026 18:20",
+        "source_page": 8,
+        "date": "2026-07-14",
+        "weekday": 1,
+        "hour": 18,
+        "minute": 20,
+        "minute_of_day": 1100
+      }
+    ],
+    "comments_after_return_same_day": 6,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-07-14",
+    "gap_minutes": 312,
+    "before": {
+      "commented_at": "2026-07-14T18:24",
+      "url": "https://exler.es/expromt/comments/obzor-tws-naushnikov-ugreen-echobuds-plus.htm#1o66d",
+      "source_post_url": "https://exler.es/expromt/obzor-tws-naushnikov-ugreen-echobuds-plus.htm",
+      "post_title": "Обзоры | Обзор TWS-наушников UGREEN EchoBuds Plus",
+      "source_type": "live_html",
+      "anchor": "1o66d"
+    },
+    "return": {
+      "commented_at": "2026-07-14T23:36",
+      "url": "https://exler.es/blog/comments/kollektivnyy-prosmotr.htm#1o6bp",
+      "source_post_url": "https://exler.es/blog/kollektivnyy-prosmotr.htm",
+      "post_title": "Коллективный просмотр",
+      "source_type": "live_html",
+      "anchor": "1o6bp"
+    },
+    "posts_in_gap": 2,
+    "grid_posts_in_gap": 2,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/kollektivnyy-prosmotr.htm",
+        "title": "Коллективный просмотр",
+        "published_at": "2026-07-14T20:30",
+        "displayed_at": "14.07.2026 20:30",
+        "source_page": 8,
+        "date": "2026-07-14",
+        "weekday": 1,
+        "hour": 20,
+        "minute": 30,
+        "minute_of_day": 1230
+      },
+      {
+        "url": "https://exler.es/blog/ispantsy-v-finale.htm",
+        "title": "Испанцы в финале!",
+        "published_at": "2026-07-14T23:10",
+        "displayed_at": "14.07.2026 23:10",
+        "source_page": 8,
+        "date": "2026-07-14",
+        "weekday": 1,
+        "hour": 23,
+        "minute": 10,
+        "minute_of_day": 1390
+      }
+    ],
+    "comments_after_return_same_day": 5,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-07-15",
+    "gap_minutes": 383,
+    "before": {
+      "commented_at": "2026-07-15T11:39",
+      "url": "https://exler.es/blog/comments/ispantsy-v-finale.htm#1o6iz",
+      "source_post_url": "https://exler.es/blog/ispantsy-v-finale.htm",
+      "post_title": "Испанцы в финале!",
+      "source_type": "live_html",
+      "anchor": "1o6iz"
+    },
+    "return": {
+      "commented_at": "2026-07-15T18:02",
+      "url": "https://exler.es/blog/comments/ispantsy-v-finale.htm#1o6pe",
+      "source_post_url": "https://exler.es/blog/ispantsy-v-finale.htm",
+      "post_title": "Испанцы в финале!",
+      "source_type": "live_html",
+      "anchor": "1o6pe"
+    },
+    "posts_in_gap": 6,
+    "grid_posts_in_gap": 6,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/kommunalka-sobstvennik-i-okupasy.htm",
+        "title": "Коммуналка, собственник и окупасы",
+        "published_at": "2026-07-15T12:10",
+        "displayed_at": "15.07.2026 12:10",
+        "source_page": 8,
+        "date": "2026-07-15",
+        "weekday": 2,
+        "hour": 12,
+        "minute": 10,
+        "minute_of_day": 730
+      },
+      {
+        "url": "https://exler.es/blog/prelestnyy-nozh-v-spinu-ot-kitaya.htm",
+        "title": "Прелестный нож в спину от Китая",
+        "published_at": "2026-07-15T13:00",
+        "displayed_at": "15.07.2026 13:00",
+        "source_page": 8,
+        "date": "2026-07-15",
+        "weekday": 2,
+        "hour": 13,
+        "minute": 0,
+        "minute_of_day": 780
+      },
+      {
+        "url": "https://exler.es/blog/a-vot-nam-interesno.htm",
+        "title": "А вот нам интересно...",
+        "published_at": "2026-07-15T14:30",
+        "displayed_at": "15.07.2026 14:30",
+        "source_page": 8,
+        "date": "2026-07-15",
+        "weekday": 2,
+        "hour": 14,
+        "minute": 30,
+        "minute_of_day": 870
+      },
+      {
+        "url": "https://exler.es/blog/na-vkladakh-ne-dolzhny-zarabatyvat.htm",
+        "title": "На вкладах не должны зарабатывать",
+        "published_at": "2026-07-15T15:30",
+        "displayed_at": "15.07.2026 15:30",
+        "source_page": 8,
+        "date": "2026-07-15",
+        "weekday": 2,
+        "hour": 15,
+        "minute": 30,
+        "minute_of_day": 930
+      },
+      {
+        "url": "https://exler.es/blog/pochti-ne-navrali.htm",
+        "title": "Почти не наврали",
+        "published_at": "2026-07-15T16:00",
+        "displayed_at": "15.07.2026 16:00",
+        "source_page": 8,
+        "date": "2026-07-15",
+        "weekday": 2,
+        "hour": 16,
+        "minute": 0,
+        "minute_of_day": 960
+      },
+      {
+        "url": "https://exler.es/blog/obidno-stalo-za-fsb.htm",
+        "title": "Обидно стало за ФСБ",
+        "published_at": "2026-07-15T17:20",
+        "displayed_at": "15.07.2026 17:20",
+        "source_page": 8,
+        "date": "2026-07-15",
+        "weekday": 2,
+        "hour": 17,
+        "minute": 20,
+        "minute_of_day": 1040
+      }
+    ],
+    "comments_after_return_same_day": 5,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-07-15",
+    "gap_minutes": 214,
+    "before": {
+      "commented_at": "2026-07-15T19:50",
+      "url": "https://exler.es/blog/comments/istoricheskiy-polufinal.htm#1o6sd",
+      "source_post_url": "https://exler.es/blog/istoricheskiy-polufinal.htm",
+      "post_title": "Исторический полуфинал",
+      "source_type": "live_html",
+      "anchor": "1o6sd"
+    },
+    "return": {
+      "commented_at": "2026-07-15T23:24",
+      "url": "https://exler.es/blog/comments/istoricheskiy-polufinal.htm#1o6xw",
+      "source_post_url": "https://exler.es/blog/istoricheskiy-polufinal.htm",
+      "post_title": "Исторический полуфинал",
+      "source_type": "live_html",
+      "anchor": "1o6xw"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 1,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-07-16",
+    "gap_minutes": 479,
+    "before": {
+      "commented_at": "2026-07-16T15:07",
+      "url": "https://exler.es/films/comments/vremena-goda-2-j-sezon.htm#1o78s",
+      "source_post_url": "https://exler.es/films/vremena-goda-2-j-sezon.htm",
+      "post_title": "Кинорецензии | Времена года. 2-й сезон | Сериал",
+      "source_type": "live_html",
+      "anchor": "1o78s"
+    },
+    "return": {
+      "commented_at": "2026-07-16T23:06",
+      "url": "https://exler.es/blog/comments/cherez-yeye-serdtse-on-proshel.htm#1o7i3",
+      "source_post_url": "https://exler.es/blog/cherez-yeye-serdtse-on-proshel.htm",
+      "post_title": "Через ее сердце он прошел",
+      "source_type": "live_html",
+      "anchor": "1o7i3"
+    },
+    "posts_in_gap": 1,
+    "grid_posts_in_gap": 1,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/cherez-yeye-serdtse-on-proshel.htm",
+        "title": "Через ее сердце он прошел",
+        "published_at": "2026-07-16T16:30",
+        "displayed_at": "16.07.2026 16:30",
+        "source_page": 8,
+        "date": "2026-07-16",
+        "weekday": 3,
+        "hour": 16,
+        "minute": 30,
+        "minute_of_day": 990
+      }
+    ],
+    "comments_after_return_same_day": 3,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-07-18",
+    "gap_minutes": 272,
+    "before": {
+      "commented_at": "2026-07-18T18:16",
+      "url": "https://exler.es/blog/comments/udar-po-skladam-wildberries.htm#1o8b4",
+      "source_post_url": "https://exler.es/blog/udar-po-skladam-wildberries.htm",
+      "post_title": "Удар по складам Wildberries",
+      "source_type": "live_html",
+      "anchor": "1o8b4"
+    },
+    "return": {
+      "commented_at": "2026-07-18T22:48",
+      "url": "https://exler.es/blog/comments/udar-po-skladam-wildberries.htm#1o8fv",
+      "source_post_url": "https://exler.es/blog/udar-po-skladam-wildberries.htm",
+      "post_title": "Удар по складам Wildberries",
+      "source_type": "live_html",
+      "anchor": "1o8fv"
+    },
+    "posts_in_gap": 1,
+    "grid_posts_in_gap": 1,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/zhurnalist-sergey-sholokhov-umer.htm",
+        "title": "Журналист Сергей Шолохов умер",
+        "published_at": "2026-07-18T22:30",
+        "displayed_at": "18.07.2026 22:30",
+        "source_page": 8,
+        "date": "2026-07-18",
+        "weekday": 5,
+        "hour": 22,
+        "minute": 30,
+        "minute_of_day": 1350
+      }
+    ],
+    "comments_after_return_same_day": 1,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-07-21",
+    "gap_minutes": 272,
+    "before": {
+      "commented_at": "2026-07-21T18:04",
+      "url": "https://exler.es/films/comments/vecherinka.htm#1oa4v",
+      "source_post_url": "https://exler.es/films/vecherinka.htm",
+      "post_title": "Кинорецензии | Вечеринка | Сериал",
+      "source_type": "live_html",
+      "anchor": "1oa4v"
+    },
+    "return": {
+      "commented_at": "2026-07-21T22:36",
+      "url": "https://exler.es/blog/comments/novyye-chasy-samsung-galaxy-watch-ultra.htm#1oa8f",
+      "source_post_url": "https://exler.es/blog/novyye-chasy-samsung-galaxy-watch-ultra.htm",
+      "post_title": "Новые часы Samsung Galaxy Watch Ultra",
+      "source_type": "live_html",
+      "anchor": "1oa8f"
+    },
+    "posts_in_gap": 1,
+    "grid_posts_in_gap": 1,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/kherurg-snova-voznik.htm",
+        "title": "Херург снова возник",
+        "published_at": "2026-07-21T19:00",
+        "displayed_at": "21.07.2026 19:00",
+        "source_page": 7,
+        "date": "2026-07-21",
+        "weekday": 1,
+        "hour": 19,
+        "minute": 0,
+        "minute_of_day": 1140
+      }
+    ],
+    "comments_after_return_same_day": 5,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-07-22",
+    "gap_minutes": 251,
+    "before": {
+      "commented_at": "2026-07-22T15:05",
+      "url": "https://exler.es/blog/comments/novyye-chasy-samsung-galaxy-watch-ultra.htm#1oale",
+      "source_post_url": "https://exler.es/blog/novyye-chasy-samsung-galaxy-watch-ultra.htm",
+      "post_title": "Новые часы Samsung Galaxy Watch Ultra",
+      "source_type": "live_html",
+      "anchor": "1oale"
+    },
+    "return": {
+      "commented_at": "2026-07-22T19:16",
+      "url": "https://exler.es/blog/comments/novyye-chasy-samsung-galaxy-watch-ultra.htm#1oarc",
+      "source_post_url": "https://exler.es/blog/novyye-chasy-samsung-galaxy-watch-ultra.htm",
+      "post_title": "Новые часы Samsung Galaxy Watch Ultra",
+      "source_type": "live_html",
+      "anchor": "1oarc"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 3,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-07-22",
+    "gap_minutes": 248,
+    "before": {
+      "commented_at": "2026-07-22T19:16",
+      "url": "https://exler.es/blog/comments/novyye-chasy-samsung-galaxy-watch-ultra.htm#1oarc",
+      "source_post_url": "https://exler.es/blog/novyye-chasy-samsung-galaxy-watch-ultra.htm",
+      "post_title": "Новые часы Samsung Galaxy Watch Ultra",
+      "source_type": "live_html",
+      "anchor": "1oarc"
+    },
+    "return": {
+      "commented_at": "2026-07-22T23:24",
+      "url": "https://exler.es/blog/comments/novyye-chasy-samsung-galaxy-watch-ultra.htm#1oaum",
+      "source_post_url": "https://exler.es/blog/novyye-chasy-samsung-galaxy-watch-ultra.htm",
+      "post_title": "Новые часы Samsung Galaxy Watch Ultra",
+      "source_type": "live_html",
+      "anchor": "1oaum"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 2,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-07-23",
+    "gap_minutes": 471,
+    "before": {
+      "commented_at": "2026-07-23T15:04",
+      "url": "https://exler.es/blog/comments/novyye-chasy-samsung-galaxy-watch-ultra.htm#1ob8s",
+      "source_post_url": "https://exler.es/blog/novyye-chasy-samsung-galaxy-watch-ultra.htm",
+      "post_title": "Новые часы Samsung Galaxy Watch Ultra",
+      "source_type": "live_html",
+      "anchor": "1ob8s"
+    },
+    "return": {
+      "commented_at": "2026-07-23T22:55",
+      "url": "https://exler.es/blog/comments/trogatelnoye-yedinodushiye.htm#1obhy",
+      "source_post_url": "https://exler.es/blog/trogatelnoye-yedinodushiye.htm",
+      "post_title": "Трогательное единодушие",
+      "source_type": "live_html",
+      "anchor": "1obhy"
+    },
+    "posts_in_gap": 1,
+    "grid_posts_in_gap": 1,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/bestsennyye-sovety-ot-velikogo-artista.htm",
+        "title": "Бесценные советы от великого артиста",
+        "published_at": "2026-07-23T16:00",
+        "displayed_at": "23.07.2026 16:00",
+        "source_page": 7,
+        "date": "2026-07-23",
+        "weekday": 3,
+        "hour": 16,
+        "minute": 0,
+        "minute_of_day": 960
+      }
+    ],
+    "comments_after_return_same_day": 2,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-07-25",
+    "gap_minutes": 181,
+    "before": {
+      "commented_at": "2026-07-25T20:00",
+      "url": "https://exler.es/blog/comments/khozyayke-na-zametku-8.htm#1ocqv",
+      "source_post_url": "https://exler.es/blog/khozyayke-na-zametku-8.htm",
+      "post_title": "Хозяйке на заметку",
+      "source_type": "live_html",
+      "anchor": "1ocqv"
+    },
+    "return": {
+      "commented_at": "2026-07-25T23:01",
+      "url": "https://exler.es/blog/comments/khozyayke-na-zametku-8.htm#1octs",
+      "source_post_url": "https://exler.es/blog/khozyayke-na-zametku-8.htm",
+      "post_title": "Хозяйке на заметку",
+      "source_type": "live_html",
+      "anchor": "1octs"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 11,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-07-26",
+    "gap_minutes": 399,
+    "before": {
+      "commented_at": "2026-07-26T17:01",
+      "url": "https://exler.es/blog/comments/galereya-slavy.htm#1od78",
+      "source_post_url": "https://exler.es/blog/galereya-slavy.htm",
+      "post_title": "Галерея славы",
+      "source_type": "live_html",
+      "anchor": "1od78"
+    },
+    "return": {
+      "commented_at": "2026-07-26T23:40",
+      "url": "https://exler.es/blog/comments/galereya-slavy.htm#1odc0",
+      "source_post_url": "https://exler.es/blog/galereya-slavy.htm",
+      "post_title": "Галерея славы",
+      "source_type": "live_html",
+      "anchor": "1odc0"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 3,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-07-27",
+    "gap_minutes": 240,
+    "before": {
+      "commented_at": "2026-07-27T19:09",
+      "url": "https://exler.es/blog/comments/ne-zaskandirovalos-u-nikh.htm#1odsa",
+      "source_post_url": "https://exler.es/blog/ne-zaskandirovalos-u-nikh.htm",
+      "post_title": "Не заскандировалось у них",
+      "source_type": "live_html",
+      "anchor": "1odsa"
+    },
+    "return": {
+      "commented_at": "2026-07-27T23:09",
+      "url": "https://exler.es/blog/comments/ne-zaskandirovalos-u-nikh.htm#1odvg",
+      "source_post_url": "https://exler.es/blog/ne-zaskandirovalos-u-nikh.htm",
+      "post_title": "Не заскандировалось у них",
+      "source_type": "live_html",
+      "anchor": "1odvg"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 1,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-07-28",
+    "gap_minutes": 362,
+    "before": {
+      "commented_at": "2026-07-28T12:00",
+      "url": "https://exler.es/films/comments/mandalorec-i-grogu.htm#1oe1z",
+      "source_post_url": "https://exler.es/films/mandalorec-i-grogu.htm",
+      "post_title": "Кинорецензии | Мандалорец и Грогу | Фантастический боевик",
+      "source_type": "live_html",
+      "anchor": "1oe1z"
+    },
+    "return": {
+      "commented_at": "2026-07-28T18:02",
+      "url": "https://exler.es/blog/comments/podozritelnyye-polzovateli-smartfonov-pixel.htm#1oed4",
+      "source_post_url": "https://exler.es/blog/podozritelnyye-polzovateli-smartfonov-pixel.htm",
+      "post_title": "Подозрительные пользователи смартфонов Pixel",
+      "source_type": "live_html",
+      "anchor": "1oed4"
+    },
+    "posts_in_gap": 1,
+    "grid_posts_in_gap": 1,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/smotret-na-bolshom-ekrane.htm",
+        "title": "Смотреть на большом экране",
+        "published_at": "2026-07-28T16:10",
+        "displayed_at": "28.07.2026 16:10",
+        "source_page": 7,
+        "date": "2026-07-28",
+        "weekday": 1,
+        "hour": 16,
+        "minute": 10,
+        "minute_of_day": 970
+      }
+    ],
+    "comments_after_return_same_day": 2,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-07-28",
+    "gap_minutes": 274,
+    "before": {
+      "commented_at": "2026-07-28T18:02",
+      "url": "https://exler.es/blog/comments/podozritelnyye-polzovateli-smartfonov-pixel.htm#1oed4",
+      "source_post_url": "https://exler.es/blog/podozritelnyye-polzovateli-smartfonov-pixel.htm",
+      "post_title": "Подозрительные пользователи смартфонов Pixel",
+      "source_type": "live_html",
+      "anchor": "1oed4"
+    },
+    "return": {
+      "commented_at": "2026-07-28T22:36",
+      "url": "https://exler.es/films/comments/mandalorec-i-grogu.htm#1oeki",
+      "source_post_url": "https://exler.es/films/mandalorec-i-grogu.htm",
+      "post_title": "Кинорецензии | Мандалорец и Грогу | Фантастический боевик",
+      "source_type": "live_html",
+      "anchor": "1oeki"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 1,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-07-29",
+    "gap_minutes": 287,
+    "before": {
+      "commented_at": "2026-07-29T19:00",
+      "url": "https://exler.es/likbez/comments/smartfony-kakih-proizvoditelej-imeet-smysl-priobretat.htm#1of3y",
+      "source_post_url": "https://exler.es/likbez/smartfony-kakih-proizvoditelej-imeet-smysl-priobretat.htm",
+      "post_title": "Ликбез | Смартфоны каких производителей имеет смысл приобретать",
+      "source_type": "live_html",
+      "anchor": "1of3y"
+    },
+    "return": {
+      "commented_at": "2026-07-29T23:47",
+      "url": "https://exler.es/likbez/comments/smartfony-kakih-proizvoditelej-imeet-smysl-priobretat.htm#1of8t",
+      "source_post_url": "https://exler.es/likbez/smartfony-kakih-proizvoditelej-imeet-smysl-priobretat.htm",
+      "post_title": "Ликбез | Смартфоны каких производителей имеет смысл приобретать",
+      "source_type": "live_html",
+      "anchor": "1of8t"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 2,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-07-30",
+    "gap_minutes": 483,
+    "before": {
+      "commented_at": "2026-07-30T14:51",
+      "url": "https://exler.es/blog/comments/kto-realno-vladeyet-wildberries.htm#1ofjh",
+      "source_post_url": "https://exler.es/blog/kto-realno-vladeyet-wildberries.htm",
+      "post_title": "Кто реально владеет Wildberries",
+      "source_type": "live_html",
+      "anchor": "1ofjh"
+    },
+    "return": {
+      "commented_at": "2026-07-30T22:54",
+      "url": "https://exler.es/films/comments/normal.htm#1ofr5",
+      "source_post_url": "https://exler.es/films/normal.htm",
+      "post_title": "Кинорецензии | Нормал | Черноюморной боевик",
+      "source_type": "live_html",
+      "anchor": "1ofr5"
+    },
+    "posts_in_gap": 1,
+    "grid_posts_in_gap": 1,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/istoriya-s-lotereynym-vyigryshem.htm",
+        "title": "История с лотерейным выигрышем",
+        "published_at": "2026-07-30T15:00",
+        "displayed_at": "30.07.2026 15:00",
+        "source_page": 6,
+        "date": "2026-07-30",
+        "weekday": 3,
+        "hour": 15,
+        "minute": 0,
+        "minute_of_day": 900
+      }
+    ],
+    "comments_after_return_same_day": 5,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-08-01",
+    "gap_minutes": 887,
+    "before": {
+      "commented_at": "2026-08-01T08:26",
+      "url": "https://exler.es/blog/comments/smotrite-kakoy-on-dovolnyy.htm#1ogkv",
+      "source_post_url": "https://exler.es/blog/smotrite-kakoy-on-dovolnyy.htm",
+      "post_title": "Смотрите, какой он довольный",
+      "source_type": "live_html",
+      "anchor": "1ogkv"
+    },
+    "return": {
+      "commented_at": "2026-08-01T23:13",
+      "url": "https://exler.es/blog/comments/luchshiy-drug-vsekh-fizkulturnikov.htm#1oh56",
+      "source_post_url": "https://exler.es/blog/luchshiy-drug-vsekh-fizkulturnikov.htm",
+      "post_title": "Лучший друг всех физкультурников",
+      "source_type": "live_html",
+      "anchor": "1oh56"
+    },
+    "posts_in_gap": 4,
+    "grid_posts_in_gap": 4,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/ebay-protiv-shtaynerov.htm",
+        "title": "eBay против Штайнеров",
+        "published_at": "2026-08-01T09:00",
+        "displayed_at": "01.08.2026 09:00",
+        "source_page": 6,
+        "date": "2026-08-01",
+        "weekday": 5,
+        "hour": 9,
+        "minute": 0,
+        "minute_of_day": 540
+      },
+      {
+        "url": "https://exler.es/blog/novosti-iz-seuty.htm",
+        "title": "Новости из Сеуты",
+        "published_at": "2026-08-01T10:00",
+        "displayed_at": "01.08.2026 10:00",
+        "source_page": 6,
+        "date": "2026-08-01",
+        "weekday": 5,
+        "hour": 10,
+        "minute": 0,
+        "minute_of_day": 600
+      },
+      {
+        "url": "https://exler.es/blog/o-skolko-yey-otkrytiy-chudnykh.htm",
+        "title": "О сколько ей открытий чудных",
+        "published_at": "2026-08-01T12:00",
+        "displayed_at": "01.08.2026 12:00",
+        "source_page": 6,
+        "date": "2026-08-01",
+        "weekday": 5,
+        "hour": 12,
+        "minute": 0,
+        "minute_of_day": 720
+      },
+      {
+        "url": "https://exler.es/blog/luchshiy-drug-vsekh-fizkulturnikov.htm",
+        "title": "Лучший друг всех физкультурников",
+        "published_at": "2026-08-01T17:40",
+        "displayed_at": "01.08.2026 17:40",
+        "source_page": 6,
+        "date": "2026-08-01",
+        "weekday": 5,
+        "hour": 17,
+        "minute": 40,
+        "minute_of_day": 1060
+      }
+    ],
+    "comments_after_return_same_day": 1,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-08-02",
+    "gap_minutes": 180,
+    "before": {
+      "commented_at": "2026-08-02T19:59",
+      "url": "https://exler.es/blog/comments/saytu-exleres-ochen-nuzhna-vasha-podderzhka.htm#1ohjk",
+      "source_post_url": "https://exler.es/blog/saytu-exleres-ochen-nuzhna-vasha-podderzhka.htm",
+      "post_title": "Сайту Exler.es очень нужна ваша поддержка!",
+      "source_type": "live_html",
+      "anchor": "1ohjk"
+    },
+    "return": {
+      "commented_at": "2026-08-02T22:59",
+      "url": "https://exler.es/blog/comments/saytu-exleres-ochen-nuzhna-vasha-podderzhka.htm#1ohl3",
+      "source_post_url": "https://exler.es/blog/saytu-exleres-ochen-nuzhna-vasha-podderzhka.htm",
+      "post_title": "Сайту Exler.es очень нужна ваша поддержка!",
+      "source_type": "live_html",
+      "anchor": "1ohl3"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 3,
+    "return_severity": 1
+  },
+  {
+    "date": "2026-08-03",
+    "gap_minutes": 195,
+    "before": {
+      "commented_at": "2026-08-03T19:21",
+      "url": "https://exler.es/films/comments/odisseya.htm#1oi6d",
+      "source_post_url": "https://exler.es/films/odisseya.htm",
+      "post_title": "Кинорецензии | Одиссея | Фэнтезийный боевик-приключения",
+      "source_type": "live_html",
+      "anchor": "1oi6d"
+    },
+    "return": {
+      "commented_at": "2026-08-03T22:36",
+      "url": "https://exler.es/films/comments/odisseya.htm#1oic0",
+      "source_post_url": "https://exler.es/films/odisseya.htm",
+      "post_title": "Кинорецензии | Одиссея | Фэнтезийный боевик-приключения",
+      "source_type": "live_html",
+      "anchor": "1oic0"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 6,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-08-07",
+    "gap_minutes": 775,
+    "before": {
+      "commented_at": "2026-08-07T10:41",
+      "url": "https://exler.es/blog/comments/god-bless.htm#1ok9z",
+      "source_post_url": "https://exler.es/blog/god-bless.htm",
+      "post_title": "God bless",
+      "source_type": "live_html",
+      "anchor": "1ok9z"
+    },
+    "return": {
+      "commented_at": "2026-08-07T23:36",
+      "url": "https://exler.es/blog/comments/perplexity-zaklinilo.htm#1oktc",
+      "source_post_url": "https://exler.es/blog/perplexity-zaklinilo.htm",
+      "post_title": "Perplexity заклинило",
+      "source_type": "live_html",
+      "anchor": "1oktc"
+    },
+    "posts_in_gap": 5,
+    "grid_posts_in_gap": 4,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/bannizm/unesyonnye-bulki-kulturnyh-povrezhdenij.htm",
+        "title": "Баннизмы | Унесённые бульки культурных повреждений",
+        "published_at": "2026-08-07T12:12",
+        "displayed_at": "07.08.2026 12:12",
+        "source_page": 6,
+        "date": "2026-08-07",
+        "weekday": 4,
+        "hour": 12,
+        "minute": 12,
+        "minute_of_day": 732
+      },
+      {
+        "url": "https://exler.es/blog/pervyy-ofis-amazoncom.htm",
+        "title": "Первый офис Amazon.com",
+        "published_at": "2026-08-07T13:00",
+        "displayed_at": "07.08.2026 13:00",
+        "source_page": 6,
+        "date": "2026-08-07",
+        "weekday": 4,
+        "hour": 13,
+        "minute": 0,
+        "minute_of_day": 780
+      },
+      {
+        "url": "https://exler.es/blog/perplexity-zaklinilo.htm",
+        "title": "Perplexity заклинило",
+        "published_at": "2026-08-07T15:30",
+        "displayed_at": "07.08.2026 15:30",
+        "source_page": 6,
+        "date": "2026-08-07",
+        "weekday": 4,
+        "hour": 15,
+        "minute": 30,
+        "minute_of_day": 930
+      },
+      {
+        "url": "https://exler.es/blog/pryam-valom-valyat.htm",
+        "title": "Прям валом валят!",
+        "published_at": "2026-08-07T17:00",
+        "displayed_at": "07.08.2026 17:00",
+        "source_page": 5,
+        "date": "2026-08-07",
+        "weekday": 4,
+        "hour": 17,
+        "minute": 0,
+        "minute_of_day": 1020
+      },
+      {
+        "url": "https://exler.es/blog/pyatnishnaya-pesenka-472.htm",
+        "title": "Пятнишная песенка",
+        "published_at": "2026-08-07T18:00",
+        "displayed_at": "07.08.2026 18:00",
+        "source_page": 5,
+        "date": "2026-08-07",
+        "weekday": 4,
+        "hour": 18,
+        "minute": 0,
+        "minute_of_day": 1080
+      }
+    ],
+    "comments_after_return_same_day": 2,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-08-08",
+    "gap_minutes": 591,
+    "before": {
+      "commented_at": "2026-08-08T09:13",
+      "url": "https://exler.es/blog/comments/pervyy-ofis-amazoncom.htm#1okve",
+      "source_post_url": "https://exler.es/blog/pervyy-ofis-amazoncom.htm",
+      "post_title": "Первый офис Amazon.com",
+      "source_type": "live_html",
+      "anchor": "1okve"
+    },
+    "return": {
+      "commented_at": "2026-08-08T19:04",
+      "url": "https://exler.es/blog/comments/amerikanets-voskhitilsya.htm#1ol48",
+      "source_post_url": "https://exler.es/blog/amerikanets-voskhitilsya.htm",
+      "post_title": "Юаровец восхитился",
+      "source_type": "live_html",
+      "anchor": "1ol48"
+    },
+    "posts_in_gap": 3,
+    "grid_posts_in_gap": 3,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/velichayshiy-prezident-vsekh-vremen.htm",
+        "title": "Величайший президент всех времён",
+        "published_at": "2026-08-08T09:50",
+        "displayed_at": "08.08.2026 09:50",
+        "source_page": 5,
+        "date": "2026-08-08",
+        "weekday": 5,
+        "hour": 9,
+        "minute": 50,
+        "minute_of_day": 590
+      },
+      {
+        "url": "https://exler.es/blog/presledovaniye-kembridzhskogo-prepodavatelya.htm",
+        "title": "Преследование кембриджского профессора",
+        "published_at": "2026-08-08T11:00",
+        "displayed_at": "08.08.2026 11:00",
+        "source_page": 5,
+        "date": "2026-08-08",
+        "weekday": 5,
+        "hour": 11,
+        "minute": 0,
+        "minute_of_day": 660
+      },
+      {
+        "url": "https://exler.es/blog/amerikanets-voskhitilsya.htm",
+        "title": "Юаровец восхитился",
+        "published_at": "2026-08-08T13:30",
+        "displayed_at": "08.08.2026 13:30",
+        "source_page": 5,
+        "date": "2026-08-08",
+        "weekday": 5,
+        "hour": 13,
+        "minute": 30,
+        "minute_of_day": 810
+      }
+    ],
+    "comments_after_return_same_day": 1,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-08-09",
+    "gap_minutes": 275,
+    "before": {
+      "commented_at": "2026-08-09T18:39",
+      "url": "https://exler.es/blog/comments/otkryl-dlya-sebya-karcher.htm#1olkc",
+      "source_post_url": "https://exler.es/blog/otkryl-dlya-sebya-karcher.htm",
+      "post_title": "Открыл для себя Kärcher",
+      "source_type": "live_html",
+      "anchor": "1olkc"
+    },
+    "return": {
+      "commented_at": "2026-08-09T23:14",
+      "url": "https://exler.es/blog/comments/otkryl-dlya-sebya-karcher.htm#1olmw",
+      "source_post_url": "https://exler.es/blog/otkryl-dlya-sebya-karcher.htm",
+      "post_title": "Открыл для себя Kärcher",
+      "source_type": "live_html",
+      "anchor": "1olmw"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 1,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-08-10",
+    "gap_minutes": 348,
+    "before": {
+      "commented_at": "2026-08-10T17:54",
+      "url": "https://exler.es/blog/comments/kakuyu-model-predpochest.htm#1olyf",
+      "source_post_url": "https://exler.es/blog/kakuyu-model-predpochest.htm",
+      "post_title": "Какую модель предпочесть?",
+      "source_type": "live_html",
+      "anchor": "1olyf"
+    },
+    "return": {
+      "commented_at": "2026-08-10T23:42",
+      "url": "https://exler.es/blog/comments/kakuyu-model-predpochest.htm#1om2h",
+      "source_post_url": "https://exler.es/blog/kakuyu-model-predpochest.htm",
+      "post_title": "Какую модель предпочесть?",
+      "source_type": "live_html",
+      "anchor": "1om2h"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 2,
+    "return_severity": 1
+  },
+  {
+    "date": "2026-08-11",
+    "gap_minutes": 389,
+    "before": {
+      "commented_at": "2026-08-11T16:50",
+      "url": "https://exler.es/blog/comments/kakuyu-model-predpochest.htm#1omga",
+      "source_post_url": "https://exler.es/blog/kakuyu-model-predpochest.htm",
+      "post_title": "Какую модель предпочесть?",
+      "source_type": "live_html",
+      "anchor": "1omga"
+    },
+    "return": {
+      "commented_at": "2026-08-11T23:19",
+      "url": "https://exler.es/blog/comments/i-on-ot-babushki-ushel.htm#1omno",
+      "source_post_url": "https://exler.es/blog/i-on-ot-babushki-ushel.htm",
+      "post_title": "И он от бабушки ушёл",
+      "source_type": "live_html",
+      "anchor": "1omno"
+    },
+    "posts_in_gap": 1,
+    "grid_posts_in_gap": 1,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/i-on-ot-babushki-ushel.htm",
+        "title": "И он от бабушки ушёл",
+        "published_at": "2026-08-11T18:20",
+        "displayed_at": "11.08.2026 18:20",
+        "source_page": 5,
+        "date": "2026-08-11",
+        "weekday": 1,
+        "hour": 18,
+        "minute": 20,
+        "minute_of_day": 1100
+      }
+    ],
+    "comments_after_return_same_day": 5,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-08-18",
+    "gap_minutes": 342,
+    "before": {
+      "commented_at": "2026-08-18T12:46",
+      "url": "https://exler.es/expromt/comments/predstavlena-linejka-smartfonov-pixel-11.htm#1oppl",
+      "source_post_url": "https://exler.es/expromt/predstavlena-linejka-smartfonov-pixel-11.htm",
+      "post_title": "Обзоры | Представлена линейка смартфонов Pixel 11",
+      "source_type": "live_html",
+      "anchor": "1oppl"
+    },
+    "return": {
+      "commented_at": "2026-08-18T18:28",
+      "url": "https://exler.es/blog/comments/remiks-ot-the-remix-bros.htm#1opuj",
+      "source_post_url": "https://exler.es/blog/remiks-ot-the-remix-bros.htm",
+      "post_title": "Ремикс от The Remix Bros",
+      "source_type": "live_html",
+      "anchor": "1opuj"
+    },
+    "posts_in_gap": 2,
+    "grid_posts_in_gap": 2,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/the-beatles-na-abbey-road.htm",
+        "title": "The Beatles на Abbey Road",
+        "published_at": "2026-08-18T13:00",
+        "displayed_at": "18.08.2026 13:00",
+        "source_page": 5,
+        "date": "2026-08-18",
+        "weekday": 1,
+        "hour": 13,
+        "minute": 0,
+        "minute_of_day": 780
+      },
+      {
+        "url": "https://exler.es/blog/remiks-ot-the-remix-bros.htm",
+        "title": "Ремикс от The Remix Bros",
+        "published_at": "2026-08-18T16:20",
+        "displayed_at": "18.08.2026 16:20",
+        "source_page": 5,
+        "date": "2026-08-18",
+        "weekday": 1,
+        "hour": 16,
+        "minute": 20,
+        "minute_of_day": 980
+      }
+    ],
+    "comments_after_return_same_day": 3,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-08-18",
+    "gap_minutes": 259,
+    "before": {
+      "commented_at": "2026-08-18T18:28",
+      "url": "https://exler.es/blog/comments/remiks-ot-the-remix-bros.htm#1opuj",
+      "source_post_url": "https://exler.es/blog/remiks-ot-the-remix-bros.htm",
+      "post_title": "Ремикс от The Remix Bros",
+      "source_type": "live_html",
+      "anchor": "1opuj"
+    },
+    "return": {
+      "commented_at": "2026-08-18T22:47",
+      "url": "https://exler.es/blog/comments/eksklyuzivnyy-kommentariy.htm#1opx5",
+      "source_post_url": "https://exler.es/blog/eksklyuzivnyy-kommentariy.htm",
+      "post_title": "Эксклюзивный комментарий",
+      "source_type": "live_html",
+      "anchor": "1opx5"
+    },
+    "posts_in_gap": 1,
+    "grid_posts_in_gap": 1,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/eksklyuzivnyy-kommentariy.htm",
+        "title": "Эксклюзивный комментарий",
+        "published_at": "2026-08-18T18:30",
+        "displayed_at": "18.08.2026 18:30",
+        "source_page": 5,
+        "date": "2026-08-18",
+        "weekday": 1,
+        "hour": 18,
+        "minute": 30,
+        "minute_of_day": 1110
+      }
+    ],
+    "comments_after_return_same_day": 2,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-08-19",
+    "gap_minutes": 636,
+    "before": {
+      "commented_at": "2026-08-19T13:05",
+      "url": "https://exler.es/likbez/comments/chto-nuzhno-znat-o-robotah-pylesosah-pered-pokupkoj.htm#1oq46",
+      "source_post_url": "https://exler.es/likbez/chto-nuzhno-znat-o-robotah-pylesosah-pered-pokupkoj.htm",
+      "post_title": "Ликбез | Что нужно знать о роботах-пылесосах перед покупкой",
+      "source_type": "live_html",
+      "anchor": "1oq46"
+    },
+    "return": {
+      "commented_at": "2026-08-19T23:41",
+      "url": "https://exler.es/likbez/comments/chto-nuzhno-znat-o-robotah-pylesosah-pered-pokupkoj.htm#1oqhr",
+      "source_post_url": "https://exler.es/likbez/chto-nuzhno-znat-o-robotah-pylesosah-pered-pokupkoj.htm",
+      "post_title": "Ликбез | Что нужно знать о роботах-пылесосах перед покупкой",
+      "source_type": "live_html",
+      "anchor": "1oqhr"
+    },
+    "posts_in_gap": 1,
+    "grid_posts_in_gap": 1,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/neyroslop-v-uchebnikakh.htm",
+        "title": "Нейрослоп в учебниках",
+        "published_at": "2026-08-19T14:00",
+        "displayed_at": "19.08.2026 14:00",
+        "source_page": 4,
+        "date": "2026-08-19",
+        "weekday": 2,
+        "hour": 14,
+        "minute": 0,
+        "minute_of_day": 840
+      }
+    ],
+    "comments_after_return_same_day": 1,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-08-20",
+    "gap_minutes": 234,
+    "before": {
+      "commented_at": "2026-08-20T18:56",
+      "url": "https://exler.es/blog/comments/serial-ulichnyye-koty-riki-dzherveysa.htm#1oqxg",
+      "source_post_url": "https://exler.es/blog/serial-ulichnyye-koty-riki-dzherveysa.htm",
+      "post_title": "Сериал \"Уличные коты\" Рики Джервейса",
+      "source_type": "live_html",
+      "anchor": "1oqxg"
+    },
+    "return": {
+      "commented_at": "2026-08-20T22:50",
+      "url": "https://exler.es/blog/comments/serial-ulichnyye-koty-riki-dzherveysa.htm#1or1a",
+      "source_post_url": "https://exler.es/blog/serial-ulichnyye-koty-riki-dzherveysa.htm",
+      "post_title": "Сериал \"Уличные коты\" Рики Джервейса",
+      "source_type": "live_html",
+      "anchor": "1or1a"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 3,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-08-21",
+    "gap_minutes": 214,
+    "before": {
+      "commented_at": "2026-08-21T19:29",
+      "url": "https://exler.es/blog/comments/novyye-vozmozhnosti-na-sayte.htm#1orlu",
+      "source_post_url": "https://exler.es/blog/novyye-vozmozhnosti-na-sayte.htm",
+      "post_title": "Новые возможности на сайте",
+      "source_type": "live_html",
+      "anchor": "1orlu"
+    },
+    "return": {
+      "commented_at": "2026-08-21T23:03",
+      "url": "https://exler.es/blog/comments/pyatnishnaya-pesenka-465.htm#1orp0",
+      "source_post_url": "https://exler.es/blog/pyatnishnaya-pesenka-465.htm",
+      "post_title": "Пятнишная песенка",
+      "source_type": "live_html",
+      "anchor": "1orp0"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 3,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-08-22",
+    "gap_minutes": 265,
+    "before": {
+      "commented_at": "2026-08-22T13:35",
+      "url": "https://exler.es/blog/comments/obzor-fotovozmozhnostey-pixel-11-pro.htm#1orv8",
+      "source_post_url": "https://exler.es/blog/obzor-fotovozmozhnostey-pixel-11-pro.htm",
+      "post_title": "Обзор фотовозможностей Pixel 11 Pro",
+      "source_type": "live_html",
+      "anchor": "1orv8"
+    },
+    "return": {
+      "commented_at": "2026-08-22T18:00",
+      "url": "https://exler.es/blog/comments/vopros-po-povodu-sokrytiya-kommentov.htm#1ory4",
+      "source_post_url": "https://exler.es/blog/vopros-po-povodu-sokrytiya-kommentov.htm",
+      "post_title": "Вопрос по поводу сокрытия комментов",
+      "source_type": "live_html",
+      "anchor": "1ory4"
+    },
+    "posts_in_gap": 1,
+    "grid_posts_in_gap": 1,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/stendap-pypy.htm",
+        "title": "Стендап Пыпы",
+        "published_at": "2026-08-22T15:30",
+        "displayed_at": "22.08.2026 15:30",
+        "source_page": 4,
+        "date": "2026-08-22",
+        "weekday": 5,
+        "hour": 15,
+        "minute": 30,
+        "minute_of_day": 930
+      }
+    ],
+    "comments_after_return_same_day": 5,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-08-22",
+    "gap_minutes": 295,
+    "before": {
+      "commented_at": "2026-08-22T18:03",
+      "url": "https://exler.es/blog/comments/kak-perestat-rzhat-2.htm#1ory7",
+      "source_post_url": "https://exler.es/blog/kak-perestat-rzhat-2.htm",
+      "post_title": "Как перестать ржать",
+      "source_type": "live_html",
+      "anchor": "1ory7"
+    },
+    "return": {
+      "commented_at": "2026-08-22T22:58",
+      "url": "https://exler.es/blog/comments/dimon-tozhe-stendapit.htm#1os10",
+      "source_post_url": "https://exler.es/blog/dimon-tozhe-stendapit.htm",
+      "post_title": "Димон тоже стендапит",
+      "source_type": "live_html",
+      "anchor": "1os10"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 2,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-08-23",
+    "gap_minutes": 222,
+    "before": {
+      "commented_at": "2026-08-23T19:11",
+      "url": "https://exler.es/blog/comments/moye-litso.htm#1osac",
+      "source_post_url": "https://exler.es/blog/moye-litso.htm",
+      "post_title": "Моё лицо",
+      "source_type": "live_html",
+      "anchor": "1osac"
+    },
+    "return": {
+      "commented_at": "2026-08-23T22:53",
+      "url": "https://exler.es/blog/comments/moye-litso.htm#1osc9",
+      "source_post_url": "https://exler.es/blog/moye-litso.htm",
+      "post_title": "Моё лицо",
+      "source_type": "live_html",
+      "anchor": "1osc9"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 3,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-08-24",
+    "gap_minutes": 378,
+    "before": {
+      "commented_at": "2026-08-24T12:54",
+      "url": "https://exler.es/blog/comments/eto-ogromnyy-uspekh.htm#1osgc",
+      "source_post_url": "https://exler.es/blog/eto-ogromnyy-uspekh.htm",
+      "post_title": "Это огромный успех",
+      "source_type": "live_html",
+      "anchor": "1osgc"
+    },
+    "return": {
+      "commented_at": "2026-08-24T19:12",
+      "url": "https://exler.es/blog/comments/eto-pryam-sovsem-smeshno.htm#1osob",
+      "source_post_url": "https://exler.es/blog/eto-pryam-sovsem-smeshno.htm",
+      "post_title": "Это прям совсем смешно",
+      "source_type": "live_html",
+      "anchor": "1osob"
+    },
+    "posts_in_gap": 3,
+    "grid_posts_in_gap": 2,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/kupeshka-za-tridtsatnichek.htm",
+        "title": "Купешка за тридцатничек",
+        "published_at": "2026-08-24T13:00",
+        "displayed_at": "24.08.2026 13:00",
+        "source_page": 4,
+        "date": "2026-08-24",
+        "weekday": 0,
+        "hour": 13,
+        "minute": 0,
+        "minute_of_day": 780
+      },
+      {
+        "url": "https://exler.es/blog/novyy-ukaz.htm",
+        "title": "Новый указ",
+        "published_at": "2026-08-24T16:50",
+        "displayed_at": "24.08.2026 16:50",
+        "source_page": 4,
+        "date": "2026-08-24",
+        "weekday": 0,
+        "hour": 16,
+        "minute": 50,
+        "minute_of_day": 1010
+      },
+      {
+        "url": "https://exler.es/blog/eto-pryam-sovsem-smeshno.htm",
+        "title": "Это прям совсем смешно",
+        "published_at": "2026-08-24T18:45",
+        "displayed_at": "24.08.2026 18:45",
+        "source_page": 4,
+        "date": "2026-08-24",
+        "weekday": 0,
+        "hour": 18,
+        "minute": 45,
+        "minute_of_day": 1125
+      }
+    ],
+    "comments_after_return_same_day": 13,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-08-24",
+    "gap_minutes": 213,
+    "before": {
+      "commented_at": "2026-08-24T19:12",
+      "url": "https://exler.es/blog/comments/eto-pryam-sovsem-smeshno.htm#1osob",
+      "source_post_url": "https://exler.es/blog/eto-pryam-sovsem-smeshno.htm",
+      "post_title": "Это прям совсем смешно",
+      "source_type": "live_html",
+      "anchor": "1osob"
+    },
+    "return": {
+      "commented_at": "2026-08-24T22:45",
+      "url": "https://exler.es/blog/comments/eto-pryam-sovsem-smeshno.htm#1osrq",
+      "source_post_url": "https://exler.es/blog/eto-pryam-sovsem-smeshno.htm",
+      "post_title": "Это прям совсем смешно",
+      "source_type": "live_html",
+      "anchor": "1osrq"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 12,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-08-25",
+    "gap_minutes": 237,
+    "before": {
+      "commented_at": "2026-08-25T18:18",
+      "url": "https://exler.es/blog/comments/kazhetsya-kogo-to-nakhlobuchili.htm#1ot3a",
+      "source_post_url": "https://exler.es/blog/kazhetsya-kogo-to-nakhlobuchili.htm",
+      "post_title": "Кажется, кого-то нахлобучили",
+      "source_type": "live_html",
+      "anchor": "1ot3a"
+    },
+    "return": {
+      "commented_at": "2026-08-25T22:15",
+      "url": "https://exler.es/blog/comments/kazhetsya-kogo-to-nakhlobuchili.htm#1ot5u",
+      "source_post_url": "https://exler.es/blog/kazhetsya-kogo-to-nakhlobuchili.htm",
+      "post_title": "Кажется, кого-то нахлобучили",
+      "source_type": "live_html",
+      "anchor": "1ot5u"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 8,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-08-29",
+    "gap_minutes": 334,
+    "before": {
+      "commented_at": "2026-08-29T17:02",
+      "url": "https://exler.es/blog/comments/pochemu-pypa-nachal-svo.htm#1our1",
+      "source_post_url": "https://exler.es/blog/pochemu-pypa-nachal-svo.htm",
+      "post_title": "Почему Пыпа начал СВО",
+      "source_type": "live_html",
+      "anchor": "1our1"
+    },
+    "return": {
+      "commented_at": "2026-08-29T22:36",
+      "url": "https://exler.es/blog/comments/kak-zarabatyvayut-na-propagande-voyny.htm#1outu",
+      "source_post_url": "https://exler.es/blog/kak-zarabatyvayut-na-propagande-voyny.htm",
+      "post_title": "Как зарабатывают на пропаганде войны",
+      "source_type": "live_html",
+      "anchor": "1outu"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 2,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-08-30",
+    "gap_minutes": 215,
+    "before": {
+      "commented_at": "2026-08-30T15:12",
+      "url": "https://exler.es/aliexpress/comments/delimsya-nahodkami-iz-kitajskih-magazinov-284.htm#1ov2g",
+      "source_post_url": "https://exler.es/aliexpress/delimsya-nahodkami-iz-kitajskih-magazinov-284.htm",
+      "post_title": "Ali | Делимся находками из китайских магазинов",
+      "source_type": "live_html",
+      "anchor": "1ov2g"
+    },
+    "return": {
+      "commented_at": "2026-08-30T18:47",
+      "url": "https://exler.es/blog/comments/lichno-protestiroval-volga-k50.htm#1ov6a",
+      "source_post_url": "https://exler.es/blog/lichno-protestiroval-volga-k50.htm",
+      "post_title": "Лично протестировал Volga K50",
+      "source_type": "live_html",
+      "anchor": "1ov6a"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 1,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-08-31",
+    "gap_minutes": 702,
+    "before": {
+      "commented_at": "2026-08-31T10:52",
+      "url": "https://exler.es/blog/comments/torzhestvo-pravosudiya.htm#1ovcz",
+      "source_post_url": "https://exler.es/blog/torzhestvo-pravosudiya.htm",
+      "post_title": "Торжество правосудия",
+      "source_type": "live_html",
+      "anchor": "1ovcz"
+    },
+    "return": {
+      "commented_at": "2026-08-31T22:34",
+      "url": "https://exler.es/films/comments/klinika.htm#1ovkq",
+      "source_post_url": "https://exler.es/films/klinika.htm",
+      "post_title": "Кинорецензии | Клиника | Сериал",
+      "source_type": "live_html",
+      "anchor": "1ovkq"
+    },
+    "posts_in_gap": 1,
+    "grid_posts_in_gap": 1,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/kholostyachka-v-italii.htm",
+        "title": "Холостячка в Италии",
+        "published_at": "2026-08-31T16:30",
+        "displayed_at": "31.08.2026 16:30",
+        "source_page": 3,
+        "date": "2026-08-31",
+        "weekday": 0,
+        "hour": 16,
+        "minute": 30,
+        "minute_of_day": 990
+      }
+    ],
+    "comments_after_return_same_day": 1,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-09-02",
+    "gap_minutes": 269,
+    "before": {
+      "commented_at": "2026-09-02T13:35",
+      "url": "https://exler.es/blog/comments/uchet-kurey-v-mfts.htm#1owjq",
+      "source_post_url": "https://exler.es/blog/uchet-kurey-v-mfts.htm",
+      "post_title": "Учёт курей в МФЦ",
+      "source_type": "live_html",
+      "anchor": "1owjq"
+    },
+    "return": {
+      "commented_at": "2026-09-02T18:04",
+      "url": "https://exler.es/blog/comments/napadeniye-na-tayms-ckver.htm#1owpj",
+      "source_post_url": "https://exler.es/blog/napadeniye-na-tayms-ckver.htm",
+      "post_title": "Нападение на Таймс-cквер",
+      "source_type": "live_html",
+      "anchor": "1owpj"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 5,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-09-02",
+    "gap_minutes": 310,
+    "before": {
+      "commented_at": "2026-09-02T18:20",
+      "url": "https://exler.es/blog/comments/napadeniye-na-tayms-ckver.htm#1owpv",
+      "source_post_url": "https://exler.es/blog/napadeniye-na-tayms-ckver.htm",
+      "post_title": "Нападение на Таймс-cквер",
+      "source_type": "live_html",
+      "anchor": "1owpv"
+    },
+    "return": {
+      "commented_at": "2026-09-02T23:30",
+      "url": "https://exler.es/dieta/comments/chto-proishodit-s-organizmom-vo-vremya-skachkov-glyukozy.htm#1owu1",
+      "source_post_url": "https://exler.es/dieta/chto-proishodit-s-organizmom-vo-vremya-skachkov-glyukozy.htm",
+      "post_title": "Здоровье | Что происходит с организмом во время скачков глюкозы",
+      "source_type": "live_html",
+      "anchor": "1owu1"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 2,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-09-03",
+    "gap_minutes": 180,
+    "before": {
+      "commented_at": "2026-09-03T19:08",
+      "url": "https://exler.es/blog/comments/kak-prostoy-tiktoker-makrona-razvel.htm#1oxa3",
+      "source_post_url": "https://exler.es/blog/kak-prostoy-tiktoker-makrona-razvel.htm",
+      "post_title": "Как простой тиктокер Макрона развёл",
+      "source_type": "live_html",
+      "anchor": "1oxa3"
+    },
+    "return": {
+      "commented_at": "2026-09-03T22:08",
+      "url": "https://exler.es/blog/comments/shorts-s-youtube-v-kommentakh.htm#1oxcy",
+      "source_post_url": "https://exler.es/blog/shorts-s-youtube-v-kommentakh.htm",
+      "post_title": "Shorts с YouTube в комментах",
+      "source_type": "live_html",
+      "anchor": "1oxcy"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 3,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-09-04",
+    "gap_minutes": 344,
+    "before": {
+      "commented_at": "2026-09-04T17:08",
+      "url": "https://exler.es/blog/comments/istoricheskoye-soglasheniye-s-venesueloy.htm#1oxps",
+      "source_post_url": "https://exler.es/blog/istoricheskoye-soglasheniye-s-venesueloy.htm",
+      "post_title": "Историческое соглашение с Венесуэлой",
+      "source_type": "live_html",
+      "anchor": "1oxps"
+    },
+    "return": {
+      "commented_at": "2026-09-04T22:52",
+      "url": "https://exler.es/blog/comments/istoricheskoye-soglasheniye-s-venesueloy.htm#1oxv0",
+      "source_post_url": "https://exler.es/blog/istoricheskoye-soglasheniye-s-venesueloy.htm",
+      "post_title": "Историческое соглашение с Венесуэлой",
+      "source_type": "live_html",
+      "anchor": "1oxv0"
+    },
+    "posts_in_gap": 1,
+    "grid_posts_in_gap": 1,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/pyatnishnaya-pesenka-476.htm",
+        "title": "Пятнишная песенка",
+        "published_at": "2026-09-04T18:00",
+        "displayed_at": "04.09.2026 18:00",
+        "source_page": 2,
+        "date": "2026-09-04",
+        "weekday": 4,
+        "hour": 18,
+        "minute": 0,
+        "minute_of_day": 1080
+      }
+    ],
+    "comments_after_return_same_day": 5,
+    "return_severity": 2
+  },
+  {
+    "date": "2026-09-05",
+    "gap_minutes": 584,
+    "before": {
+      "commented_at": "2026-09-05T12:25",
+      "url": "https://exler.es/blog/comments/knopki-podelitsya-na-sayte.htm#1oy2t",
+      "source_post_url": "https://exler.es/blog/knopki-podelitsya-na-sayte.htm",
+      "post_title": "Кнопки \"Поделиться\" на сайте",
+      "source_type": "live_html",
+      "anchor": "1oy2t"
+    },
+    "return": {
+      "commented_at": "2026-09-05T22:09",
+      "url": "https://exler.es/blog/comments/knopki-podelitsya-na-sayte.htm#1oyc9",
+      "source_post_url": "https://exler.es/blog/knopki-podelitsya-na-sayte.htm",
+      "post_title": "Кнопки \"Поделиться\" на сайте",
+      "source_type": "live_html",
+      "anchor": "1oyc9"
+    },
+    "posts_in_gap": 2,
+    "grid_posts_in_gap": 2,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/delo-protiv-khulio-iglesiasa-prodolzhayetsya.htm",
+        "title": "Дело против Хулио Иглесиаса продолжается",
+        "published_at": "2026-09-05T13:00",
+        "displayed_at": "05.09.2026 13:00",
+        "source_page": 2,
+        "date": "2026-09-05",
+        "weekday": 5,
+        "hour": 13,
+        "minute": 0,
+        "minute_of_day": 780
+      },
+      {
+        "url": "https://exler.es/blog/realnyye-9-etazhey.htm",
+        "title": "Реальные 9 этажей",
+        "published_at": "2026-09-05T16:40",
+        "displayed_at": "05.09.2026 16:40",
+        "source_page": 2,
+        "date": "2026-09-05",
+        "weekday": 5,
+        "hour": 16,
+        "minute": 40,
+        "minute_of_day": 1000
+      }
+    ],
+    "comments_after_return_same_day": 4,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-09-06",
+    "gap_minutes": 335,
+    "before": {
+      "commented_at": "2026-09-06T16:32",
+      "url": "https://exler.es/blog/comments/tagor-nadar.htm#1oykw",
+      "source_post_url": "https://exler.es/blog/tagor-nadar.htm",
+      "post_title": "Тагор Надар",
+      "source_type": "live_html",
+      "anchor": "1oykw"
+    },
+    "return": {
+      "commented_at": "2026-09-06T22:07",
+      "url": "https://exler.es/blog/comments/budet-mnogo-vospominaniy.htm#1oypf",
+      "source_post_url": "https://exler.es/blog/budet-mnogo-vospominaniy.htm",
+      "post_title": "Будет много воспоминаний",
+      "source_type": "live_html",
+      "anchor": "1oypf"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 1,
+    "return_severity": 1
+  },
+  {
+    "date": "2026-09-07",
+    "gap_minutes": 362,
+    "before": {
+      "commented_at": "2026-09-07T16:56",
+      "url": "https://exler.es/blog/comments/ocherednoy-zashkvar.htm#1oz42",
+      "source_post_url": "https://exler.es/blog/ocherednoy-zashkvar.htm",
+      "post_title": "Очередной зашквар",
+      "source_type": "live_html",
+      "anchor": "1oz42"
+    },
+    "return": {
+      "commented_at": "2026-09-07T22:58",
+      "url": "https://exler.es/films/comments/karolina-kerolajn.htm#1oz8c",
+      "source_post_url": "https://exler.es/films/karolina-kerolajn.htm",
+      "post_title": "Кинорецензии | Каролина Кэролайн | Криминальная драма",
+      "source_type": "live_html",
+      "anchor": "1oz8c"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 2,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-09-09",
+    "gap_minutes": 206,
+    "before": {
+      "commented_at": "2026-09-09T19:06",
+      "url": "https://exler.es/expromt/comments/obzor-flagmanskogo-smartfona-motorola-signature.htm#1p0al",
+      "source_post_url": "https://exler.es/expromt/obzor-flagmanskogo-smartfona-motorola-signature.htm",
+      "post_title": "Обзоры | Обзор флагманского смартфона Motorola Signature",
+      "source_type": "live_html",
+      "anchor": "1p0al"
+    },
+    "return": {
+      "commented_at": "2026-09-09T22:32",
+      "url": "https://exler.es/blog/comments/iskal-odnu-programmu.htm#1p0f7",
+      "source_post_url": "https://exler.es/blog/iskal-odnu-programmu.htm",
+      "post_title": "Искал одну программу",
+      "source_type": "live_html",
+      "anchor": "1p0f7"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 5,
+    "return_severity": 1
+  },
+  {
+    "date": "2026-09-10",
+    "gap_minutes": 259,
+    "before": {
+      "commented_at": "2026-09-10T18:01",
+      "url": "https://exler.es/blog/comments/seryeznoye-obvineniye-v-adres-netanyakhu.htm#1p0y5",
+      "source_post_url": "https://exler.es/blog/seryeznoye-obvineniye-v-adres-netanyakhu.htm",
+      "post_title": "Серьёзное обвинение в адрес Нетаньяху",
+      "source_type": "live_html",
+      "anchor": "1p0y5"
+    },
+    "return": {
+      "commented_at": "2026-09-10T22:20",
+      "url": "https://exler.es/films/comments/minony-i-monstry.htm#1p13o",
+      "source_post_url": "https://exler.es/films/minony-i-monstry.htm",
+      "post_title": "Кинорецензии | Миньоны и монстры | Анимация",
+      "source_type": "live_html",
+      "anchor": "1p13o"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 5,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-09-11",
+    "gap_minutes": 297,
+    "before": {
+      "commented_at": "2026-09-11T17:26",
+      "url": "https://exler.es/blog/comments/motorola-smart-connect.htm#1p1hj",
+      "source_post_url": "https://exler.es/blog/motorola-smart-connect.htm",
+      "post_title": "Motorola Smart Connect",
+      "source_type": "live_html",
+      "anchor": "1p1hj"
+    },
+    "return": {
+      "commented_at": "2026-09-11T22:23",
+      "url": "https://exler.es/blog/comments/zachem-oni-eto-delayut-2.htm#1p1n2",
+      "source_post_url": "https://exler.es/blog/zachem-oni-eto-delayut-2.htm",
+      "post_title": "Зачем они это делают?",
+      "source_type": "live_html",
+      "anchor": "1p1n2"
+    },
+    "posts_in_gap": 2,
+    "grid_posts_in_gap": 2,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/utratil-priznaki-inostrannogo-agenta.htm",
+        "title": "Утратил признаки иностранного агента",
+        "published_at": "2026-09-11T17:30",
+        "displayed_at": "11.09.2026 17:30",
+        "source_page": 2,
+        "date": "2026-09-11",
+        "weekday": 4,
+        "hour": 17,
+        "minute": 30,
+        "minute_of_day": 1050
+      },
+      {
+        "url": "https://exler.es/blog/pyatnishnaya-pesenka-477.htm",
+        "title": "Пятнишная песенка",
+        "published_at": "2026-09-11T18:00",
+        "displayed_at": "11.09.2026 18:00",
+        "source_page": 2,
+        "date": "2026-09-11",
+        "weekday": 4,
+        "hour": 18,
+        "minute": 0,
+        "minute_of_day": 1080
+      }
+    ],
+    "comments_after_return_same_day": 2,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-09-14",
+    "gap_minutes": 274,
+    "before": {
+      "commented_at": "2026-09-14T13:26",
+      "url": "https://exler.es/blog/comments/redmi-note-17-polnaya-degradatsiya.htm#1p2ew",
+      "source_post_url": "https://exler.es/blog/redmi-note-17-polnaya-degradatsiya.htm",
+      "post_title": "Redmi Note 17 - явная деградация",
+      "source_type": "live_html",
+      "anchor": "1p2ew"
+    },
+    "return": {
+      "commented_at": "2026-09-14T18:00",
+      "url": "https://exler.es/blog/comments/agitatsionnyy-rolik.htm#1p2nt",
+      "source_post_url": "https://exler.es/blog/agitatsionnyy-rolik.htm",
+      "post_title": "Агитационный ролик",
+      "source_type": "live_html",
+      "anchor": "1p2nt"
+    },
+    "posts_in_gap": 1,
+    "grid_posts_in_gap": 1,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/kak-sovladat-s-razvitiyem-ii.htm",
+        "title": "Как совладать с развитием ИИ",
+        "published_at": "2026-09-14T17:50",
+        "displayed_at": "14.09.2026 17:50",
+        "source_page": 1,
+        "date": "2026-09-14",
+        "weekday": 0,
+        "hour": 17,
+        "minute": 50,
+        "minute_of_day": 1070
+      }
+    ],
+    "comments_after_return_same_day": 4,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-09-14",
+    "gap_minutes": 268,
+    "before": {
+      "commented_at": "2026-09-14T18:00",
+      "url": "https://exler.es/blog/comments/agitatsionnyy-rolik.htm#1p2nt",
+      "source_post_url": "https://exler.es/blog/agitatsionnyy-rolik.htm",
+      "post_title": "Агитационный ролик",
+      "source_type": "live_html",
+      "anchor": "1p2nt"
+    },
+    "return": {
+      "commented_at": "2026-09-14T22:28",
+      "url": "https://exler.es/films/comments/mejdej.htm#1p2th",
+      "source_post_url": "https://exler.es/films/mejdej.htm",
+      "post_title": "Кинорецензии | Мэйдэй | Комедийный боевик",
+      "source_type": "live_html",
+      "anchor": "1p2th"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 3,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-09-15",
+    "gap_minutes": 336,
+    "before": {
+      "commented_at": "2026-09-15T16:42",
+      "url": "https://exler.es/expromt/comments/obzor-multivarki-aerogrilya-moulinex-multicook-fry.htm#1p3ar",
+      "source_post_url": "https://exler.es/expromt/obzor-multivarki-aerogrilya-moulinex-multicook-fry.htm",
+      "post_title": "Обзоры | Обзор мультиварки-аэрогриля Moulinex Multicook & Fry",
+      "source_type": "live_html",
+      "anchor": "1p3ar"
+    },
+    "return": {
+      "commented_at": "2026-09-15T22:18",
+      "url": "https://exler.es/expromt/comments/obzor-multivarki-aerogrilya-moulinex-multicook-fry.htm#1p3g3",
+      "source_post_url": "https://exler.es/expromt/obzor-multivarki-aerogrilya-moulinex-multicook-fry.htm",
+      "post_title": "Обзоры | Обзор мультиварки-аэрогриля Moulinex Multicook & Fry",
+      "source_type": "live_html",
+      "anchor": "1p3g3"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 1,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-09-16",
+    "gap_minutes": 817,
+    "before": {
+      "commented_at": "2026-09-16T10:06",
+      "url": "https://exler.es/blog/comments/kto-takoy-umar-kremlev.htm#1p3l4",
+      "source_post_url": "https://exler.es/blog/kto-takoy-umar-kremlev.htm",
+      "post_title": "Кто такой Умар Кремлёв",
+      "source_type": "live_html",
+      "anchor": "1p3l4"
+    },
+    "return": {
+      "commented_at": "2026-09-16T23:43",
+      "url": "https://exler.es/expromt/comments/obzor-multivarki-aerogrilya-moulinex-multicook-fry.htm#1p41c",
+      "source_post_url": "https://exler.es/expromt/obzor-multivarki-aerogrilya-moulinex-multicook-fry.htm",
+      "post_title": "Обзоры | Обзор мультиварки-аэрогриля Moulinex Multicook & Fry",
+      "source_type": "live_html",
+      "anchor": "1p41c"
+    },
+    "posts_in_gap": 4,
+    "grid_posts_in_gap": 4,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/fbr-nuzhny-zoofily-i-prostitutki.htm",
+        "title": "ФБР нужны зоофилы и проститутки",
+        "published_at": "2026-09-16T11:00",
+        "displayed_at": "16.09.2026 11:00",
+        "source_page": 1,
+        "date": "2026-09-16",
+        "weekday": 2,
+        "hour": 11,
+        "minute": 0,
+        "minute_of_day": 660
+      },
+      {
+        "url": "https://exler.es/blog/kak-eto-delayetsya-v-ispanii.htm",
+        "title": "Как это делается в Испании",
+        "published_at": "2026-09-16T12:30",
+        "displayed_at": "16.09.2026 12:30",
+        "source_page": 1,
+        "date": "2026-09-16",
+        "weekday": 2,
+        "hour": 12,
+        "minute": 30,
+        "minute_of_day": 750
+      },
+      {
+        "url": "https://exler.es/blog/u-nikh-net-nikakikh-interesov.htm",
+        "title": "У них нет никаких интересов",
+        "published_at": "2026-09-16T14:00",
+        "displayed_at": "16.09.2026 14:00",
+        "source_page": 1,
+        "date": "2026-09-16",
+        "weekday": 2,
+        "hour": 14,
+        "minute": 0,
+        "minute_of_day": 840
+      },
+      {
+        "url": "https://exler.es/blog/vodichku-budet-podvozit.htm",
+        "title": "Водичку будет подвозить",
+        "published_at": "2026-09-16T15:00",
+        "displayed_at": "16.09.2026 15:00",
+        "source_page": 1,
+        "date": "2026-09-16",
+        "weekday": 2,
+        "hour": 15,
+        "minute": 0,
+        "minute_of_day": 900
+      }
+    ],
+    "comments_after_return_same_day": 1,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-09-17",
+    "gap_minutes": 326,
+    "before": {
+      "commented_at": "2026-09-17T16:47",
+      "url": "https://exler.es/blog/comments/chekhly-na-krossovki.htm#1p4cv",
+      "source_post_url": "https://exler.es/blog/chekhly-na-krossovki.htm",
+      "post_title": "Чехлы на кроссовки",
+      "source_type": "live_html",
+      "anchor": "1p4cv"
+    },
+    "return": {
+      "commented_at": "2026-09-17T22:13",
+      "url": "https://exler.es/blog/comments/on-vpechatlen-svoim-intellektom.htm#1p4iv",
+      "source_post_url": "https://exler.es/blog/on-vpechatlen-svoim-intellektom.htm",
+      "post_title": "Он впечатлён своим интеллектом",
+      "source_type": "live_html",
+      "anchor": "1p4iv"
+    },
+    "posts_in_gap": 0,
+    "grid_posts_in_gap": 0,
+    "publications_in_gap": [],
+    "comments_after_return_same_day": 7,
+    "return_severity": 0
+  },
+  {
+    "date": "2026-09-18",
+    "gap_minutes": 760,
+    "before": {
+      "commented_at": "2026-09-18T10:00",
+      "url": "https://exler.es/blog/comments/on-vpechatlen-svoim-intellektom.htm#1p4l3",
+      "source_post_url": "https://exler.es/blog/on-vpechatlen-svoim-intellektom.htm",
+      "post_title": "Он впечатлён своим интеллектом",
+      "source_type": "live_html",
+      "anchor": "1p4l3"
+    },
+    "return": {
+      "commented_at": "2026-09-18T22:40",
+      "url": "https://exler.es/blog/comments/pyatnishnaya-pesenka-478.htm#1p4wv",
+      "source_post_url": "https://exler.es/blog/pyatnishnaya-pesenka-478.htm",
+      "post_title": "Пятнишная песенка",
+      "source_type": "live_html",
+      "anchor": "1p4wv"
+    },
+    "posts_in_gap": 5,
+    "grid_posts_in_gap": 4,
+    "publications_in_gap": [
+      {
+        "url": "https://exler.es/blog/razgovorchiki-o-vazhnom.htm",
+        "title": "Разговорчики в строю о важном",
+        "published_at": "2026-09-18T10:10",
+        "displayed_at": "18.09.2026 10:10",
+        "source_page": 1,
+        "date": "2026-09-18",
+        "weekday": 4,
+        "hour": 10,
+        "minute": 10,
+        "minute_of_day": 610
+      },
+      {
+        "url": "https://exler.es/blog/sovershenno-neudivitelno.htm",
+        "title": "Совершенно неудивительно",
+        "published_at": "2026-09-18T10:50",
+        "displayed_at": "18.09.2026 10:50",
+        "source_page": 1,
+        "date": "2026-09-18",
+        "weekday": 4,
+        "hour": 10,
+        "minute": 50,
+        "minute_of_day": 650
+      },
+      {
+        "url": "https://exler.es/bannizm/pylkie-skralbukingi-okeanskih-muh.htm",
+        "title": "Баннизмы | Пылкие скралбукинги океанских мух",
+        "published_at": "2026-09-18T11:51",
+        "displayed_at": "18.09.2026 11:51",
+        "source_page": 1,
+        "date": "2026-09-18",
+        "weekday": 4,
+        "hour": 11,
+        "minute": 51,
+        "minute_of_day": 711
+      },
+      {
+        "url": "https://exler.es/blog/vospolzovalsya-sluchayem.htm",
+        "title": "Воспользовался случаем",
+        "published_at": "2026-09-18T13:00",
+        "displayed_at": "18.09.2026 13:00",
+        "source_page": 1,
+        "date": "2026-09-18",
+        "weekday": 4,
+        "hour": 13,
+        "minute": 0,
+        "minute_of_day": 780
+      },
+      {
+        "url": "https://exler.es/blog/pyatnishnaya-pesenka-478.htm",
+        "title": "Пятнишная песенка",
+        "published_at": "2026-09-18T18:00",
+        "displayed_at": "18.09.2026 18:00",
+        "source_page": 1,
+        "date": "2026-09-18",
+        "weekday": 4,
+        "hour": 18,
+        "minute": 0,
+        "minute_of_day": 1080
+      }
+    ],
+    "comments_after_return_same_day": 4,
+    "return_severity": 0
+  }
+]
