@@ -1,0 +1,478 @@
+[
+  {
+    "id": "S01",
+    "url": "https://exler.es/blog/tyapnichnoe-vino-dlya-sootvetstvuyushego-nastroeniya.htm",
+    "title": "Тяпничное вино для соответствующего настроения",
+    "published_at": "27.05.2011 20:06",
+    "accessed_at": "2026-09-22T23:25:36.892633+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/tyapnichnoe-vino-dlya-sootvetstvuyushego-nastroeniya.htm",
+    "html_sha256": "2e0bba4503f05ba3c2b569c8753ac72ba44a5fc79f7e0592280cc51947f854b0",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-001"
+    ]
+  },
+  {
+    "id": "S02",
+    "url": "https://exler.es/blog/stoit-li-pokupat-dorogoe-vino.htm",
+    "title": "Стоит ли покупать дорогое вино",
+    "published_at": "25.01.2013 10:34",
+    "accessed_at": "2026-09-22T23:31:55.681768+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/stoit-li-pokupat-dorogoe-vino.htm",
+    "html_sha256": "4e7a1ee3e5858dbf484d05de713f254c2f8a0386fffab02001cf33a8090cf187",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-002"
+    ]
+  },
+  {
+    "id": "S03",
+    "url": "https://exler.es/blog/vino-valduero-crianza.htm",
+    "title": "Вино Valduero Crianza",
+    "published_at": "11.05.2013 10:27",
+    "accessed_at": "2026-09-22T23:32:05.061144+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/vino-valduero-crianza.htm",
+    "html_sha256": "a60140a1ca2a28451568769e9dc25aff434aeeb6394f832c109b2033b7c07dfb",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-003"
+    ]
+  },
+  {
+    "id": "S04",
+    "url": "https://exler.es/blog/nabor-vina-iz-duty-free-barselony.htm",
+    "title": "Набор вина из Duty Free Барселоны",
+    "published_at": "27.04.2013 12:58",
+    "accessed_at": "2026-09-22T23:32:05.440915+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/nabor-vina-iz-duty-free-barselony.htm",
+    "html_sha256": "de2e17982b39882d202df93f7c37f476053060af244daeeff5cdf0dc9a6eae9e",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-004"
+    ]
+  },
+  {
+    "id": "S05",
+    "url": "https://exler.es/blog/ispanskoye-beloye-vino-kotoroye-ya-rekomenduyu.htm",
+    "title": "Испанские белые вина, которые я рекомендую",
+    "published_at": "20.07.2018 16:15",
+    "accessed_at": "2026-09-22T23:32:14.025351+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/ispanskoye-beloye-vino-kotoroye-ya-rekomenduyu.htm",
+    "html_sha256": "261db36ecaace0cd1288cf910e398fa8483644068bf8855d19d940fdd7b5c718",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-005"
+    ]
+  },
+  {
+    "id": "S06",
+    "url": "https://exler.es/blog/kakaya-tsena-vina-mozhet-byt-opravdana-kachestvom.htm",
+    "title": "Какая цена вина может быть оправдана качеством",
+    "published_at": "03.08.2019 13:04",
+    "accessed_at": "2026-09-22T23:31:55.749284+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/kakaya-tsena-vina-mozhet-byt-opravdana-kachestvom.htm",
+    "html_sha256": "296c79210291e0a0e52241d570612f422d507cd05e00d7299305176bbf9e84dd",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-006"
+    ]
+  },
+  {
+    "id": "S07",
+    "url": "https://exler.es/blog/ispanskoye-igristoye.htm",
+    "title": "Испанское игристое",
+    "published_at": "02.01.2024 13:00",
+    "accessed_at": "2026-09-22T23:31:55.985349+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/ispanskoye-igristoye.htm",
+    "html_sha256": "dc7bdb69917db7f8ad65c326cefdef786a57c354ff9d4853cc51e6a5c3c2ed90",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-007"
+    ]
+  },
+  {
+    "id": "S08",
+    "url": "https://exler.es/blog/nauchnyy-eksperiment.htm",
+    "title": "Научный эксперимент",
+    "published_at": "29.03.2025 12:00",
+    "accessed_at": "2026-09-22T23:25:37.395329+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/nauchnyy-eksperiment.htm",
+    "html_sha256": "e0742b8bbe7fd9df53ead304244806cfa67d4dd0e1f3f88fd129947251e5dfc2",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-008"
+    ]
+  },
+  {
+    "id": "S09",
+    "url": "https://exler.es/blog/tseny-na-vino-v-ispanii.htm",
+    "title": "Цены на вино в Испании",
+    "published_at": "28.05.2025 11:00",
+    "accessed_at": "2026-09-22T23:31:56.115782+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/tseny-na-vino-v-ispanii.htm",
+    "html_sha256": "6d52532efd6c0623f8e068996ca2c9101333ec2ea328c0658d42264fd39c0bd8",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-008"
+    ]
+  },
+  {
+    "id": "S10",
+    "url": "https://exler.es/blog/sajtu-exler-ru-18-let.htm",
+    "title": "Сайту Exler.ru - 18 лет",
+    "published_at": "14.01.2017 11:04",
+    "accessed_at": "2026-09-22T23:25:47.337764+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/sajtu-exler-ru-18-let.htm",
+    "html_sha256": "bdbdfd487018716c4c80f3c189a0cc7db1ac969703f0e17edbdd67e40e2dfc2b",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-009"
+    ]
+  },
+  {
+    "id": "S11",
+    "url": "https://exler.es/blog/sajtu-exler-ru-ispolnilos-19-let.htm",
+    "title": "Сайту Exler.ru исполнилось 19 лет",
+    "published_at": "14.01.2018 10:04",
+    "accessed_at": "2026-09-22T23:25:46.342315+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/sajtu-exler-ru-ispolnilos-19-let.htm",
+    "html_sha256": "a4a6a9e58459429736a92b4d6c3109110ad9acce21e5565d6b5b586a4c1d3f88",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-010"
+    ]
+  },
+  {
+    "id": "S12",
+    "url": "https://web.archive.org/web/20220514115058/https://ffad.ru/blog/ogromnoe-intervyu-s-aleksom-ekslerom-ch-0504191411",
+    "title": "Огромное интервью с Алексом Экслером — Часть 2: хайп, донат, гордоны",
+    "published_at": "2019; беседа в феврале, публикация весной",
+    "accessed_at": "2026-09-22T23:37:28.428643+00:00",
+    "status": 200,
+    "final_url": "https://web.archive.org/web/20220514115058/https://ffad.ru/blog/ogromnoe-intervyu-s-aleksom-ekslerom-ch-0504191411",
+    "html_sha256": "e900c5a4d8c9ecd3d6258d2f77c6677a2b3cff6648e593995fec7cdb8689414e",
+    "kind": "author_interview",
+    "cases": [
+      "LIFE-011"
+    ]
+  },
+  {
+    "id": "S13",
+    "url": "https://exler.es/blog/moy-videokanal-s-retsenziyami-2.htm",
+    "title": "Мой видеоканал с рецензиями",
+    "published_at": "13.11.2021 11:04",
+    "accessed_at": "2026-09-22T23:37:10.136807+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/moy-videokanal-s-retsenziyami-2.htm",
+    "html_sha256": "7c7484d788f3cbaac9519c922ef061c5b9f6fc5ee3286e398f6e90c471f0adf5",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-012"
+    ]
+  },
+  {
+    "id": "S14",
+    "url": "https://exler.es/blog/sayt-exlerru-23-goda-v-pryamom-efire.htm",
+    "title": "Сайт Exler.ru - 23 года в прямом эфире!",
+    "published_at": "14.01.2022 09:00",
+    "accessed_at": "2026-09-22T23:25:46.003827+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/sayt-exlerru-23-goda-v-pryamom-efire.htm",
+    "html_sha256": "5ee4452555477fffa631b4e99a3dfb872f244fd88315d93f852db3dae108fff8",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-013"
+    ]
+  },
+  {
+    "id": "S15",
+    "url": "https://exler.es/blog/saytu-exlerru-ochen-nuzhna-vasha-pomoshch.htm",
+    "title": "Сайту Exler.ru очень нужна ваша помощь!",
+    "published_at": "06.12.2025 09:50",
+    "accessed_at": "2026-09-22T23:25:45.438939+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/saytu-exlerru-ochen-nuzhna-vasha-pomoshch.htm",
+    "html_sha256": "9c51f225df649f130ca00155e566fd56876001ad8e2ce98a871d0d94f2e0b42d",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-014"
+    ]
+  },
+  {
+    "id": "S16",
+    "url": "https://exler.es/blog/otkryl-dlya-sebya-karcher.htm",
+    "title": "Открыл для себя Kärcher",
+    "published_at": "09.08.2026 13:20",
+    "accessed_at": "2026-09-22T23:25:37.558896+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/otkryl-dlya-sebya-karcher.htm",
+    "html_sha256": "3031d7dcc23005a12753f92a983e2de6b3cb63cb3a0dbd1432485663bb9e931c",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-015"
+    ]
+  },
+  {
+    "id": "S17",
+    "url": "https://exler.es/blog/kakuyu-model-predpochest.htm",
+    "title": "Какую модель предпочесть?",
+    "published_at": "10.08.2026 16:30",
+    "accessed_at": "2026-09-22T23:25:37.141592+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/kakuyu-model-predpochest.htm",
+    "html_sha256": "bd651cfb6341bd701f3870e47d5ca1ac0a256810ddb766e1ae8bbeb24ff6a271",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-015"
+    ]
+  },
+  {
+    "id": "S18",
+    "url": "https://exler.es/aliexpress/m-a-a-a-alenkiy-da-udalenkiy-vneshniy-akkumulyator.htm",
+    "title": "М-а-а-а-аленький да удаленький внешний аккумулятор",
+    "published_at": "04.01.2019",
+    "accessed_at": "2026-09-22T23:44:46.002799+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/aliexpress/m-a-a-a-alenkiy-da-udalenkiy-vneshniy-akkumulyator.htm",
+    "html_sha256": "28786ea329d25d23f6f7348078df9a3075f8bfa36f0670196d7b8707d19be24a",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-016"
+    ]
+  },
+  {
+    "id": "S19",
+    "url": "https://exler.es/blog/universalnyy-akkumulyator.htm",
+    "title": "Универсальный аккумулятор",
+    "published_at": "30.05.2024 13:18",
+    "accessed_at": "2026-09-22T23:32:41.931495+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/universalnyy-akkumulyator.htm",
+    "html_sha256": "edf3a5d4ec337d8d712c47b39a3e71cb2b0c911bccbdb787b05df5e76597900b",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-017"
+    ]
+  },
+  {
+    "id": "S20",
+    "url": "https://exler.es/blog/poddat-gazku.htm",
+    "title": "Поддать газку",
+    "published_at": "02.01.2022 12:34",
+    "accessed_at": "2026-09-22T23:37:01.030074+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/poddat-gazku.htm",
+    "html_sha256": "cb08dbb2f7d6ebfa3fea8b659662024ee25ee42b3728a0c3f4bf185ae22ee742",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-018"
+    ]
+  },
+  {
+    "id": "S21",
+    "url": "https://exler.es/blog/samsung-galaxy-s22-ultra.htm",
+    "title": "Samsung Galaxy S22 Ultra",
+    "published_at": "11.02.2022 14:04",
+    "accessed_at": "2026-09-22T23:37:01.576100+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/samsung-galaxy-s22-ultra.htm",
+    "html_sha256": "cf8ed4f83f9a6b770e1fa41a623d3c8d6f42f2ffe7f5b4fee62dd16394f28a22",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-019"
+    ]
+  },
+  {
+    "id": "S22",
+    "url": "https://exler.es/blog/pokritikuyte-monitorchik.htm",
+    "title": "Покритикуйте мониторчик",
+    "published_at": "05.01.2022 10:34",
+    "accessed_at": "2026-09-22T23:37:01.444108+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/pokritikuyte-monitorchik.htm",
+    "html_sha256": "7d3f3a9de731a39d7621a8ff2fb3bd1c8f2be300807a4b23f2f358600e035006",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-020"
+    ]
+  },
+  {
+    "id": "S23",
+    "url": "https://exler.es/blog/novyye-ochki.htm",
+    "title": "Новые очки",
+    "published_at": "14.05.2025 08:45",
+    "accessed_at": "2026-09-22T23:32:23.396845+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/novyye-ochki.htm",
+    "html_sha256": "965c547ca5db8ea3d5239c7b387dcce08b8d26cfe6be5e7ba0783eec4acb948f",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-021"
+    ]
+  },
+  {
+    "id": "S24",
+    "url": "https://exler.es/blog/kak-ya-pereshel-na-dvoye-umnykh-chasov.htm",
+    "title": "Как я перешел на двое умных часов",
+    "published_at": "17.09.2025 11:00",
+    "accessed_at": "2026-09-22T23:32:32.312801+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/kak-ya-pereshel-na-dvoye-umnykh-chasov.htm",
+    "html_sha256": "773cb8f13a61ab99d68f45d839d6c8a1d71db2c4f0e8c174b0b7e020328c1a2f",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-022"
+    ]
+  },
+  {
+    "id": "S25",
+    "url": "https://exler.es/blog/katastroficheski-vyrosli.htm",
+    "title": "Катастрофически выросли!",
+    "published_at": "14.12.2022 09:00",
+    "accessed_at": "2026-09-22T23:37:10.403944+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/katastroficheski-vyrosli.htm",
+    "html_sha256": "deadd64644df25a8670e1e744e5515fc1d9fa754a87d09bd0b94799e39ab6e7e",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-023"
+    ]
+  },
+  {
+    "id": "S26",
+    "url": "https://exler.es/blog/vchera-byli-krupnyye-no-po-sem.htm",
+    "title": "Вчера были крупные, но по семь",
+    "published_at": "24.09.2021 11:04",
+    "accessed_at": "2026-09-22T23:32:23.397367+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/vchera-byli-krupnyye-no-po-sem.htm",
+    "html_sha256": "57dcc2b3ad6ce344bf4d0e8fd347e35b833ebe01f1ac5fd5870f846a86eb6266",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-024"
+    ]
+  },
+  {
+    "id": "S27",
+    "url": "https://exler.es/blog/a-ne-poyest-li-nam-yaponskoy-yedy-2.htm",
+    "title": "А не поесть ли нам японской еды?",
+    "published_at": "28.12.2024 12:55",
+    "accessed_at": "2026-09-22T23:32:14.471644+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/a-ne-poyest-li-nam-yaponskoy-yedy-2.htm",
+    "html_sha256": "ba7debfbe496e341fca4ecf7048dd9e09b2bd9e45f6113f9aafbf66d7d0584af",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-025"
+    ]
+  },
+  {
+    "id": "S28",
+    "url": "https://exler.es/blog/ya-v-rige.htm",
+    "title": "Я в Риге",
+    "published_at": "21.06.2025 08:50",
+    "accessed_at": "2026-09-22T23:32:23.773766+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/ya-v-rige.htm",
+    "html_sha256": "cec4f6da72b398c4a2a16df407dbe1b299161a9f04e4aba90967309f331c0151",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-026"
+    ]
+  },
+  {
+    "id": "S29",
+    "url": "https://exler.es/blog/tupye-moskovskie-ponty-3.htm",
+    "title": "Тупые московские понты",
+    "published_at": "01.05.2011 21:15",
+    "accessed_at": "2026-09-22T23:25:53.630276+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/tupye-moskovskie-ponty-3.htm",
+    "html_sha256": "114d1afe78724571061477fdf074f29de87fdc4d0909d021878faa6e82112ab6",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-027"
+    ]
+  },
+  {
+    "id": "S30",
+    "url": "https://exler.es/blog/17-dney-bez-stalnogo-druga.htm",
+    "title": "17 дней без стального друга!",
+    "published_at": "14.09.2024 11:26",
+    "accessed_at": "2026-09-22T23:32:32.649444+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/17-dney-bez-stalnogo-druga.htm",
+    "html_sha256": "dbebe45d452e39e1b3cdffe13701d8127e76bf6cd213e0d10f61c986e0dc6169",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-028"
+    ]
+  },
+  {
+    "id": "S31",
+    "url": "https://exler.es/blog/vozvrat-k-monitoru.htm",
+    "title": "Возврат к монитору",
+    "published_at": "18.07.2025 09:00",
+    "accessed_at": "2026-09-22T23:32:32.407812+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/vozvrat-k-monitoru.htm",
+    "html_sha256": "968f92e6c6ce033add588bc9d14dd809be979f35cfc292111e1432ef591c9c56",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-029"
+    ]
+  },
+  {
+    "id": "S32",
+    "url": "https://exler.es/blog/mini-stiralka-dlya-noskov-ot-xiaomi.htm",
+    "title": "Мини-стиралка для носков от Xiaomi",
+    "published_at": "11.08.2025 14:00",
+    "accessed_at": "2026-09-22T23:32:32.313021+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/mini-stiralka-dlya-noskov-ot-xiaomi.htm",
+    "html_sha256": "6d47bfc8d3dc6e5012949cc8f137fd523ff627bf8990102214d9b2376e2de8ce",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-030"
+    ]
+  },
+  {
+    "id": "S33",
+    "url": "https://exler.es/blog/kak-ya-bral-mashinu-naprokat-v-barselone.htm",
+    "title": "Как я брал машину напрокат в Барселоне",
+    "published_at": "14.03.2023 11:00",
+    "accessed_at": "2026-09-22T23:32:41.758813+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/kak-ya-bral-mashinu-naprokat-v-barselone.htm",
+    "html_sha256": "e88f9869f5a33297a3aa17206227f7f1f17e3f5b7933e2677c55d54e25e2c27c",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-031"
+    ]
+  },
+  {
+    "id": "S34",
+    "url": "https://exler.es/blog/strannyye-spisaniya-s-karty.htm",
+    "title": "Странные списания с карты",
+    "published_at": "04.10.2025 12:00",
+    "accessed_at": "2026-09-22T23:32:23.494995+00:00",
+    "status": 200,
+    "final_url": "https://exler.es/blog/strannyye-spisaniya-s-karty.htm",
+    "html_sha256": "e03ed4942ddcca50b265e272419e8ece11202bb01d74d403d8464741a8054e2b",
+    "kind": "author_post",
+    "cases": [
+      "LIFE-032"
+    ]
+  }
+]

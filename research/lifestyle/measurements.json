@@ -1,0 +1,144 @@
+[
+  {
+    "id": "M01",
+    "case": "LIFE-008",
+    "inputs": {
+      "eur": 5,
+      "litres": 5
+    },
+    "formula": "eur / litres",
+    "value": 1.0,
+    "unit": "EUR/litre",
+    "status": "self_reported_purchase"
+  },
+  {
+    "id": "M02",
+    "case": "LIFE-008",
+    "inputs": {
+      "eur": 15,
+      "litres": 5
+    },
+    "formula": "eur / litres",
+    "value": 3.0,
+    "unit": "EUR/litre",
+    "status": "self_reported_purchase"
+  },
+  {
+    "id": "M03",
+    "case": "LIFE-004",
+    "inputs": {
+      "eur": 61,
+      "bottles": 3
+    },
+    "formula": "eur / bottles",
+    "value": 20.333333333333332,
+    "unit": "EUR/bottle",
+    "status": "approximate_offer_average_not_verified_personal_outlay"
+  },
+  {
+    "id": "M04",
+    "case": "LIFE-015",
+    "inputs": {
+      "bundle": 149,
+      "base": 94
+    },
+    "formula": "bundle - base",
+    "value": 55,
+    "unit": "EUR",
+    "status": "offer_difference_not_realized_saving",
+    "percentage_of_bundle": 36.91275167785235
+  },
+  {
+    "id": "M05",
+    "case": "LIFE-015",
+    "inputs": {
+      "bosch": 104,
+      "karcher": 93
+    },
+    "formula": "bosch - karcher",
+    "value": 11,
+    "unit": "EUR",
+    "status": "provisional_choice_more_expensive",
+    "percentage_of_karcher": 11.827956989247312
+  },
+  {
+    "id": "M06",
+    "case": "LIFE-015",
+    "inputs": {
+      "nilfisk": 160,
+      "bosch": 104
+    },
+    "formula": "nilfisk - bosch",
+    "value": 56,
+    "unit": "EUR",
+    "status": "offer_difference_not_realized_saving",
+    "percentage_of_nilfisk": 35.0
+  },
+  {
+    "id": "M07",
+    "case": "LIFE-016",
+    "inputs": {
+      "single": 720,
+      "quantity": 3,
+      "bundle": 1450
+    },
+    "formula": "single * quantity - bundle",
+    "value": 710,
+    "unit": "RUB",
+    "status": "offer_comparison_shipping_unknown",
+    "percentage_of_three_singles": 32.870370370370374
+  },
+  {
+    "id": "M08",
+    "case": "LIFE-024",
+    "inputs": {
+      "dish_eur": 30,
+      "shrimp": 4
+    },
+    "formula": "dish_eur / shrimp",
+    "value": 7.5,
+    "unit": "EUR/shrimp",
+    "status": "self_reported_served_dish"
+  },
+  {
+    "id": "M09",
+    "case": "LIFE-025",
+    "inputs": {
+      "months_per_year": 12,
+      "minimum_month_gap": 2,
+      "maximum_month_gap": 3
+    },
+    "formula": "[12 / 3, 12 / 2]",
+    "value": [
+      4.0,
+      6.0
+    ],
+    "unit": "meals/year",
+    "status": "conditional_annualization_not_observed_count"
+  },
+  {
+    "id": "M10",
+    "case": "LIFE-025",
+    "inputs": {
+      "exclusive_cost_ceiling": 60,
+      "people": 3
+    },
+    "formula": "exclusive_cost_ceiling / people",
+    "value": 20.0,
+    "unit": "EUR/person",
+    "status": "strict_upper_bound",
+    "operator": "<"
+  },
+  {
+    "id": "M11",
+    "case": "LIFE-031",
+    "inputs": {
+      "advance": 112,
+      "balance": 268
+    },
+    "formula": "advance + balance",
+    "value": 380,
+    "unit": "EUR",
+    "status": "self_reported_final_total"
+  }
+]
