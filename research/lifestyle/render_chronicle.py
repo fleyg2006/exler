@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 ROOT=Path(__file__).resolve().parent
 DATA=ROOT/'cases.json' if (ROOT/'cases.json').exists() else ROOT.parent/'deliverable/research/lifestyle/cases.json'
 OUT=Path(sys.argv[1]) if len(sys.argv)>1 else ROOT/'exler-chronicle.png'
-cs={c['id']:c for c in json.loads(DATA.read_text())};aps=json.loads((DATA.parent/'support-appeals.json').read_text())
+cs={c['id']:c for c in json.loads(DATA.read_text())}
 W,H,S=1600,2310,2
 PAPER='#F5F1E8';INK='#242823';MUTED='#64685F';RED='#873D44';GREEN='#397362';LINE='#DAD7CC';WHITE='#FFFDF8'
 im=Image.new('RGB',(W*S,H*S),PAPER);d=ImageDraw.Draw(im)
@@ -57,23 +57,23 @@ for x,tag,big,body,cid in [
  (564,'ЧАСЫ ULTRA','Купил за €260','Выбрал модель 2024 после выхода следующей. €350–360 из обзора — рыночный ориентир, не его чек.','LIFE-044'),
  (1072,'РАБОЧЕЕ КРЕСЛО','Купил за €159','Планировал около €150. После обхода магазинов выбрал IKEA MARKUS.','LIFE-043')]:
  box(x,1228,472,277);text(x+24,1249,tag,18,RED,True);text(x+24,1293,big,35,INK,True);para(x+24,1353,body,21,423);text(x+24,1470,cid,16,MUTED)
-text(56,1544,'04  ЮБИЛЕЙ ПРЕВРАЩАЕТСЯ В КАЛЕНДАРЬ',32,INK,True)
-text(56,1594,'25 самостоятельных просьб поддержать сайт. Юбилейные посты исключены.',23,MUTED)
-months=['ЯНВ','ФЕВ','МАР','АПР','МАЙ','ИЮН','ИЮЛ','АВГ','СЕН','ОКТ','НОЯ','ДЕК']
-x0=220;cw=96;y0=1680
-for j,m in enumerate(months):text(x0+j*cw+5,1640,m,17,MUTED)
-for i,year in enumerate([2023,2024,2025,2026]):
- y=y0+i*67;text(66,y+7,str(year),26,INK,True)
- for m in range(1,13):
-  found=[a for a in aps if a['date'].startswith(f'{year}-{m:02}')];future=year==2026 and m>9;fill=RED if found else ('#ECE9E0' if not future else PAPER);box(x0+(m-1)*cw,y,78,47,fill)
-  if found:text(x0+(m-1)*cw+25,y+7,found[0]['date'][-2:],22,WHITE,True)
-  elif not future:text(x0+(m-1)*cw+29,y+7,'—',20,'#B5B8AE')
- total=sum(a['date'].startswith(str(year)) for a in aps);text(1410,y+3,str(total),30,RED,True)
-text(1377,1640,'ПОСТОВ',17,MUTED)
-text(56,1969,'В клетках — день публикации. 2026 год — по 23 сентября. Это частота текстов, не сумма донатов.',18,MUTED)
+text(56,1544,'04  КУПОН КАК СЮЖЕТ',32,INK,True)
+text(56,1594,'Уплаченные суммы и найденные альтернативы — по собственным публикациям.',23,MUTED)
+for x,tag,paid,paid_note,offer,offer_note,cid in [
+ (56,'НОУТБУК  /  ДЕКАБРЬ 2024','€1092','заплатил с купоном','от €1800','его оценка похожей\nконфигурации в Испании','LIFE-047'),
+ (564,'ВЕСЫ HUAWEI  /  ОКТЯБРЬ 2025','€86','купил китайскую версию','€199','предложение Amazon;\nза эту цену не стал бы брать','LIFE-042'),
+ (1072,'CMF PHONE  /  НОЯБРЬ 2024','€239','купил накануне','€173','позднее найденная цена\nс купоном: поторопился','LIFE-041')]:
+ box(x,1644,472,308)
+ text(x+24,1664,tag,17,RED,True)
+ text(x+24,1705,paid,38,INK,True)
+ text(x+24,1760,paid_note,21,MUTED)
+ text(x+24,1800,offer,32,RED,True)
+ para(x+24,1848,offer_note,20,422,MUTED)
+ text(x+24,1920,cid,16,MUTED)
+text(56,1971,'Разные площадки, версии и условия покупки. Разница цен не приравнивается к полученной скидке.',18,MUTED)
 line(56,2023,1544,2023,LINE,2)
 text(56,2054,'Что теперь можно сказать уверенно',25,INK,True)
-para(56,2104,'Есть прямые ограничения обзорного бюджета, покупки по акциям и повторяющиеся просьбы о поддержке. При этом крупные покупки, поездки и доплаты за удовольствие продолжаются.',24,1440)
+para(56,2104,'Есть прямые ограничения обзорного бюджета, покупки по акциям и выбор более доступных версий. При этом крупные покупки, поездки и доплаты за удовольствие продолжаются.',24,1440)
 text(56,2238,'ДАННЫЕ: github.com/fleyg2006/exler  →  research/lifestyle   •   название сатирическое',18,MUTED)
 OUT.parent.mkdir(parents=True,exist_ok=True);im.save(OUT,optimize=True)
 print(json.dumps({'path':str(OUT),'width':W*S,'height':H*S,'bytes':OUT.stat().st_size}))
