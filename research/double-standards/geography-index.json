@@ -1,0 +1,357 @@
+{
+  "checked_on": "2026-09-25",
+  "counts": {
+    "cards": 15,
+    "main_comparisons": 8,
+    "controls": 7,
+    "categories": {
+      "asymmetric_framing": 4,
+      "explicit_political_criterion": 2,
+      "limited_police_comparison": 2,
+      "acknowledged_change_of_view": 1,
+      "different_underlying_conditions": 1,
+      "consistency_control": 5
+    },
+    "source_pages": 35,
+    "verified_comment_anchors": 6,
+    "requested_urls": 221,
+    "request_kinds": {
+      "post": 154,
+      "category": 3,
+      "search": 64
+    },
+    "fetch_errors": 0,
+    "overlap_with_previous_three_studies": [],
+    "corpus_unique_posts": 14443,
+    "corpus_author_rows": 19662,
+    "corpus_cult_records": 3175,
+    "whole_site_exhaustiveness": false,
+    "note": "Counts refer to comparisons and source addresses, not independent established failures or whole-corpus manual readings."
+  },
+  "cases": [
+    {
+      "id": "GEO-001",
+      "title": "Один плохой обед описывает Сочи. Одного плохого отеля для Испании мало",
+      "category": "asymmetric_framing",
+      "countries": [
+        "RF",
+        "Spain"
+      ],
+      "document": "GEOGRAPHY.md#geo-001",
+      "source_pages": [
+        "https://exler.es/blog/kopirayter-urovnya-bokh.htm"
+      ],
+      "comment_urls": [
+        "https://exler.es/blog/comments/kopirayter-urovnya-bokh.htm#xnmk",
+        "https://exler.es/blog/comments/kopirayter-urovnya-bokh.htm#xno6",
+        "https://exler.es/blog/comments/kopirayter-urovnya-bokh.htm#xnph"
+      ],
+      "independent_proven_double_standard": false,
+      "source_ids": [
+        "GEO-S014"
+      ]
+    },
+    {
+      "id": "GEO-002",
+      "title": "Один Дуров, две исходные презумпции",
+      "category": "asymmetric_framing",
+      "countries": [
+        "RF",
+        "France"
+      ],
+      "document": "GEOGRAPHY.md#geo-002",
+      "source_pages": [
+        "https://exler.es/blog/blokirovka-quot-telegrama-quot.htm",
+        "https://exler.es/blog/durovu-predyavili-obvineniya-2.htm",
+        "https://exler.es/blog/durova-zaderzhali-v-parizhe.htm",
+        "https://exler.es/blog/durovu-predyavili-obvineniya.htm"
+      ],
+      "comment_urls": [],
+      "independent_proven_double_standard": false,
+      "source_ids": [
+        "GEO-S005",
+        "GEO-S010",
+        "GEO-S009",
+        "GEO-S011"
+      ]
+    },
+    {
+      "id": "GEO-003",
+      "title": "Telegram один, температура текста разная",
+      "category": "asymmetric_framing",
+      "countries": [
+        "RF",
+        "Spain"
+      ],
+      "document": "GEOGRAPHY.md#geo-003",
+      "source_pages": [
+        "https://exler.es/blog/blokirovka-quot-telegrama-quot.htm",
+        "https://exler.es/blog/v-ispanii-rasporyadilis-zablokirovat-telegram.htm"
+      ],
+      "comment_urls": [],
+      "independent_proven_double_standard": false,
+      "source_ids": [
+        "GEO-S005",
+        "GEO-S033"
+      ]
+    },
+    {
+      "id": "GEO-004",
+      "title": "TikTok: сначала проверим, кто посмел критиковать",
+      "category": "asymmetric_framing",
+      "countries": [
+        "RF",
+        "USA"
+      ],
+      "document": "GEOGRAPHY.md#geo-004",
+      "source_pages": [
+        "https://exler.es/blog/v-ssha-mogut-zablokirovat-tiktok.htm"
+      ],
+      "comment_urls": [],
+      "independent_proven_double_standard": false,
+      "source_ids": [
+        "GEO-S034"
+      ]
+    },
+    {
+      "id": "GEO-005",
+      "title": "Отмена концерта: нажимать кнопку можно с правильной стороны",
+      "category": "explicit_political_criterion",
+      "countries": [
+        "RF",
+        "Italy"
+      ],
+      "document": "GEOGRAPHY.md#geo-005",
+      "source_pages": [
+        "https://exler.es/blog/posvyatila-pesnyu-o-tom-chto-khamas-nuzhno-unichtozhit.htm",
+        "https://exler.es/blog/kontsert-gergiyeva-v-italii-otmenili.htm"
+      ],
+      "comment_urls": [],
+      "independent_proven_double_standard": false,
+      "source_ids": [
+        "GEO-S022",
+        "GEO-S013"
+      ]
+    },
+    {
+      "id": "GEO-006",
+      "title": "Запрещённый символ и разрешённое одобрение запрета",
+      "category": "explicit_political_criterion",
+      "countries": [
+        "RF",
+        "Germany"
+      ],
+      "document": "GEOGRAPHY.md#geo-006",
+      "source_pages": [
+        "https://exler.es/blog/poymali-zlostnuyu-ekstremistku.htm",
+        "https://exler.es/blog/demonstratsiya-rossiyskikh-flagov-v-berline.htm"
+      ],
+      "comment_urls": [],
+      "independent_proven_double_standard": false,
+      "source_ids": [
+        "GEO-S023",
+        "GEO-S007"
+      ]
+    },
+    {
+      "id": "GEO-007",
+      "title": "Перед оценкой дубинки уточняется, кого ударили",
+      "category": "limited_police_comparison",
+      "countries": [
+        "RF",
+        "Israel"
+      ],
+      "document": "GEOGRAPHY.md#geo-007",
+      "source_pages": [
+        "https://exler.es/blog/antivoyennyye-protesty.htm",
+        "https://exler.es/blog/politseyskiye-v-izraile-khasidov-byut.htm"
+      ],
+      "comment_urls": [],
+      "independent_proven_double_standard": false,
+      "source_ids": [
+        "GEO-S003",
+        "GEO-S020"
+      ]
+    },
+    {
+      "id": "GEO-008",
+      "title": "Протестующий или помеха проезду",
+      "category": "limited_police_comparison",
+      "countries": [
+        "RF",
+        "Spain",
+        "USA"
+      ],
+      "document": "GEOGRAPHY.md#geo-008",
+      "source_pages": [
+        "https://exler.es/blog/onlayn-antivoyennykh-mitingov-v-rossii.htm",
+        "https://exler.es/blog/baskonskaya-politsiya-i-sumudnyye-aktivisty.htm",
+        "https://exler.es/blog/prosto-uslada-dlya-glaz.htm",
+        "https://exler.es/blog/amerikanskiye-reyndzhery-i-ekoterroristy.htm"
+      ],
+      "comment_urls": [],
+      "independent_proven_double_standard": false,
+      "source_ids": [
+        "GEO-S018",
+        "GEO-S004",
+        "GEO-S025",
+        "GEO-S001"
+      ]
+    },
+    {
+      "id": "GEO-009",
+      "title": "Карантинная склейка, которую ломает собственное признание",
+      "category": "acknowledged_change_of_view",
+      "countries": [
+        "RF",
+        "Spain"
+      ],
+      "document": "GEOGRAPHY-CONTROLS.md#geo-009",
+      "source_pages": [
+        "https://exler.es/blog/moskva-k-koronavirusu-gotova.htm",
+        "https://exler.es/blog/pravila-vygula-sobak-pri-karantine-v-ispanii.htm",
+        "https://exler.es/blog/zachem-nuzhen-karantin.htm",
+        "https://exler.es/blog/shtrafy-za-narusheniye-karantina-v-ispanii.htm",
+        "https://exler.es/blog/v-ispanii-otmenili-shtrafy-za-narusheniye-lokdauna.htm"
+      ],
+      "comment_urls": [
+        "https://exler.es/blog/comments/zachem-nuzhen-karantin.htm#m3nj"
+      ],
+      "independent_proven_double_standard": false,
+      "source_ids": [
+        "GEO-S015",
+        "GEO-S024",
+        "GEO-S035",
+        "GEO-S027",
+        "GEO-S032"
+      ]
+    },
+    {
+      "id": "GEO-010",
+      "title": "Пенсионный возраст: действие похоже, аргументы включают различия",
+      "category": "different_underlying_conditions",
+      "countries": [
+        "RF",
+        "France"
+      ],
+      "document": "GEOGRAPHY-CONTROLS.md#geo-010",
+      "source_pages": [
+        "https://exler.es/blog/uvelicheniye-pensionnogo-vozrasta.htm",
+        "https://exler.es/blog/nespravedlivaya-pensionnaya-reforma.htm"
+      ],
+      "comment_urls": [
+        "https://exler.es/blog/comments/uvelicheniye-pensionnogo-vozrasta.htm#g0a6"
+      ],
+      "independent_proven_double_standard": false,
+      "source_ids": [
+        "GEO-S030",
+        "GEO-S017"
+      ]
+    },
+    {
+      "id": "GEO-011",
+      "title": "Американская цензура тоже получает собственный отрицательный вердикт",
+      "category": "consistency_control",
+      "countries": [
+        "RF",
+        "USA"
+      ],
+      "document": "GEOGRAPHY-CONTROLS.md#geo-011",
+      "source_pages": [
+        "https://exler.es/blog/blokirovka-quot-telegrama-quot.htm",
+        "https://exler.es/blog/sotsseti-i-ogoltelaya-tsenzura.htm",
+        "https://exler.es/blog/tenevaya-tsenzura-v-twitter.htm"
+      ],
+      "comment_urls": [],
+      "independent_proven_double_standard": false,
+      "source_ids": [
+        "GEO-S005",
+        "GEO-S028",
+        "GEO-S029"
+      ]
+    },
+    {
+      "id": "GEO-012",
+      "title": "Австралийская полиция не получила индульгенции",
+      "category": "consistency_control",
+      "countries": [
+        "RF",
+        "Australia"
+      ],
+      "document": "GEOGRAPHY-CONTROLS.md#geo-012",
+      "source_pages": [
+        "https://exler.es/blog/podstavy-politseyskikh.htm"
+      ],
+      "comment_urls": [],
+      "independent_proven_double_standard": false,
+      "source_ids": [
+        "GEO-S019"
+      ]
+    },
+    {
+      "id": "GEO-013",
+      "title": "Экологу неудобно стоять между обозревателем и дорогой — в любой стране",
+      "category": "consistency_control",
+      "countries": [
+        "RF",
+        "Germany"
+      ],
+      "document": "GEOGRAPHY-CONTROLS.md#geo-013",
+      "source_pages": [
+        "https://exler.es/blog/moskva-zvonyat-kolokola.htm",
+        "https://exler.es/blog/v-germanii-vzyalis-za-ekoterroristov.htm",
+        "https://exler.es/blog/rossiyskiy-ekoaktivizm.htm"
+      ],
+      "comment_urls": [],
+      "independent_proven_double_standard": false,
+      "source_ids": [
+        "GEO-S016",
+        "GEO-S031",
+        "GEO-S026"
+      ]
+    },
+    {
+      "id": "GEO-014",
+      "title": "Арифметика любимого митинга пересекает границу без визы",
+      "category": "consistency_control",
+      "countries": [
+        "RF",
+        "Spain"
+      ],
+      "document": "GEOGRAPHY-CONTROLS.md#geo-014",
+      "source_pages": [
+        "https://exler.es/blog/antiputinskij-miting-24-dekabrya.htm",
+        "https://exler.es/blog/demonstraciya-v-barselone-29-oktyabrya.htm"
+      ],
+      "comment_urls": [],
+      "independent_proven_double_standard": false,
+      "source_ids": [
+        "GEO-S002",
+        "GEO-S006"
+      ]
+    },
+    {
+      "id": "GEO-015",
+      "title": "Каталония: незаконность референдума не оправдывает любой разгон",
+      "category": "consistency_control",
+      "countries": [
+        "Spain"
+      ],
+      "document": "GEOGRAPHY-CONTROLS.md#geo-015",
+      "source_pages": [
+        "https://exler.es/blog/dorenko-o-situacii-v-katalonii.htm",
+        "https://exler.es/blog/itogi-vsesoyuznoj-zabastovki-trudyashihsya.htm",
+        "https://exler.es/blog/politsiya-presekla-bezobraziye.htm"
+      ],
+      "comment_urls": [
+        "https://exler.es/blog/comments/dorenko-o-situacii-v-katalonii.htm#eqbv"
+      ],
+      "independent_proven_double_standard": false,
+      "source_ids": [
+        "GEO-S008",
+        "GEO-S012",
+        "GEO-S021"
+      ]
+    }
+  ]
+}
