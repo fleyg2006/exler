@@ -1,0 +1,284 @@
+[
+  {
+    "id": "DS-001",
+    "title": "Первоисточник находится на главной странице",
+    "status": "прямое расхождение с заявленным правилом",
+    "category": "прямое расхождение с заявленным правилом",
+    "card": "CASES.md#ds-001",
+    "sources": [
+      {
+        "url": "https://exler.es/likbez/kak-razlichat-fejki-v-internete.htm",
+        "label": "Как различать фейки в Интернете",
+        "date": "26.03.2019 76665 Комментарии (70)",
+        "snapshot_url": "https://exler.es/likbez/kak-razlichat-fejki-v-internete.htm",
+        "anchor": null
+      },
+      {
+        "url": "https://exler.es/blog/optimalnaya-prodolzhitelnost-sna.htm",
+        "label": "Оптимальная продолжительность сна",
+        "date": "2023-11-07 08:29:00",
+        "snapshot_url": "https://exler.es/blog/optimalnaya-prodolzhitelnost-sna.htm",
+        "anchor": null
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "DS-002",
+    "title": "Факты могут ошибаться, суть — никогда",
+    "status": "прямое расхождение с заявленным правилом",
+    "category": "прямое расхождение с заявленным правилом",
+    "card": "CASES.md#ds-002",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/comments/skhvatka-sveta-protiv-tmy.htm#1n8d4",
+        "label": "Ответ автора #1n8d4",
+        "date": "Alex Exler Golovan 08.05.26 17:38 0 0",
+        "snapshot_url": "https://exler.es/blog/skhvatka-sveta-protiv-tmy.htm",
+        "anchor": "1n8d4"
+      },
+      {
+        "url": "https://exler.es/blog/comments/s-chego-nachinayetsya-rodina.htm#1hssi",
+        "label": "Ответ автора #1hssi",
+        "date": "Alex Exler последний из мексикан 30.04.25 14:08 0 2",
+        "snapshot_url": "https://exler.es/blog/s-chego-nachinayetsya-rodina.htm",
+        "anchor": "1hssi"
+      },
+      {
+        "url": "https://exler.es/blog/s-chego-nachinayetsya-rodina.htm",
+        "label": "С чего начинается родина",
+        "date": "2025-04-30 11:00:00",
+        "snapshot_url": "https://exler.es/blog/s-chego-nachinayetsya-rodina.htm",
+        "anchor": null
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "DS-003",
+    "title": "Неправильные жалобы и правильная ответная кампания",
+    "status": "объявленное исключение",
+    "category": "объявленное исключение",
+    "card": "CASES.md#ds-003",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/litres-otvetil-chto-my-teper-s-nimi-budem-delat.htm",
+        "label": "Litres ответил: что мы теперь с ними будем делать",
+        "date": "07.02.2013 10:04 42845 Комментарии (143)",
+        "snapshot_url": "https://exler.es/blog/item/13282/",
+        "anchor": null
+      },
+      {
+        "url": "https://exler.es/blog/comments/litres-otvetil-chto-my-teper-s-nimi-budem-delat.htm#70yo",
+        "label": "Ответ автора #70yo",
+        "date": "Alex Exler sbat 07.02.13 11:14 0 0",
+        "snapshot_url": "https://exler.es/blog/item/13282/",
+        "anchor": "70yo"
+      },
+      {
+        "url": "https://exler.es/blog/litres-obidelso.htm",
+        "label": "Litres обиделсо",
+        "date": "10.04.2013 15:19 52520 Комментарии (103)",
+        "snapshot_url": "https://exler.es/blog/item/13691/",
+        "anchor": null
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "DS-004",
+    "title": "Правила заканчиваются у двери авторского поста",
+    "status": "объявленное исключение",
+    "category": "объявленное исключение",
+    "card": "CASES.md#ds-004",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/po-povodu-mata-v-kommentakh.htm",
+        "label": "По поводу мата в комментах",
+        "date": "2024-04-22 19:39:00",
+        "snapshot_url": "https://exler.es/blog/po-povodu-mata-v-kommentakh.htm",
+        "anchor": null
+      },
+      {
+        "url": "https://exler.es/blog/comments/byudzhetnyy-novyy-god-na-federalnom-tv.htm#1fuma",
+        "label": "Ответ автора #1fuma",
+        "date": "Alex Exler runcyclexcski 09.01.25 22:31 0 14",
+        "snapshot_url": "https://exler.es/blog/byudzhetnyy-novyy-god-na-federalnom-tv.htm",
+        "anchor": "1fuma"
+      },
+      {
+        "url": "https://exler.es/blog/izmeneniya-v-pravilakh-kommentirovaniya.htm",
+        "label": "Изменения в правилах комментирования",
+        "date": "2025-05-18 14:00:00",
+        "snapshot_url": "https://exler.es/blog/izmeneniya-v-pravilakh-kommentirovaniya.htm",
+        "anchor": null
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "DS-005",
+    "title": "Ваши знакомые и мои знакомые выбирают телефон",
+    "status": "контекстное сопоставление",
+    "category": "контекстное сопоставление",
+    "card": "CASES.md#ds-005",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/comments/pochemu-ne-vypuskayut-nebolshiye-smartfony.htm#tmmi",
+        "label": "Ответ автора #tmmi",
+        "date": "Alex Exler Paradox 23.06.21 12:56 14 10",
+        "snapshot_url": "https://exler.es/blog/pochemu-ne-vypuskayut-nebolshiye-smartfony.htm",
+        "anchor": "tmmi"
+      },
+      {
+        "url": "https://exler.es/blog/huawei-mate-xt.htm",
+        "label": "Huawei Mate XT",
+        "date": "2024-10-24 12:00:00",
+        "snapshot_url": "https://exler.es/blog/huawei-mate-xt.htm",
+        "anchor": null
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "DS-006",
+    "title": "Чужая осведомлённость и свой военный собеседник",
+    "status": "контекстное сопоставление",
+    "category": "контекстное сопоставление",
+    "card": "CASES.md#ds-006",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/comments/v-moskvu-priletelo.htm#16i8b",
+        "label": "Ответ автора #16i8b",
+        "date": "Alex Exler Deryni 30.05.23 09:40 1 13",
+        "snapshot_url": "https://exler.es/blog/v-moskvu-priletelo.htm",
+        "anchor": "16i8b"
+      },
+      {
+        "url": "https://exler.es/blog/o-yeshche-odnom-myatezhe.htm",
+        "label": "Об еще одном мятеже",
+        "date": "2023-06-26 09:30:00",
+        "snapshot_url": "https://exler.es/blog/o-yeshche-odnom-myatezhe.htm",
+        "anchor": null
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "DS-007",
+    "title": "Фейкомёт за соседним столом, сомнительная листовка за своим",
+    "status": "контекстное сопоставление",
+    "category": "контекстное сопоставление",
+    "card": "CASES.md#ds-007",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/feykomet-nevzorov.htm",
+        "label": "Фейкомёт Невзоров",
+        "date": "2025-08-10 09:30:00",
+        "snapshot_url": "https://exler.es/blog/feykomet-nevzorov.htm",
+        "anchor": null
+      },
+      {
+        "url": "https://exler.es/blog/skhvatka-sveta-protiv-tmy.htm",
+        "label": "Схватка света против тьмы",
+        "date": "2026-05-08 17:15:00",
+        "snapshot_url": "https://exler.es/blog/skhvatka-sveta-protiv-tmy.htm",
+        "anchor": null
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "DS-008",
+    "title": "Блокировщик для исключительных обстоятельств",
+    "status": "объявленное исключение",
+    "category": "объявленное исключение",
+    "card": "CASES.md#ds-008",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/cnews-zazhigaet-ogni.htm",
+        "label": "CNews зажигает огни",
+        "date": "27.08.2015 11:34 15443 Комментарии (50)",
+        "snapshot_url": "https://exler.es/blog/cnews-zazhigaet-ogni.htm",
+        "anchor": null
+      },
+      {
+        "url": "https://exler.es/blog/adblokovyj-kinozal.htm",
+        "label": "Адблоковый кинозал",
+        "date": "18.11.2016 11:04 19368 Комментарии (101)",
+        "snapshot_url": "https://exler.es/blog/adblokovyj-kinozal.htm",
+        "anchor": null
+      },
+      {
+        "url": "https://exler.es/blog/a-u-vas-glyuchit-adblock-s-firefox.htm",
+        "label": "А у вас глючит Adblock с FireFox?",
+        "date": "23.08.2018 13:22 24966 Комментарии (37)",
+        "snapshot_url": "https://exler.es/blog/a-u-vas-glyuchit-adblock-s-firefox.htm",
+        "anchor": null
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "DS-009",
+    "title": "Проверяйте пересказ: у смартфона исчезла кнопка",
+    "status": "прямое расхождение с заявленным правилом",
+    "category": "прямое расхождение с заявленным правилом",
+    "card": "CASES.md#ds-009",
+    "sources": [
+      {
+        "url": "https://exler.es/likbez/kak-razlichat-fejki-v-internete.htm",
+        "label": "Как различать фейки в Интернете",
+        "date": "26.03.2019 76665 Комментарии (70)",
+        "snapshot_url": "https://exler.es/likbez/kak-razlichat-fejki-v-internete.htm",
+        "anchor": null
+      },
+      {
+        "url": "https://exler.es/blog/smartfony-huawei-mate-30-pro-i-mate-30.htm",
+        "label": "Смартфоны Huawei Mate 30 Pro и Mate 30",
+        "date": "22.09.2019 10:51 22779 Комментарии (104)",
+        "snapshot_url": "https://exler.es/blog/smartfony-huawei-mate-30-pro-i-mate-30.htm",
+        "anchor": null
+      },
+      {
+        "url": "https://consumer.huawei.com/kw-en/support/content/en-gb15825204/",
+        "label": "Инструкция Huawei: физическая кнопка питания Mate 30 Pro",
+        "date": "",
+        "snapshot_url": "https://consumer.huawei.com/kw-en/support/content/en-gb15825204/",
+        "anchor": null
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "DS-010",
+    "title": "Осторожно с выборкой — кроме вступления",
+    "status": "прямое расхождение с заявленным правилом",
+    "category": "прямое расхождение с заявленным правилом",
+    "card": "CASES.md#ds-010",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/pamyatka-po-rabote-s-toksichnoy-novostnoy-povestkoy.htm",
+        "label": "Памятка по работе с токсичной новостной повесткой",
+        "date": "2022-02-24 15:34:00",
+        "snapshot_url": "https://exler.es/blog/pamyatka-po-rabote-s-toksichnoy-novostnoy-povestkoy.htm",
+        "anchor": null
+      },
+      {
+        "url": "https://exler.es/blog/britanskiye-uchenyye-britanskiye-muzhchiny-nakhodyatsya-pod-ugrozoy.htm",
+        "label": "Британские ученые: британские мужчины находятся под угрозой",
+        "date": "2023-12-26 13:00:00",
+        "snapshot_url": "https://exler.es/blog/britanskiye-uchenyye-britanskiye-muzhchiny-nakhodyatsya-pod-ugrozoy.htm",
+        "anchor": null
+      },
+      {
+        "url": "https://link.springer.com/article/10.1007/s10508-023-02717-0?error=cookies_not_supported&code=458dcba4-8eb8-47d7-b886-20829703531c",
+        "label": "Исследование: выборка 1124 участников",
+        "date": "",
+        "snapshot_url": "https://link.springer.com/article/10.1007/s10508-023-02717-0",
+        "anchor": null
+      }
+    ],
+    "prior_cards": []
+  }
+]

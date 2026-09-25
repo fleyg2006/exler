@@ -1,0 +1,344 @@
+[
+  {
+    "id": "SRC-001",
+    "title": "Mate 30 Pro: потерявшаяся кнопка питания",
+    "status": "проверяемая предметная ошибка",
+    "category": "проверяемая предметная ошибка",
+    "card": "CASES.md#src-001",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/smartfony-huawei-mate-30-pro-i-mate-30.htm",
+        "label": "Смартфоны Huawei Mate 30 Pro и Mate 30",
+        "date": "22.09.2019 10:51 22779 Комментарии (104)",
+        "snapshot_url": "https://exler.es/blog/smartfony-huawei-mate-30-pro-i-mate-30.htm",
+        "anchor": null
+      },
+      {
+        "url": "https://consumer.huawei.com/kw-en/support/content/en-gb15825204/",
+        "label": "Huawei: порядок включения Recovery для Mate 30 Pro",
+        "date": "",
+        "snapshot_url": "https://consumer.huawei.com/kw-en/support/content/en-gb15825204/",
+        "anchor": null
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "SRC-002",
+    "title": "UNATI: эксперимент превращается в четыре года с бокалом",
+    "status": "исчезнувшие условия исследования",
+    "category": "исчезнувшие условия исследования",
+    "card": "CASES.md#src-002",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/nauchnyy-eksperiment.htm",
+        "label": "Научный эксперимент",
+        "date": "2025-03-29 12:00:00",
+        "snapshot_url": "https://exler.es/blog/nauchnyy-eksperiment.htm",
+        "anchor": null
+      },
+      {
+        "url": "https://www.unav.edu/documents/16089811/16155256/unati-research-plan.pdf",
+        "label": "План UNATI, версия 7 от 01.01.2024, с. 1–2",
+        "date": "",
+        "snapshot_url": "https://www.unav.edu/documents/16089811/16155256/unati-research-plan.pdf",
+        "anchor": null
+      },
+      {
+        "url": "https://www.unav.edu/en/web/departamento-de-medicina-preventiva-y-salud-publica/proyecto-unati",
+        "label": "Университет Наварры: устройство UNATI",
+        "date": "",
+        "snapshot_url": "https://www.unav.edu/en/web/departamento-de-medicina-preventiva-y-salud-publica/proyecto-unati",
+        "anchor": null
+      },
+      {
+        "url": "https://www.ubu.es/noticias/el-mayor-ensayo-clinico-sobre-el-consumo-de-alcohol-busca-voluntarios",
+        "label": "Университет Бургоса, 16.10.2024: набор участников",
+        "date": "",
+        "snapshot_url": "https://www.ubu.es/noticias/el-mayor-ensayo-clinico-sobre-el-consumo-de-alcohol-busca-voluntarios",
+        "anchor": null
+      }
+    ],
+    "prior_cards": [
+      {
+        "id": "LIFE-008",
+        "path": "research/lifestyle/CASES.md"
+      }
+    ]
+  },
+  {
+    "id": "SRC-003",
+    "title": "ИИ: гипотеза получает заголовок о решённой проблеме",
+    "status": "усиление заголовка; ошибка унаследована",
+    "category": "усиление заголовка; ошибка унаследована",
+    "card": "CASES.md#src-003",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/ii-za-dva-dnya-reshil-problemu-nad-kotoroy-uchenyye-bilis-godami.htm",
+        "label": "ИИ за два дня решил проблему, над которой ученые бились годами",
+        "date": "2025-02-26 09:23:00",
+        "snapshot_url": "https://exler.es/blog/ii-za-dva-dnya-reshil-problemu-nad-kotoroy-uchenyye-bilis-godami.htm",
+        "anchor": null
+      },
+      {
+        "url": "https://www.bbc.com/news/articles/clyz6e9edy3o",
+        "label": "BBC, 20.02.2025",
+        "date": "",
+        "snapshot_url": "https://www.bbc.com/news/articles/clyz6e9edy3o",
+        "anchor": null
+      },
+      {
+        "url": "https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/",
+        "label": "Google Research, 19.02.2025",
+        "date": "",
+        "snapshot_url": "https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/",
+        "anchor": null
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "SRC-004",
+    "title": "Сон: главный вход в Nature вместо статьи",
+    "status": "неверная ссылка и расширение предмета",
+    "category": "неверная ссылка и расширение предмета",
+    "card": "CASES.md#src-004",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/optimalnaya-prodolzhitelnost-sna.htm",
+        "label": "Оптимальная продолжительность сна",
+        "date": "2023-11-07 08:29:00",
+        "snapshot_url": "https://exler.es/blog/optimalnaya-prodolzhitelnost-sna.htm",
+        "anchor": null
+      },
+      {
+        "url": "https://www.nature.com/articles/s41562-023-01707-5?error=cookies_not_supported&code=d0a80d23-d355-458a-a2c1-d904a2805441",
+        "label": "Fjell и соавторы, Nature Human Behaviour, 2023",
+        "date": "",
+        "snapshot_url": "https://www.nature.com/articles/s41562-023-01707-5",
+        "anchor": null
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "SRC-005",
+    "title": "71%: число верное, население стало больше",
+    "status": "расширение выборки во вступлении",
+    "category": "расширение выборки во вступлении",
+    "card": "CASES.md#src-005",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/britanskiye-uchenyye-britanskiye-muzhchiny-nakhodyatsya-pod-ugrozoy.htm",
+        "label": "Британские ученые: британские мужчины находятся под угрозой",
+        "date": "2023-12-26 13:00:00",
+        "snapshot_url": "https://exler.es/blog/britanskiye-uchenyye-britanskiye-muzhchiny-nakhodyatsya-pod-ugrozoy.htm",
+        "anchor": null
+      },
+      {
+        "url": "https://link.springer.com/article/10.1007/s10508-023-02717-0?error=cookies_not_supported&code=458dcba4-8eb8-47d7-b886-20829703531c",
+        "label": "Оригинальная статья в Archives of Sexual Behavior",
+        "date": "",
+        "snapshot_url": "https://link.springer.com/article/10.1007/s10508-023-02717-0",
+        "anchor": null
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "SRC-006",
+    "title": "Таблица размеров: неопределённость не вошла в рейтинг",
+    "status": "избыточная уверенность; временная оговорка",
+    "category": "избыточная уверенность; временная оговорка",
+    "card": "CASES.md#src-006",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/vazhnoye-nauchnoye-issledovaniye.htm",
+        "label": "Важное научное исследование",
+        "date": "2023-06-21 10:30:00",
+        "snapshot_url": "https://exler.es/blog/vazhnoye-nauchnoye-issledovaniye.htm",
+        "anchor": null
+      },
+      {
+        "url": "https://www.worlddata.info/average-penissize.php",
+        "label": "WorldData: методические замечания к таблице",
+        "date": "",
+        "snapshot_url": "https://www.worlddata.info/average-penissize.php",
+        "anchor": null
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "SRC-007",
+    "title": "Панели: сначала законодатель, затем комплектация",
+    "status": "объяснение пересмотрено в дополнении",
+    "category": "объяснение пересмотрено в дополнении",
+    "card": "CASES.md#src-007",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/solnechnyye-batarei-v-ispanii.htm",
+        "label": "Солнечные батареи в Испании",
+        "date": "2025-04-30 09:00:00",
+        "snapshot_url": "https://exler.es/blog/solnechnyye-batarei-v-ispanii.htm",
+        "anchor": null
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "SRC-008",
+    "title": "Валерия: руины оказываются декорациями",
+    "status": "контекст кадра исправлен",
+    "category": "контекст кадра исправлен",
+    "card": "CASES.md#src-008",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/s-chego-nachinayetsya-rodina.htm",
+        "label": "С чего начинается родина",
+        "date": "2025-04-30 11:00:00",
+        "snapshot_url": "https://exler.es/blog/s-chego-nachinayetsya-rodina.htm",
+        "anchor": null
+      },
+      {
+        "url": "https://exler.es/blog/comments/s-chego-nachinayetsya-rodina.htm#1hswo",
+        "label": "Ответ автора #1hswo",
+        "date": "Alex Exler mania.c 30.04.25 17:50 0 6",
+        "snapshot_url": "https://exler.es/blog/s-chego-nachinayetsya-rodina.htm",
+        "anchor": "1hswo"
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "SRC-009",
+    "title": "Сообщение о гибели, затем опровержение жены",
+    "status": "неподтверждённое сообщение с последующим UPD",
+    "category": "неподтверждённое сообщение с последующим UPD",
+    "card": "CASES.md#src-009",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/v-sootvetstvii-s-traditsionnymi-tsennostyami.htm",
+        "label": "В соответствии с традиционными ценностями",
+        "date": "2025-07-24 14:00:00",
+        "snapshot_url": "https://exler.es/blog/v-sootvetstvii-s-traditsionnymi-tsennostyami.htm",
+        "anchor": null
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "SRC-010",
+    "title": "Paycard: похожие имена, разные сервисы",
+    "status": "автор признал ошибку проверки",
+    "category": "автор признал ошибку проверки",
+    "card": "CASES.md#src-010",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/paycardlink-obyasneniya.htm",
+        "label": "Paycard.link - объяснения",
+        "date": "2022-11-30 13:00:00",
+        "snapshot_url": "https://exler.es/blog/paycardlink-obyasneniya.htm",
+        "anchor": null
+      }
+    ],
+    "prior_cards": [
+      {
+        "id": "CHAIN-001",
+        "path": "research/corrections/CHAINS.md"
+      }
+    ]
+  },
+  {
+    "id": "SRC-011",
+    "title": "Ретро-Jaguar: коммерческий контекст возвращается в UPD",
+    "status": "автор добавил противоположную версию",
+    "category": "автор добавил противоположную версию",
+    "card": "CASES.md#src-011",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/budte-ostorozhneye-s-kopiyami-retro-yaguarov.htm",
+        "label": "Будьте осторожнее с копиями ретро-ягуаров",
+        "date": "2021-06-09 11:34:00",
+        "snapshot_url": "https://exler.es/blog/budte-ostorozhneye-s-kopiyami-retro-yaguarov.htm",
+        "anchor": null
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "SRC-012",
+    "title": "Brazilian: перевод поправлен через четыре минуты после замечания",
+    "status": "собственное подтверждение исправления",
+    "category": "собственное подтверждение исправления",
+    "card": "CASES.md#src-012",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/comments/interesnaya-statistika-5.htm#1l2kx",
+        "label": "Ответ автора #1l2kx",
+        "date": "Alex Exler Suspense 10.12.25 09:34 0 0",
+        "snapshot_url": "https://exler.es/blog/interesnaya-statistika-5.htm",
+        "anchor": "1l2kx"
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "SRC-013",
+    "title": "Алкоголь у пожилых: оговорки не потеряны",
+    "status": "контрольный пример: обвинение снято",
+    "category": "контрольный пример: обвинение снято",
+    "card": "CASES.md#src-013",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/lyubopytnoye-issledovaniye.htm",
+        "label": "Любопытное исследование",
+        "date": "2022-06-04 14:04:00",
+        "snapshot_url": "https://exler.es/blog/lyubopytnoye-issledovaniye.htm",
+        "anchor": null
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "SRC-014",
+    "title": "Стоячие места: чужое обещание 2026 года не стало собственным",
+    "status": "контрольный пример: обвинение снято",
+    "category": "контрольный пример: обвинение снято",
+    "card": "CASES.md#src-014",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/stoyachiye-mesta-v-samoletakh.htm",
+        "label": "Стоячие места в самолетах",
+        "date": "2025-05-24 12:00:00",
+        "snapshot_url": "https://exler.es/blog/stoyachiye-mesta-v-samoletakh.htm",
+        "anchor": null
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "SRC-015",
+    "title": "Сомнительная листовка: оговорки стоят в самом посте",
+    "status": "открытый исход; слух обозначен",
+    "category": "открытый исход; слух обозначен",
+    "card": "CASES.md#src-015",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/skhvatka-sveta-protiv-tmy.htm",
+        "label": "Схватка света против тьмы",
+        "date": "2026-05-08 17:15:00",
+        "snapshot_url": "https://exler.es/blog/skhvatka-sveta-protiv-tmy.htm",
+        "anchor": null
+      },
+      {
+        "url": "https://exler.es/blog/zheleznaya-logika-4.htm",
+        "label": "Железная логика",
+        "date": "2026-05-17 12:00:00",
+        "snapshot_url": "https://exler.es/blog/zheleznaya-logika-4.htm",
+        "anchor": null
+      }
+    ],
+    "prior_cards": []
+  }
+]

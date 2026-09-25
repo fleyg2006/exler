@@ -1,0 +1,584 @@
+[
+  {
+    "id": "PAL-001",
+    "title": "Высокопоставленный военный и версия о Рохлине",
+    "status": "неназванный источник",
+    "category": "авторитет вместо доступной проверки",
+    "card": "CASES.md#pal-001",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/o-yeshche-odnom-myatezhe.htm",
+        "label": "Об еще одном мятеже",
+        "date": "2023-06-26 09:30:00",
+        "snapshot_url": "https://exler.es/blog/o-yeshche-odnom-myatezhe.htm",
+        "anchor": null
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "PAL-002",
+    "title": "Два фотографа и 90% снимков",
+    "status": "неназванные профессионалы; одна семья повторов",
+    "category": "авторитет вместо доступной проверки",
+    "card": "CASES.md#pal-002",
+    "sources": [
+      {
+        "url": "https://exler.es/expromt/comments/telesin-fun-shot-magnetic-grip-prevratit-lyuboj-smartfon-v-fotokameru.htm#1iaud",
+        "label": "Ответ автора #1iaud",
+        "date": "Alex Exler Regs 03.06.25 10:28 8 11",
+        "snapshot_url": "https://exler.es/expromt/telesin-fun-shot-magnetic-grip-prevratit-lyuboj-smartfon-v-fotokameru.htm",
+        "anchor": "1iaud"
+      },
+      {
+        "url": "https://exler.es/expromt/comments/telesin-fun-shot-magnetic-grip-prevratit-lyuboj-smartfon-v-fotokameru.htm#1ibob",
+        "label": "Ответ автора #1ibob",
+        "date": "Alex Exler Balkeep 04.06.25 21:06 3 1",
+        "snapshot_url": "https://exler.es/expromt/telesin-fun-shot-magnetic-grip-prevratit-lyuboj-smartfon-v-fotokameru.htm",
+        "anchor": "1ibob"
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "PAL-003",
+    "title": "Владелец сервиса рекомендует Nankang",
+    "status": "неназванный профессионал",
+    "category": "авторитет вместо доступной проверки",
+    "card": "CASES.md#pal-003",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/davay-michelin-do-svidaniya.htm",
+        "label": "Давай, Michelin, до свидания!",
+        "date": "2025-11-21 10:00:00",
+        "snapshot_url": "https://exler.es/blog/davay-michelin-do-svidaniya.htm",
+        "anchor": null
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "PAL-004",
+    "title": "Солнечный совет знакомых проходит вторую редакцию",
+    "status": "цепочка разных собеседников",
+    "category": "знакомый поправляет вердикт",
+    "card": "CASES.md#pal-004",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/solnechnyye-batarei-v-ispanii.htm",
+        "label": "Солнечные батареи в Испании",
+        "date": "2025-04-30 09:00:00",
+        "snapshot_url": "https://exler.es/blog/solnechnyye-batarei-v-ispanii.htm",
+        "anchor": null
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "PAL-005",
+    "title": "Знакомые вернули складные смартфоны — кроме исключения",
+    "status": "анекдот с контрпримером",
+    "category": "ограниченный бытовой опыт",
+    "card": "CASES.md#pal-005",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/huawei-mate-xt.htm",
+        "label": "Huawei Mate XT",
+        "date": "2024-10-24 12:00:00",
+        "snapshot_url": "https://exler.es/blog/huawei-mate-xt.htm",
+        "anchor": null
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "PAL-006",
+    "title": "Fold в подарок и тоска по Ultra",
+    "status": "анонимная бытовая история",
+    "category": "ограниченный бытовой опыт",
+    "card": "CASES.md#pal-006",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/pervyy-v-mire-raskladnoy-noutbuk.htm",
+        "label": "Первый в мире раскладной ноутбук",
+        "date": "2025-05-22 12:50:00",
+        "snapshot_url": "https://exler.es/blog/pervyy-v-mire-raskladnoy-noutbuk.htm",
+        "anchor": null
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "PAL-007",
+    "title": "Друг друга в Paycard, затем собственная проверка",
+    "status": "контакт приводит к исправлению",
+    "category": "наводка с собственной проверкой",
+    "card": "CASES.md#pal-007",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/paycardlink-obyasneniya.htm",
+        "label": "Paycard.link - объяснения",
+        "date": "2022-11-30 13:00:00",
+        "snapshot_url": "https://exler.es/blog/paycardlink-obyasneniya.htm",
+        "anchor": null
+      }
+    ],
+    "prior_cards": [
+      {
+        "id": "CHAIN-001",
+        "path": "research/corrections/CHAINS.md"
+      }
+    ]
+  },
+  {
+    "id": "PAL-008",
+    "title": "Камера знакомого и визит полиции",
+    "status": "анонимное свидетельство",
+    "category": "авторитет вместо доступной проверки",
+    "card": "CASES.md#pal-008",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/sovsem-za-cheloveka-ne-schitayut.htm",
+        "label": "Совсем за человека не считают",
+        "date": "2025-02-17 09:24:00",
+        "snapshot_url": "https://exler.es/blog/sovsem-za-cheloveka-ne-schitayut.htm",
+        "anchor": null
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "PAL-009",
+    "title": "Недвижимость: чужая история и свои успешные знакомые",
+    "status": "несколько уровней пересказа",
+    "category": "ограниченный бытовой опыт",
+    "card": "CASES.md#pal-009",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/kvartirnaya-istoriya-v-ispanii.htm",
+        "label": "Квартирная история в Испании",
+        "date": "2025-12-11 16:40:00",
+        "snapshot_url": "https://exler.es/blog/kvartirnaya-istoriya-v-ispanii.htm",
+        "anchor": null
+      },
+      {
+        "url": "https://exler.es/blog/comments/kvartirnaya-istoriya-v-ispanii.htm#1l3fz",
+        "label": "Ответ автора #1l3fz",
+        "date": "Alex Exler Tomson 11.12.25 18:00 0 6",
+        "snapshot_url": "https://exler.es/blog/kvartirnaya-istoriya-v-ispanii.htm",
+        "anchor": "1l3fz"
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "PAL-010",
+    "title": "Сон знакомых против газетного оптимума",
+    "status": "личный круг как возражение",
+    "category": "ограниченный бытовой опыт",
+    "card": "CASES.md#pal-010",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/optimalnaya-prodolzhitelnost-sna.htm",
+        "label": "Оптимальная продолжительность сна",
+        "date": "2023-11-07 08:29:00",
+        "snapshot_url": "https://exler.es/blog/optimalnaya-prodolzhitelnost-sna.htm",
+        "anchor": null
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "PAL-011",
+    "title": "Знакомые с подагрой как контрпример",
+    "status": "личный контрпример",
+    "category": "ограниченный бытовой опыт",
+    "card": "CASES.md#pal-011",
+    "sources": [
+      {
+        "url": "https://exler.es/dieta/comments/ne-shutite-s-podagroj.htm#1ieha",
+        "label": "Ответ автора #1ieha",
+        "date": "Alex Exler АннаБ 10.06.25 10:59 0 0",
+        "snapshot_url": "https://exler.es/dieta/ne-shutite-s-podagroj.htm",
+        "anchor": "1ieha"
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "PAL-012",
+    "title": "Опыт знакомых в споре о лечении инфекции",
+    "status": "анонимный опыт",
+    "category": "ограниченный бытовой опыт",
+    "card": "CASES.md#pal-012",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/comments/ovsyanka-ser.htm#1hq9h",
+        "label": "Ответ автора #1hq9h",
+        "date": "Alex Exler islander 26.04.25 10:55 0 0",
+        "snapshot_url": "https://exler.es/blog/ovsyanka-ser.htm",
+        "anchor": "1hq9h"
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "PAL-013",
+    "title": "Трое знакомых отключили настройку HyperOS",
+    "status": "маленькая техническая выборка",
+    "category": "ограниченный бытовой опыт",
+    "card": "CASES.md#pal-013",
+    "sources": [
+      {
+        "url": "https://exler.es/likbez/comments/kak-poluchit-polnocennyj-aod-na-smartfonah-xiaomi-poco-redmi.htm#1hsws",
+        "label": "Ответ автора #1hsws",
+        "date": "Alex Exler Bruno Banani 30.04.25 17:57 1 3",
+        "snapshot_url": "https://exler.es/likbez/kak-poluchit-polnocennyj-aod-na-smartfonah-xiaomi-poco-redmi.htm",
+        "anchor": "1hsws"
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "PAL-014",
+    "title": "Знакомые врачи и выражение «ставить укол»",
+    "status": "профессиональный авторитет вне исследования",
+    "category": "авторитет вместо доступной проверки",
+    "card": "CASES.md#pal-014",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/skorost-vaktsinatsii-v-ispanii.htm",
+        "label": "Скорость вакцинации в Испании",
+        "date": "2021-06-12 17:34:00",
+        "snapshot_url": "https://exler.es/blog/skorost-vaktsinatsii-v-ispanii.htm",
+        "anchor": null
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "PAL-015",
+    "title": "Защитник Windows: родственники, знакомые и PCMag",
+    "status": "личный опыт плюс внешний текст",
+    "category": "наводка с внешним материалом",
+    "card": "CASES.md#pal-015",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/dostatochno-li-odnogo-zashchitnika-windows.htm",
+        "label": "Достаточно ли одного \"Защитника\" Windows?",
+        "date": "2024-04-03 11:07:00",
+        "snapshot_url": "https://exler.es/blog/dostatochno-li-odnogo-zashchitnika-windows.htm",
+        "anchor": null
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "PAL-016",
+    "title": "Адаптер Android Auto: знакомый подсказал, автор испытал",
+    "status": "собственная проверка после рекомендации",
+    "category": "наводка с собственной проверкой",
+    "card": "CASES.md#pal-016",
+    "sources": [
+      {
+        "url": "https://exler.es/likbez/kak-podklyuchatsya-po-besprovodu-k-android-autoapple-carplay-v-mashinakh-gde-podklyucheniye-tolko-po-kabelyu.htm",
+        "label": "Ликбез | Как подключаться по беспроводу к Android Auto/Apple CarPlay в машинах, где подключение только по кабелю",
+        "date": "2024-07-24 12:56:00",
+        "snapshot_url": "https://exler.es/likbez/kak-podklyuchatsya-po-besprovodu-k-android-autoapple-carplay-v-mashinakh-gde-podklyucheniye-tolko-po-kabelyu.htm",
+        "anchor": null
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "PAL-017",
+    "title": "Владельцев Tesla ещё только спросят",
+    "status": "обещание проверки",
+    "category": "будущая проверка",
+    "card": "CASES.md#pal-017",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/iski-k-tesla-za-zavysheniye-dliny-probega.htm",
+        "label": "Иски к Tesla за завышение длины пробега",
+        "date": "2023-08-05 11:02:00",
+        "snapshot_url": "https://exler.es/blog/iski-k-tesla-za-zavysheniye-dliny-probega.htm",
+        "anchor": null
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "PAL-018",
+    "title": "Google исправил адрес знакомых",
+    "status": "ограниченный пример",
+    "category": "ограниченный бытовой опыт",
+    "card": "CASES.md#pal-018",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/kak-spravitsya-s-turistami.htm",
+        "label": "Как справиться с туристами",
+        "date": "2024-04-13 10:00:00",
+        "snapshot_url": "https://exler.es/blog/kak-spravitsya-s-turistami.htm",
+        "anchor": null
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "PAL-019",
+    "title": "Знакомые и оценка силы пропаганды",
+    "status": "обобщение личного впечатления",
+    "category": "ограниченный бытовой опыт",
+    "card": "CASES.md#pal-019",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/83-odobryamsov.htm",
+        "label": "83% одобрямсов",
+        "date": "2022-03-31 14:34:00",
+        "snapshot_url": "https://exler.es/blog/83-odobryamsov.htm",
+        "anchor": null
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "PAL-020",
+    "title": "Знакомые родители и признанная нерепрезентативность",
+    "status": "ограничение признано прямо",
+    "category": "ограничение признано",
+    "card": "CASES.md#pal-020",
+    "sources": [
+      {
+        "url": "https://exler.es/bannizm/comments/parad-pobedobesiya-v-preddverii.htm#1htig",
+        "label": "Ответ автора #1htig",
+        "date": "Alex Exler d-white1967 02.05.25 10:48 0 21",
+        "snapshot_url": "https://exler.es/bannizm/parad-pobedobesiya-v-preddverii.htm",
+        "anchor": "1htig"
+      },
+      {
+        "url": "https://exler.es/bannizm/comments/parad-pobedobesiya-v-preddverii.htm#1htis",
+        "label": "Ответ автора #1htis",
+        "date": "Alex Exler d-white1967 02.05.25 11:02 0 12",
+        "snapshot_url": "https://exler.es/bannizm/parad-pobedobesiya-v-preddverii.htm",
+        "anchor": "1htis"
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "PAL-021",
+    "title": "Сомелье Кирилл Бурдей и грузинское вино",
+    "status": "названный специалист",
+    "category": "открытая атрибуция",
+    "card": "CASES.md#pal-021",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/gruzinskiye-vina-vpechatleniya-spetsialista.htm",
+        "label": "Грузинские вина - впечатления специалиста",
+        "date": "2026-01-13 13:00:00",
+        "snapshot_url": "https://exler.es/blog/gruzinskiye-vina-vpechatleniya-spetsialista.htm",
+        "anchor": null
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "PAL-022",
+    "title": "Курс Димы Чернышева",
+    "status": "открытая дружеская рекомендация",
+    "category": "открытая рекомендация",
+    "card": "CASES.md#pal-022",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/kurs-tvorcheskogo-myshleniya.htm",
+        "label": "Курс творческого мышления",
+        "date": "2025-06-04 15:00:00",
+        "snapshot_url": "https://exler.es/blog/kurs-tvorcheskogo-myshleniya.htm",
+        "anchor": null
+      },
+      {
+        "url": "https://exler.es/blog/kurs-kreativnogo-myshleniya-dlya-podrostkov.htm",
+        "label": "Курс креативного мышления для подростков",
+        "date": "2021-11-23 12:47:00",
+        "snapshot_url": "https://exler.es/blog/kurs-kreativnogo-myshleniya-dlya-podrostkov.htm",
+        "anchor": null
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "PAL-023",
+    "title": "Новая книга друга Олега Борисова",
+    "status": "открытая дружеская рекомендация",
+    "category": "открытая рекомендация",
+    "card": "CASES.md#pal-023",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/novaya-kniga-olega-borisova-2.htm",
+        "label": "Новая книга Олега Борисова",
+        "date": "2022-01-20 10:30:00",
+        "snapshot_url": "https://exler.es/blog/novaya-kniga-olega-borisova-2.htm",
+        "anchor": null
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "PAL-024",
+    "title": "Альбом Рубена Саркисяна",
+    "status": "открытая поддержка знакомого",
+    "category": "открытая рекомендация",
+    "card": "CASES.md#pal-024",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/kraudfanding-dlya-vypuska-avtorskogo-alboma-rubena-sarkisyana.htm",
+        "label": "Краудфандинг для выпуска авторского альбома Рубена Саркисяна",
+        "date": "2021-07-13 11:07:00",
+        "snapshot_url": "https://exler.es/blog/kraudfanding-dlya-vypuska-avtorskogo-alboma-rubena-sarkisyana.htm",
+        "anchor": null
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "PAL-025",
+    "title": "Французский шеф и первый бокал",
+    "status": "анекдот, а не экспертиза",
+    "category": "анекдот или самопрезентация",
+    "card": "CASES.md#pal-025",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/comments/tseny-na-vino-v-ispanii.htm#1i79d",
+        "label": "Ответ автора #1i79d",
+        "date": "Alex Exler Daedalus 28.05.25 11:52 0 3",
+        "snapshot_url": "https://exler.es/blog/tseny-na-vino-v-ispanii.htm",
+        "anchor": "1i79d"
+      }
+    ],
+    "prior_cards": [
+      {
+        "id": "LIFE-008",
+        "path": "research/lifestyle/CASES.md"
+      }
+    ]
+  },
+  {
+    "id": "PAL-026",
+    "title": "Фридайверы как основание отвергнуть шутку",
+    "status": "знакомство поддерживает оценку",
+    "category": "авторитет вместо доступной проверки",
+    "card": "CASES.md#pal-026",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/comments/ne-dyshal-29-minut-pod-vodoy.htm#1jgv2",
+        "label": "Ответ автора #1jgv2",
+        "date": "Alex Exler Mit 21.08.25 18:00 0 1",
+        "snapshot_url": "https://exler.es/blog/ne-dyshal-29-minut-pod-vodoy.htm",
+        "anchor": "1jgv2"
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "PAL-027",
+    "title": "Неназванные знакомые о Долиной",
+    "status": "вторичная личная оценка",
+    "category": "авторитет вместо доступной проверки",
+    "card": "CASES.md#pal-027",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/comments/eto-vse-boty-byli.htm#1kyph",
+        "label": "Ответ автора #1kyph",
+        "date": "Alex Exler Stuntman 02.12.25 20:25 0 1",
+        "snapshot_url": "https://exler.es/blog/eto-vse-boty-byli.htm",
+        "anchor": "1kyph"
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "PAL-028",
+    "title": "Mash: знакомые связались с героями новости",
+    "status": "посредники сообщают опровержение",
+    "category": "наводка с внешним материалом",
+    "card": "CASES.md#pal-028",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/feyk-ot-mash.htm",
+        "label": "Фейк от Mash",
+        "date": "2026-05-14 11:00:00",
+        "snapshot_url": "https://exler.es/blog/feyk-ot-mash.htm",
+        "anchor": null
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "PAL-029",
+    "title": "Перечень знакомых журналистов",
+    "status": "самопрезентация",
+    "category": "анекдот или самопрезентация",
+    "card": "CASES.md#pal-029",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/comments/gde-priobrel-kapital.htm#10kmw",
+        "label": "Ответ автора #10kmw",
+        "date": "Alex Exler Coffeman 25.06.22 16:50 0 5",
+        "snapshot_url": "https://exler.es/blog/gde-priobrel-kapital.htm",
+        "anchor": "10kmw"
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "PAL-030",
+    "title": "Недвижимость под Вегасом",
+    "status": "анонимный опыт знакомых",
+    "category": "ограниченный бытовой опыт",
+    "card": "CASES.md#pal-030",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/oazis-pod-vegasom.htm",
+        "label": "Оазис под Вегасом",
+        "date": "23.11.2010 10:31 10171 Комментарии (38)",
+        "snapshot_url": "https://exler.es/blog/oazis-pod-vegasom.htm",
+        "anchor": null
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "PAL-031",
+    "title": "Средства для сна: помощь некоторым знакомым",
+    "status": "явно ограниченный личный опыт",
+    "category": "ограничение признано",
+    "card": "CASES.md#pal-031",
+    "sources": [
+      {
+        "url": "https://exler.es/ezhe/sekrety-normalnogo-sna.htm",
+        "label": "Рассказы | Секреты нормального сна",
+        "date": "2025-02-11 13:58:00",
+        "snapshot_url": "https://exler.es/ezhe/sekrety-normalnogo-sna.htm",
+        "anchor": null
+      }
+    ],
+    "prior_cards": []
+  },
+  {
+    "id": "PAL-032",
+    "title": "CNews: рассказали, не поверил, проверил",
+    "status": "наводка проверена действием",
+    "category": "наводка с собственной проверкой",
+    "card": "CASES.md#pal-032",
+    "sources": [
+      {
+        "url": "https://exler.es/blog/cnews-zazhigaet-ogni.htm",
+        "label": "CNews зажигает огни",
+        "date": "27.08.2015 11:34 15443 Комментарии (50)",
+        "snapshot_url": "https://exler.es/blog/cnews-zazhigaet-ogni.htm",
+        "anchor": null
+      }
+    ],
+    "prior_cards": []
+  }
+]

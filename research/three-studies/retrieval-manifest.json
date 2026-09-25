@@ -1,0 +1,2011 @@
+[
+  {
+    "url": "https://exler.es/blog/gruzinskiye-vina-vpechatleniya-spetsialista.htm",
+    "final_url": "https://exler.es/blog/gruzinskiye-vina-vpechatleniya-spetsialista.htm",
+    "status": "fetched",
+    "title": "Грузинские вина - впечатления специалиста",
+    "http_status": 200,
+    "sha256": "292db3ef8487483cb26dc0abafcfb9dea743fcb752151d8a61e2c099df1abe1f",
+    "fetched_at": "2026-09-25T18:13:24.990157+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "PAL-021"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/kvartirnaya-istoriya-v-ispanii.htm",
+    "final_url": "https://exler.es/blog/kvartirnaya-istoriya-v-ispanii.htm",
+    "status": "fetched",
+    "title": "Квартирная история в Испании",
+    "http_status": 200,
+    "sha256": "363b0a736c2da801d49bd35becc73252a9c400784b923dbf8c34c0a082a76da3",
+    "fetched_at": "2026-09-25T18:13:24.479328+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "PAL-009"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/interesnaya-statistika-5.htm",
+    "final_url": "https://exler.es/blog/interesnaya-statistika-5.htm",
+    "status": "fetched",
+    "title": "Интересная статистика",
+    "http_status": 200,
+    "sha256": "1a8061191cfa5f85e1cb4b6a7aa1301e7fe28289507e3e27fda39e157c044122",
+    "fetched_at": "2026-09-25T18:13:24.117317+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "SRC-012"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/davay-michelin-do-svidaniya.htm",
+    "final_url": "https://exler.es/blog/davay-michelin-do-svidaniya.htm",
+    "status": "fetched",
+    "title": "Давай, Michelin, до свидания!",
+    "http_status": 200,
+    "sha256": "e3c676b66710864aa8726e8de5f19f7a3f31169cbd1b5634b0becc4fc8e6a057",
+    "fetched_at": "2026-09-25T18:13:25.022816+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "PAL-003"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/v-sootvetstvii-s-traditsionnymi-tsennostyami.htm",
+    "final_url": "https://exler.es/blog/v-sootvetstvii-s-traditsionnymi-tsennostyami.htm",
+    "status": "fetched",
+    "title": "В соответствии с традиционными ценностями",
+    "http_status": 200,
+    "sha256": "41949ff090817c31ff1cdd08a376f55d16a4bf82b9aacd997ac6f2ad8b6a02d8",
+    "fetched_at": "2026-09-25T18:13:33.219362+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "SRC-009"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/smeshnoy-durak-kuchera.htm",
+    "final_url": "https://exler.es/blog/smeshnoy-durak-kuchera.htm",
+    "status": "fetched",
+    "title": "Смешной дурак Кучера",
+    "http_status": 200,
+    "sha256": "f0cd3ff53694e6b901eb13b9dc637efeacd55e01c86058d9498c4caedbf620e9",
+    "fetched_at": "2026-09-25T18:13:33.383824+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/popal-pod-epitsentr-loshadi.htm",
+    "final_url": "https://exler.es/blog/popal-pod-epitsentr-loshadi.htm",
+    "status": "fetched",
+    "title": "Попал под эпицентр лошади",
+    "http_status": 200,
+    "sha256": "982951033a223a02b471d5aac1a849364ae04ef9efc2f35fbaa0086f7345c823",
+    "fetched_at": "2026-09-25T18:13:33.865762+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/s-chego-nachinayetsya-rodina.htm",
+    "final_url": "https://exler.es/blog/s-chego-nachinayetsya-rodina.htm",
+    "status": "fetched",
+    "title": "С чего начинается родина",
+    "http_status": 200,
+    "sha256": "08d85d47f4362d88fb94ab7cf04504a2f8ffe31987276cf1e0333993241623f3",
+    "fetched_at": "2026-09-25T18:13:33.553226+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "DS-002",
+      "SRC-008"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/solnechnyye-batarei-v-ispanii.htm",
+    "final_url": "https://exler.es/blog/solnechnyye-batarei-v-ispanii.htm",
+    "status": "fetched",
+    "title": "Солнечные батареи в Испании",
+    "http_status": 200,
+    "sha256": "f5ce9bc32865bcea3c5ce8eed2d83829d928e409d04850ecf07c50b5abea69b2",
+    "fetched_at": "2026-09-25T18:13:43.269122+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "SRC-007",
+      "PAL-004"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/pravitelstvennyy-yaroslav.htm",
+    "final_url": "https://exler.es/blog/pravitelstvennyy-yaroslav.htm",
+    "status": "fetched",
+    "title": "Правительственный Ярослав",
+    "http_status": 200,
+    "sha256": "c35102e2c1f6502f3b55c0825432fbc77c9825e89d811442350748b3f455c584",
+    "fetched_at": "2026-09-25T18:13:42.882468+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/sovsem-za-cheloveka-ne-schitayut.htm",
+    "final_url": "https://exler.es/blog/sovsem-za-cheloveka-ne-schitayut.htm",
+    "status": "fetched",
+    "title": "Совсем за человека не считают",
+    "http_status": 200,
+    "sha256": "d56ee11f6b3cf7337bb061bcb5f1d122abc2dae0df668b039195f30f5f0f9673",
+    "fetched_at": "2026-09-25T18:13:42.750463+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "PAL-008"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/huawei-mate-xt.htm",
+    "final_url": "https://exler.es/blog/huawei-mate-xt.htm",
+    "status": "fetched",
+    "title": "Huawei Mate XT",
+    "http_status": 200,
+    "sha256": "c628934c434c731211b10abd2f1673d432e58a097f944e2d26d4fd438e238b88",
+    "fetched_at": "2026-09-25T18:13:43.621184+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "DS-005",
+      "PAL-005"
+    ]
+  },
+  {
+    "url": "https://exler.es/likbez/kak-podklyuchatsya-po-besprovodu-k-android-autoapple-carplay-v-mashinakh-gde-podklyucheniye-tolko-po-kabelyu.htm",
+    "final_url": "https://exler.es/likbez/kak-podklyuchatsya-po-besprovodu-k-android-autoapple-carplay-v-mashinakh-gde-podklyucheniye-tolko-po-kabelyu.htm",
+    "status": "fetched",
+    "title": "Как подключаться по беспроводу к Android Auto/Apple CarPlay в машинах, где подключение только по кабелю",
+    "http_status": 200,
+    "sha256": "eaac93368d4924f2a070ecab09f35ebc31ea44ee4b3ce9e9176ca54a45ddda18",
+    "fetched_at": "2026-09-25T18:13:52.442720+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "PAL-016"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/dostatochno-li-odnogo-zashchitnika-windows.htm",
+    "final_url": "https://exler.es/blog/dostatochno-li-odnogo-zashchitnika-windows.htm",
+    "status": "fetched",
+    "title": "Достаточно ли одного \"Защитника\" Windows?",
+    "http_status": 200,
+    "sha256": "3a7077de1baff1bcee0a97884ceb4249919de8849f86bd20846d47ed9c9b1158",
+    "fetched_at": "2026-09-25T18:13:53.450069+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "PAL-015"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/optimalnaya-prodolzhitelnost-sna.htm",
+    "final_url": "https://exler.es/blog/optimalnaya-prodolzhitelnost-sna.htm",
+    "status": "fetched",
+    "title": "Оптимальная продолжительность сна",
+    "http_status": 200,
+    "sha256": "be2e3be5e0e4de106a665c3dd2591504bda09398e3660d4ec5a2043461fd7822",
+    "fetched_at": "2026-09-25T18:13:52.779974+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "DS-001",
+      "SRC-004",
+      "PAL-010"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/o-yeshche-odnom-myatezhe.htm",
+    "final_url": "https://exler.es/blog/o-yeshche-odnom-myatezhe.htm",
+    "status": "fetched",
+    "title": "Об еще одном мятеже",
+    "http_status": 200,
+    "sha256": "c9da44b2314a275ecfb885f07d0bd7cf6b41a8d7c334e847a69235ce39b95e9f",
+    "fetched_at": "2026-09-25T18:13:52.779883+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "DS-006",
+      "PAL-001"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/pamyatka-po-rabote-s-toksichnoy-novostnoy-povestkoy.htm",
+    "final_url": "https://exler.es/blog/pamyatka-po-rabote-s-toksichnoy-novostnoy-povestkoy.htm",
+    "status": "fetched",
+    "title": "Памятка по работе с токсичной новостной повесткой",
+    "http_status": 200,
+    "sha256": "04550ba1cb8032bbd6d948bae1f731b876bea7f1eb63caacccedbdeb7b56a45a",
+    "fetched_at": "2026-09-25T18:14:02.045220+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "DS-010"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/pomenyal-bittorrent.htm",
+    "final_url": "https://exler.es/blog/pomenyal-bittorrent.htm",
+    "status": "fetched",
+    "title": "Поменял торрент-клиент",
+    "http_status": 200,
+    "sha256": "80d8993335d46530dc5577519f69e045ea95a947c16d14e14bd7688560ee3aab",
+    "fetched_at": "2026-09-25T18:14:02.735359+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/zheleznaya-logika-4.htm",
+    "final_url": "https://exler.es/blog/zheleznaya-logika-4.htm",
+    "status": "fetched",
+    "title": "Железная логика",
+    "http_status": 200,
+    "sha256": "22f438e139df9ccea64ec079679c7a6bd7cd44e9f09c49dc64881e6e7951ed16",
+    "fetched_at": "2026-09-25T18:14:02.425358+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "SRC-015"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/skhvatka-sveta-protiv-tmy.htm",
+    "final_url": "https://exler.es/blog/skhvatka-sveta-protiv-tmy.htm",
+    "status": "fetched",
+    "title": "Схватка света против тьмы",
+    "http_status": 200,
+    "sha256": "b475fc8e54c589a7f01fd93dbb8aa7187844426900f6604ee9e9995b8d090174",
+    "fetched_at": "2026-09-25T18:14:02.218034+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "DS-002",
+      "DS-007",
+      "SRC-015"
+    ]
+  },
+  {
+    "url": "https://exler-cult.livejournal.com/1219666.html",
+    "final_url": "https://exler-cult.livejournal.com/1219666.html",
+    "status": "fetched",
+    "title": "Креатив для быдла от Экслера.",
+    "http_status": 200,
+    "sha256": "b410bbc1f5bc79dd4f2729ae5a177e907fc1428263e55c4c8d534911bd7dbfea",
+    "fetched_at": "2026-09-25T18:14:11.984917+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler-cult.livejournal.com/1492434.html",
+    "final_url": "https://exler-cult.livejournal.com/1492434.html",
+    "status": "fetched",
+    "title": "Скажи мне как обзорщик обзорщику - ты телефон в руках держал?",
+    "http_status": 200,
+    "sha256": "7d7ef4db298e779e949feed6438e8add84b9d4a4c82d5f7559493d8b4722cd18",
+    "fetched_at": "2026-09-25T18:14:12.202189+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler-cult.livejournal.com/1426833.html",
+    "final_url": "https://exler-cult.livejournal.com/1426833.html",
+    "status": "fetched",
+    "title": "Латынина - всё",
+    "http_status": 200,
+    "sha256": "a8aa85d6cd6e872698a9b74018d710b576450b3a074697eda2cdee5e5afe8085",
+    "fetched_at": "2026-09-25T18:14:12.433688+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler-cult.livejournal.com/1112262.html",
+    "final_url": "https://exler-cult.livejournal.com/1112262.html",
+    "status": "fetched",
+    "title": "Пузя на баррикадах-3. Азеф Экслер.",
+    "http_status": 200,
+    "sha256": "5400a9ce6310832fc988ed6e5e7d5c297f76fbe4f28ef272b735cad30038d8df",
+    "fetched_at": "2026-09-25T18:14:12.333747+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler-cult.livejournal.com/1480314.html",
+    "final_url": "https://exler-cult.livejournal.com/1480314.html",
+    "status": "fetched",
+    "title": "Пузя и fAcking news",
+    "http_status": 200,
+    "sha256": "4da172ad5af4e866c7319592fec2d55b56a4e59e865a3273d892143a1b3aa045",
+    "fetched_at": "2026-09-25T18:14:21.796713+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler-cult.livejournal.com/1511092.html",
+    "final_url": "https://exler-cult.livejournal.com/1511092.html",
+    "status": "fetched",
+    "title": "Гений АйТи!",
+    "http_status": 200,
+    "sha256": "f4d30ea298be99d7c54ce24de6f74c70662f5f85d19cd0b4faabd1e704781ca3",
+    "fetched_at": "2026-09-25T18:14:21.500484+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler-cult.livejournal.com/1324846.html",
+    "final_url": "https://exler-cult.livejournal.com/1324846.html",
+    "status": "fetched",
+    "title": "\"Алекс Экслер\", перевод с испанского.",
+    "http_status": 200,
+    "sha256": "1ad1ba87b7d9f687029c31d3f78361f3977d5a8dbe569a8af9a80a6e7f76f909",
+    "fetched_at": "2026-09-25T18:14:22.047954+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler-cult.livejournal.com/1545823.html",
+    "final_url": "https://exler-cult.livejournal.com/1545823.html",
+    "status": "fetched",
+    "title": "Его борьба 2",
+    "http_status": 200,
+    "sha256": "c81a65918421bc4ad240f2f1046cad9926d336f031a62e0f44072cae21a3a77b",
+    "fetched_at": "2026-09-25T18:14:21.648024+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/eto-vse-boty-byli.htm",
+    "final_url": "https://exler.es/blog/eto-vse-boty-byli.htm",
+    "status": "fetched",
+    "title": "Это все боты были",
+    "http_status": 200,
+    "sha256": "33ddd630633162e24d1036866f79d72f332a02c2ea2a09adf983add38d0408e9",
+    "fetched_at": "2026-09-25T18:14:40.746045+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "PAL-027"
+    ]
+  },
+  {
+    "url": "https://exler.es/expromt/telesin-fun-shot-magnetic-grip-prevratit-lyuboj-smartfon-v-fotokameru.htm",
+    "final_url": "https://exler.es/expromt/telesin-fun-shot-magnetic-grip-prevratit-lyuboj-smartfon-v-fotokameru.htm",
+    "status": "fetched",
+    "title": "Telesin Fun Shot Magnetic Grip - превратить любой смартфон в фотокамеру",
+    "http_status": 200,
+    "sha256": "c7b15940b8ed3e0c4efe4a07997deddf4b6c472cab3997df97fc792240229b02",
+    "fetched_at": "2026-09-25T18:14:40.431986+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "PAL-002"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/izmeneniya-v-pravilakh-kommentirovaniya.htm",
+    "final_url": "https://exler.es/blog/izmeneniya-v-pravilakh-kommentirovaniya.htm",
+    "status": "fetched",
+    "title": "Изменения в правилах комментирования",
+    "http_status": 200,
+    "sha256": "81e28b30433775b9cc7d2c7fd8c1958b31c91e1070627064dfd9973c186c78d1",
+    "fetched_at": "2026-09-25T18:14:40.995657+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "DS-004"
+    ]
+  },
+  {
+    "url": "https://exler.es/bannizm/parad-pobedobesiya-v-preddverii.htm",
+    "final_url": "https://exler.es/bannizm/parad-pobedobesiya-v-preddverii.htm",
+    "status": "fetched",
+    "title": "Парад победобесия в преддверии",
+    "http_status": 200,
+    "sha256": "13c3bfb1b3db411dccd468556bb8c1f96e024f1b4568f6bf883aafdadd7e3c74",
+    "fetched_at": "2026-09-25T18:14:40.714319+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "PAL-020"
+    ]
+  },
+  {
+    "url": "https://exler.es/likbez/kak-poluchit-polnocennyj-aod-na-smartfonah-xiaomi-poco-redmi.htm",
+    "final_url": "https://exler.es/likbez/kak-poluchit-polnocennyj-aod-na-smartfonah-xiaomi-poco-redmi.htm",
+    "status": "fetched",
+    "title": "Как получить полноценный AOD на смартфонах Xiaomi",
+    "http_status": 200,
+    "sha256": "d07fceea36f0e191166993972c49a14560c801ed81ff85641a51c14b0b41c6d8",
+    "fetched_at": "2026-09-25T18:14:56.781546+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "PAL-013"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/ovsyanka-ser.htm",
+    "final_url": "https://exler.es/blog/ovsyanka-ser.htm",
+    "status": "fetched",
+    "title": "Овсянка, сэр!",
+    "http_status": 200,
+    "sha256": "434d5d3e1f8d73a430bf95335cf58cb617fab858b86618ebec37517e7d21bb38",
+    "fetched_at": "2026-09-25T18:14:57.395711+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "PAL-012"
+    ]
+  },
+  {
+    "url": "https://exler.es/films/maskarad.htm",
+    "final_url": "https://exler.es/films/maskarad.htm",
+    "status": "fetched",
+    "title": "Маскарад",
+    "http_status": 200,
+    "sha256": "4d5d254975ecf1c113128c29abd9651f158805bd6b61649777aae2464e70aa0a",
+    "fetched_at": "2026-09-25T18:14:56.859107+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/expromt/obzor-superflagmana-xiaomi-15-ultra.htm",
+    "final_url": "https://exler.es/expromt/obzor-superflagmana-xiaomi-15-ultra.htm",
+    "status": "fetched",
+    "title": "Обзор флагмана Xiaomi 15 Ultra",
+    "http_status": 200,
+    "sha256": "3d21f5556806690b0c73201c3059191f60c55c5a775ec507b5cb66e387eeafa3",
+    "fetched_at": "2026-09-25T18:14:57.279878+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/kogda-zhezheshka-yeshche-byla-uyutnoy.htm",
+    "final_url": "https://exler.es/blog/kogda-zhezheshka-yeshche-byla-uyutnoy.htm",
+    "status": "fetched",
+    "title": "Когда Жежешка еще была уютной",
+    "http_status": 200,
+    "sha256": "8e3616a026a4040549a92665c6e89a9582803ae9cb9b7dd6b5723e4a7240eb90",
+    "fetched_at": "2026-09-25T18:15:09.158708+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/polucheniye-ispanskogo-grazhdanstva.htm",
+    "final_url": "https://exler.es/blog/polucheniye-ispanskogo-grazhdanstva.htm",
+    "status": "fetched",
+    "title": "Получение испанского гражданства",
+    "http_status": 200,
+    "sha256": "c815e930779ae937c7d5a1724b3761ddb538e873806866f60188210b0056c04c",
+    "fetched_at": "2026-09-25T18:15:10.041375+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/rossiyskiy-kulturnyy-kod.htm",
+    "final_url": "https://exler.es/blog/rossiyskiy-kulturnyy-kod.htm",
+    "status": "fetched",
+    "title": "Российский культурный код",
+    "http_status": 200,
+    "sha256": "b9e2f1a992eebebd02119c12a290d480d2c386bdaee02b73a74dec706258acd4",
+    "fetched_at": "2026-09-25T18:15:09.653877+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/chernyy-lenin-obvinyayet.htm",
+    "final_url": "https://exler.es/blog/chernyy-lenin-obvinyayet.htm",
+    "status": "fetched",
+    "title": "Черный Ленин обвиняет",
+    "http_status": 200,
+    "sha256": "3596ce1fd680543285eb4aecdeeaa62574cac66e23e5b740e8dc2625d58b1d59",
+    "fetched_at": "2026-09-25T18:15:09.207857+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/po-povodu-mata-v-kommentakh.htm",
+    "final_url": "https://exler.es/blog/po-povodu-mata-v-kommentakh.htm",
+    "status": "fetched",
+    "title": "По поводу мата в комментах",
+    "http_status": 200,
+    "sha256": "4e8a1a134e03a38ae0e6f43677ce38cdb10258ea97abd0ca0fb89e825ab7aace",
+    "fetched_at": "2026-09-25T18:15:21.559658+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "DS-004"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/doloy-zimnyuyu-depressiyu.htm",
+    "final_url": "https://exler.es/blog/doloy-zimnyuyu-depressiyu.htm",
+    "status": "fetched",
+    "title": "Долой зимнюю депрессию",
+    "http_status": 200,
+    "sha256": "5f6a5512436853fe7026b3cb49509c6b1c8fc0f2e0aa58080ce5a0089a5e1542",
+    "fetched_at": "2026-09-25T18:15:21.315701+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/dve-aktsii-v-barselone.htm",
+    "final_url": "https://exler.es/blog/dve-aktsii-v-barselone.htm",
+    "status": "fetched",
+    "title": "Две акции в Барселоне",
+    "http_status": 200,
+    "sha256": "908c030ea107c7b6647e99f8e3da1d6eedc1d1ab394ac2fb4090266902a0bc09",
+    "fetched_at": "2026-09-25T18:15:21.675354+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/interesnyye-kitayskiye-chai-iz-izrailya.htm",
+    "final_url": "https://exler.es/blog/interesnyye-kitayskiye-chai-iz-izrailya.htm",
+    "status": "fetched",
+    "title": "Интересные китайские чаи из Израиля",
+    "http_status": 200,
+    "sha256": "e2b984da3de8518715f6a7bc87b580f8d3298cf33a3f0c689935d2b0efd5069f",
+    "fetched_at": "2026-09-25T18:15:21.058030+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/v-moskvu-priletelo.htm",
+    "final_url": "https://exler.es/blog/v-moskvu-priletelo.htm",
+    "status": "fetched",
+    "title": "В Москву прилетело",
+    "http_status": 200,
+    "sha256": "aca6abc7f42080a1a55faa06701707fed2a95e9c7eeaeb012da362e9f62c7c41",
+    "fetched_at": "2026-09-25T18:15:33.534205+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "DS-006"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/paycardlink-obyasneniya.htm",
+    "final_url": "https://exler.es/blog/paycardlink-obyasneniya.htm",
+    "status": "fetched",
+    "title": "Paycard.link - объяснения",
+    "http_status": 200,
+    "sha256": "5ee02a56199f1b55680723c2a34913c3de63edba335a1e656d99b19c301e6733",
+    "fetched_at": "2026-09-25T18:15:33.376496+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "SRC-010",
+      "PAL-007"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/po-povodu-kommentov-na-sayte.htm",
+    "final_url": "https://exler.es/blog/po-povodu-kommentov-na-sayte.htm",
+    "status": "fetched",
+    "title": "По поводу комментов на сайте",
+    "http_status": 200,
+    "sha256": "19e8e15ce6128c850b397e0a464cedb60a00c158756f0110499df8ce6f4cb340",
+    "fetched_at": "2026-09-25T18:15:33.413681+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/interesnyye-chai-na-probu.htm",
+    "final_url": "https://exler.es/blog/interesnyye-chai-na-probu.htm",
+    "status": "fetched",
+    "title": "Чайные братья и интересные чаи на пробу",
+    "http_status": 200,
+    "sha256": "85a1326c2a0766c10349983cfb94d2cd63bfa35136d653a69b700c387fcfc3c3",
+    "fetched_at": "2026-09-25T18:15:32.948074+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/gadzhety-na-prodazhu-v-moskve.htm",
+    "final_url": "https://exler.es/blog/gadzhety-na-prodazhu-v-moskve.htm",
+    "status": "fetched",
+    "title": "Гаджеты на продажу в Москве",
+    "http_status": 200,
+    "sha256": "b67817c659ca0f5b727a54855d76da677a96d31030f378e143843224928f4a6e",
+    "fetched_at": "2026-09-25T18:15:42.563783+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/pamyatnik-anomalnoy-zhare.htm",
+    "final_url": "https://exler.es/blog/pamyatnik-anomalnoy-zhare.htm",
+    "status": "fetched",
+    "title": "Памятник аномальной жаре",
+    "http_status": 200,
+    "sha256": "2467d2554ca9779632941b3af1cf6b8f80a99b2159e91d32ebae562ae1f4202f",
+    "fetched_at": "2026-09-25T18:15:42.228000+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/pochemu-ne-vypuskayut-nebolshiye-smartfony.htm",
+    "final_url": "https://exler.es/blog/pochemu-ne-vypuskayut-nebolshiye-smartfony.htm",
+    "status": "fetched",
+    "title": "Почему не выпускают небольшие смартфоны",
+    "http_status": 200,
+    "sha256": "aaeec9dabec7d569c63ae711edf13c97cdddaa4821a1d1ae4048c29caf894936",
+    "fetched_at": "2026-09-25T18:15:42.916891+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "DS-005"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/budte-ostorozhneye-s-kopiyami-retro-yaguarov.htm",
+    "final_url": "https://exler.es/blog/budte-ostorozhneye-s-kopiyami-retro-yaguarov.htm",
+    "status": "fetched",
+    "title": "Будьте осторожнее с копиями ретро-ягуаров",
+    "http_status": 200,
+    "sha256": "9ea1d908ffa5e68ab4814003e380e6ffa2252204f7e4e75efa0526a72942c199",
+    "fetched_at": "2026-09-25T18:15:42.663719+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "SRC-011"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/otpravka-dokumentov-iz-yes-v-rf.htm",
+    "final_url": "https://exler.es/blog/otpravka-dokumentov-iz-yes-v-rf.htm",
+    "status": "fetched",
+    "title": "Отправка документов из ЕС в РФ",
+    "http_status": 200,
+    "sha256": "2eb5c38153d33dabdd9642b5b4e21afa862f763368c79bc1cd3b897ea2f652e2",
+    "fetched_at": "2026-09-25T18:15:53.099759+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/napominayu-o-pravilah-kommentirovaniya-v-etom-bloge.htm",
+    "final_url": "https://exler.es/blog/napominayu-o-pravilah-kommentirovaniya-v-etom-bloge.htm",
+    "status": "fetched",
+    "title": "Напоминаю о правилах комментирования в этом блоге",
+    "http_status": 200,
+    "sha256": "f8e4350fca15a240e788b96f5ed0181b7f8e66e24dc3a202bc87ea8900b8e38c",
+    "fetched_at": "2026-09-25T18:15:52.884770+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/pravila-kommentirovaniya-na-etom-sayte-2.htm",
+    "final_url": "https://exler.es/blog/pravila-kommentirovaniya-na-etom-sayte-2.htm",
+    "status": "fetched",
+    "title": "Правила комментирования на этом сайте",
+    "http_status": 200,
+    "sha256": "b6a50520b5b95c7776ca9b3ad3762728b1f25dd1b8bdecd06a6a6963aecd7bba",
+    "fetched_at": "2026-09-25T18:15:53.765443+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/skachat-moi-knigi-odnim-arhivom.htm",
+    "final_url": "https://exler.es/blog/skachat-moi-knigi-odnim-arhivom.htm",
+    "status": "fetched",
+    "title": "Скачать мои книги одним архивом",
+    "http_status": 200,
+    "sha256": "3ab83a1790b0623815be6ad58c3aba579a03bb6ffce7fdab42ad62a2aa5789d1",
+    "fetched_at": "2026-09-25T18:15:53.469664+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/smartfony-huawei-mate-30-pro-i-mate-30.htm",
+    "final_url": "https://exler.es/blog/smartfony-huawei-mate-30-pro-i-mate-30.htm",
+    "status": "fetched",
+    "title": "Смартфоны Huawei Mate 30 Pro и Mate 30",
+    "http_status": 200,
+    "sha256": "9dd0cca6eed0ab50abdf7ca35e45154c76fbeb6b8c2e3eed4739d59a30abc307",
+    "fetched_at": "2026-09-25T18:15:14.130673+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "DS-009",
+      "SRC-001"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/item/13282/",
+    "final_url": "https://exler.es/blog/litres-otvetil-chto-my-teper-s-nimi-budem-delat.htm",
+    "status": "fetched",
+    "title": "Litres ответил: что мы теперь с ними будем делать",
+    "http_status": 200,
+    "sha256": "4923f8c3b06d7fa68bca627272538836bba41c43a69d9d9f092ef457893612a7",
+    "fetched_at": "2026-09-25T18:15:21.636810+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "DS-003"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/item/13691/50/",
+    "final_url": "https://exler.es/blog/item/13691/50/",
+    "status": "fetch_error",
+    "title": "",
+    "http_status": null,
+    "sha256": null,
+    "fetched_at": null,
+    "error": "HTTP Error 404: Not Found",
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/novyy-simvol-pridumali.htm",
+    "final_url": "https://exler.es/blog/novyy-simvol-pridumali.htm",
+    "status": "fetched",
+    "title": "Новый символ придумали",
+    "http_status": 200,
+    "sha256": "216cbb1b028099e204b89c9b76a3cb04d00134f3c4f443c2229f3ddf6bdf96eb",
+    "fetched_at": "2026-09-25T18:15:13.984066+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/pritesneniya-rossiyan-v-ispanii.htm",
+    "final_url": "https://exler.es/blog/pritesneniya-rossiyan-v-ispanii.htm",
+    "status": "fetched",
+    "title": "\"Притеснения\" россиян в Испании",
+    "http_status": 200,
+    "sha256": "7bbadb36e32af84ab541397b667cc95105f1b567f4c9f356a8067f588741d3ec",
+    "fetched_at": "2026-09-25T18:15:21.956923+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/item/15007/",
+    "final_url": "https://exler.es/blog/tretya-chast-marlezonskogo-baleta.htm",
+    "status": "fetched",
+    "title": "Третья часть марлезонского балета",
+    "http_status": 200,
+    "sha256": "e838ad0bc1419219d2ab64c3c23b91b440673498ed8854e470101d72544e75a4",
+    "fetched_at": "2026-09-25T18:15:30.325215+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/item/9226/",
+    "final_url": "https://exler.es/blog/migalkov-nauchil-pensionerov-duhovnosti.htm",
+    "status": "fetched",
+    "title": "Мигалков научил пенсионеров духовности",
+    "http_status": 200,
+    "sha256": "57d9377f1f08027a9dc82eb0c59828b8d74609a3bd31230d9be685561312ad5b",
+    "fetched_at": "2026-09-25T18:15:30.029866+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/item/9844/",
+    "final_url": "https://exler.es/blog/ne-kleveshite-na-migalkova.htm",
+    "status": "fetched",
+    "title": "Не клевещите на Мигалкова!",
+    "http_status": 200,
+    "sha256": "48aaa4d77ab5620ba4f35ce366f2ab2358bc55094665eecaaf12cb4a283a177e",
+    "fetched_at": "2026-09-25T18:15:38.129628+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/item/9865/",
+    "final_url": "https://exler.es/blog/item/9865/",
+    "status": "fetch_error",
+    "title": "",
+    "http_status": null,
+    "sha256": null,
+    "fetched_at": null,
+    "error": "HTTP Error 404: Not Found",
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/item/7712/",
+    "final_url": "https://exler.es/blog/pejte-na-zdorove.htm",
+    "status": "fetched",
+    "title": "Пейте на здоровье!",
+    "http_status": 200,
+    "sha256": "e811081ca1ae55c613dc4b1b9292c05293c7b5c112304554ee7dbb89e321d676",
+    "fetched_at": "2026-09-25T18:15:47.014927+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/item/13924/",
+    "final_url": "https://exler.es/blog/nash-lyubimyj-kloun-2.htm",
+    "status": "fetched",
+    "title": "Наш любимый клоун",
+    "http_status": 200,
+    "sha256": "4b7bc01c458b6b9e8c4d9dc7df28ff3ec36530668db4250e9b2d1136547fee4e",
+    "fetched_at": "2026-09-25T18:15:46.838456+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/item/14512/",
+    "final_url": "https://exler.es/blog/item/14512/",
+    "status": "fetch_error",
+    "title": "",
+    "http_status": null,
+    "sha256": null,
+    "fetched_at": null,
+    "error": "HTTP Error 404: Not Found",
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/item/9082/",
+    "final_url": "https://exler.es/blog/m-m-m-m-m-u-u-u-vrodi.htm",
+    "status": "fetched",
+    "title": "М-м-м-м-м-у-у-у-вроди!",
+    "http_status": 200,
+    "sha256": "9485c9b73c6d3eb7716fd88cf9244b491d961fb2b31ce9767e6562730423e951",
+    "fetched_at": "2026-09-25T18:15:55.680888+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/likbez/kak-razlichat-fejki-v-internete.htm",
+    "final_url": "https://exler.es/likbez/kak-razlichat-fejki-v-internete.htm",
+    "status": "fetched",
+    "title": "Как различать фейки в Интернете",
+    "http_status": 200,
+    "sha256": "e34cde4968366ad043545f1dd7477638684fe0699f86709f430de744b0e75118",
+    "fetched_at": "2026-09-25T18:15:46.580764+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "DS-001",
+      "DS-009"
+    ]
+  },
+  {
+    "url": "https://archive.is/GEAP0",
+    "final_url": "https://archive.is/GEAP0",
+    "status": "unavailable_content",
+    "title": "Site Unavailable",
+    "http_status": 200,
+    "sha256": "5b131ca14aa96311d3432b0062c7443d3b0e6346ec279bd376a75f0a76bcd5d7",
+    "fetched_at": "2026-09-25T18:15:52.969303+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://archive.is/EfIfB",
+    "final_url": "https://archive.is/EfIfB",
+    "status": "unavailable_content",
+    "title": "Site Unavailable",
+    "http_status": 200,
+    "sha256": "5b131ca14aa96311d3432b0062c7443d3b0e6346ec279bd376a75f0a76bcd5d7",
+    "fetched_at": "2026-09-25T18:15:53.282824+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/uchenyye-trebuyut-delat-preduprezhdeniya.htm",
+    "final_url": "https://exler.es/blog/uchenyye-trebuyut-delat-preduprezhdeniya.htm",
+    "status": "fetched",
+    "title": "Ученые требуют делать предупреждения",
+    "http_status": 200,
+    "sha256": "f8803fea098115f58551d0c08646eec26f9b6446665bfa9b2e6cafa980cabdd7",
+    "fetched_at": "2026-09-25T18:15:53.027360+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/feykomet-nevzorov.htm",
+    "final_url": "https://exler.es/blog/feykomet-nevzorov.htm",
+    "status": "fetched",
+    "title": "Фейкомёт Невзоров",
+    "http_status": 200,
+    "sha256": "2fab5aef95325b084ec002c50c9f04112d2ede936700a375f63340d0cdfee128",
+    "fetched_at": "2026-09-25T18:15:52.843367+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "DS-007"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/stoyachiye-mesta-v-samoletakh.htm",
+    "final_url": "https://exler.es/blog/stoyachiye-mesta-v-samoletakh.htm",
+    "status": "fetched",
+    "title": "Стоячие места в самолетах",
+    "http_status": 200,
+    "sha256": "4845fad62ec626980a1267a7ca25f1dfe51c3024e844c640db38c677751b8de3",
+    "fetched_at": "2026-09-25T18:15:53.617963+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "SRC-014"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/lyutovolk-ili-lyutofeyk.htm",
+    "final_url": "https://exler.es/blog/lyutovolk-ili-lyutofeyk.htm",
+    "status": "fetched",
+    "title": "Лютоволк или лютофейк?",
+    "http_status": 200,
+    "sha256": "28a94b0dae19d31cd30e5f027b42b659a4f86c3872e83a0eaa26537329ed3981",
+    "fetched_at": "2026-09-25T18:15:53.799056+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/nauchnyy-eksperiment.htm",
+    "final_url": "https://exler.es/blog/nauchnyy-eksperiment.htm",
+    "status": "fetched",
+    "title": "Научный эксперимент",
+    "http_status": 200,
+    "sha256": "a32669b651c733fa5fc976a5399c618b246734105bcbe4c5e90b2e4cc2485097",
+    "fetched_at": "2026-09-25T18:16:04.790660+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "SRC-002"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/ii-za-dva-dnya-reshil-problemu-nad-kotoroy-uchenyye-bilis-godami.htm",
+    "final_url": "https://exler.es/blog/ii-za-dva-dnya-reshil-problemu-nad-kotoroy-uchenyye-bilis-godami.htm",
+    "status": "fetched",
+    "title": "ИИ за два дня решил проблему, над которой ученые бились годами",
+    "http_status": 200,
+    "sha256": "1b23b1e8e6335cee51ecaaffffc774fb6691664fae5d75cbcbff50884cbedc8b",
+    "fetched_at": "2026-09-25T18:16:04.854159+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "SRC-003"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/issledovaniye-nauchnoy-kultury-v-raznykh-stranakh.htm",
+    "final_url": "https://exler.es/blog/issledovaniye-nauchnoy-kultury-v-raznykh-stranakh.htm",
+    "status": "fetched",
+    "title": "Исследование научной культуры в разных странах",
+    "http_status": 200,
+    "sha256": "efdd0737c050ce10c8e0bca86cde7d1fcb8fbc3a3da7d3b6fddf808b5dcc13d7",
+    "fetched_at": "2026-09-25T18:16:05.327329+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/kak-v-rf-pishut-novostnyye-zagolovki.htm",
+    "final_url": "https://exler.es/blog/kak-v-rf-pishut-novostnyye-zagolovki.htm",
+    "status": "fetched",
+    "title": "Как в РФ пишут новостные заголовки",
+    "http_status": 200,
+    "sha256": "a3b19742a6f664115914cd00187fba564f31ae7e1144329b98dd71bca685ef9c",
+    "fetched_at": "2026-09-25T18:16:04.864650+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/falsifikatsii-v-nauchnykh-issledovaniyakh-raka.htm",
+    "final_url": "https://exler.es/blog/falsifikatsii-v-nauchnykh-issledovaniyakh-raka.htm",
+    "status": "fetched",
+    "title": "Фальсификации в научных исследованиях рака",
+    "http_status": 200,
+    "sha256": "060e005a5f94b7de1f855afdc5aeab464827e322872aff37058e2b5867e078fa",
+    "fetched_at": "2026-09-25T18:16:14.544960+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/britanskiye-uchenyye-britanskiye-muzhchiny-nakhodyatsya-pod-ugrozoy.htm",
+    "final_url": "https://exler.es/blog/britanskiye-uchenyye-britanskiye-muzhchiny-nakhodyatsya-pod-ugrozoy.htm",
+    "status": "fetched",
+    "title": "Британские ученые: британские мужчины находятся под угрозой",
+    "http_status": 200,
+    "sha256": "47b3e2d94f27b951ada9bd9be5f8cdf9034a434009a57e7d6c2575abc5ebfede",
+    "fetched_at": "2026-09-25T18:16:14.945180+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "DS-010",
+      "SRC-005"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/vazhnoye-nauchnoye-issledovaniye.htm",
+    "final_url": "https://exler.es/blog/vazhnoye-nauchnoye-issledovaniye.htm",
+    "status": "fetched",
+    "title": "Важное научное исследование",
+    "http_status": 200,
+    "sha256": "2ddc8cbdd85b9d9c68f5acbf48e6b73cd64c7d63de9ecf56af7107708ff8409e",
+    "fetched_at": "2026-09-25T18:16:14.713724+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "SRC-006"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/seryeznoye-nauchnoye-issledovaniye.htm",
+    "final_url": "https://exler.es/blog/seryeznoye-nauchnoye-issledovaniye.htm",
+    "status": "fetched",
+    "title": "Серьезное научное исследование",
+    "http_status": 200,
+    "sha256": "be6beed1fda1cc2845cbee2717da59f295966869be463c06a4cee308aee11189",
+    "fetched_at": "2026-09-25T18:16:15.040738+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/izvestnyy-feyk.htm",
+    "final_url": "https://exler.es/blog/izvestnyy-feyk.htm",
+    "status": "fetched",
+    "title": "Известный фейк",
+    "http_status": 200,
+    "sha256": "4f425e7d4979059089d1c74105370910cafefb7f682d59da25cc13d5c3accba0",
+    "fetched_at": "2026-09-25T18:16:24.333151+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/kak-feyki-to-rasprostranyayutsya.htm",
+    "final_url": "https://exler.es/blog/kak-feyki-to-rasprostranyayutsya.htm",
+    "status": "fetched",
+    "title": "Как фейки-то распространяются",
+    "http_status": 200,
+    "sha256": "399e132257e4e49602df07e1cc2efa1cb8e3ccae5df5ad3cbff60c3a70f5f5c9",
+    "fetched_at": "2026-09-25T18:16:24.630127+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/lyubopytnoye-issledovaniye.htm",
+    "final_url": "https://exler.es/blog/lyubopytnoye-issledovaniye.htm",
+    "status": "fetched",
+    "title": "Любопытное исследование",
+    "http_status": 200,
+    "sha256": "9e567b48cc5992d29de842b18e789b03c64a437e37a0a0aa5f323ed13126fbb2",
+    "fetched_at": "2026-09-25T18:16:24.770444+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "SRC-013"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/a-ne-feyk-li-eto.htm",
+    "final_url": "https://exler.es/blog/a-ne-feyk-li-eto.htm",
+    "status": "fetched",
+    "title": "А не фейк ли это?",
+    "http_status": 200,
+    "sha256": "abd6271815866546206cd9a6a3b393d86045fe42e759598e98ceeec09d677d26",
+    "fetched_at": "2026-09-25T18:16:25.199743+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/feyki-o-vvedenii-voyennogo-polozheniya.htm",
+    "final_url": "https://exler.es/blog/feyki-o-vvedenii-voyennogo-polozheniya.htm",
+    "status": "fetched",
+    "title": "Фейки о введении военного положения",
+    "http_status": 200,
+    "sha256": "659f7186503ae48118cc0d41cf434fd0d67169b896826a6150abc23144167e56",
+    "fetched_at": "2026-09-25T18:16:33.539179+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/podrobnosti-issledovanii-universiteta-dzhonsa-khopkinsa.htm",
+    "final_url": "https://exler.es/blog/podrobnosti-issledovanii-universiteta-dzhonsa-khopkinsa.htm",
+    "status": "fetched",
+    "title": "Подробности исследования Университета Джонса Хопкинса",
+    "http_status": 200,
+    "sha256": "be0bde09ce4010717aab634e0f3a4943482c46ad0bf9b6d6ef459d57fe9d47bb",
+    "fetched_at": "2026-09-25T18:16:34.525386+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/nezavisimoye-issledovaniye-effektivnosti-sputnika-v.htm",
+    "final_url": "https://exler.es/blog/nezavisimoye-issledovaniye-effektivnosti-sputnika-v.htm",
+    "status": "fetched",
+    "title": "Независимое исследование эффективности \"Спутника V\"",
+    "http_status": 200,
+    "sha256": "b2b709111fe1bf85177710218763f86ee226a9560d5a11a5477929faef3df2b8",
+    "fetched_at": "2026-09-25T18:16:33.801906+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/feyk-ot-mash.htm",
+    "final_url": "https://exler.es/blog/feyk-ot-mash.htm",
+    "status": "fetched",
+    "title": "Фейк от Mash",
+    "http_status": 200,
+    "sha256": "296ab8bf782720d49e8d863804e1b260ef241915c023e92a76a62c8578d7d2c3",
+    "fetched_at": "2026-09-25T18:16:33.421320+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "PAL-028"
+    ]
+  },
+  {
+    "url": "https://www.lavanguardia.com/vida/20240511/9630623/tres-diez-espanoles-creen-sol-gira-alrededor-tierra.html",
+    "final_url": "https://www.lavanguardia.com/vida/20240511/9630623/tres-diez-espanoles-creen-sol-gira-alrededor-tierra.html",
+    "status": "fetched",
+    "title": "Casi tres de cada diez españoles creen que el Sol gira alrededor de la Tierra",
+    "http_status": 200,
+    "sha256": "03bf6ae66891de8a4621ae60c82b9e1accf5d4f0ad57ae2122eb65b6593e02b9",
+    "fetched_at": "2026-09-25T18:18:55.336808+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://www.rbc.ru/society/02/08/2022/62e8e09f9a794727b478d023",
+    "final_url": "https://www.rbc.ru/society/02/08/2022/62e8e09f9a794727b478d023",
+    "status": "fetch_error",
+    "title": "",
+    "http_status": null,
+    "sha256": null,
+    "fetched_at": null,
+    "error": "HTTP Error 401: Unauthorized",
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://link.springer.com/article/10.1007/s10508-023-02717-0",
+    "final_url": "https://link.springer.com/article/10.1007/s10508-023-02717-0?error=cookies_not_supported&code=458dcba4-8eb8-47d7-b886-20829703531c",
+    "status": "fetched",
+    "title": "Male Sexual Victimization by Women: Incidence Rates, Mental Health, and Conformity to Gender Norms in a Sample of British Men",
+    "http_status": 200,
+    "sha256": "c3c44b31c938a13e5227f01090743f8b024d2b19952ac788cbc3d537872e9595",
+    "fetched_at": "2026-09-25T18:19:17.004545+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "DS-010",
+      "SRC-005"
+    ]
+  },
+  {
+    "url": "https://4everscience.com/2023/12/26/male-sexual-victimization-by-women/",
+    "final_url": "https://4everscience.com/2023/12/26/male-sexual-victimization-by-women/",
+    "status": "fetched",
+    "title": "71% мужчин подвергались сексуальному насилию со стороны женщин",
+    "http_status": 200,
+    "sha256": "3509364ed4c79782ad1995a5bee05f219dfe11653386325cd0b7c2d4eedf4858",
+    "fetched_at": "2026-09-25T18:18:55.600547+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://t.me/noticiaru/4873",
+    "final_url": "https://t.me/noticiaru/4873",
+    "status": "unavailable_content",
+    "title": "Site Unavailable",
+    "http_status": 200,
+    "sha256": "5b131ca14aa96311d3432b0062c7443d3b0e6346ec279bd376a75f0a76bcd5d7",
+    "fetched_at": "2026-09-25T18:19:00.947914+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://t.me/bcn_today/5313",
+    "final_url": "https://t.me/bcn_today/5313",
+    "status": "unavailable_content",
+    "title": "Site Unavailable",
+    "http_status": 200,
+    "sha256": "5b131ca14aa96311d3432b0062c7443d3b0e6346ec279bd376a75f0a76bcd5d7",
+    "fetched_at": "2026-09-25T18:19:01.296084+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://www.facebook.com/nikita.nebylitskiy",
+    "final_url": "https://www.facebook.com/nikita.nebylitskiy",
+    "status": "unavailable_content",
+    "title": "Nikita Nebylitskiy",
+    "http_status": 200,
+    "sha256": "ee47ef619cd009a468d235b285d11533b2b80d55c6f61b77fbca8ea1c0485dc6",
+    "fetched_at": "2026-09-25T18:19:05.599067+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://t.me/elrusoguru/3656",
+    "final_url": "https://t.me/elrusoguru/3656",
+    "status": "unavailable_content",
+    "title": "Site Unavailable",
+    "http_status": 200,
+    "sha256": "5b131ca14aa96311d3432b0062c7443d3b0e6346ec279bd376a75f0a76bcd5d7",
+    "fetched_at": "2026-09-25T18:19:07.993047+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://www.facebook.com/marina.sobepanek/posts/2098975560241913",
+    "final_url": "https://www.facebook.com/marina.sobepanek/posts/2098975560241913",
+    "status": "unavailable_content",
+    "title": "#IP_сказки\n\nЖили-были с̶т̶а̶р̶и̶к̶... - Marina  Sobe-Panek",
+    "http_status": 200,
+    "sha256": "9e1bedc3c12ed2d7a83898c70c832a3683a2db442ae83c3e0f745ef5536b0aef",
+    "fetched_at": "2026-09-25T18:19:05.623184+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://blog.wandr.me/2010/09/hands-on-with-the-aviointeriors-skyrider-seat/",
+    "final_url": "https://blog.wandr.me/2010/09/hands-on-with-the-aviointeriors-skyrider-seat/",
+    "status": "fetch_error",
+    "title": "",
+    "http_status": null,
+    "sha256": null,
+    "fetched_at": null,
+    "error": "HTTP Error 403: Forbidden",
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://www.dailymail.co.uk/travel/article-14734831/Low-cost-airlines-standing-seats-2026.html",
+    "final_url": "https://www.dailymail.co.uk/travel/article-14734831/Low-cost-airlines-standing-seats-2026.html",
+    "status": "unavailable_content",
+    "title": "",
+    "http_status": 200,
+    "sha256": "7d763d43d7be60f98df4ac9fe52ad175c1cbb52f287180a161ad25cac21631bd",
+    "fetched_at": "2026-09-25T18:19:21.097519+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://www.menshealth.com/uk/sex/a44219569/average-penis-size-world/",
+    "final_url": "https://www.menshealth.com/uk/sex/a44219569/average-penis-size-world/",
+    "status": "fetch_error",
+    "title": "",
+    "http_status": null,
+    "sha256": null,
+    "fetched_at": null,
+    "error": "The read operation timed out",
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://newizv.ru/news/2023-11-02/obyazatelno-li-spat-8-chasov-uchenye-vyschitali-optimalnuyu-prodolzhitelnost-sna-422753",
+    "final_url": "https://newizv.ru/news/2023-11-02/obyazatelno-li-spat-8-chasov-uchenye-vyschitali-optimalnuyu-prodolzhitelnost-sna-422753",
+    "status": "unavailable_content",
+    "title": "",
+    "http_status": 200,
+    "sha256": "d0db68a344d1ad23628a7baec8bdbdf58a763073717bd3cf01ebba3d3478e8ef",
+    "fetched_at": "2026-09-25T18:19:19.416987+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://www.nature.com/",
+    "final_url": "https://www.nature.com/?error=cookies_not_supported&code=80b87a8c-a3b2-4190-b325-a38a9e9c4d1b",
+    "status": "unavailable_content",
+    "title": "",
+    "http_status": 200,
+    "sha256": "225e39384cc96b28f2b4021c124152326f51e7271b20f8eae47dbe10b024f62f",
+    "fetched_at": "2026-09-25T18:19:58.427809+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/clyz6e9edy3o",
+    "final_url": "https://www.bbc.com/news/articles/clyz6e9edy3o",
+    "status": "fetched",
+    "title": "AI cracks superbug problem in two days that took scientists years",
+    "http_status": 200,
+    "sha256": "e1cf858fd1abed93985ed1359018b8f6fe98cafb034331c3f0911b9b333be504",
+    "fetched_at": "2026-09-25T18:19:27.806749+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "SRC-003"
+    ]
+  },
+  {
+    "url": "https://www.thetimes.co.uk/article/heavy-drinkers-healthier-and-happier-in-later-years-tnsrz8zqw",
+    "final_url": "https://www.thetimes.com/article/heavy-drinkers-healthier-and-happier-in-later-years-tnsrz8zqw",
+    "status": "unavailable_content",
+    "title": "Verifying Device",
+    "http_status": 200,
+    "sha256": "d5c93f95d40cf2936b185b364981f383637ed3b53b1cd79e6c6190d30dcba58c",
+    "fetched_at": "2026-09-25T18:19:34.278000+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://www.unav.edu/en/web/departamento-de-medicina-preventiva-y-salud-publica/proyecto-unati",
+    "final_url": "https://www.unav.edu/en/web/departamento-de-medicina-preventiva-y-salud-publica/proyecto-unati",
+    "status": "fetched",
+    "title": "",
+    "http_status": 200,
+    "sha256": "36eb9e9fd866778365e29645bcb71086ae92243bc4a1401ea41fed3b60dcdda3",
+    "fetched_at": "2026-09-25T18:19:36.362172+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "SRC-002"
+    ]
+  },
+  {
+    "url": "https://www.unav.edu/documents/16089811/16155256/unati-research-plan.pdf",
+    "final_url": "https://www.unav.edu/documents/16089811/16155256/unati-research-plan.pdf",
+    "status": "fetched",
+    "title": "",
+    "http_status": 200,
+    "sha256": "7453079e119978fecce0225f736efcf873f7f95015e4a9e48cabfb4384c5234a",
+    "fetched_at": "2026-09-25T18:19:36.320644+00:00",
+    "error": null,
+    "review_channel": "pdf_text",
+    "used_in": [
+      "SRC-002"
+    ]
+  },
+  {
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37798367/",
+    "final_url": "https://pubmed.ncbi.nlm.nih.gov/37798367/",
+    "status": "unavailable_content",
+    "title": "Checking your browser - reCAPTCHA",
+    "http_status": 200,
+    "sha256": "7c48fa52a60f0e7c675adb79b6c5c6758b5eb90f41277410110c5170997be49d",
+    "fetched_at": "2026-09-25T18:19:43.621771+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://spiral.imperial.ac.uk/entities/publication/3335a10e-4bb1-4f83-9ed5-ada318171df7",
+    "final_url": "https://spiral.imperial.ac.uk/entities/publication/3335a10e-4bb1-4f83-9ed5-ada318171df7",
+    "status": "fetched",
+    "title": "AI mirrors experimental science to uncover a mechanism of gene transfer crucial to bacterial evolution",
+    "http_status": 200,
+    "sha256": "b3f3558702ac0f2e8edaf9dbd06eb3a30fcffaaef18034ec68c38bd0ee809de3",
+    "fetched_at": "2026-09-25T18:19:47.927327+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://www.worlddata.info/average-penissize.php",
+    "final_url": "https://www.worlddata.info/average-penissize.php",
+    "status": "fetched",
+    "title": "Average penis size by country: worldwide comparison",
+    "http_status": 200,
+    "sha256": "83e6228ce9a5c463fc7ed487e05df8067307d0cac383f618521ce965fb0db3c7",
+    "fetched_at": "2026-09-25T18:19:50.762062+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "SRC-006"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/ocherednoe-vore.htm",
+    "final_url": "https://exler.es/blog/ocherednoe-vore.htm",
+    "status": "fetched",
+    "title": "Очередное ворье",
+    "http_status": 200,
+    "sha256": "bda6a38def501689160cd5bd5500824afed0c4ce18169cf7a293145f8ed376c0",
+    "fetched_at": "2026-09-25T18:30:09.370312+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/oazis-pod-vegasom.htm",
+    "final_url": "https://exler.es/blog/oazis-pod-vegasom.htm",
+    "status": "fetched",
+    "title": "Оазис под Вегасом",
+    "http_status": 200,
+    "sha256": "744eca108bbeac569b9429ec75ef1c2e93078bde54035a502699c916441159e1",
+    "fetched_at": "2026-09-25T18:30:09.684376+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "PAL-030"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/samsung-galaxy-s-razocharovanie-po-itogam-mesyachnogo-ispolzovaniya.htm",
+    "final_url": "https://exler.es/blog/samsung-galaxy-s-razocharovanie-po-itogam-mesyachnogo-ispolzovaniya.htm",
+    "status": "fetched",
+    "title": "Samsung Galaxy S (разочарование по итогам месячного использования)",
+    "http_status": 200,
+    "sha256": "0aae1e5647f0998cc7880fdff4097b0b017e0e73f98d52fd728f00716bc519ca",
+    "fetched_at": "2026-09-25T18:30:10.045392+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/item/13691/",
+    "final_url": "https://exler.es/blog/litres-obidelso.htm",
+    "status": "fetched",
+    "title": "Litres обиделсо",
+    "http_status": 200,
+    "sha256": "69220a1c5d97048b0b1a5ab44ebb4a6c2be81058b13609bd91d0f6d1a150b2fb",
+    "fetched_at": "2026-09-25T18:30:19.463216+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "DS-003"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/item/13271/",
+    "final_url": "https://exler.es/blog/litres-shantazhiruet-razrabotchikov-programm-riderov.htm",
+    "status": "fetched",
+    "title": "Litres шантажирует разработчиков программ-ридеров",
+    "http_status": 200,
+    "sha256": "1ab0c132dbe5811741264ac09655cba26c3432e5763c2e4178b2b11d98e37b9d",
+    "fetched_at": "2026-09-25T18:30:26.318158+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/",
+    "final_url": "https://research.google/blog/accelerating-scientific-breakthroughs-with-an-ai-co-scientist/",
+    "status": "fetched",
+    "title": "Accelerating scientific breakthroughs with an AI co-scientist",
+    "http_status": 200,
+    "sha256": "af62aaea2b89e3af9e9f7da97c89bfccf407cac3d9225e12d3a5859ad3fd5414",
+    "fetched_at": "2026-09-25T18:30:15.457000+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "SRC-003"
+    ]
+  },
+  {
+    "url": "https://www.ubu.es/noticias/el-mayor-ensayo-clinico-sobre-el-consumo-de-alcohol-busca-voluntarios",
+    "final_url": "https://www.ubu.es/noticias/el-mayor-ensayo-clinico-sobre-el-consumo-de-alcohol-busca-voluntarios",
+    "status": "fetched",
+    "title": "El mayor ensayo clínico sobre el consumo de alcohol busca voluntarios",
+    "http_status": 200,
+    "sha256": "a06d8cac27637994a832f923b8b47c857eac51aff5fe41680aba7bd480db117e",
+    "fetched_at": "2026-09-25T18:30:17.373188+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "SRC-002"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/a-u-vas-glyuchit-adblock-s-firefox.htm",
+    "final_url": "https://exler.es/blog/a-u-vas-glyuchit-adblock-s-firefox.htm",
+    "status": "fetched",
+    "title": "А у вас глючит Adblock с FireFox?",
+    "http_status": 200,
+    "sha256": "dc5c9e6043fc5247ce4f5fc4c2f509717e169a43a938b0283f220d1a2ef2eb54",
+    "fetched_at": "2026-09-25T18:30:19.300885+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "DS-008"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/adblokovyj-kinozal.htm",
+    "final_url": "https://exler.es/blog/adblokovyj-kinozal.htm",
+    "status": "fetched",
+    "title": "Адблоковый кинозал",
+    "http_status": 200,
+    "sha256": "5a328ec239776a5ccb8cca8991eabdfbbad1a332ee295c8164c238e8d47e35c6",
+    "fetched_at": "2026-09-25T18:30:25.589845+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "DS-008"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/cnews-zazhigaet-ogni.htm",
+    "final_url": "https://exler.es/blog/cnews-zazhigaet-ogni.htm",
+    "status": "fetched",
+    "title": "CNews зажигает огни",
+    "http_status": 200,
+    "sha256": "b3b3a78612f55f148be7bbe9f42434428f719ef67f4e81f08ec268b7b859b49e",
+    "fetched_at": "2026-09-25T18:30:25.504219+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "DS-008",
+      "PAL-032"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/ne-dyshal-29-minut-pod-vodoy.htm",
+    "final_url": "https://exler.es/blog/ne-dyshal-29-minut-pod-vodoy.htm",
+    "status": "fetched",
+    "title": "Не дышал 29 минут под водой",
+    "http_status": 200,
+    "sha256": "5fda019ee381b58321dc777c081e2491effb43138c47aa4036f264fedb155149",
+    "fetched_at": "2026-09-25T18:30:59.463804+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "PAL-026"
+    ]
+  },
+  {
+    "url": "https://exler.es/dieta/ne-shutite-s-podagroj.htm",
+    "final_url": "https://exler.es/dieta/ne-shutite-s-podagroj.htm",
+    "status": "fetched",
+    "title": "Не шутите с подагрой",
+    "http_status": 200,
+    "sha256": "183b2f6327569f68dd376385e829f5560798a003babe14710d07803023a32f80",
+    "fetched_at": "2026-09-25T18:30:59.731429+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "PAL-011"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/kurs-tvorcheskogo-myshleniya.htm",
+    "final_url": "https://exler.es/blog/kurs-tvorcheskogo-myshleniya.htm",
+    "status": "fetched",
+    "title": "Курс творческого мышления",
+    "http_status": 200,
+    "sha256": "8031c57c456df98ada583921ff9ca3d0bd9d2079fbab6e86a1db58953b19b113",
+    "fetched_at": "2026-09-25T18:30:59.582138+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "PAL-022"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/tseny-na-vino-v-ispanii.htm",
+    "final_url": "https://exler.es/blog/tseny-na-vino-v-ispanii.htm",
+    "status": "fetched",
+    "title": "Цены на вино в Испании",
+    "http_status": 200,
+    "sha256": "440f07f5b0a5b301ef116434c0e64e84eba5e7ec3459fbc3c171e65e2ae3a1a8",
+    "fetched_at": "2026-09-25T18:31:00.030962+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "PAL-025"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/pervyy-v-mire-raskladnoy-noutbuk.htm",
+    "final_url": "https://exler.es/blog/pervyy-v-mire-raskladnoy-noutbuk.htm",
+    "status": "fetched",
+    "title": "Первый в мире раскладной ноутбук",
+    "http_status": 200,
+    "sha256": "4f4edae2ee4fde8d707bb306be97275ae1669bb62083a9ec489f5aeb8a419674",
+    "fetched_at": "2026-09-25T18:31:08.748666+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "PAL-006"
+    ]
+  },
+  {
+    "url": "https://exler.es/ezhe/sekrety-normalnogo-sna.htm",
+    "final_url": "https://exler.es/ezhe/sekrety-normalnogo-sna.htm",
+    "status": "fetched",
+    "title": "Секреты нормального сна",
+    "http_status": 200,
+    "sha256": "25d635f42e08c9b5cadac957a2bd592a328f67d820e48349b896be5b816b0d5b",
+    "fetched_at": "2026-09-25T18:31:08.580212+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "PAL-031"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/byudzhetnyy-novyy-god-na-federalnom-tv.htm",
+    "final_url": "https://exler.es/blog/byudzhetnyy-novyy-god-na-federalnom-tv.htm",
+    "status": "fetched",
+    "title": "Бюджетный Новый год на федеральном ТВ",
+    "http_status": 200,
+    "sha256": "8449e126dfc406d4421c032e3aeaed7d824c94763ae0feedfe135a1ed2a1b0f1",
+    "fetched_at": "2026-09-25T18:31:09.191429+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "DS-004"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/fantasticheskiye-tvari-s-lyusey-grin.htm",
+    "final_url": "https://exler.es/blog/fantasticheskiye-tvari-s-lyusey-grin.htm",
+    "status": "fetched",
+    "title": "Фантастические TVари с Люсей Грин",
+    "http_status": 200,
+    "sha256": "87294ddfb9ef9733cd6d8471bdbbbc1845df99016e721e2da91975c71e1e610c",
+    "fetched_at": "2026-09-25T18:31:09.013094+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/kak-spravitsya-s-turistami.htm",
+    "final_url": "https://exler.es/blog/kak-spravitsya-s-turistami.htm",
+    "status": "fetched",
+    "title": "Как справиться с туристами",
+    "http_status": 200,
+    "sha256": "4eacea0f356bf092d3abc289a7d422a0036a66b3e19dfa24543133705b095cac",
+    "fetched_at": "2026-09-25T18:31:17.814396+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "PAL-018"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/iski-k-tesla-za-zavysheniye-dliny-probega.htm",
+    "final_url": "https://exler.es/blog/iski-k-tesla-za-zavysheniye-dliny-probega.htm",
+    "status": "fetched",
+    "title": "Иски к Tesla за завышение длины пробега",
+    "http_status": 200,
+    "sha256": "ce63f72beb5396b9c41b2914655f46b7830cfa8fa5f9ead9abe3fd16a198710a",
+    "fetched_at": "2026-09-25T18:31:18.070522+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "PAL-017"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/gde-priobrel-kapital.htm",
+    "final_url": "https://exler.es/blog/gde-priobrel-kapital.htm",
+    "status": "fetched",
+    "title": "Где приобрёл капитал",
+    "http_status": 200,
+    "sha256": "5b9541b44cb373831e0831407582b3d9cbddab661f7e2ed2e83482911882e4f1",
+    "fetched_at": "2026-09-25T18:31:18.470050+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "PAL-029"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/83-odobryamsov.htm",
+    "final_url": "https://exler.es/blog/83-odobryamsov.htm",
+    "status": "fetched",
+    "title": "83% одобрямсов",
+    "http_status": 200,
+    "sha256": "eeb336009207ac0d057613779a124027fd5efbfbeb3785ca68dfa7829e5af969",
+    "fetched_at": "2026-09-25T18:31:18.580040+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "PAL-019"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/satana-tam-pravit-bal.htm",
+    "final_url": "https://exler.es/blog/satana-tam-pravit-bal.htm",
+    "status": "fetched",
+    "title": "Сатана там правит бал",
+    "http_status": 200,
+    "sha256": "4ad388c5a1c608df17a4a96d3d38d30536b33f99f26a3a63d4a1edd8d6807c0c",
+    "fetched_at": "2026-09-25T18:31:26.669041+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/leonid-kaganov-podchinilsya-trebovaniyam-roskomnadzora.htm",
+    "final_url": "https://exler.es/blog/leonid-kaganov-podchinilsya-trebovaniyam-roskomnadzora.htm",
+    "status": "fetched",
+    "title": "Леонид Каганов подчинился требованиям \"Роскомнадзора\"",
+    "http_status": 200,
+    "sha256": "91ca86739a53c79b13f13faca78ad4167961738e1a383027fe66e7014eef65bf",
+    "fetched_at": "2026-09-25T18:31:27.015107+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/ura-vsekh-pobedili.htm",
+    "final_url": "https://exler.es/blog/ura-vsekh-pobedili.htm",
+    "status": "fetched",
+    "title": "Ура, всех победили!",
+    "http_status": 200,
+    "sha256": "df2083858048d88da992d0557fdae0f10c0668d1c45ae178032710ba6e920c42",
+    "fetched_at": "2026-09-25T18:31:27.135042+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/blog/novaya-kniga-olega-borisova-2.htm",
+    "final_url": "https://exler.es/blog/novaya-kniga-olega-borisova-2.htm",
+    "status": "fetched",
+    "title": "Новая книга Олега Борисова",
+    "http_status": 200,
+    "sha256": "9b159bea60bef21a8b2557afd0ffddae66389059023fa5e7f8e697fa10f0b599",
+    "fetched_at": "2026-09-25T18:31:26.514585+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "PAL-023"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/kurs-kreativnogo-myshleniya-dlya-podrostkov.htm",
+    "final_url": "https://exler.es/blog/kurs-kreativnogo-myshleniya-dlya-podrostkov.htm",
+    "status": "fetched",
+    "title": "Курс креативного мышления для подростков",
+    "http_status": 200,
+    "sha256": "3779bcc4e10240d2a0bf3e60aaec84b0a8c1723d13eeee8b63d55c542c486ce3",
+    "fetched_at": "2026-09-25T18:31:35.112298+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "PAL-022"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/kraudfanding-dlya-vypuska-avtorskogo-alboma-rubena-sarkisyana.htm",
+    "final_url": "https://exler.es/blog/kraudfanding-dlya-vypuska-avtorskogo-alboma-rubena-sarkisyana.htm",
+    "status": "fetched",
+    "title": "Краудфандинг для выпуска авторского альбома Рубена Саркисяна",
+    "http_status": 200,
+    "sha256": "e226d574d4a257a4e0a9ba724251520cfb63bbef1a77e2873e840b2395d9f36b",
+    "fetched_at": "2026-09-25T18:31:35.318619+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "PAL-024"
+    ]
+  },
+  {
+    "url": "https://exler.es/blog/skorost-vaktsinatsii-v-ispanii.htm",
+    "final_url": "https://exler.es/blog/skorost-vaktsinatsii-v-ispanii.htm",
+    "status": "fetched",
+    "title": "Скорость вакцинации в Испании",
+    "http_status": 200,
+    "sha256": "4b859eca5c2c070239541b4b732c52c6aed7421da76cb05a0f1b3a422a63c6c0",
+    "fetched_at": "2026-09-25T18:31:35.794356+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "PAL-014"
+    ]
+  },
+  {
+    "url": "https://consumer.huawei.com/kw-en/support/content/en-gb15825204/",
+    "final_url": "https://consumer.huawei.com/kw-en/support/content/en-gb15825204/",
+    "status": "fetched",
+    "title": "Forgot the lock screen password or unable to unlock the device using the lock screen password",
+    "http_status": 200,
+    "sha256": "2cfef690d9e4a7b34deae3af2506c8b3e5fc2b87f67b78f30331ca23d611e83c",
+    "fetched_at": "2026-09-25T18:31:36.028453+00:00",
+    "error": null,
+    "review_channel": "html_text",
+    "used_in": [
+      "DS-009",
+      "SRC-001"
+    ]
+  },
+  {
+    "url": "https://www.nature.com/articles/s41562-023-01707-5",
+    "final_url": "https://www.nature.com/articles/s41562-023-01707-5?error=cookies_not_supported&code=d0a80d23-d355-458a-a2c1-d904a2805441",
+    "status": "fetched",
+    "title": "No phenotypic or genotypic evidence for a link between sleep duration and brain atrophy",
+    "http_status": 200,
+    "sha256": "e8bf5b0e379fedaaa87c97ff4a69dc875d3030332f5bb85aec6680070eab36dd",
+    "fetched_at": "2026-09-25T18:32:03.497003+00:00",
+    "error": null,
+    "review_channel": "web_text",
+    "used_in": [
+      "SRC-004"
+    ]
+  },
+  {
+    "url": "https://www.fbbva.es/noticias/estudio-cultura-cientifica-internacional-fundacion-bbva-conocimiento/",
+    "final_url": "https://www.fbbva.es/noticias/estudio-cultura-cientifica-internacional-fundacion-bbva-conocimiento/",
+    "status": "fetched",
+    "title": "La mayoría de los ciudadanos de Europa, EEUU, Turquía e Israel comprenden conceptos científicos fundamentales y los procesos de comprobación y validación del conocimiento",
+    "http_status": 200,
+    "sha256": "56db317435b702d69379ee6f3e850b55fb7f3449faefba9535818e0e9bdc0847",
+    "fetched_at": "2026-09-25T18:34:36.577642+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%8B%D0%B5&Search%5BcontentType%5D=all",
+    "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%8B%D0%B5&Search%5BcontentType%5D=all",
+    "status": "fetched",
+    "title": "Поиск по сайту",
+    "http_status": 200,
+    "sha256": "f19ee0c557efca36740023467065cd2a4ee7ae0503e3ce7c6fcd921b8d47912e",
+    "fetched_at": "2026-09-25T18:20:01.163985+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%8B%D0%B9&Search%5BcontentType%5D=all",
+    "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%8B%D0%B9&Search%5BcontentType%5D=all",
+    "status": "fetched",
+    "title": "Поиск по сайту",
+    "http_status": 200,
+    "sha256": "a6c445685152808b280b1da4db83cd4193b8cd941361f02501078366c3f7cb25",
+    "fetched_at": "2026-09-25T18:20:01.069758+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B5%D0%BB%D1%8C&Search%5BcontentType%5D=all",
+    "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B5%D0%BB%D1%8C&Search%5BcontentType%5D=all",
+    "status": "fetched",
+    "title": "Поиск по сайту",
+    "http_status": 200,
+    "sha256": "b8e094d1734500966905e51a60923d6dbf0063b5e04fef75bb6eaa8b4c8c296e",
+    "fetched_at": "2026-09-25T18:20:01.277098+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/search/?Search%5Bquery%5D=%D1%8E%D1%80%D0%B8%D1%81%D1%82%D1%8B&Search%5BcontentType%5D=all",
+    "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D1%8E%D1%80%D0%B8%D1%81%D1%82%D1%8B&Search%5BcontentType%5D=all",
+    "status": "fetched",
+    "title": "Поиск по сайту",
+    "http_status": 200,
+    "sha256": "cce748b48f95352bc350b8e3a40c82462950e8b5548b1753c2a9bf90dedd56df",
+    "fetched_at": "2026-09-25T18:20:01.104898+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BF%D0%B0%D1%86%D0%B0%D0%BD%D1%8B&Search%5BcontentType%5D=all",
+    "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BF%D0%B0%D1%86%D0%B0%D0%BD%D1%8B&Search%5BcontentType%5D=all",
+    "status": "fetched",
+    "title": "Поиск по сайту",
+    "http_status": 200,
+    "sha256": "cd615c184ce71330162f4197a5e191ffcb5f8ec666d93f09365d17c4e71e3034",
+    "fetched_at": "2026-09-25T18:20:09.866542+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BA%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0%D1%82%D1%8C&Search%5BcontentType%5D=all",
+    "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BA%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0%D1%82%D1%8C&Search%5BcontentType%5D=all",
+    "status": "fetched",
+    "title": "Поиск по сайту",
+    "http_status": 200,
+    "sha256": "e0e65677f717eb66a0ec56726d1444f37f0e61f3346cfbb9b35b4e515b9a9f35",
+    "fetched_at": "2026-09-25T18:20:10.165918+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/search/?Search%5Bquery%5D=AdBlock&Search%5BcontentType%5D=all",
+    "final_url": "https://exler.es/search/?Search%5Bquery%5D=AdBlock&Search%5BcontentType%5D=all",
+    "status": "fetched",
+    "title": "Поиск по сайту",
+    "http_status": 200,
+    "sha256": "9360263d7891b173ba3ce920826496264f5c68caac35a64df07b58c9ff38cb95",
+    "fetched_at": "2026-09-25T18:20:10.026910+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BD%D0%B5+%D1%87%D0%B8%D1%82%D0%B0%D0%BB&Search%5BcontentType%5D=all",
+    "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BD%D0%B5+%D1%87%D0%B8%D1%82%D0%B0%D0%BB&Search%5BcontentType%5D=all",
+    "status": "fetched",
+    "title": "Поиск по сайту",
+    "http_status": 200,
+    "sha256": "300c646a516023c6047c198486f69d3b6dd569669054360805aec5dcf99290b9",
+    "fetched_at": "2026-09-25T18:20:09.890318+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/search/?Search%5Bquery%5D=%D1%84%D0%B5%D0%B9%D0%BA%D0%B8&Search%5BcontentType%5D=all",
+    "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D1%84%D0%B5%D0%B9%D0%BA%D0%B8&Search%5BcontentType%5D=all",
+    "status": "fetched",
+    "title": "Поиск по сайту",
+    "http_status": 200,
+    "sha256": "4c653a099107f93cfdbb1e12ca1f13b608d2f2545d2dfbc659144a899eaa41cf",
+    "fetched_at": "2026-09-25T18:20:17.896295+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  },
+  {
+    "url": "https://exler.es/search/?Search%5Bquery%5D=%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8+%D0%BD%D0%B0+%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8&Search%5BcontentType%5D=all",
+    "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8+%D0%BD%D0%B0+%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8&Search%5BcontentType%5D=all",
+    "status": "fetched",
+    "title": "Поиск по сайту",
+    "http_status": 200,
+    "sha256": "12817e7a8107084cdb9aa45dd9f050d0c3679efeb6c92610b0b301dd36771bcc",
+    "fetched_at": "2026-09-25T18:20:18.198524+00:00",
+    "error": null,
+    "review_channel": null,
+    "used_in": []
+  }
+]
