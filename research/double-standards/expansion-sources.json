@@ -1,0 +1,797 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "XG-S001",
+      "url": "https://exler.es/blog/patsan-prishel-k-uspekhu-ii.htm",
+      "title": "Пацан пришел к успеху II",
+      "publication_label": "19.03.2023 07:00",
+      "fetched_at": "2026-09-25T20:13:03.971256+00:00",
+      "sha256": "22f34a646d9213c48512159e10e66edc3c5e54948b9fb9cbfb5dfe9df58e960e",
+      "files": [
+        "INTERNATIONAL.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S002",
+      "url": "https://exler.es/blog/a-kto-ikh-sprashivat-to-budet.htm",
+      "title": "А кто их спрашивать-то будет?!!",
+      "publication_label": "21.03.2023 08:17",
+      "fetched_at": "2026-09-25T20:13:03.609156+00:00",
+      "sha256": "36f763122e17c1922d7657ac9cff76d70b493faf9ffd5db0ca2e3c1b9413a4f7",
+      "files": [
+        "INTERNATIONAL.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S003",
+      "url": "https://exler.es/blog/order-mus.htm",
+      "title": "Ордер МУС",
+      "publication_label": "21.11.2024 13:04",
+      "fetched_at": "2026-09-25T20:12:30.123889+00:00",
+      "sha256": "e7956432ea8c3f03340a9b4b25a597728fac9dd2f9a8b75c727dd98a7863aa6d",
+      "files": [
+        "INTERNATIONAL.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S004",
+      "url": "https://exler.es/blog/vot-eto-pravilno.htm",
+      "title": "Вот это правильно!",
+      "publication_label": "24.11.2024 10:00",
+      "fetched_at": "2026-09-25T20:12:20.468947+00:00",
+      "sha256": "ef32575cc8ff0da082a3897e78d5eda507264fff0629a38c0d1115d53c97e583",
+      "files": [
+        "INTERNATIONAL.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S005",
+      "url": "https://exler.es/blog/sanktsii-protiv-mezhdunarodnogo-ugolovnogo-suda.htm",
+      "title": "Санкции против Международного уголовного суда",
+      "publication_label": "07.02.2025 10:00",
+      "fetched_at": "2026-09-25T20:12:21.322189+00:00",
+      "sha256": "cace336ad9eb33fe6fdf3445078938e167bc3abe786cd23c38b69b41f86605b2",
+      "files": [
+        "INTERNATIONAL.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S006",
+      "url": "https://exler.es/blog/kommentirovat-nechego.htm",
+      "title": "Комментировать нечего",
+      "publication_label": "22.10.2025 09:00",
+      "fetched_at": "2026-09-25T20:19:45.102074+00:00",
+      "sha256": "e77dc9a87ebf48a12ca49b8149eca1a30c29129da297d909d7dfee7b3fa0f663",
+      "files": [
+        "INTERNATIONAL.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S007",
+      "url": "https://exler.es/blog/mezhdunarodnyy-sud-oon.htm",
+      "title": "Международный суд ООН",
+      "publication_label": "17.03.2022 13:04",
+      "fetched_at": "2026-09-25T20:13:12.394086+00:00",
+      "sha256": "cc322d9817a05ea5d31dedadd055c6d73521dcd72c60b56491df85285c5da298",
+      "files": [
+        "INTERNATIONAL.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S008",
+      "url": "https://exler.es/blog/isk-yuar-protiv-izrailya-v-sude-oon.htm",
+      "title": "Иск ЮАР против Израиля в суде ООН",
+      "publication_label": "17.01.2024 12:00",
+      "fetched_at": "2026-09-25T20:13:13.085641+00:00",
+      "sha256": "6597f299dc7ebffd19d746e332c3122d3ff010dd8c18127d8ef26acf3a9bfbe7",
+      "files": [
+        "INTERNATIONAL.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S009",
+      "url": "https://exler.es/blog/polovina-zemnogo-shara.htm",
+      "title": "Половина земного шара",
+      "publication_label": "13.10.2022 19:22",
+      "fetched_at": "2026-09-25T20:23:05.345471+00:00",
+      "sha256": "4f6a41f7bfc248050c78b05ef3db0c6fcf4db16653a302fb8bb90eb710791448",
+      "files": [
+        "INTERNATIONAL.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S010",
+      "url": "https://exler.es/blog/oon-prinyala-rezolyutsiyu.htm",
+      "title": "ООН приняла резолюцию",
+      "publication_label": "13.12.2023 10:36",
+      "fetched_at": "2026-09-25T20:22:53.981673+00:00",
+      "sha256": "2d1b3bb87947c98e731df4427404a4bb97f34dfcf1ef1817add55c7cad3ea9d8",
+      "files": [
+        "INTERNATIONAL.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S011",
+      "url": "https://exler.es/blog/nu-i-skotina.htm",
+      "title": "Ну и скотина",
+      "publication_label": "24.02.2025 17:10",
+      "fetched_at": "2026-09-25T20:22:35.857015+00:00",
+      "sha256": "ab34a97982459ec70fa4a773699aaf4fdaff386d963a3f770a69bb1e927772c2",
+      "files": [
+        "INTERNATIONAL.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S012",
+      "url": "https://exler.es/blog/rezolyutsiya-vozvrashcheniye-ukrainskikh-detey.htm",
+      "title": "Резолюция \"Возвращение украинских детей\"",
+      "publication_label": "04.12.2025 11:30",
+      "fetched_at": "2026-09-25T20:22:24.032000+00:00",
+      "sha256": "7d1ae71a913f467464b688f66cd36574c9c4313894835bf618fbe559658affd4",
+      "files": [
+        "INTERNATIONAL.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S013",
+      "url": "https://exler.es/blog/priznaniye-mirovogo-soobshchestva.htm",
+      "title": "Признание мирового сообщества",
+      "publication_label": "14.10.2022 09:04",
+      "fetched_at": "2026-09-25T20:11:07.445219+00:00",
+      "sha256": "cd9c4acd8e3a9e6b5d05d734c4bdbb28e6f90058635a5f397a8a4cb700e43bab",
+      "files": [
+        "INTERNATIONAL.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S014",
+      "url": "https://exler.es/blog/general-kellog-o-ramkakh-prilichiy.htm",
+      "title": "Генерал Келлог о рамках приличий",
+      "publication_label": "13.04.2025 19:03",
+      "fetched_at": "2026-09-25T20:22:35.437614+00:00",
+      "sha256": "72f64e237121ec52c9710b4c29b53c70334c94805ebc278464897e768ef0e9f8",
+      "files": [
+        "INTERNATIONAL.md"
+      ],
+      "verified_author_comments": [
+        {
+          "url": "https://exler.es/blog/comments/general-kellog-o-ramkakh-prilichiy.htm#1hk2l",
+          "anchor": "1hk2l",
+          "author": "Alex Exler",
+          "metadata_at_fetch": "Alex Exler АннаБ 13.04.25 21:43 0 10",
+          "reply_to_anchor": "1hk2i",
+          "own_text_sha256": "c71258c5cd91e95d3e493aebe787353d4d9179eea018211003d21ed0335c0169",
+          "quote_boundary_checked": true
+        }
+      ]
+    },
+    {
+      "id": "XG-S015",
+      "url": "https://exler.es/blog/shtab-khamas-pod-zdaniyem-oon-v-gaze.htm",
+      "title": "Штаб ХАМАС под зданием ООН в Газе",
+      "publication_label": "11.02.2024 09:19",
+      "fetched_at": "2026-09-25T20:11:59.745173+00:00",
+      "sha256": "60b208dbf602bdedd0f49c3a6efec37c27920886ac1e4247ee2a0b929ecf2ffd",
+      "files": [
+        "INTERNATIONAL.md"
+      ],
+      "verified_author_comments": [
+        {
+          "url": "https://exler.es/blog/comments/shtab-khamas-pod-zdaniyem-oon-v-gaze.htm#1aoor",
+          "anchor": "1aoor",
+          "author": "Alex Exler",
+          "metadata_at_fetch": "Alex Exler Сказочный Добролюб 11.02.24 18:27 3 10",
+          "reply_to_anchor": "1aon6",
+          "own_text_sha256": "db8025fe9b6ffbad60d73cfa3e79c827a671bf1d2f7e883944a3393fb13975d2",
+          "quote_boundary_checked": true
+        },
+        {
+          "url": "https://exler.es/blog/comments/shtab-khamas-pod-zdaniyem-oon-v-gaze.htm#1ap0t",
+          "anchor": "1ap0t",
+          "author": "Alex Exler",
+          "metadata_at_fetch": "Alex Exler Сказочный Добролюб 12.02.24 10:52 2 5",
+          "reply_to_anchor": "1ap0k",
+          "own_text_sha256": "e275263478d6c63dd081db6908c403d39033c06998f6e810fefc917078f58ef6",
+          "quote_boundary_checked": true
+        },
+        {
+          "url": "https://exler.es/blog/comments/shtab-khamas-pod-zdaniyem-oon-v-gaze.htm#1ap18",
+          "anchor": "1ap18",
+          "author": "Alex Exler",
+          "metadata_at_fetch": "Alex Exler Сказочный Добролюб 12.02.24 11:18 3 5",
+          "reply_to_anchor": "1ap13",
+          "own_text_sha256": "c505c72b7224a78a3a9127554ac6a01472fc0c732ba8900e17e82e97993966e8",
+          "quote_boundary_checked": true
+        }
+      ]
+    },
+    {
+      "id": "XG-S016",
+      "url": "https://exler.es/blog/podrobnosti-o-vcherashnem-osvobozhdenii-zalozhnikov.htm",
+      "title": "Подробности о вчерашнем освобождении заложников",
+      "publication_label": "10.06.2024 08:35",
+      "fetched_at": "2026-09-25T20:22:44.386524+00:00",
+      "sha256": "bad5dcf59bf510fe49d4695b80309eaf88e1a09b41477468232583a628d2925c",
+      "files": [
+        "INTERNATIONAL.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S017",
+      "url": "https://exler.es/blog/samyy-krupnyy-raketnyy-udar-po-kiyevu.htm",
+      "title": "Самый крупный ракетный удар по Киеву",
+      "publication_label": "08.07.2024 11:07",
+      "fetched_at": "2026-09-25T20:11:59.797713+00:00",
+      "sha256": "5a9e79e8c2b44b42bec7a191ecaecf32197ef6010a07c274b61d5dd0fb228bbe",
+      "files": [
+        "INTERNATIONAL.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S018",
+      "url": "https://exler.es/blog/tsakhal-opublikoval-otchet-o-razrusheniyakh-v-gaze.htm",
+      "title": "ЦАХАЛ опубликовал отчет о разрушениях в Газе",
+      "publication_label": "27.06.2024 16:40",
+      "fetched_at": "2026-09-25T20:26:56.757948+00:00",
+      "sha256": "b44dc5f3b6b759421a2d9697bee2a656e772088b5cea3468a833f98928c22c87",
+      "files": [
+        "INTERNATIONAL.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S019",
+      "url": "https://exler.es/blog/izrail-pod-shumok-zakhyvatyvayet-siriyskiye-territorii.htm",
+      "title": "Израиль под шумок захватывает сирийские территории?",
+      "publication_label": "12.12.2024 11:22",
+      "fetched_at": "2026-09-25T20:10:40.222183+00:00",
+      "sha256": "e9c3fc5ff1ac29a72353f8464b415f517a64e56c020e94f588190e7e3e08ca5d",
+      "files": [
+        "INTERNATIONAL.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S020",
+      "url": "https://exler.es/blog/vystupleniye-senatora-kloda-malyure.htm",
+      "title": "Выступление сенатора Клода Малюре",
+      "publication_label": "04.04.2026 09:40",
+      "fetched_at": "2026-09-25T20:12:00.098438+00:00",
+      "sha256": "f823bfed0c3c41b8b6c03bb4aede012cd72493174519429aa2728a3f005a002d",
+      "files": [
+        "INTERNATIONAL.md"
+      ],
+      "verified_author_comments": [
+        {
+          "url": "https://exler.es/blog/comments/vystupleniye-senatora-kloda-malyure.htm#1mqgu",
+          "anchor": "1mqgu",
+          "author": "Alex Exler",
+          "metadata_at_fetch": "Alex Exler Mice 04.04.26 12:24 3 4",
+          "reply_to_anchor": "1mqgk",
+          "own_text_sha256": "b74bd76875c101eea3a89e714c9c336a8e0c07997a2c3de184fec1079acd5e64",
+          "quote_boundary_checked": true
+        },
+        {
+          "url": "https://exler.es/blog/comments/vystupleniye-senatora-kloda-malyure.htm#1mqhy",
+          "anchor": "1mqhy",
+          "author": "Alex Exler",
+          "metadata_at_fetch": "Alex Exler Mice 04.04.26 12:54 0 2",
+          "reply_to_anchor": "1mqhs",
+          "own_text_sha256": "91eaa69adfaa3c1baf1ed02f074551e2f392fd104268bb7249ff3d8c136e6720",
+          "quote_boundary_checked": true
+        },
+        {
+          "url": "https://exler.es/blog/comments/vystupleniye-senatora-kloda-malyure.htm#1mqsg",
+          "anchor": "1mqsg",
+          "author": "Alex Exler",
+          "metadata_at_fetch": "Alex Exler wwwuser 04.04.26 22:39 0 6",
+          "reply_to_anchor": "1mqsc",
+          "own_text_sha256": "a6c086e57411cf995b43bad91ad8d6170fc84288c8da6036dcdb97a7b778251e",
+          "quote_boundary_checked": true
+        },
+        {
+          "url": "https://exler.es/blog/comments/vystupleniye-senatora-kloda-malyure.htm#1mqt7",
+          "anchor": "1mqt7",
+          "author": "Alex Exler",
+          "metadata_at_fetch": "Alex Exler wwwuser 04.04.26 23:43 0 0",
+          "reply_to_anchor": "1mqsr",
+          "own_text_sha256": "88a8ea6006bd8a684219075464a4724453c728e2a8394e55c26267096b7ad59b",
+          "quote_boundary_checked": true
+        }
+      ]
+    },
+    {
+      "id": "XG-S021",
+      "url": "https://exler.es/blog/tramp-utverzhdayet-chto-oni-zakhvatili-maduro-s-zhenoy.htm",
+      "title": "Трамп утверждает, что они захватили Мадуро с женой",
+      "publication_label": "03.01.2026 10:30",
+      "fetched_at": "2026-09-25T20:22:24.494997+00:00",
+      "sha256": "ce034ea708dbffcc9624dc9879a7515bdc2d25dc5ede1286fa8fa34edbb34f01",
+      "files": [
+        "INTERNATIONAL.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S022",
+      "url": "https://exler.es/blog/strannoye-resheniye.htm",
+      "title": "Странное решение",
+      "publication_label": "04.01.2026 10:30",
+      "fetched_at": "2026-09-25T20:22:14.143993+00:00",
+      "sha256": "bc9ab5a8d512f2eb2cdd81a4dfeb1a1085186f9d3ecebd3deb3ada209acaa56b",
+      "files": [
+        "INTERNATIONAL.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S023",
+      "url": "https://exler.es/blog/grenlandiya-ikh.htm",
+      "title": "Гренландия - их!",
+      "publication_label": "30.03.2025 10:29",
+      "fetched_at": "2026-09-25T20:10:58.466661+00:00",
+      "sha256": "e7cd2a11033c49dddbc5652cf7f6f2620853b2d337c3ef777e807dd89a2a239a",
+      "files": [
+        "INTERNATIONAL.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S024",
+      "url": "https://exler.es/blog/uznayete-ritoriku.htm",
+      "title": "Узнаете риторику?",
+      "publication_label": "10.01.2026 10:10",
+      "fetched_at": "2026-09-25T20:22:13.383473+00:00",
+      "sha256": "0d4011e9471c169526387e6ef0bd6005e414eef85adad9d8d95f0f7e8f6e7cc3",
+      "files": [
+        "INTERNATIONAL.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S025",
+      "url": "https://exler.es/blog/istoriya-s-linor-goralik-i-tartusskim-universitetom.htm",
+      "title": "История с Линор Горалик и Тартусским университетом",
+      "publication_label": "10.05.2023 09:04",
+      "fetched_at": "2026-09-25T20:11:17.642223+00:00",
+      "sha256": "aff6c2ceadfa16adefb82dc5b539e41e4c3a65406b68411311cc549f1e2d0f86",
+      "files": [
+        "INTERNATIONAL.md"
+      ],
+      "verified_author_comments": [
+        {
+          "url": "https://exler.es/blog/comments/istoriya-s-linor-goralik-i-tartusskim-universitetom.htm#1651u",
+          "anchor": "1651u",
+          "author": "Alex Exler",
+          "metadata_at_fetch": "Alex Exler gaz 10.05.23 10:11 1 34",
+          "reply_to_anchor": "1651b",
+          "own_text_sha256": "0802d210a837ad7a2d84af790bfca264a7fc9148f0b43f3ee419e4aa47553c46",
+          "quote_boundary_checked": true
+        }
+      ]
+    },
+    {
+      "id": "XG-S026",
+      "url": "https://exler.es/blog/i-snova-diskriminatsiya-rossiyan-v-yes.htm",
+      "title": "И снова дискриминация россиян в ЕС!",
+      "publication_label": "19.07.2023 16:08",
+      "fetched_at": "2026-09-25T20:28:20.706466+00:00",
+      "sha256": "04c2347125c48418fe3ea14d95ff3aa56fbaaa9ab25b8afa06b5f6f42338af94",
+      "files": [
+        "INTERNATIONAL.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S027",
+      "url": "https://exler.es/blog/antiizrailskaya-isteriya-pedro-sanchesa.htm",
+      "title": "Антиизраильская истерия Педро Санчеса",
+      "publication_label": "07.10.2025 11:30",
+      "fetched_at": "2026-09-25T20:29:05.812680+00:00",
+      "sha256": "396006792c0fbe0727d49909cfd4143667dc99bb95f10bb003b048ea86cb8c5e",
+      "files": [
+        "INTERNATIONAL.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S028",
+      "url": "https://exler.es/blog/yevrovideniye-i-ispanovideniye.htm",
+      "title": "Евровидение и испановидение",
+      "publication_label": "05.12.2025 10:10",
+      "fetched_at": "2026-09-25T20:28:56.715874+00:00",
+      "sha256": "0bece00e7874f2756955868a21e9181f32bcc5c62076116ce4406308bf640a12",
+      "files": [
+        "INTERNATIONAL.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S029",
+      "url": "https://exler.es/blog/printsipialnyy-chelovek.htm",
+      "title": "Принципиальный человек",
+      "publication_label": "13.12.2025 12:00",
+      "fetched_at": "2026-09-25T20:28:19.848142+00:00",
+      "sha256": "d03357647f762135f452b1ba0bfc2fe1344b5d581dc864f25df1d79956031266",
+      "files": [
+        "INTERNATIONAL.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S030",
+      "url": "https://exler.es/blog/assotsiatsiya-vedushchikh-mirovykh-uchenykh.htm",
+      "title": "Ассоциация ведущих мировых ученых",
+      "publication_label": "06.09.2025 12:00",
+      "fetched_at": "2026-09-25T20:10:48.635240+00:00",
+      "sha256": "c54e9a92319886fbbbb5a25d2b1391a955270f97276a48e04b3e41ca14c45d73",
+      "files": [
+        "INTERNATIONAL.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S031",
+      "url": "https://exler.es/blog/livnevaya-kanalizatsiya.htm",
+      "title": "Ливневая канализация",
+      "publication_label": "22.03.2019 17:38",
+      "fetched_at": "2026-09-25T20:21:08.805352+00:00",
+      "sha256": "15b1523209b86d23b3aef9ac79ec1fc4f5b1118159bb1df2127005260add0cf4",
+      "files": [
+        "EVERYDAY.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S032",
+      "url": "https://exler.es/blog/chto-v-sochi-to-tvoritsya.htm",
+      "title": "Что в Сочи-то творится!",
+      "publication_label": "24.07.2022 11:20",
+      "fetched_at": "2026-09-25T20:23:05.132989+00:00",
+      "sha256": "718f50e27c1a3d531a4c6c9571f201840c47ac24f3b7653e24f27fb7dd33a2b9",
+      "files": [
+        "EVERYDAY.md"
+      ],
+      "verified_author_comments": [
+        {
+          "url": "https://exler.es/blog/comments/chto-v-sochi-to-tvoritsya.htm#112ps",
+          "anchor": "112ps",
+          "author": "Alex Exler",
+          "metadata_at_fetch": "Alex Exler Госслужащий 24.07.22 11:42 0 32",
+          "reply_to_anchor": "112pr",
+          "own_text_sha256": "df343d0415f48035bc9eddce032a14b285d7d51c41650760da98a61894c4759b",
+          "quote_boundary_checked": true
+        }
+      ]
+    },
+    {
+      "id": "XG-S033",
+      "url": "https://exler.es/blog/novosti-ot-glorii.htm",
+      "title": "Новости от Глории",
+      "publication_label": "22.01.2020 18:13",
+      "fetched_at": "2026-09-25T20:20:59.961641+00:00",
+      "sha256": "6904a35c5bb3e1b552271679e9aeefb1f82e031383c89e7818a69696c16739ef",
+      "files": [
+        "EVERYDAY.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S034",
+      "url": "https://exler.es/blog/navodneniye-v-badalone.htm",
+      "title": "Наводнение в Бадалоне",
+      "publication_label": "17.12.2025 17:00",
+      "fetched_at": "2026-09-25T20:19:44.770571+00:00",
+      "sha256": "5a1280d2c874a473c33ffdf9a7b834352e12c799400d3141db0ff8c521bc4827",
+      "files": [
+        "EVERYDAY.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S035",
+      "url": "https://exler.es/blog/manyana.htm",
+      "title": "Маньяна",
+      "publication_label": "02.03.2012 10:04",
+      "fetched_at": "2026-09-25T20:26:19.459212+00:00",
+      "sha256": "b9db6b042e8cbe63dd582cff455f9599348d00ccfd6e21d60c31eabc2499fb60",
+      "files": [
+        "EVERYDAY.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S036",
+      "url": "https://exler.es/blog/manyana-moego-serdca.htm",
+      "title": "Маньяна моего сердца",
+      "publication_label": "12.12.2014 10:12",
+      "fetched_at": "2026-09-25T20:26:09.801953+00:00",
+      "sha256": "c94a235b8425fc115c6eea1a4b6652eefa1189037b26cb2e0fd5cc6c7cb542c8",
+      "files": [
+        "EVERYDAY.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S037",
+      "url": "https://exler.es/blog/10-veshej-kotorye-ee-besyat-v-ispanii.htm",
+      "title": "10 вещей, которые ее бесят в Испании",
+      "publication_label": "23.03.2018 11:04",
+      "fetched_at": "2026-09-25T20:26:10.291025+00:00",
+      "sha256": "89b55126d4a58e1d1f2efa3d51a8862a87ee39f963292c9f16ac154a0a2630b7",
+      "files": [
+        "EVERYDAY.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S038",
+      "url": "https://exler.es/blog/temnaya-storona-ispanii.htm",
+      "title": "Тёмная сторона Испании",
+      "publication_label": "18.06.2021 16:33",
+      "fetched_at": "2026-09-25T20:21:29.278820+00:00",
+      "sha256": "770a17d0710c4f365f41cf614a4f09583c9868af2b7b4169c7bcf5ca8385ee64",
+      "files": [
+        "EVERYDAY.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S039",
+      "url": "https://exler.es/blog/problemy-s-otopleniyem.htm",
+      "title": "Проблемы с отоплением",
+      "publication_label": "10.01.2024 11:00",
+      "fetched_at": "2026-09-25T20:22:54.083226+00:00",
+      "sha256": "6760a73e00698d7f6cebb4f28fe70e89054c211a3daa45beffae8a7ca12310b4",
+      "files": [
+        "EVERYDAY.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S040",
+      "url": "https://exler.es/blog/ne-takaya-uzh-i-manyana.htm",
+      "title": "Не такая уж и маньяна",
+      "publication_label": "20.06.2015 09:53",
+      "fetched_at": "2026-09-25T20:26:19.241530+00:00",
+      "sha256": "9d9d6b84522c31596fee4fa98524fc27b6d812f0ded18556595d80c6785fee9b",
+      "files": [
+        "EVERYDAY.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S041",
+      "url": "https://exler.es/blog/kemerovo.htm",
+      "title": "Кемерово",
+      "publication_label": "26.03.2018 09:16",
+      "fetched_at": "2026-09-25T20:26:47.540243+00:00",
+      "sha256": "8a5756bd6db44e287ace49807fcb4666fe6a004ca682a8b70dbb74afe4320c2b",
+      "files": [
+        "EVERYDAY.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S042",
+      "url": "https://exler.es/blog/strashnyy-pozhar-v-valensii.htm",
+      "title": "Страшный пожар в Валенсии",
+      "publication_label": "23.02.2024 16:25",
+      "fetched_at": "2026-09-25T20:20:03.339573+00:00",
+      "sha256": "df54f02d07bd75884c69bf1f301b26e2d13bf85d17af835acdca7b4d3f7ee346",
+      "files": [
+        "EVERYDAY.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S043",
+      "url": "https://exler.es/blog/tragediya-na-diskoteke-v-mursii.htm",
+      "title": "Трагедия на дискотеке в Мурсии",
+      "publication_label": "02.10.2023 08:38",
+      "fetched_at": "2026-09-25T20:20:03.009558+00:00",
+      "sha256": "a3b26885d882de35cf3ebd5dfefe2be0fb1229b8e4878c79882da41eb9bb6cdd",
+      "files": [
+        "EVERYDAY.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S044",
+      "url": "https://exler.es/blog/chto-sluchilos-v-valensiyskoy-avtonomii.htm",
+      "title": "Что случилось в Валенсийской автономии",
+      "publication_label": "31.10.2024 13:00",
+      "fetched_at": "2026-09-25T20:20:03.049406+00:00",
+      "sha256": "fdd09f92d01b1c8459278dcfcda3ac86be2e32089dd12a9af125569b9e804b43",
+      "files": [
+        "EVERYDAY.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S045",
+      "url": "https://exler.es/blog/korol-i-koroleva-ispanii-v-valensii.htm",
+      "title": "Король и королева Испании в Валенсии",
+      "publication_label": "04.11.2024 09:05",
+      "fetched_at": "2026-09-25T20:20:59.716702+00:00",
+      "sha256": "547f3733b00f3068dcb2768b2ecd00fb0e7e709d1f867fb7c094bc407b0dcbb0",
+      "files": [
+        "EVERYDAY.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S046",
+      "url": "https://exler.es/blog/blekaut-v-ispanii.htm",
+      "title": "Блэкаут в Испании",
+      "publication_label": "29.04.2025 09:00",
+      "fetched_at": "2026-09-25T20:19:52.574170+00:00",
+      "sha256": "122f7695164096adbf20432c4bc0c21c84817091ee21e17cc6091525266c4b44",
+      "files": [
+        "EVERYDAY.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S047",
+      "url": "https://exler.es/blog/iz-za-chego-proizoshel-blekaut-v-ispanii.htm",
+      "title": "Из-за чего произошел блэкаут в Испании",
+      "publication_label": "24.05.2025 13:00",
+      "fetched_at": "2026-09-25T20:22:23.701066+00:00",
+      "sha256": "ba00153a16ec44387cb25f9e6c08593466dfe2f0312a580fa6c1965c62d7adbf",
+      "files": [
+        "EVERYDAY.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S048",
+      "url": "https://exler.es/blog/pochemu-proizoshla-zhd-katastrofa-v-andalusii.htm",
+      "title": "Почему произошла ЖД-катастрофа в Андалусии",
+      "publication_label": "20.01.2026 15:00",
+      "fetched_at": "2026-09-25T20:33:19.393641+00:00",
+      "sha256": "1eebf3c280131f316c1db40fdfce5b9ed685b457f209b7317ead3d73c9519211",
+      "files": [
+        "EVERYDAY.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S049",
+      "url": "https://exler.es/blog/zakonoproekt-o-novyh-pravilah-dorozhnogo-dvizheniya.htm",
+      "title": "Законопроект о новых правилах дорожного движения",
+      "publication_label": "10.11.2006 11:55",
+      "fetched_at": "2026-09-25T20:33:18.996122+00:00",
+      "sha256": "241bf68cd39f0df8abe3c66d27377d4f19ff7674ec3c77fa9071c37b966f1e93",
+      "files": [
+        "EVERYDAY.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S050",
+      "url": "https://exler.es/blog/novyye-dinamicheskiye-radary-v-ispanii.htm",
+      "title": "Новые динамические радары в Испании",
+      "publication_label": "28.04.2026 16:00",
+      "fetched_at": "2026-09-25T20:28:56.414509+00:00",
+      "sha256": "715cf63cdef27985a282beb9c4caa4ef026710bd2b275a8de353546c3e423c87",
+      "files": [
+        "EVERYDAY.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S051",
+      "url": "https://exler.es/blog/moskva-gotova-k-zime.htm",
+      "title": "Москва готова к зиме",
+      "publication_label": "14.11.2013 18:55",
+      "fetched_at": "2026-09-25T20:21:39.017628+00:00",
+      "sha256": "6be13a352951a4d03e8510dc27b05d692a69c41afeb5304bd71933556ec0efcd",
+      "files": [
+        "EVERYDAY.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S052",
+      "url": "https://exler.es/blog/ispaniya-v-snegu.htm",
+      "title": "Испания в снегу",
+      "publication_label": "09.01.2021 18:45",
+      "fetched_at": "2026-09-25T20:21:17.799944+00:00",
+      "sha256": "cfc6ffd38cff4f66fbdc701a5bc4f35d29497b8611390d6ea9e6af3900e3bb68",
+      "files": [
+        "EVERYDAY.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S053",
+      "url": "https://exler.es/blog/ispantsy-takiye-ispantsy-2.htm",
+      "title": "Испанцы, такие испанцы!",
+      "publication_label": "16.01.2021 10:04",
+      "fetched_at": "2026-09-25T20:23:49.238478+00:00",
+      "sha256": "6a6d3b9a296f3f6f4c803b4ba5c634a06e2777b1ba5436fc5c65d726d1a7fad1",
+      "files": [
+        "EVERYDAY.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S054",
+      "url": "https://exler.es/blog/nu-vse-pozhary-nemedlenno-otstupyat.htm",
+      "title": "Ну все, пожары немедленно отступят!",
+      "publication_label": "21.08.2021 19:39",
+      "fetched_at": "2026-09-25T20:20:19.530601+00:00",
+      "sha256": "dc17922c15d508b87fbf12655d9a137d4b4c95e658cc6e6cf563a55b0a240beb",
+      "files": [
+        "EVERYDAY.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S055",
+      "url": "https://exler.es/blog/opyat-ogromnyy-pozhar-v-katalonii-iz-za-vybroshennogo-okurka.htm",
+      "title": "Опять огромный пожар в Каталонии из-за выброшенного окурка",
+      "publication_label": "17.07.2021 18:40",
+      "fetched_at": "2026-09-25T20:20:19.389595+00:00",
+      "sha256": "ed311c5255d34e24accc3381f648626623890c8eb5053c5e3e9a91bd13d2fde3",
+      "files": [
+        "EVERYDAY.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S056",
+      "url": "https://exler.es/blog/i-v-moskve-est-chto-to-horoshee.htm",
+      "title": "И в Москве есть что-то хорошее",
+      "publication_label": "02.05.2010 13:48",
+      "fetched_at": "2026-09-25T20:30:32.165517+00:00",
+      "sha256": "754d65c80aa2daa6d2c67237b15bc945c07b5ea8552519c75591b17efe5439e9",
+      "files": [
+        "EVERYDAY.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S057",
+      "url": "https://exler.es/blog/chudesnaya-istoriya-s-ispanskim-gossluzhashchim.htm",
+      "title": "Чудесная история с испанским госслужащим",
+      "publication_label": "11.07.2024 17:56",
+      "fetched_at": "2026-09-25T20:25:59.697881+00:00",
+      "sha256": "0123bbca01c2074047d6d3855c3a69edb3abdb7c757d30871be52da893338d9c",
+      "files": [
+        "EVERYDAY.md"
+      ],
+      "verified_author_comments": []
+    },
+    {
+      "id": "XG-S058",
+      "url": "https://exler.es/blog/mer-orska-i-semya-v-dubaye.htm",
+      "title": "Мэр Орска и семья в Дубае",
+      "publication_label": "21.04.2024 13:00",
+      "fetched_at": "2026-09-25T20:20:04.029211+00:00",
+      "sha256": "7b7494c5e9c6816ef5431d4ea7d77b39cdeeade4737e84d9a901746d7e5b910a",
+      "files": [
+        "EVERYDAY.md"
+      ],
+      "verified_author_comments": []
+    }
+  ],
+  "method": "Первичный HTML; собственные ответы отделены от цитат читателей; полный текст источников не перепечатывается."
+}

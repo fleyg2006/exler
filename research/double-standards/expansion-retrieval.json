@@ -1,0 +1,2701 @@
+{
+  "schema_version": 1,
+  "counts": {
+    "case_count": 11,
+    "source_count": 58,
+    "author_comment_count": 10,
+    "retrieved_unique_urls": 334,
+    "native_search_pages": 101,
+    "retrieved_non_search_urls": 233,
+    "failed_unique_urls": 1,
+    "source_fetch_range": [
+      "2026-09-25T20:10:40.222183+00:00",
+      "2026-09-25T20:33:19.393641+00:00"
+    ],
+    "public_source_year_range": [
+      2006,
+      2026
+    ]
+  },
+  "scope": "Только новый проход geo-war. Старые GEO-получения сюда не добавлены.",
+  "retrieved": [
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%A1%D1%83%D0%BB%D0%B5%D0%B9%D0%BC%D0%B0%D0%BD%D0%B8&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%A1%D1%83%D0%BB%D0%B5%D0%B9%D0%BC%D0%B0%D0%BD%D0%B8&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 38456,
+      "sha256": "0cdf8e400949561ae54f3ccf47fa989484df559912f8e3ebc056e4f1d90336a8",
+      "fetched_at": "2026-09-25T20:10:33.928667+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/igrivyy-sovetnik-ili-seks-pod-khristom.htm",
+      "final_url": "https://exler.es/blog/igrivyy-sovetnik-ili-seks-pod-khristom.htm",
+      "status": 200,
+      "bytes": 433875,
+      "sha256": "97af3c2657ae5ca580e2b66cbed0132ec3a2a76804fdabd8adb60787e5089ce0",
+      "fetched_at": "2026-09-25T20:28:47.745434+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/iz-musorshchikov-v-millionery.htm",
+      "final_url": "https://exler.es/blog/iz-musorshchikov-v-millionery.htm",
+      "status": 200,
+      "bytes": 977094,
+      "sha256": "984180938a36b946ae25c2c7076d3ce9292ed8cf1c5f74706dac2d9f9fb413cb",
+      "fetched_at": "2026-09-25T20:22:57.425286+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BA%D0%BE%D1%80%D1%80%D1%83%D0%BF%D1%86%D0%B8%D1%8F+%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BA%D0%BE%D1%80%D1%80%D1%83%D0%BF%D1%86%D0%B8%D1%8F+%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 39384,
+      "sha256": "1b3aa0c0ac79b80567ff9a0ab81f9b6ca05507aca0367fc42f7d3929221ebf9e",
+      "fetched_at": "2026-09-25T20:23:28.455442+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/shtrafy-voditeley-v-ispanii.htm",
+      "final_url": "https://exler.es/blog/shtrafy-voditeley-v-ispanii.htm",
+      "status": 200,
+      "bytes": 426351,
+      "sha256": "c9b684bd89b3cabfc82d4dd3933c255d0ba35fcbe584cd17e8e555d967432d3e",
+      "fetched_at": "2026-09-25T20:28:56.632708+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/otklyucheniye-elektrosnabzheniya.htm",
+      "final_url": "https://exler.es/blog/otklyucheniye-elektrosnabzheniya.htm",
+      "status": 200,
+      "bytes": 739195,
+      "sha256": "b253d308766c08ce51657d19692b701597a259512339e69d49c8a917a56130bf",
+      "fetched_at": "2026-09-25T20:19:53.175912+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/strannoye-resheniye.htm",
+      "final_url": "https://exler.es/blog/strannoye-resheniye.htm",
+      "status": 200,
+      "bytes": 897112,
+      "sha256": "bc9ab5a8d512f2eb2cdd81a4dfeb1a1085186f9d3ecebd3deb3ada209acaa56b",
+      "fetched_at": "2026-09-25T20:22:14.143993+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/isk-yuar-protiv-izrailya-v-sude-oon.htm",
+      "final_url": "https://exler.es/blog/isk-yuar-protiv-izrailya-v-sude-oon.htm",
+      "status": 200,
+      "bytes": 945963,
+      "sha256": "6597f299dc7ebffd19d746e332c3122d3ff010dd8c18127d8ef26acf3a9bfbe7",
+      "fetched_at": "2026-09-25T20:13:13.085641+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/moskva-gotova-k-zime.htm",
+      "final_url": "https://exler.es/blog/moskva-gotova-k-zime.htm",
+      "status": 200,
+      "bytes": 143546,
+      "sha256": "6be13a352951a4d03e8510dc27b05d692a69c41afeb5304bd71933556ec0efcd",
+      "fetched_at": "2026-09-25T20:21:39.017628+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B0+%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B0+%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 39770,
+      "sha256": "6c023884dc7a339e1c7e675d6c88b7fb412c7e0038b2141e83f2d3d2650739c6",
+      "fetched_at": "2026-09-25T20:23:20.261531+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/kak-mozhno-verit-v-etot-bred.htm",
+      "final_url": "https://exler.es/blog/kak-mozhno-verit-v-etot-bred.htm",
+      "status": 200,
+      "bytes": 617113,
+      "sha256": "ced42e428cbdb26db4137c4611d46f1f1220c682a1b9021332f7552320b42999",
+      "fetched_at": "2026-09-25T20:11:17.614390+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/pravila-obsuzhdeniya-izrailya-v-sotssetyakh.htm",
+      "final_url": "https://exler.es/blog/pravila-obsuzhdeniya-izrailya-v-sotssetyakh.htm",
+      "status": 200,
+      "bytes": 981856,
+      "sha256": "568007ff26cc992c50d16c1a301ae048abe3926674d78e4ddaee1522f94e858a",
+      "fetched_at": "2026-09-25T20:10:40.253324+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/tramp-utverzhdayet-chto-oni-zakhvatili-maduro-s-zhenoy.htm",
+      "final_url": "https://exler.es/blog/tramp-utverzhdayet-chto-oni-zakhvatili-maduro-s-zhenoy.htm",
+      "status": 200,
+      "bytes": 921153,
+      "sha256": "ce034ea708dbffcc9624dc9879a7515bdc2d25dc5ede1286fa8fa34edbb34f01",
+      "fetched_at": "2026-09-25T20:22:24.494997+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B3%D0%BE%D0%BB%D0%BE%D0%B4+%D0%93%D0%B0%D0%B7%D0%B0&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B3%D0%BE%D0%BB%D0%BE%D0%B4+%D0%93%D0%B0%D0%B7%D0%B0&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 39400,
+      "sha256": "c43e3b69290204cd42a1e68dfa799d6817e01a7915fb07a3a037aca060eeba50",
+      "fetched_at": "2026-09-25T20:10:34.456824+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B7%D0%B0%D1%82%D0%BE%D0%BF%D0%B8%D0%BB%D0%BE&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B7%D0%B0%D1%82%D0%BE%D0%BF%D0%B8%D0%BB%D0%BE&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 38765,
+      "sha256": "c3c89aaf87e38dccc9e95086f7c59bf9676308c2409e2cec660d3afb6f2a0631",
+      "fetched_at": "2026-09-25T20:20:03.897229+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/poshel-po-grablyam.htm",
+      "final_url": "https://exler.es/blog/poshel-po-grablyam.htm",
+      "status": 200,
+      "bytes": 345117,
+      "sha256": "7ebee97bdaaf5faa36d44d8f25f1203d98a086ce97caefdee3e822d26e15f2dd",
+      "fetched_at": "2026-09-25T20:22:12.231925+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/youtube-i-kanal-quot-tnt-quot.htm",
+      "final_url": "https://exler.es/blog/youtube-i-kanal-quot-tnt-quot.htm",
+      "status": 200,
+      "bytes": 222541,
+      "sha256": "81c70c3d2c1ed141f5990116c748d6c1cb4c0f90c8c3d245e1cc2a76b8bcbea7",
+      "fetched_at": "2026-09-25T20:23:56.709868+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/chto-proiskhodit-v-venesuele.htm",
+      "final_url": "https://exler.es/blog/chto-proiskhodit-v-venesuele.htm",
+      "status": 200,
+      "bytes": 1168160,
+      "sha256": "71e897719069263101d9df691de2d480289ec6ed2f4f02ee96017243816e15fa",
+      "fetched_at": "2026-09-25T20:26:48.020373+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BC%D0%B0%D0%BD%D1%8C%D1%8F%D0%BD%D0%B0&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BC%D0%B0%D0%BD%D1%8C%D1%8F%D0%BD%D0%B0&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 40179,
+      "sha256": "f582d9716f59a8e8170ae2d7b964681c264e17877065bc5c71e95a00877cb5f7",
+      "fetched_at": "2026-09-25T20:23:28.198702+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/mirnyye-ni-v-chem-ne-povinnyye-lyudi.htm",
+      "final_url": "https://exler.es/blog/mirnyye-ni-v-chem-ne-povinnyye-lyudi.htm",
+      "status": 200,
+      "bytes": 821510,
+      "sha256": "bd6c161eb2687b535919d6f7487f7b73aeccef4767c9fa65c7f8171777ab55a1",
+      "fetched_at": "2026-09-25T20:22:54.261338+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%94%D0%BE%D0%BD%D0%B1%D0%B0%D1%81%D1%81+%D0%B1%D0%BE%D0%BC%D0%B1%D0%B8%D1%82%D1%8C&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%94%D0%BE%D0%BD%D0%B1%D0%B0%D1%81%D1%81+%D0%B1%D0%BE%D0%BC%D0%B1%D0%B8%D1%82%D1%8C&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 38990,
+      "sha256": "b2d544bfe394f21b04f38da0f30fd79138b087450d01108d2f71615f8b0d8ef0",
+      "fetched_at": "2026-09-25T20:10:42.577020+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/a-kto-ikh-sprashivat-to-budet.htm",
+      "final_url": "https://exler.es/blog/a-kto-ikh-sprashivat-to-budet.htm",
+      "status": 200,
+      "bytes": 210712,
+      "sha256": "36f763122e17c1922d7657ac9cff76d70b493faf9ffd5db0ca2e3c1b9413a4f7",
+      "fetched_at": "2026-09-25T20:13:03.609156+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B1%D0%BE%D0%BC%D0%B1%D0%B0%D1%80%D0%B4%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8+%D0%AE%D0%B3%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%B8%D0%B8&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B1%D0%BE%D0%BC%D0%B1%D0%B0%D1%80%D0%B4%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8+%D0%AE%D0%B3%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%B8%D0%B8&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 26416,
+      "sha256": "b9f60dfe615bc378c6aa76e11f66fb02465e24dee4884cde3b869681eaa2df3b",
+      "fetched_at": "2026-09-25T20:23:57.245418+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%93%D0%B0%D0%B0%D0%B3%D0%B0&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%93%D0%B0%D0%B0%D0%B3%D0%B0&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 39138,
+      "sha256": "d47627b8aa0c2e32539c6dd3904d4219bd757b2b98966fc46d6f01462e285b79",
+      "fetched_at": "2026-09-25T20:12:05.911792+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/tsifrovaya-karta-dlya-poseshcheniya-pornosaytov-v-ispanii.htm",
+      "final_url": "https://exler.es/blog/tsifrovaya-karta-dlya-poseshcheniya-pornosaytov-v-ispanii.htm",
+      "status": 200,
+      "bytes": 583308,
+      "sha256": "2b0055bee21d9e887864f6d5327c7a1268f82f674553cdaf7c8a11ac2ad39e88",
+      "fetched_at": "2026-09-25T20:24:20.513983+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/yevrovideniye-i-ispanovideniye.htm",
+      "final_url": "https://exler.es/blog/yevrovideniye-i-ispanovideniye.htm",
+      "status": 200,
+      "bytes": 573639,
+      "sha256": "0bece00e7874f2756955868a21e9181f32bcc5c62076116ce4406308bf640a12",
+      "fetched_at": "2026-09-25T20:28:56.715874+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/vigo-mortensen-i-blekaut-v-ispanii.htm",
+      "final_url": "https://exler.es/blog/vigo-mortensen-i-blekaut-v-ispanii.htm",
+      "status": 200,
+      "bytes": 291095,
+      "sha256": "af0e9c2016fc0562135f15466208f3ecde831dd77cbedd871ca4a6d7e534cb5c",
+      "fetched_at": "2026-09-25T20:22:23.258214+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/prevzoydennaya-manyana.htm",
+      "final_url": "https://exler.es/blog/prevzoydennaya-manyana.htm",
+      "status": 200,
+      "bytes": 433133,
+      "sha256": "1463f0f1303f6c2c0b6b95148ca7d44d230b04caa170bfcffbc846e708269efd",
+      "fetched_at": "2026-09-25T20:26:27.670633+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%9D%D0%B5%D1%82%D0%B0%D0%BD%D1%8C%D1%8F%D1%85%D1%83+%D0%BE%D1%80%D0%B4%D0%B5%D1%80&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%9D%D0%B5%D1%82%D0%B0%D0%BD%D1%8C%D1%8F%D1%85%D1%83+%D0%BE%D1%80%D0%B4%D0%B5%D1%80&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 30370,
+      "sha256": "b2e0661801f22d7c894c03ec3052b5b1195453b227317ded34e47f0491ef2013",
+      "fetched_at": "2026-09-25T20:12:05.668522+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/sanktsii-protiv-mezhdunarodnogo-ugolovnogo-suda.htm",
+      "final_url": "https://exler.es/blog/sanktsii-protiv-mezhdunarodnogo-ugolovnogo-suda.htm",
+      "status": 200,
+      "bytes": 530240,
+      "sha256": "cace336ad9eb33fe6fdf3445078938e167bc3abe786cd23c38b69b41f86605b2",
+      "fetched_at": "2026-09-25T20:12:21.322189+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/manyana-moego-serdca.htm",
+      "final_url": "https://exler.es/blog/manyana-moego-serdca.htm",
+      "status": 200,
+      "bytes": 340408,
+      "sha256": "c94a235b8425fc115c6eea1a4b6652eefa1189037b26cb2e0fd5cc6c7cb542c8",
+      "fetched_at": "2026-09-25T20:26:09.801953+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/zhest-v-valensiyskoy-avtonomii.htm",
+      "final_url": "https://exler.es/blog/zhest-v-valensiyskoy-avtonomii.htm",
+      "status": 200,
+      "bytes": 273214,
+      "sha256": "15a3603f5dea27ed19bd96a2c88dd0e4365418ddace7b4a8b6173fc5d2fe7b3e",
+      "fetched_at": "2026-09-25T20:22:35.020418+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D1%81%D0%BA%D0%B0%D1%86%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D1%81%D0%BA%D0%B0%D1%86%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 39065,
+      "sha256": "f5bbab5faddad3b0705ca718cef681fc8fd3a51eeafafc65333ace18e49269bd",
+      "fetched_at": "2026-09-25T20:10:42.722544+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/gosudarstvennyye-sluzhashchiye-raznykh-stran.htm",
+      "final_url": "https://exler.es/blog/gosudarstvennyye-sluzhashchiye-raznykh-stran.htm",
+      "status": 200,
+      "bytes": 273795,
+      "sha256": "3c0c58ab6aebd9fe047e8bd8f9ae4cb4367381d2f61670724c856e9e86a29be6",
+      "fetched_at": "2026-09-25T20:25:59.685429+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/patsan-prishel-k-uspekhu-ii.htm",
+      "final_url": "https://exler.es/blog/patsan-prishel-k-uspekhu-ii.htm",
+      "status": 200,
+      "bytes": 632792,
+      "sha256": "22f34a646d9213c48512159e10e66edc3c5e54948b9fb9cbfb5dfe9df58e960e",
+      "fetched_at": "2026-09-25T20:13:03.971256+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D1%81%D0%BD%D0%B5%D0%B3+%D0%9C%D0%B0%D0%B4%D1%80%D0%B8%D0%B4&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D1%81%D0%BD%D0%B5%D0%B3+%D0%9C%D0%B0%D0%B4%D1%80%D0%B8%D0%B4&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 34762,
+      "sha256": "d1aa523e7b1c1c785ff268135da93768e8d94ba652fcc9cf65f8f5625c8fcab7",
+      "fetched_at": "2026-09-25T20:19:26.825499+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/muzej-slavnogo-goroda-kalejya.htm",
+      "final_url": "https://exler.es/blog/muzej-slavnogo-goroda-kalejya.htm",
+      "status": 200,
+      "bytes": 177374,
+      "sha256": "20ad83db191e8ac1bd706232f3dd1dcd25e8c2c244b570fa46b885c4e4902da6",
+      "fetched_at": "2026-09-25T20:22:02.910968+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/zakonoproekt-o-novyh-pravilah-dorozhnogo-dvizheniya.htm",
+      "final_url": "https://exler.es/blog/zakonoproekt-o-novyh-pravilah-dorozhnogo-dvizheniya.htm",
+      "status": 200,
+      "bytes": 352510,
+      "sha256": "241bf68cd39f0df8abe3c66d27377d4f19ff7674ec3c77fa9071c37b966f1e93",
+      "fetched_at": "2026-09-25T20:33:18.996122+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5+%D0%BF%D1%80%D0%B5%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5+%D0%BF%D1%80%D0%B5%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 42109,
+      "sha256": "f86005d7c515331be7563ae171394c9053afab8437fad984f24cc9d2f3157317",
+      "fetched_at": "2026-09-25T20:10:25.981342+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%A1%D1%82%D1%80%D0%B0%D1%81%D1%82%D0%BD%D0%B0%D1%8F+%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%A1%D1%82%D1%80%D0%B0%D1%81%D1%82%D0%BD%D0%B0%D1%8F+%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 39745,
+      "sha256": "f407abb72f11081be1e0f36e772a9a86598ce14bcdb7ea3be254ec5183f86595",
+      "fetched_at": "2026-09-25T20:26:14.049432+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B0%D0%BD%D1%82%D0%B8%D1%81%D0%B5%D0%BC%D0%B8%D1%82%D0%B8%D0%B7%D0%BC&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B0%D0%BD%D1%82%D0%B8%D1%81%D0%B5%D0%BC%D0%B8%D1%82%D0%B8%D0%B7%D0%BC&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 39703,
+      "sha256": "2ea279e556befe9c9a1df8cf33f59e5808fd4ef24d1712c18e30956b6590bd39",
+      "fetched_at": "2026-09-25T20:10:25.867959+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/tragediya-na-diskoteke-v-mursii.htm",
+      "final_url": "https://exler.es/blog/tragediya-na-diskoteke-v-mursii.htm",
+      "status": 200,
+      "bytes": 210984,
+      "sha256": "a3b26885d882de35cf3ebd5dfefe2be0fb1229b8e4878c79882da41eb9bb6cdd",
+      "fetched_at": "2026-09-25T20:20:03.009558+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/operatsiya-po-zakhvatu-maduro-podrobnosti.htm",
+      "final_url": "https://exler.es/blog/operatsiya-po-zakhvatu-maduro-podrobnosti.htm",
+      "status": 200,
+      "bytes": 915318,
+      "sha256": "0f09ba0be299424c51868254f62b36dd27e13ccba3ba3213592cd6c2631b1eb9",
+      "fetched_at": "2026-09-25T20:22:24.082698+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/pik-sobyanina.htm",
+      "final_url": "https://exler.es/blog/pik-sobyanina.htm",
+      "status": 200,
+      "bytes": 463037,
+      "sha256": "22576e712570cf352c2ba636b34e3f528adb4638982ae2ffd2241f97c08a77a9",
+      "fetched_at": "2026-09-25T20:23:34.291994+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/izrail-na-yevrovidenii.htm",
+      "final_url": "https://exler.es/blog/izrail-na-yevrovidenii.htm",
+      "status": 200,
+      "bytes": 251841,
+      "sha256": "6325e38b8b6d14456a0ae2d146fce399c04e67e1373dece5fb69126accb4f348",
+      "fetched_at": "2026-09-25T20:30:32.275282+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/uragan-denis-v-ispanii.htm",
+      "final_url": "https://exler.es/blog/uragan-denis-v-ispanii.htm",
+      "status": 200,
+      "bytes": 308237,
+      "sha256": "c34fca3ffd02b225b388a959dd148a3761171eabfd5db04f12ef26c02986b454",
+      "fetched_at": "2026-09-25T20:20:18.976103+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/pozharnyy-ob-elektromobilyakh.htm",
+      "final_url": "https://exler.es/blog/pozharnyy-ob-elektromobilyakh.htm",
+      "status": 200,
+      "bytes": 1175611,
+      "sha256": "26e8c705d4ce6e578fdf1b917e47094a414ba99d1d9dcfdfb627ab8869365796",
+      "fetched_at": "2026-09-25T20:22:41.351505+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/v-ispanii-otmeneno-trevozhnoye-polozheniye.htm",
+      "final_url": "https://exler.es/blog/v-ispanii-otmeneno-trevozhnoye-polozheniye.htm",
+      "status": 200,
+      "bytes": 425458,
+      "sha256": "3bb7936af9bd82837ff79fe9d9b2e314aff5bec7e8f59c7ccf79587ba02becd4",
+      "fetched_at": "2026-09-25T20:24:29.504954+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/moskva-s-vysoty.htm",
+      "final_url": "https://exler.es/blog/moskva-s-vysoty.htm",
+      "status": 200,
+      "bytes": 158706,
+      "sha256": "a27fff678ecfb65e7b0e5339ad3258d0cf3d94bcefd96b313427ad353da4f873",
+      "fetched_at": "2026-09-25T20:23:41.123475+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D1%8F%D0%BC%D1%8B+%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B8&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D1%8F%D0%BC%D1%8B+%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B8&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 40910,
+      "sha256": "7108aa9dd5f2b5c3529d721c138945870de0f2a58b7db7d87effbb3ad816cbf8",
+      "fetched_at": "2026-09-25T20:23:20.328754+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/shtraf-v-zavisimosti-ot-dokhodov.htm",
+      "final_url": "https://exler.es/blog/shtraf-v-zavisimosti-ot-dokhodov.htm",
+      "status": 200,
+      "bytes": 1078240,
+      "sha256": "e03240122e125b20ca5fc5a5e7b4ae1351fbb29e360df6360b13c73baeb7c84e",
+      "fetched_at": "2026-09-25T20:26:48.124880+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BE%D1%87%D0%B5%D1%80%D0%B5%D0%B4%D1%8C+%D0%B2%D1%80%D0%B0%D1%87&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BE%D1%87%D0%B5%D1%80%D0%B5%D0%B4%D1%8C+%D0%B2%D1%80%D0%B0%D1%87&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 40134,
+      "sha256": "b289ece12b156730c0c999024e860643c0b89695c853f08ad4752a2b834bfb4c",
+      "fetched_at": "2026-09-25T20:19:48.793138+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/chto-reshili-ministry-inostrannykh-del-stran-yes-po-vizam.htm",
+      "final_url": "https://exler.es/blog/chto-reshili-ministry-inostrannykh-del-stran-yes-po-vizam.htm",
+      "status": 200,
+      "bytes": 1494963,
+      "sha256": "2330bf20321a62e63b887d32474dd79740c9db381af9e40b2f7d21a1db8b93d3",
+      "fetched_at": "2026-09-25T20:13:31.689631+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%9A%D1%80%D1%8B%D0%BC+%D0%B7%D0%B0%D1%85%D0%B2%D0%B0%D1%82&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%9A%D1%80%D1%8B%D0%BC+%D0%B7%D0%B0%D1%85%D0%B2%D0%B0%D1%82&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 40118,
+      "sha256": "b380aa9a8c25e7982972ea3fad9a4bff2e59289a441cbe38f9d504c26eb146d2",
+      "fetched_at": "2026-09-25T20:12:13.366232+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/moskva-polyarizacionnaya.htm",
+      "final_url": "https://exler.es/blog/moskva-polyarizacionnaya.htm",
+      "status": 200,
+      "bytes": 110250,
+      "sha256": "7c794202db6be772635877708972b53d47bea9da99d9093b596f0ef5e00697ce",
+      "fetched_at": "2026-09-25T20:21:38.919231+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/eto-bylo-vpolne-ozhidayemo.htm",
+      "final_url": "https://exler.es/blog/eto-bylo-vpolne-ozhidayemo.htm",
+      "status": 200,
+      "bytes": 483708,
+      "sha256": "025bd1be16b7740649717b05e4a61e98c650a4c5655afda4d6d0ff8d54b039f6",
+      "fetched_at": "2026-09-25T20:22:13.403372+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/pro-yevropeyskuyu-energetiku.htm",
+      "final_url": "https://exler.es/blog/pro-yevropeyskuyu-energetiku.htm",
+      "status": 200,
+      "bytes": 777420,
+      "sha256": "ad09a4da8670e5f4d631644da21984ac26c95a8954dac278c32d8ef1beb95830",
+      "fetched_at": "2026-09-25T20:19:53.000470+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F+%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F+%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 40008,
+      "sha256": "1913c10db6af50b2feb43e4bbc12cc5257e1543ba1686b04ffc7f4b5417cdf89",
+      "fetched_at": "2026-09-25T20:10:25.531920+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%A1%D0%B8%D1%80%D0%B8%D1%8F+%D0%B1%D0%BE%D0%BC%D0%B1%D0%B0%D1%80%D0%B4%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%A1%D0%B8%D1%80%D0%B8%D1%8F+%D0%B1%D0%BE%D0%BC%D0%B1%D0%B0%D1%80%D0%B4%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 30329,
+      "sha256": "d6c96277e1c8f92f743887cefdbffad07c20540c2cdf551c3afb9d83b25d6ab7",
+      "fetched_at": "2026-09-25T20:10:49.618997+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/kniga-prestupnyy-sindikat.htm",
+      "final_url": "https://exler.es/blog/kniga-prestupnyy-sindikat.htm",
+      "status": 200,
+      "bytes": 171176,
+      "sha256": "f703cd89dfce84f4d873e9628a9357964db4eb302c1ba63ae36718362629872c",
+      "fetched_at": "2026-09-25T20:23:24.224018+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/vystupleniye-senatora-kloda-malyure.htm",
+      "final_url": "https://exler.es/blog/vystupleniye-senatora-kloda-malyure.htm",
+      "status": 200,
+      "bytes": 1020532,
+      "sha256": "f823bfed0c3c41b8b6c03bb4aede012cd72493174519429aa2728a3f005a002d",
+      "fetched_at": "2026-09-25T20:12:00.098438+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/pochemu-vykhodit-tak-malo.htm",
+      "final_url": "https://exler.es/blog/pochemu-vykhodit-tak-malo.htm",
+      "status": 200,
+      "bytes": 303733,
+      "sha256": "02130eb29ddf16288d6020452b425c10b55a8fd1669e29bef2ad79d5c38a4efe",
+      "fetched_at": "2026-09-25T20:13:31.192689+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BB%D0%B5%D1%81%D0%BD%D1%8B%D0%B5+%D0%BF%D0%BE%D0%B6%D0%B0%D1%80%D1%8B&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BB%D0%B5%D1%81%D0%BD%D1%8B%D0%B5+%D0%BF%D0%BE%D0%B6%D0%B0%D1%80%D1%8B&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 39518,
+      "sha256": "d050379f3e06233b6f993272d798fe94babbbb627092a4c65e57adc7ae1d827f",
+      "fetched_at": "2026-09-25T20:23:36.464897+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/propavshiy-moryak-s-kreysera-moskva.htm",
+      "final_url": "https://exler.es/blog/propavshiy-moryak-s-kreysera-moskva.htm",
+      "status": 200,
+      "bytes": 621025,
+      "sha256": "db9b34038243a70c43224e3ec407ae37b7f5c52150352abfa65550ba553b62a0",
+      "fetched_at": "2026-09-25T20:21:09.061211+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/kak-borba-na-rynke-nefti-skazhetsya-na-ekonomike-rossii.htm",
+      "final_url": "https://exler.es/blog/kak-borba-na-rynke-nefti-skazhetsya-na-ekonomike-rossii.htm",
+      "status": 200,
+      "bytes": 338936,
+      "sha256": "bbaad8ad70a99d8597ecec68bd69d8885529459587b1f8191fd1ecf49a81b030",
+      "fetched_at": "2026-09-25T20:23:24.223916+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/pochemu-proizoshla-zhd-katastrofa-v-andalusii.htm",
+      "final_url": "https://exler.es/blog/pochemu-proizoshla-zhd-katastrofa-v-andalusii.htm",
+      "status": 200,
+      "bytes": 466232,
+      "sha256": "1eebf3c280131f316c1db40fdfce5b9ed685b457f209b7317ead3d73c9519211",
+      "fetched_at": "2026-09-25T20:33:19.393641+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/spasti-moskvu.htm",
+      "final_url": "https://exler.es/blog/spasti-moskvu.htm",
+      "status": 200,
+      "bytes": 441296,
+      "sha256": "e2e740e3718fd901b9866aff1c7015ef567626995bf3a48bafd42e4ab8ff5793",
+      "fetched_at": "2026-09-25T20:21:17.805308+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BC%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D0%B5+%D0%BF%D1%80%D0%B0%D0%B2%D0%BE&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BC%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D0%B5+%D0%BF%D1%80%D0%B0%D0%B2%D0%BE&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 41942,
+      "sha256": "60168040889288d2ec593702d8535a388b7781dea455d2c6ee0783e749c7a6c9",
+      "fetched_at": "2026-09-25T20:09:59.310677+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%AE%D0%B3%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%AE%D0%B3%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 39250,
+      "sha256": "ac23591400e2e145f44e8c88c5646ed3752fe704a4a5e39ea04550ec66e34adc",
+      "fetched_at": "2026-09-25T20:10:17.998041+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BB%D0%B8%D0%BA%D0%B2%D0%B8%D0%B4%D0%B0%D1%86%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BB%D0%B8%D0%BA%D0%B2%D0%B8%D0%B4%D0%B0%D1%86%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 40405,
+      "sha256": "03553c57bfac7e2d62bbcee65ef6f59b415991068b5f72cef3349f3544b20fcc",
+      "fetched_at": "2026-09-25T20:12:28.031600+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/rossiyane-v-yevrope-i-karty-revolut.htm",
+      "final_url": "https://exler.es/blog/rossiyane-v-yevrope-i-karty-revolut.htm",
+      "status": 200,
+      "bytes": 297097,
+      "sha256": "ce573a7df7c5b76125acf29ae6b08f6e25d56fe22d60daf58234aa4b4f4ea46e",
+      "fetched_at": "2026-09-25T20:28:19.747940+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/voyna-izrailya-s-khamasom.htm",
+      "final_url": "https://exler.es/blog/voyna-izrailya-s-khamasom.htm",
+      "status": 200,
+      "bytes": 907386,
+      "sha256": "76cdd8d3514f27aafae86b4393d49d4894444a74191826db1225cd02f61ff29b",
+      "fetched_at": "2026-09-25T20:26:57.252028+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/i-snova-manyana.htm",
+      "final_url": "https://exler.es/blog/i-snova-manyana.htm",
+      "status": 200,
+      "bytes": 209384,
+      "sha256": "47850db8b9b4c8329e833dade77b495dbbf573924f3152695828f1958ef691f2",
+      "fetched_at": "2026-09-25T20:26:19.171927+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BE%D1%82%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5+%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BE%D1%82%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D0%B5+%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B0&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 39669,
+      "sha256": "6cded27783f89e9097d3a5daa4a9c9b36078c863095d47582dcec4dc6ad6958a",
+      "fetched_at": "2026-09-25T20:19:37.197510+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/lechenie-v-izraile-bez-posrednikov.htm",
+      "final_url": "https://exler.es/blog/lechenie-v-izraile-bez-posrednikov.htm",
+      "status": 200,
+      "bytes": 214174,
+      "sha256": "43aec250eb1a626f35c680802817b4f1c251b464266ddd8415faf0d48f7410bb",
+      "fetched_at": "2026-09-25T20:23:33.567573+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/comments/chto-v-sochi-to-tvoritsya.htm",
+      "final_url": "https://exler.es/blog/chto-v-sochi-to-tvoritsya.htm",
+      "status": 200,
+      "bytes": 287020,
+      "sha256": "3946d7fd34e4c4f03e644522b7862436ef059c5a96e33e5629daa373478495bc",
+      "fetched_at": "2026-09-25T20:44:41.502651+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/tsakhal-opublikoval-otchet-o-razrusheniyakh-v-gaze.htm",
+      "final_url": "https://exler.es/blog/tsakhal-opublikoval-otchet-o-razrusheniyakh-v-gaze.htm",
+      "status": 200,
+      "bytes": 407730,
+      "sha256": "b44dc5f3b6b759421a2d9697bee2a656e772088b5cea3468a833f98928c22c87",
+      "fetched_at": "2026-09-25T20:26:56.757948+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D1%87%D0%B8%D0%BD%D0%BE%D0%B2%D0%BD%D0%B8%D0%BA%D0%B8+%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D1%87%D0%B8%D0%BD%D0%BE%D0%B2%D0%BD%D0%B8%D0%BA%D0%B8+%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 41801,
+      "sha256": "9777d90d683dda9c94360403d3e356415f9c4c24d441786f567ddd3a6d1657ac",
+      "fetched_at": "2026-09-25T20:20:04.100071+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/polovina-zemnogo-shara.htm",
+      "final_url": "https://exler.es/blog/polovina-zemnogo-shara.htm",
+      "status": 200,
+      "bytes": 731998,
+      "sha256": "4f6a41f7bfc248050c78b05ef3db0c6fcf4db16653a302fb8bb90eb710791448",
+      "fetched_at": "2026-09-25T20:23:05.345471+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%A1%D0%BE%D1%87%D0%B8+%D0%9F%D1%83%D1%82%D0%B8%D0%BD+%D0%BB%D0%B8%D0%B2%D0%B5%D0%BD%D1%8C&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%A1%D0%BE%D1%87%D0%B8+%D0%9F%D1%83%D1%82%D0%B8%D0%BD+%D0%BB%D0%B8%D0%B2%D0%B5%D0%BD%D1%8C&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 26403,
+      "sha256": "0a339760f047955d45d7501942a9b0c72dc010d0b2c9e8db06ee66e989caa781",
+      "fetched_at": "2026-09-25T20:30:48.381548+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/udar-po-shtabu-khamas-v-dokhe-katar.htm",
+      "final_url": "https://exler.es/blog/udar-po-shtabu-khamas-v-dokhe-katar.htm",
+      "status": 200,
+      "bytes": 400956,
+      "sha256": "f05687c9642d3c7ff50e108dd461cb6282cfb55f4b9fadcbb3c3f38d2a50cdab",
+      "fetched_at": "2026-09-25T20:10:39.785107+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/i-v-moskve-est-chto-to-horoshee.htm",
+      "final_url": "https://exler.es/blog/i-v-moskve-est-chto-to-horoshee.htm",
+      "status": 200,
+      "bytes": 144359,
+      "sha256": "754d65c80aa2daa6d2c67237b15bc945c07b5ea8552519c75591b17efe5439e9",
+      "fetched_at": "2026-09-25T20:30:32.165517+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/khotyat-li-russkiye-voyny-3.htm",
+      "final_url": "https://exler.es/blog/khotyat-li-russkiye-voyny-3.htm",
+      "status": 200,
+      "bytes": 1076024,
+      "sha256": "1459b6f2f81fdb7851c06f4d6196971d73cf4900cdfa46a96bce84c2f260ab18",
+      "fetched_at": "2026-09-25T20:13:22.852433+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D1%81%D0%BD%D0%B5%D0%B3+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D1%81%D0%BD%D0%B5%D0%B3+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 39685,
+      "sha256": "02d2d3980fd78bee1b6b6e6f50726c9ac26ed32783a1f8f35aa29e486ab8914e",
+      "fetched_at": "2026-09-25T20:19:27.029491+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%98%D1%80%D0%B0%D0%BA&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%98%D1%80%D0%B0%D0%BA&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 40204,
+      "sha256": "b9dc8ab751092a9afd4b54924896e2018833471e3039ed469927e955ff386ecf",
+      "fetched_at": "2026-09-25T20:10:08.228988+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/ispanskaya-programistskaya-manyana.htm",
+      "final_url": "https://exler.es/blog/ispanskaya-programistskaya-manyana.htm",
+      "status": 200,
+      "bytes": 288614,
+      "sha256": "e7c3e9b912b97c0537b2616966ba018551d35f452abac76b0a6ae43bc3554bb5",
+      "fetched_at": "2026-09-25T20:26:27.397750+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C+%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C+%D0%BC%D0%BE%D0%B6%D0%BD%D0%BE&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 41350,
+      "sha256": "8133b2a18ca79f5552e634d2f0dec81e5ad28d10334519bfd620ebebec1bd17b",
+      "fetched_at": "2026-09-25T20:09:59.548259+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/rezolyutsiya-vozvrashcheniye-ukrainskikh-detey.htm",
+      "final_url": "https://exler.es/blog/rezolyutsiya-vozvrashcheniye-ukrainskikh-detey.htm",
+      "status": 200,
+      "bytes": 500358,
+      "sha256": "7d1ae71a913f467464b688f66cd36574c9c4313894835bf618fbe559658affd4",
+      "fetched_at": "2026-09-25T20:22:24.032000+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%9A%D0%B0%D1%82%D0%B0%D1%80+%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%9A%D0%B0%D1%82%D0%B0%D1%80+%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 38873,
+      "sha256": "2356dc22b59c38cb359fe039c9f0f29d1875716edf9707fb3eb627ed1f1474d2",
+      "fetched_at": "2026-09-25T20:09:59.657455+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/priznaniye-mirovogo-soobshchestva.htm",
+      "final_url": "https://exler.es/blog/priznaniye-mirovogo-soobshchestva.htm",
+      "status": 200,
+      "bytes": 414419,
+      "sha256": "cd9c4acd8e3a9e6b5d05d734c4bdbb28e6f90058635a5f397a8a4cb700e43bab",
+      "fetched_at": "2026-09-25T20:11:07.445219+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/ispaniya-potryasena-ptichka-zapela.htm",
+      "final_url": "https://exler.es/blog/ispaniya-potryasena-ptichka-zapela.htm",
+      "status": 200,
+      "bytes": 227691,
+      "sha256": "9da8d838d012ec8ed4a39dfd8d475d9854f847df4b1181bbf97515d9209f8c22",
+      "fetched_at": "2026-09-25T20:26:37.865453+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/on-v-domike.htm",
+      "final_url": "https://exler.es/blog/on-v-domike.htm",
+      "status": 200,
+      "bytes": 439446,
+      "sha256": "68b35c802f77ec08b87e0e712e0dc77faf0a8dd4593856fc410e63f14433d376",
+      "fetched_at": "2026-09-25T20:13:12.535050+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/grenlandiya-ikh.htm",
+      "final_url": "https://exler.es/blog/grenlandiya-ikh.htm",
+      "status": 200,
+      "bytes": 924952,
+      "sha256": "e7cd2a11033c49dddbc5652cf7f6f2620853b2d337c3ef777e807dd89a2a239a",
+      "fetched_at": "2026-09-25T20:10:58.466661+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/105-kongressmenov-ssha-prigrozili-oon-posledstviyami.htm",
+      "final_url": "https://exler.es/blog/105-kongressmenov-ssha-prigrozili-oon-posledstviyami.htm",
+      "status": 200,
+      "bytes": 801986,
+      "sha256": "1f54389568f9266f9596c7b664f94125b34e2d55cfbd92c9b739a2945ab7a1dc",
+      "fetched_at": "2026-09-25T20:12:29.664740+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/khoroshaya-mysl-kstati-2.htm",
+      "final_url": "https://exler.es/blog/khoroshaya-mysl-kstati-2.htm",
+      "status": 200,
+      "bytes": 460863,
+      "sha256": "8d7caaf4186c193f9c21fe1fd70f9cae22b74cede714dc52da83e517846e09b2",
+      "fetched_at": "2026-09-25T20:13:03.424653+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/chto-sluchilos-s-krymskom.htm",
+      "final_url": "https://exler.es/blog/chto-sluchilos-s-krymskom.htm",
+      "status": 200,
+      "bytes": 170756,
+      "sha256": "cafdf946ad29e01d768cd052aa0e97cf1e949c878bdab2a24f0395eedaa7b5d8",
+      "fetched_at": "2026-09-25T20:25:59.235424+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/gaishnye-moskovskie-strasti.htm",
+      "final_url": "https://exler.es/blog/gaishnye-moskovskie-strasti.htm",
+      "status": 200,
+      "bytes": 168596,
+      "sha256": "124dc1c093cc40c46d98112ccc00890cd15bb1cd5aeac1a373aae7b800714365",
+      "fetched_at": "2026-09-25T20:33:18.816411+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/manyana.htm",
+      "final_url": "https://exler.es/blog/manyana.htm",
+      "status": 200,
+      "bytes": 208056,
+      "sha256": "b9db6b042e8cbe63dd582cff455f9599348d00ccfd6e21d60c31eabc2499fb60",
+      "fetched_at": "2026-09-25T20:26:19.459212+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BC%D1%83%D1%81%D0%BE%D1%80+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BC%D1%83%D1%81%D0%BE%D1%80+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 40699,
+      "sha256": "cc5f372a4a66028d4663b035733f1de98d40b379a4d68739c7c4075ae24d2d99",
+      "fetched_at": "2026-09-25T20:19:48.966596+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/nu-i-skotina.htm",
+      "final_url": "https://exler.es/blog/nu-i-skotina.htm",
+      "status": 200,
+      "bytes": 1520680,
+      "sha256": "ab34a97982459ec70fa4a773699aaf4fdaff386d963a3f770a69bb1e927772c2",
+      "fetched_at": "2026-09-25T20:22:35.857015+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/slava-sobyaninu-liksutovu-slava.htm",
+      "final_url": "https://exler.es/blog/slava-sobyaninu-liksutovu-slava.htm",
+      "status": 200,
+      "bytes": 262405,
+      "sha256": "7ae8abacd6ff1de51881b7aee2189259664e41eb6285d71b7763fb1ed615783b",
+      "fetched_at": "2026-09-25T20:23:33.939419+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/kak-izrail-provel-operatsiyu-s-peydzherami.htm",
+      "final_url": "https://exler.es/blog/kak-izrail-provel-operatsiyu-s-peydzherami.htm",
+      "status": 200,
+      "bytes": 879413,
+      "sha256": "5b36964c64627bdadfec71916f49c3fb3542e327b136b919cdbda729abcae017",
+      "fetched_at": "2026-09-25T20:10:49.634270+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BC%D1%83%D1%81%D0%BE%D1%80+%D0%9F%D0%B0%D1%80%D0%B8%D0%B6&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BC%D1%83%D1%81%D0%BE%D1%80+%D0%9F%D0%B0%D1%80%D0%B8%D0%B6&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 38584,
+      "sha256": "4363103d8a984bd4091270b2a590022a926321686d44b4767333d806c02eaf94",
+      "fetched_at": "2026-09-25T20:23:28.587511+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/alitet-ukhodit-v-gory.htm",
+      "final_url": "https://exler.es/blog/alitet-ukhodit-v-gory.htm",
+      "status": 200,
+      "bytes": 490574,
+      "sha256": "9c6a6eccd576540241c9c06d7465ee8840e627affcedd38099ce423e6a86a3ec",
+      "fetched_at": "2026-09-25T20:21:29.125001+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/okazyvayetsya-ya-vse-propustil.htm",
+      "final_url": "https://exler.es/blog/okazyvayetsya-ya-vse-propustil.htm",
+      "status": 200,
+      "bytes": 577497,
+      "sha256": "89fcc274804d18caf88efd4b2e32ce52082bc2f202adcc58ac726cb0ff3f5a59",
+      "fetched_at": "2026-09-25T20:12:21.390794+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/assotsiatsiya-vedushchikh-mirovykh-uchenykh.htm",
+      "final_url": "https://exler.es/blog/assotsiatsiya-vedushchikh-mirovykh-uchenykh.htm",
+      "status": 200,
+      "bytes": 315994,
+      "sha256": "c54e9a92319886fbbbb5a25d2b1391a955270f97276a48e04b3e41ca14c45d73",
+      "fetched_at": "2026-09-25T20:10:48.635240+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/v-ispanii-raskryli-bandu-vymogateley.htm",
+      "final_url": "https://exler.es/blog/v-ispanii-raskryli-bandu-vymogateley.htm",
+      "status": 200,
+      "bytes": 198036,
+      "sha256": "e060fb960c8bd24d75cbd8351564cf1d83eb425e16f50c152eb4d0b60ecf3c62",
+      "fetched_at": "2026-09-25T20:24:20.313919+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/v-ramkakh-pozitivnoy-psikhologii.htm",
+      "final_url": "https://exler.es/blog/v-ramkakh-pozitivnoy-psikhologii.htm",
+      "status": 200,
+      "bytes": 567345,
+      "sha256": "fd224f045ccaa517a1d0a40c09d36ba1c040020461d6d008fc205dff4542b325",
+      "fetched_at": "2026-09-25T20:11:07.557900+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/krestnyye-khody-protiv-koronavirusa-v-moskve.htm",
+      "final_url": "https://exler.es/blog/krestnyye-khody-protiv-koronavirusa-v-moskve.htm",
+      "status": 200,
+      "bytes": 153171,
+      "sha256": "90786e2c90c4619c74e983cc54d9f9ad57427047b1d0d13cd2e439e14cdaa412",
+      "fetched_at": "2026-09-25T20:28:38.186158+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B2%D0%B8%D0%B7+%D1%80%D0%BE%D1%81%D1%81%D0%B8%D1%8F%D0%BD%D0%B5&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B2%D0%B8%D0%B7+%D1%80%D0%BE%D1%81%D1%81%D0%B8%D1%8F%D0%BD%D0%B5&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 41682,
+      "sha256": "781120ba0fec6bf42da11b04fb8b3cfcd642eddcce15e3f37d12d3f0c3851f3b",
+      "fetched_at": "2026-09-25T20:10:43.479462+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 41517,
+      "sha256": "b35740c4a1932a7ba0baa64271bd4cbb17e9fd38f943584cd7adca314120cb46",
+      "fetched_at": "2026-09-25T20:09:59.471230+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/novyye-dinamicheskiye-radary-v-ispanii.htm",
+      "final_url": "https://exler.es/blog/novyye-dinamicheskiye-radary-v-ispanii.htm",
+      "status": 200,
+      "bytes": 595329,
+      "sha256": "715cf63cdef27985a282beb9c4caa4ef026710bd2b275a8de353546c3e423c87",
+      "fetched_at": "2026-09-25T20:28:56.414509+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/pokhorony-sardiny.htm",
+      "final_url": "https://exler.es/blog/pokhorony-sardiny.htm",
+      "status": 200,
+      "bytes": 180782,
+      "sha256": "79ac42c5418a115e54ca2053c82ff35be7a0eebabb358b2144db9f5e6501b95c",
+      "fetched_at": "2026-09-25T20:28:47.336090+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/zhara-i-pozhary.htm",
+      "final_url": "https://exler.es/blog/zhara-i-pozhary.htm",
+      "status": 200,
+      "bytes": 128486,
+      "sha256": "915863e4a9564c55be264122c93ba4aaa3fea3d3f10df871dceec981b1075f65",
+      "fetched_at": "2026-09-25T20:22:40.696391+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BF%D0%BE%D1%82%D0%BE%D0%BF&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BF%D0%BE%D1%82%D0%BE%D0%BF&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 39661,
+      "sha256": "abfb9874487c245985ba2d597f86760bfd3f446dcc692b6d15e55d8b0932714c",
+      "fetched_at": "2026-09-25T20:23:06.143811+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/schastlivogo-turisticheskogo-sezona-v-ispanii.htm",
+      "final_url": "https://exler.es/blog/schastlivogo-turisticheskogo-sezona-v-ispanii.htm",
+      "status": 200,
+      "bytes": 730946,
+      "sha256": "2cd8f199af66a3f4bad07675225da1e33846b12db5970bd9adb5ab5e1419d4e4",
+      "fetched_at": "2026-09-25T20:24:10.633347+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BC%D0%B8%D1%80%D0%BD%D1%8B%D0%B5+%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%BD%D0%BE&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BC%D0%B8%D1%80%D0%BD%D1%8B%D0%B5+%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%BD%D0%BE&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 39931,
+      "sha256": "6238dc013d9b159c2e70d9863d5723e364db76fd3c92f537e923103e0b6030f7",
+      "fetched_at": "2026-09-25T20:12:22.539559+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/istoriya-o-tom-kak-vrag-naroda-spas-barselonu-ot-snega.htm",
+      "final_url": "https://exler.es/blog/istoriya-o-tom-kak-vrag-naroda-spas-barselonu-ot-snega.htm",
+      "status": 200,
+      "bytes": 206362,
+      "sha256": "eb83532eb46ef865287b7a9d550aa00c20c2482a5a9b3b89613a20ccb6b7e528",
+      "fetched_at": "2026-09-25T20:23:05.079736+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/kogda-ne-o-chem-pisat.htm",
+      "final_url": "https://exler.es/blog/kogda-ne-o-chem-pisat.htm",
+      "status": 200,
+      "bytes": 295754,
+      "sha256": "3510ca486c4419357b572be7f95b56580038fc1a58fc3f2b236542eacbc9818d",
+      "fetched_at": "2026-09-25T20:22:57.052358+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/s-ponedelnika-vvoditsya-karantin-v-moskve.htm",
+      "final_url": "https://exler.es/blog/s-ponedelnika-vvoditsya-karantin-v-moskve.htm",
+      "status": 200,
+      "bytes": 1088237,
+      "sha256": "096769d49bb4840f32854938c603b381d19c223a5282a42a190fdadf7c1da25d",
+      "fetched_at": "2026-09-25T20:21:18.236443+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/rossiyskiye-agenty-v-ispanii.htm",
+      "final_url": "https://exler.es/blog/rossiyskiye-agenty-v-ispanii.htm",
+      "status": 200,
+      "bytes": 543133,
+      "sha256": "fc055ba25b9dfe6e85b02d12f615f589ddeec03597de6f8fbc9a18331bb55af1",
+      "fetched_at": "2026-09-25T20:24:10.218298+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/pro-irlandiyu.htm",
+      "final_url": "https://exler.es/blog/pro-irlandiyu.htm",
+      "status": 200,
+      "bytes": 377694,
+      "sha256": "7acdda7c92d852fc5f7def9b11ebc4330456c6dac2c01cec8ce9b6e094fbe889",
+      "fetched_at": "2026-09-25T20:11:17.204378+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%93%D0%BE%D0%BB%D0%B0%D0%BD%D1%8B&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%93%D0%BE%D0%BB%D0%B0%D0%BD%D1%8B&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 38259,
+      "sha256": "db4f675003ad96c15f37211aa9acd2e2afdfbf17cac68858d83b939fa6eebda0",
+      "fetched_at": "2026-09-25T20:12:13.151649+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/filosofskoye1.htm",
+      "final_url": "https://exler.es/blog/filosofskoye1.htm",
+      "status": 200,
+      "bytes": 244089,
+      "sha256": "05c6e44e0347f9e6809b166fead01ed1d398ccc1528b5bc473f447e06d652b8b",
+      "fetched_at": "2026-09-25T20:23:41.434726+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/moskva-izbavlyaetsya-ot-trotuarnoj-plitki-i-ot-vydelennyh-polos.htm",
+      "final_url": "https://exler.es/blog/moskva-izbavlyaetsya-ot-trotuarnoj-plitki-i-ot-vydelennyh-polos.htm",
+      "status": 200,
+      "bytes": 161399,
+      "sha256": "37705cd26992f3874787f18a0a346a8dd98813849211922c04bf1480bc6272ca",
+      "fetched_at": "2026-09-25T20:22:02.447779+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/oon-prinyala-rezolyutsiyu.htm",
+      "final_url": "https://exler.es/blog/oon-prinyala-rezolyutsiyu.htm",
+      "status": 200,
+      "bytes": 437834,
+      "sha256": "2d1b3bb87947c98e731df4427404a4bb97f34dfcf1ef1817add55c7cad3ea9d8",
+      "fetched_at": "2026-09-25T20:22:53.981673+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/novosti-ot-glorii.htm",
+      "final_url": "https://exler.es/blog/novosti-ot-glorii.htm",
+      "status": 200,
+      "bytes": 458449,
+      "sha256": "6904a35c5bb3e1b552271679e9aeefb1f82e031383c89e7818a69696c16739ef",
+      "fetched_at": "2026-09-25T20:20:59.961641+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%A1%D0%B5%D0%BC%D0%B0%D0%BD%D0%B0+%D0%A1%D0%B0%D0%BD%D1%82%D0%B0&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%A1%D0%B5%D0%BC%D0%B0%D0%BD%D0%B0+%D0%A1%D0%B0%D0%BD%D1%82%D0%B0&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 40116,
+      "sha256": "2116a081284ceb1f8146a44f761217dcd5f72a4dd806a6691102d2a310413eea",
+      "fetched_at": "2026-09-25T20:26:02.606131+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/khamas-vysoko-tsenit-putina.htm",
+      "final_url": "https://exler.es/blog/khamas-vysoko-tsenit-putina.htm",
+      "status": 200,
+      "bytes": 530937,
+      "sha256": "89344758d6211cd9fe5734ecc356cd49cc3dc864d57207f7e38309783cce66c2",
+      "fetched_at": "2026-09-25T20:11:08.275522+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/nevernyye-predposylki.htm",
+      "final_url": "https://exler.es/blog/nevernyye-predposylki.htm",
+      "status": 200,
+      "bytes": 2906409,
+      "sha256": "07e9c65dd74cd7a1350cf89ce598aa0eb0cd145d0b79a4cb17c8e29d2ace04a4",
+      "fetched_at": "2026-09-25T20:23:25.089081+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/varianty-razvitiya-sobytiy-posle-voyny.htm",
+      "final_url": "https://exler.es/blog/varianty-razvitiya-sobytiy-posle-voyny.htm",
+      "status": 200,
+      "bytes": 1558714,
+      "sha256": "4f347b3034f9c11afbb85fa76c3b4b662378eee1a1098ab2b6167aa99afe6007",
+      "fetched_at": "2026-09-25T20:13:31.523183+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/moskva-5.htm",
+      "final_url": "https://exler.es/blog/moskva-5.htm",
+      "status": 200,
+      "bytes": 87436,
+      "sha256": "10bb70d1bad99c5d9ada784add2e303e3b728c74d9c6c46f728c877007fdbbe6",
+      "fetched_at": "2026-09-25T20:21:38.840875+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/10-veshej-kotorye-ee-besyat-v-ispanii.htm",
+      "final_url": "https://exler.es/blog/10-veshej-kotorye-ee-besyat-v-ispanii.htm",
+      "status": 200,
+      "bytes": 511563,
+      "sha256": "89b55126d4a58e1d1f2efa3d51a8862a87ee39f963292c9f16ac154a0a2630b7",
+      "fetched_at": "2026-09-25T20:26:10.291025+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/uznayete-ritoriku.htm",
+      "final_url": "https://exler.es/blog/uznayete-ritoriku.htm",
+      "status": 200,
+      "bytes": 527865,
+      "sha256": "0d4011e9471c169526387e6ef0bd6005e414eef85adad9d8d95f0f7e8f6e7cc3",
+      "fetched_at": "2026-09-25T20:22:13.383473+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/stereotipy-ob-ispanii-i-ispancah.htm",
+      "final_url": "https://exler.es/blog/stereotipy-ob-ispanii-i-ispancah.htm",
+      "status": 200,
+      "bytes": 190008,
+      "sha256": "7ee6d44a7befc137e4670850796ca16461d0be6b0fe065c9546eb729cea68156",
+      "fetched_at": "2026-09-25T20:21:28.803538+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/comments/istoriya-s-linor-goralik-i-tartusskim-universitetom.htm",
+      "final_url": "https://exler.es/blog/istoriya-s-linor-goralik-i-tartusskim-universitetom.htm",
+      "status": 200,
+      "bytes": 1143615,
+      "sha256": "2ac94bd8acf105f5b42e8efd503500c2d5c8e166f8ff857fe43e4016bbfbdc47",
+      "fetched_at": "2026-09-25T20:44:26.002532+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F+%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0+%D0%BD%D0%B0%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F+%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%B0+%D0%BD%D0%B0%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 29441,
+      "sha256": "8fa63c4eeead293f59d8dd080a2521fc8a4fcb4cb0f83bd39f20a3a8637d4ac1",
+      "fetched_at": "2026-09-25T20:30:56.750138+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%93%D1%80%D0%B5%D0%BD%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%93%D1%80%D0%B5%D0%BD%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 38989,
+      "sha256": "a07b7ea75303329c6dc8c88b4044cca8695309bea0a80502f3e40b7b128aa8c2",
+      "fetched_at": "2026-09-25T20:10:17.307693+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D1%88%D1%82%D1%80%D0%B0%D1%84+%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D1%88%D1%82%D1%80%D0%B0%D1%84+%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 41348,
+      "sha256": "c021e1535e2e6fe1121b8ad6ed7f8be71b89c044fc4987aade6822f80bcbf012",
+      "fetched_at": "2026-09-25T20:23:49.223725+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/pochemu-ispaniya-po-zabolevshim-uzhe-peregnala-italiyu.htm",
+      "final_url": "https://exler.es/blog/pochemu-ispaniya-po-zabolevshim-uzhe-peregnala-italiyu.htm",
+      "status": 200,
+      "bytes": 685842,
+      "sha256": "4fd94b1988773be032987b72ceb8a8d08faf132186f8e94f31a578c98c7851cf",
+      "fetched_at": "2026-09-25T20:22:49.325350+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D1%83%D0%B1%D0%B8%D0%B9%D1%81%D1%82%D0%B2%D0%BE+%D0%94%D1%83%D0%B3%D0%B8%D0%BD%D0%BE%D0%B9&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D1%83%D0%B1%D0%B8%D0%B9%D1%81%D1%82%D0%B2%D0%BE+%D0%94%D1%83%D0%B3%D0%B8%D0%BD%D0%BE%D0%B9&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 39196,
+      "sha256": "9e0974c7dfed2000818496714eddf1bbb4f7d21e44b6ac8ca1fca6c7c02f240c",
+      "fetched_at": "2026-09-25T20:12:28.063433+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/ni-figa-sebe-snegopadik.htm",
+      "final_url": "https://exler.es/blog/ni-figa-sebe-snegopadik.htm",
+      "status": 200,
+      "bytes": 121448,
+      "sha256": "2d1c7429b3d09bee1d0d7af92b919c945e7c6fbca30e30ed0ae978bcf166de58",
+      "fetched_at": "2026-09-25T20:26:09.682128+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/vzryv-damby-kakhovskoy-ges.htm",
+      "final_url": "https://exler.es/blog/vzryv-damby-kakhovskoy-ges.htm",
+      "status": 200,
+      "bytes": 2018291,
+      "sha256": "f4c4c3c74b237b490913e07b7a2bc86657c3cdf717adba4b00244be916e770da",
+      "fetched_at": "2026-09-25T20:24:12.130603+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/naves-nad-gidroproyektom-v-moskve.htm",
+      "final_url": "https://exler.es/blog/naves-nad-gidroproyektom-v-moskve.htm",
+      "status": 200,
+      "bytes": 263120,
+      "sha256": "4b108f9df0eafb855fb1f430bec7760c6a593e4141c32eb19b9f8af2cc6de474",
+      "fetched_at": "2026-09-25T20:21:50.792407+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/kitaec-o-rossii.htm",
+      "final_url": "https://exler.es/blog/kitaec-o-rossii.htm",
+      "status": 200,
+      "bytes": 236926,
+      "sha256": "480e25ef68a76aaa305281c21c44b5966ba65e6605ac8c48a92b8679b98f7951",
+      "fetched_at": "2026-09-25T20:23:24.223325+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%9C%D0%B0%D0%B4%D1%83%D1%80%D0%BE+%D0%BC%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D0%B5+%D0%BF%D1%80%D0%B0%D0%B2%D0%BE&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%9C%D0%B0%D0%B4%D1%83%D1%80%D0%BE+%D0%BC%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D0%B5+%D0%BF%D1%80%D0%B0%D0%B2%D0%BE&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 29383,
+      "sha256": "b3f8341e2725823a4e81308d61136933936d2f9e3b30d14efddb919680ab800b",
+      "fetched_at": "2026-09-25T20:23:57.369905+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/mudryy-rukovoditel.htm",
+      "final_url": "https://exler.es/blog/mudryy-rukovoditel.htm",
+      "status": 200,
+      "bytes": 235665,
+      "sha256": "3c8f581011f1ea72f8de42541459c0c5e274533dd01c75f6cb6d4881cc03e9f9",
+      "fetched_at": "2026-09-25T20:19:45.251355+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B1%D0%BB%D1%8D%D0%BA%D0%B0%D1%83%D1%82+%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B1%D0%BB%D1%8D%D0%BA%D0%B0%D1%83%D1%82+%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 34767,
+      "sha256": "5f5cc7e76d7a89c9453028c9b0141016fd3f5fa8e09595632784ab51b4ecb6d8",
+      "fetched_at": "2026-09-25T20:19:37.247181+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%98%D1%80%D0%B0%D0%BD+%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%98%D1%80%D0%B0%D0%BD+%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 41403,
+      "sha256": "c1af116ef30ebbd11c7eb4bb66e65e70d147771309cc197f326f8cf8d11a064d",
+      "fetched_at": "2026-09-25T20:10:08.104346+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/uchenye-dokazali-silu-krestnogo-znameniya.htm",
+      "final_url": "https://exler.es/blog/uchenye-dokazali-silu-krestnogo-znameniya.htm",
+      "status": 200,
+      "bytes": 308949,
+      "sha256": "a4a163a7e5461462fdc68ed69ea4a0e43e49cb95f0dfd1a322cb190c642b8c08",
+      "fetched_at": "2026-09-25T20:28:47.459256+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/situatsiya-s-vizami-dlya-rossiyan-v-yes.htm",
+      "final_url": "https://exler.es/blog/situatsiya-s-vizami-dlya-rossiyan-v-yes.htm",
+      "status": 200,
+      "bytes": 403550,
+      "sha256": "b446ce9d43c8d71d2e60c22ba9b5169a4ee0c541f43fa4eefc1afdefec9bc0e8",
+      "fetched_at": "2026-09-25T20:28:30.294245+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/natsionalnyy-prazdnik-ispanii-2.htm",
+      "final_url": "https://exler.es/blog/natsionalnyy-prazdnik-ispanii-2.htm",
+      "status": 200,
+      "bytes": 282811,
+      "sha256": "639df84d06586b510d94b33a859232211d2bceccbd2c796eb17c3fd46f1a05f5",
+      "fetched_at": "2026-09-25T20:22:40.989176+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/shtab-khamas-pod-zdaniyem-oon-v-gaze.htm",
+      "final_url": "https://exler.es/blog/shtab-khamas-pod-zdaniyem-oon-v-gaze.htm",
+      "status": 200,
+      "bytes": 482708,
+      "sha256": "60b208dbf602bdedd0f49c3a6efec37c27920886ac1e4247ee2a0b929ecf2ffd",
+      "fetched_at": "2026-09-25T20:11:59.745173+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/rf-pomogayet-iranu-atakovat-amerikantsev.htm",
+      "final_url": "https://exler.es/blog/rf-pomogayet-iranu-atakovat-amerikantsev.htm",
+      "status": 200,
+      "bytes": 462291,
+      "sha256": "6270270a0a7a86257665ccb246f6eb5b0c8890f8bbcc54ee6754c1a05db14b54",
+      "fetched_at": "2026-09-25T20:10:58.080539+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D1%88%D1%82%D1%80%D0%B0%D1%84%D1%8B+%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D1%88%D1%82%D1%80%D0%B0%D1%84%D1%8B+%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 41411,
+      "sha256": "8633ee0a0ee78305ac629308075fd384ac3354d63dd8789da39aa02108daa870",
+      "fetched_at": "2026-09-25T20:26:14.136745+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D1%81%D0%BF%D0%BE%D1%80%D1%82%D1%81%D0%BC%D0%B5%D0%BD%D1%8B+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D1%81%D0%BF%D0%BE%D1%80%D1%82%D1%81%D0%BC%D0%B5%D0%BD%D1%8B+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 39844,
+      "sha256": "0eadb79c0118a90c94e71e72561d3c338901b88c29e3d07013b7a6ca12900182",
+      "fetched_at": "2026-09-25T20:26:14.203358+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/samyy-krupnyy-raketnyy-udar-po-kiyevu.htm",
+      "final_url": "https://exler.es/blog/samyy-krupnyy-raketnyy-udar-po-kiyevu.htm",
+      "status": 200,
+      "bytes": 2167827,
+      "sha256": "5a9e79e8c2b44b42bec7a191ecaecf32197ef6010a07c274b61d5dd0fb228bbe",
+      "fetched_at": "2026-09-25T20:11:59.797713+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/navigator-i-smertelnaya-trassa.htm",
+      "final_url": "https://exler.es/blog/navigator-i-smertelnaya-trassa.htm",
+      "status": 200,
+      "bytes": 630565,
+      "sha256": "733431c0ae13fff088783b51631aa22de1b28a3f4c990a71054f6e89508dafd2",
+      "fetched_at": "2026-09-25T20:21:29.322098+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/iz-za-chego-proizoshel-blekaut-v-ispanii.htm",
+      "final_url": "https://exler.es/blog/iz-za-chego-proizoshel-blekaut-v-ispanii.htm",
+      "status": 200,
+      "bytes": 463534,
+      "sha256": "ba00153a16ec44387cb25f9e6c08593466dfe2f0312a580fa6c1965c62d7adbf",
+      "fetched_at": "2026-09-25T20:22:23.701066+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%95%D0%B2%D1%80%D0%BE%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5+%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%95%D0%B2%D1%80%D0%BE%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5+%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 39184,
+      "sha256": "b137a7e443fff9e95be3991af42c830129189151cb4e93b81cbd633d9adfc057",
+      "fetched_at": "2026-09-25T20:26:21.846627+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%9C%D0%A3%D0%A1&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%9C%D0%A3%D0%A1&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 39528,
+      "sha256": "1a4441aca18902ebf3f3ea6265a3481f1fbb70a7c60bf87f63fa38ff0a2522bd",
+      "fetched_at": "2026-09-25T20:12:05.737950+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BB%D1%83%D0%B6%D0%B0&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BB%D1%83%D0%B6%D0%B0&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 39810,
+      "sha256": "c1e8ffee92fdfa601b5872f7e3b6f38a140e7db93f1890b9869ace5ea5cb14c4",
+      "fetched_at": "2026-09-25T20:23:06.206222+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/order-mus.htm",
+      "final_url": "https://exler.es/blog/order-mus.htm",
+      "status": 200,
+      "bytes": 650258,
+      "sha256": "e7956432ea8c3f03340a9b4b25a597728fac9dd2f9a8b75c727dd98a7863aa6d",
+      "fetched_at": "2026-09-25T20:12:30.123889+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/ekologicheski-chistyj-pozhar.htm",
+      "final_url": "https://exler.es/blog/ekologicheski-chistyj-pozhar.htm",
+      "status": 200,
+      "bytes": 131877,
+      "sha256": "cda1cfe489b1a7a81766f603e4da673a9fbb072b374417a2f508a63cf7b552ac",
+      "fetched_at": "2026-09-25T20:26:37.745435+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/v-ispanii-gde-to-v-lesu-bychok-sdokh.htm",
+      "final_url": "https://exler.es/blog/v-ispanii-gde-to-v-lesu-bychok-sdokh.htm",
+      "status": 200,
+      "bytes": 483108,
+      "sha256": "b379a71e6ac18a04a812dffa3f76c70b9828fc059f213f5d853521154e6d1d94",
+      "fetched_at": "2026-09-25T20:24:20.865859+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BF%D0%BE%D0%B6%D0%B0%D1%80%D1%8B+%D0%A1%D0%B8%D0%B1%D0%B8%D1%80%D1%8C&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BF%D0%BE%D0%B6%D0%B0%D1%80%D1%8B+%D0%A1%D0%B8%D0%B1%D0%B8%D1%80%D1%8C&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 31334,
+      "sha256": "09d414e8858e5dbb3754a435588f22de08b863257097f6403f4434e943201bc2",
+      "fetched_at": "2026-09-25T20:19:37.381308+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/trezvye-dedy-morozy-i-quot-goryachie-quot-snegurki-pozdravyat-vas-i-vashih-detej-v-moskve-i-pitere.htm",
+      "final_url": "https://exler.es/blog/trezvye-dedy-morozy-i-quot-goryachie-quot-snegurki-pozdravyat-vas-i-vashih-detej-v-moskve-i-pitere.htm",
+      "status": 200,
+      "bytes": 280576,
+      "sha256": "fd49db6563a6cff2a4dca4cf9227dc1ec1e06cbbf1f61526f84ae930207d5f44",
+      "fetched_at": "2026-09-25T20:21:50.557969+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/nazad-v-sovdep.htm",
+      "final_url": "https://exler.es/blog/nazad-v-sovdep.htm",
+      "status": 200,
+      "bytes": 370757,
+      "sha256": "63e2d8a93835c5fd6ab462b070717b3837253177acd7c285212b561c78a05c3a",
+      "fetched_at": "2026-09-25T20:22:31.509942+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/izrail-razbombil-yadernyye-obyekty-irana.htm",
+      "final_url": "https://exler.es/blog/izrail-razbombil-yadernyye-obyekty-irana.htm",
+      "status": 200,
+      "bytes": 694266,
+      "sha256": "edd1e1a347962c5170c5b65b6c1323ad42f5df1100902cc4a0ec2350ea72704b",
+      "fetched_at": "2026-09-25T20:10:39.590917+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/genialnaya-zhe-ideya.htm",
+      "final_url": "https://exler.es/blog/genialnaya-zhe-ideya.htm",
+      "status": 200,
+      "bytes": 358512,
+      "sha256": "ef0131210f22ed1735d8dd74eef820a72dac16f712baa57928947839894b6a33",
+      "fetched_at": "2026-09-25T20:23:41.549005+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/comments/shtab-khamas-pod-zdaniyem-oon-v-gaze.htm",
+      "final_url": "https://exler.es/blog/shtab-khamas-pod-zdaniyem-oon-v-gaze.htm",
+      "status": 200,
+      "bytes": 482638,
+      "sha256": "b557f6aea7e0cacab070a9ef136810ee258ecade02f949694b7fa943b317fc61",
+      "fetched_at": "2026-09-25T20:44:25.200379+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BC%D0%B8%D1%80%D0%BD%D1%8B%D0%B5+%D0%B6%D0%B8%D1%82%D0%B5%D0%BB%D0%B8&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BC%D0%B8%D1%80%D0%BD%D1%8B%D0%B5+%D0%B6%D0%B8%D1%82%D0%B5%D0%BB%D0%B8&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 41106,
+      "sha256": "47af93fcd2c2b5c36b1cce90cfcd29dbc291b85ae9938d4dfd135c64dacd1b91",
+      "fetched_at": "2026-09-25T20:10:33.668335+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/svyashchennaya-borba-chinovnikov.htm",
+      "final_url": "https://exler.es/blog/svyashchennaya-borba-chinovnikov.htm",
+      "status": 200,
+      "bytes": 537319,
+      "sha256": "46b7e33cb25c3b5f6fa874dedb2dc17ebf1286a16147554ee3589f4cad64a1b5",
+      "fetched_at": "2026-09-25T20:24:29.287332+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BB%D0%B8%D0%B2%D0%BD%D0%B5%D0%B2%D0%BA%D0%B0&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BB%D0%B8%D0%B2%D0%BD%D0%B5%D0%B2%D0%BA%D0%B0&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 27944,
+      "sha256": "96435bccbc100842a4ca211d262d93dd686fbe9c8213f4b3ee8bd17ee0910764",
+      "fetched_at": "2026-09-25T20:19:17.993520+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/strashnyy-pozhar-v-valensii.htm",
+      "final_url": "https://exler.es/blog/strashnyy-pozhar-v-valensii.htm",
+      "status": 200,
+      "bytes": 523964,
+      "sha256": "df54f02d07bd75884c69bf1f301b26e2d13bf85d17af835acdca7b4d3f7ee346",
+      "fetched_at": "2026-09-25T20:20:03.339573+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/kommentirovat-nechego.htm",
+      "final_url": "https://exler.es/blog/kommentirovat-nechego.htm",
+      "status": 200,
+      "bytes": 479048,
+      "sha256": "e77dc9a87ebf48a12ca49b8149eca1a30c29129da297d909d7dfee7b3fa0f663",
+      "fetched_at": "2026-09-25T20:19:45.102074+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/mezhdunarodnyy-sud-oon.htm",
+      "final_url": "https://exler.es/blog/mezhdunarodnyy-sud-oon.htm",
+      "status": 200,
+      "bytes": 603807,
+      "sha256": "cc322d9817a05ea5d31dedadd055c6d73521dcd72c60b56491df85285c5da298",
+      "fetched_at": "2026-09-25T20:13:12.394086+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/sozdaniye-obshchestva-novogo-tipa.htm",
+      "final_url": "https://exler.es/blog/sozdaniye-obshchestva-novogo-tipa.htm",
+      "status": 200,
+      "bytes": 273480,
+      "sha256": "54cd000e61fa915645591ce99463ed5578e26be49c1a6810d6ff4805a91c9185",
+      "fetched_at": "2026-09-25T20:26:47.384516+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/vot-eto-pravilno.htm",
+      "final_url": "https://exler.es/blog/vot-eto-pravilno.htm",
+      "status": 200,
+      "bytes": 294782,
+      "sha256": "ef32575cc8ff0da082a3897e78d5eda507264fff0629a38c0d1115d53c97e583",
+      "fetched_at": "2026-09-25T20:12:20.468947+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BB%D1%83%D0%B6%D0%B8+%D0%9C%D0%BE%D1%80%D0%B4%D0%BE%D1%80&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BB%D1%83%D0%B6%D0%B8+%D0%9C%D0%BE%D1%80%D0%B4%D0%BE%D1%80&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 39138,
+      "sha256": "38ef88453d04fbd9bc064d260111d7b2d8e0a9c8d1aff927799783b1368b2f3e",
+      "fetched_at": "2026-09-25T20:26:22.020912+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D1%81%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D0%BD%D0%BE%D0%B9+%D1%80%D0%B5%D0%B6%D0%B8%D0%BC&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D1%81%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D0%BD%D0%BE%D0%B9+%D1%80%D0%B5%D0%B6%D0%B8%D0%BC&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 41173,
+      "sha256": "b2016f4cf6a7079d1ca0efcd88119252e7aa80104e32d4d4661b0e3553ae66ec",
+      "fetched_at": "2026-09-25T20:26:14.203286+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/pochemu-rastut-ceny-na-zhestkie-diski.htm",
+      "final_url": "https://exler.es/blog/pochemu-rastut-ceny-na-zhestkie-diski.htm",
+      "status": 200,
+      "bytes": 197387,
+      "sha256": "ae6a9d83b6aaf6b28077c1761f9ee1daed13d6b55911dcad6a72128153ea4671",
+      "fetched_at": "2026-09-25T20:23:49.271815+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE+%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B8+%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE+%D0%B4%D0%BE%D1%80%D0%BE%D0%B3%D0%B8+%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 39691,
+      "sha256": "e27779b16833f6bfaad6884d24abd64e304e57aa30e80ee27d0f630349a42f44",
+      "fetched_at": "2026-09-25T20:30:56.698992+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/navstrechu-vyboram.htm",
+      "final_url": "https://exler.es/blog/navstrechu-vyboram.htm",
+      "status": 200,
+      "bytes": 432218,
+      "sha256": "9948f7cf488055f779822d36b92aec9ccccaec9c26bd0232875dcbe1aa1f786b",
+      "fetched_at": "2026-09-25T20:23:41.580148+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%9B%D0%B8%D0%B2%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%9B%D0%B8%D0%B2%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 39862,
+      "sha256": "c0b8a0395ea9e7592e98851130ad0f7b2a2b79b78c4abf2266df516cf30c754e",
+      "fetched_at": "2026-09-25T20:10:08.092485+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D1%80%D1%83%D1%81%D0%BE%D1%84%D0%BE%D0%B1%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D1%80%D1%83%D1%81%D0%BE%D1%84%D0%BE%D0%B1%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 39431,
+      "sha256": "6deab2fc4a98f0e78dbffa40f220fa4ea303c5b28f5086601e4df1238f840f0a",
+      "fetched_at": "2026-09-25T20:10:17.424991+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5+%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B5&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B5+%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B5&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 41603,
+      "sha256": "b483b7ddf70e8389ab906c4207b1ec90e8a10182f6df537e6c46fe6c10971b56",
+      "fetched_at": "2026-09-25T20:10:25.935632+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/dikaya-istoriya-v-ispanii.htm",
+      "final_url": "https://exler.es/blog/dikaya-istoriya-v-ispanii.htm",
+      "status": 200,
+      "bytes": 664409,
+      "sha256": "f351e2bb1dfdd570d26438b6774815db4896899577ef771c094f94a09a48cffb",
+      "fetched_at": "2026-09-25T20:22:49.756047+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/korol-i-koroleva-ispanii-v-valensii.htm",
+      "final_url": "https://exler.es/blog/korol-i-koroleva-ispanii-v-valensii.htm",
+      "status": 200,
+      "bytes": 246389,
+      "sha256": "547f3733b00f3068dcb2768b2ecd00fb0e7e709d1f867fb7c094bc407b0dcbb0",
+      "fetched_at": "2026-09-25T20:20:59.716702+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%A1%D0%B8%D1%80%D0%B8%D1%8F+%D0%9A%D1%80%D1%8B%D0%BC&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%A1%D0%B8%D1%80%D0%B8%D1%8F+%D0%9A%D1%80%D1%8B%D0%BC&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 39115,
+      "sha256": "2f739e9cd19616b1906da874d477a7ad48ec4e1dbfbbe457c3893c2ed1cb411a",
+      "fetched_at": "2026-09-25T20:23:49.065505+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/lev-shlosberg-negodue.htm",
+      "final_url": "https://exler.es/blog/lev-shlosberg-negodue.htm",
+      "status": 200,
+      "bytes": 604367,
+      "sha256": "77f7898be9b554303197214a542a6bdc0ab5555e5cec1ae94aee4406990685dc",
+      "fetched_at": "2026-09-25T20:22:44.469095+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F+%D1%82%D0%B5%D1%80%D1%80%D0%BE%D1%80%D0%B8%D1%81%D1%82&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F+%D1%82%D0%B5%D1%80%D1%80%D0%BE%D1%80%D0%B8%D1%81%D1%82&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 41267,
+      "sha256": "74a87563d3e0d2f4a5b671b04a11b9c5aa81c2787f08c675f11b425b403f9171",
+      "fetched_at": "2026-09-25T20:12:13.365901+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D1%82%D0%B0%D1%80%D0%B0%D0%BA%D0%B0%D0%BD%D1%8B+%D0%9A%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%BD%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D1%82%D0%B0%D1%80%D0%B0%D0%BA%D0%B0%D0%BD%D1%8B+%D0%9A%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%BD%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 28167,
+      "sha256": "050b9dca26adb97225c8bfcb5b059f6a1fbba41d78b9adc5688856eea3626840",
+      "fetched_at": "2026-09-25T20:30:48.174071+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/printsipialnyy-chelovek.htm",
+      "final_url": "https://exler.es/blog/printsipialnyy-chelovek.htm",
+      "status": 200,
+      "bytes": 641325,
+      "sha256": "d03357647f762135f452b1ba0bfc2fe1344b5d581dc864f25df1d79956031266",
+      "fetched_at": "2026-09-25T20:28:19.848142+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%9C%D0%B0%D0%B4%D1%83%D1%80%D0%BE&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%9C%D0%B0%D0%B4%D1%83%D1%80%D0%BE&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 38509,
+      "sha256": "6f22047e050ced664db5c0ea24b74cf3ae1cfb745b45c443d04e2d11c7054832",
+      "fetched_at": "2026-09-25T20:10:17.345658+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/i-snova-diskriminatsiya-rossiyan-v-yes.htm",
+      "final_url": "https://exler.es/blog/i-snova-diskriminatsiya-rossiyan-v-yes.htm",
+      "status": 200,
+      "bytes": 1455007,
+      "sha256": "04c2347125c48418fe3ea14d95ff3aa56fbaaa9ab25b8afa06b5f6f42338af94",
+      "fetched_at": "2026-09-25T20:28:20.706466+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/griby-v-katalonii-i-ispanii.htm",
+      "final_url": "https://exler.es/blog/griby-v-katalonii-i-ispanii.htm",
+      "status": 200,
+      "bytes": 700425,
+      "sha256": "a232cc7604494e7ca93edb760252f4c80a4f7fc580e9a7705a214b9d534d38f8",
+      "fetched_at": "2026-09-25T20:22:32.342456+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/general-kellog-o-ramkakh-prilichiy.htm",
+      "final_url": "https://exler.es/blog/general-kellog-o-ramkakh-prilichiy.htm",
+      "status": 200,
+      "bytes": 906598,
+      "sha256": "72f64e237121ec52c9710b4c29b53c70334c94805ebc278464897e768ef0e9f8",
+      "fetched_at": "2026-09-25T20:22:35.437614+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BD%D0%B0%D0%B2%D0%BE%D0%B4%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5+%D0%A1%D0%BE%D1%87%D0%B8&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BD%D0%B0%D0%B2%D0%BE%D0%B4%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5+%D0%A1%D0%BE%D1%87%D0%B8&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 31476,
+      "sha256": "165cf39cabc07e21a37751051f4ffd24e16f64c75782e2b64d789f4e88510635",
+      "fetched_at": "2026-09-25T20:19:17.937525+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D1%81%D1%83%D0%B2%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D1%82%D0%B5%D1%82+%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D1%81%D1%83%D0%B2%D0%B5%D1%80%D0%B5%D0%BD%D0%B8%D1%82%D0%B5%D1%82+%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8C&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 37422,
+      "sha256": "286fa9609d4f41a5ca448b1984b432fa3f1e3c86b30520cdee34e6545fb683b6",
+      "fetched_at": "2026-09-25T20:12:22.063741+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/pochemu-zataplivaet-moskvu.htm",
+      "final_url": "https://exler.es/blog/pochemu-zataplivaet-moskvu.htm",
+      "status": 200,
+      "bytes": 169085,
+      "sha256": "08ea4a90ef491d64b71caaf5b5df3da50e46d609f204a97a1097867078af6287",
+      "fetched_at": "2026-09-25T20:25:59.518087+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/kak-snimali-krestnogo-ottsa.htm",
+      "final_url": "https://exler.es/blog/kak-snimali-krestnogo-ottsa.htm",
+      "status": 200,
+      "bytes": 190315,
+      "sha256": "dcb440d9d6f0cf20f31d7f305d49059df29e6ed8242f0d0bdffc4248c638d923",
+      "fetched_at": "2026-09-25T20:28:38.272998+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/ne-takaya-uzh-i-manyana.htm",
+      "final_url": "https://exler.es/blog/ne-takaya-uzh-i-manyana.htm",
+      "status": 200,
+      "bytes": 113373,
+      "sha256": "9d9d6b84522c31596fee4fa98524fc27b6d812f0ded18556595d80c6785fee9b",
+      "fetched_at": "2026-09-25T20:26:19.241530+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/foto-zakhvachennogo-maduro.htm",
+      "final_url": "https://exler.es/blog/foto-zakhvachennogo-maduro.htm",
+      "status": 200,
+      "bytes": 266814,
+      "sha256": "1df827c7637d3bb4c2f273ac223ef73365cd5ef0bfe0df24be53a0474db07f08",
+      "fetched_at": "2026-09-25T20:22:23.653013+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/solnechnyye-batarei-v-ispanii.htm",
+      "final_url": "https://exler.es/blog/solnechnyye-batarei-v-ispanii.htm",
+      "status": 200,
+      "bytes": 637923,
+      "sha256": "0e9d6d485db9419a59c5533e6b84d8042292f67078663c4de0e2776f64d43ee2",
+      "fetched_at": "2026-09-25T20:19:45.410295+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/nu-vse-pozhary-nemedlenno-otstupyat.htm",
+      "final_url": "https://exler.es/blog/nu-vse-pozhary-nemedlenno-otstupyat.htm",
+      "status": 200,
+      "bytes": 389360,
+      "sha256": "dc17922c15d508b87fbf12655d9a137d4b4c95e658cc6e6cf563a55b0a240beb",
+      "fetched_at": "2026-09-25T20:20:19.530601+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/zhdat-li-povtoreniya-proshlogodnih-lesnyh-pozharov.htm",
+      "final_url": "https://exler.es/blog/zhdat-li-povtoreniya-proshlogodnih-lesnyh-pozharov.htm",
+      "status": 200,
+      "bytes": 101555,
+      "sha256": "ba3e5572eded6f9d538c7a188de834043630dac55a23fd06db43e150a934d89b",
+      "fetched_at": "2026-09-25T20:26:37.860487+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/hrenovaciya-v-moskve.htm",
+      "final_url": "https://exler.es/blog/hrenovaciya-v-moskve.htm",
+      "status": 200,
+      "bytes": 193571,
+      "sha256": "9e8f278cdf2205e8385e71a11b962b12d1b77511e71fd53eac43af2bb4263f12",
+      "fetched_at": "2026-09-25T20:21:08.592679+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/a-net-nikakikh-problem.htm",
+      "final_url": "https://exler.es/blog/a-net-nikakikh-problem.htm",
+      "status": 200,
+      "bytes": 288233,
+      "sha256": "5f085723f147e534b8b822a985ac2d27d40bd21d67b89b12ded90b89f0a93c69",
+      "fetched_at": "2026-09-25T20:20:19.300719+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/chisto-medicinskij-vopros.htm",
+      "final_url": "https://exler.es/blog/chisto-medicinskij-vopros.htm",
+      "status": 200,
+      "bytes": 218043,
+      "sha256": "4b7eee6358c0fb98b94482b54aa18abb4f6f5b7884bd069a01baa9264e1dcab1",
+      "fetched_at": "2026-09-25T20:20:59.475636+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/ugroza-nevydachi-shengenskikh-viz-rossiyanam.htm",
+      "final_url": "https://exler.es/blog/ugroza-nevydachi-shengenskikh-viz-rossiyanam.htm",
+      "status": 200,
+      "bytes": 1060493,
+      "sha256": "9d44b9a9210f7092a4bfaec4cd5a3f93c22e2ba9e049221830483f9b83ab8cc0",
+      "fetched_at": "2026-09-25T20:28:31.152321+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/antivoyennyy-marsh-v-berline.htm",
+      "final_url": "https://exler.es/blog/antivoyennyy-marsh-v-berline.htm",
+      "status": 200,
+      "bytes": 1135074,
+      "sha256": "db4c045cae221ad74af0c1144a96d7e82a271105fbe790608a992be7e3233f3c",
+      "fetched_at": "2026-09-25T20:13:40.253013+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/comments/vystupleniye-senatora-kloda-malyure.htm",
+      "final_url": "https://exler.es/blog/vystupleniye-senatora-kloda-malyure.htm",
+      "status": 200,
+      "bytes": 1020462,
+      "sha256": "d8cb6e70c71ca83d6a359acc5ef8e9f3d8bd308ee2594c85fac1682b29ee2065",
+      "fetched_at": "2026-09-25T20:44:25.414526+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/vse-chto-vy-hoteli-znat-o-krestnom-hode.htm",
+      "final_url": "https://exler.es/blog/vse-chto-vy-hoteli-znat-o-krestnom-hode.htm",
+      "status": 200,
+      "bytes": 155224,
+      "sha256": "8aac688a2ffda10893b86620942215efb856a5e5d854df9cf0c2419d0991f503",
+      "fetched_at": "2026-09-25T20:28:37.973661+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/baba-yulya-obvinyayet.htm",
+      "final_url": "https://exler.es/blog/baba-yulya-obvinyayet.htm",
+      "status": 200,
+      "bytes": 1492794,
+      "sha256": "83bd28dccfe9d98b46706406c602f5624f1607cbe5b3948943f146afabb3e210",
+      "fetched_at": "2026-09-25T20:13:41.542293+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/operatsiya-den-pokayaniya-izrailya-protiv-irana.htm",
+      "final_url": "https://exler.es/blog/operatsiya-den-pokayaniya-izrailya-protiv-irana.htm",
+      "status": 200,
+      "bytes": 373664,
+      "sha256": "49a48e05cdf4babaa04097bd1d8450fb4b563c3be7401829ac2a454e7364feff",
+      "fetched_at": "2026-09-25T20:22:44.116733+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B7%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0+%D0%A1%D0%BE%D1%87%D0%B8&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B7%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0+%D0%A1%D0%BE%D1%87%D0%B8&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 31425,
+      "sha256": "99b8738b5b1b1f42b0b375167f31bb50121dc9917c1087853d988ae36da9b9d4",
+      "fetched_at": "2026-09-25T20:23:36.675690+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0+%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0+%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 41172,
+      "sha256": "8bc64c0bb722e147ee5bfcd195f0c29e5fec2d07fef30f31d60862e1d1b964df",
+      "fetched_at": "2026-09-25T20:23:36.620876+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BF%D0%B5%D0%B9%D0%B4%D0%B6%D0%B5%D1%80%D1%8B&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BF%D0%B5%D0%B9%D0%B4%D0%B6%D0%B5%D1%80%D1%8B&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 39679,
+      "sha256": "06a7a64d719fc3b2eea7dfaaf505b2ba505bd9d0b7c03a50f8e7ae1bb875636c",
+      "fetched_at": "2026-09-25T20:10:33.986233+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D1%88%D1%82%D1%80%D0%B0%D1%84+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D1%88%D1%82%D1%80%D0%B0%D1%84+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 41202,
+      "sha256": "efdaf6dbcc41d897d5588bd7e4d5bd6778b09187f7c36b08ae29ade33a964d2c",
+      "fetched_at": "2026-09-25T20:23:48.867442+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%9D%D0%90%D0%A2%D0%9E+%D0%AE%D0%B3%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%9D%D0%90%D0%A2%D0%9E+%D0%AE%D0%B3%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 36805,
+      "sha256": "5e62235109e6243a904025055c429414139693ef438e6d659222e190c738d504",
+      "fetched_at": "2026-09-25T20:12:22.457706+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/teper-v-ispanii-vse-kak-u-lyudey.htm",
+      "final_url": "https://exler.es/blog/teper-v-ispanii-vse-kak-u-lyudey.htm",
+      "status": 200,
+      "bytes": 691836,
+      "sha256": "f9e434fb309ef4dbdb5cf6aba7398eb01996b74dd05e81f2a180072960b5653b",
+      "fetched_at": "2026-09-25T20:24:29.510329+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/v-ispanii-realnaya-zadnica-blagodarya-es.htm",
+      "final_url": "https://exler.es/blog/v-ispanii-realnaya-zadnica-blagodarya-es.htm",
+      "status": 200,
+      "bytes": 409101,
+      "sha256": "9e8059c51630b0fc2b3172072bb6324f063a3ee763ad0326392a1d0f330baf08",
+      "fetched_at": "2026-09-25T20:26:37.963656+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/dorozhnoe.htm",
+      "final_url": "https://exler.es/blog/dorozhnoe.htm",
+      "status": 200,
+      "bytes": 136127,
+      "sha256": "fe56eb95f325cc6a05cd245b2a2b3bffc13d3ce32e28ce4ec0b1d6b41e8e16d5",
+      "fetched_at": "2026-09-25T20:33:19.076493+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/kommunalka-sobstvennik-i-okupasy.htm",
+      "final_url": "https://exler.es/blog/kommunalka-sobstvennik-i-okupasy.htm",
+      "status": 200,
+      "bytes": 312109,
+      "sha256": "34fe8cf23f6d9d2d1cf32a455b32aa37da0e597c19499309ea749b2ad3a70160",
+      "fetched_at": "2026-09-25T20:22:23.506638+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BF%D0%BE%D0%B6%D0%B0%D1%80+%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BF%D0%BE%D0%B6%D0%B0%D1%80+%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 39703,
+      "sha256": "f7984caff58cce5ccda7c03ea888c219fa5e20fc8aaef314f2cf1ea8e3045c8d",
+      "fetched_at": "2026-09-25T20:19:37.257046+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/oon-vystupila-s-zayavleniyem.htm",
+      "final_url": "https://exler.es/blog/oon-vystupila-s-zayavleniyem.htm",
+      "status": 200,
+      "bytes": 784099,
+      "sha256": "fde7d8066eb6f4bd4a7cdc5152abc5a0883ba540748b949201f266c980e60ebd",
+      "fetched_at": "2026-09-25T20:10:49.377649+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%A4%D0%B8%D0%BB%D0%BE%D0%BC%D0%B5%D0%BD%D0%B0&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%A4%D0%B8%D0%BB%D0%BE%D0%BC%D0%B5%D0%BD%D0%B0&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 31006,
+      "sha256": "87e732b48529d965f7979e07b150fb01896288c6af1be0594b2712a928d28dee",
+      "fetched_at": "2026-09-25T20:20:03.752114+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/o-mezhdunarodnom-gaagskom-sude.htm",
+      "final_url": "https://exler.es/blog/o-mezhdunarodnom-gaagskom-sude.htm",
+      "status": 200,
+      "bytes": 205508,
+      "sha256": "0ab695d676dfb41c068daa53265c894e555dc7cb12c5ac3c86f2a86b4d481f44",
+      "fetched_at": "2026-09-25T20:13:03.275081+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%93%D0%BB%D0%BE%D1%80%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%93%D0%BB%D0%BE%D1%80%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 38498,
+      "sha256": "92751ca7f636d4cb495697a147851276d21f85247bda15cf782e5fcafe2ebd51",
+      "fetched_at": "2026-09-25T20:20:03.930795+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/vy-zhe-yevrosoyuz-napoval-ubivayete-etimi-voprosami.htm",
+      "final_url": "https://exler.es/blog/vy-zhe-yevrosoyuz-napoval-ubivayete-etimi-voprosami.htm",
+      "status": 200,
+      "bytes": 667211,
+      "sha256": "d6754004f5813eb0611009ec217be0df5b71e97c5da769c90f0ab56383795634",
+      "fetched_at": "2026-09-25T20:23:34.245182+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/antieliting.htm",
+      "final_url": "https://exler.es/blog/antieliting.htm",
+      "status": 200,
+      "bytes": 571344,
+      "sha256": "23b8f8426e5af1aaff59622d5fd02670f5162334edc3b6654950738b7d4e4a98",
+      "fetched_at": "2026-09-25T20:22:32.068708+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/partiya-mirnyye-sily-rossii.htm",
+      "final_url": "https://exler.es/blog/partiya-mirnyye-sily-rossii.htm",
+      "status": 200,
+      "bytes": 1016127,
+      "sha256": "3f81f5a6fd7aa3e43ddd5b7cfb2bb54e7f83e3ef680c13ce4443a2d3f82d01c8",
+      "fetched_at": "2026-09-25T20:22:58.005362+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/ispaniya-vstrechayet-oksimiron.htm",
+      "final_url": "https://exler.es/blog/ispaniya-vstrechayet-oksimiron.htm",
+      "status": 200,
+      "bytes": 1034607,
+      "sha256": "edd34ad2cae78a3755be49cb3116d6cf377c4b977db52003acc1571701808d27",
+      "fetched_at": "2026-09-25T20:24:10.112995+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/avtomaty-po-vozvratu-tary-v-magazinakh.htm",
+      "final_url": "https://exler.es/blog/avtomaty-po-vozvratu-tary-v-magazinakh.htm",
+      "status": 200,
+      "bytes": 924071,
+      "sha256": "260d3f4500b92cea7f87305280ddbdae1b23f7726c62af2794c803b3d9ec3fba",
+      "fetched_at": "2026-09-25T20:22:57.313811+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/glebych-zhzhot-4.htm",
+      "final_url": "https://exler.es/blog/glebych-zhzhot-4.htm",
+      "status": 200,
+      "bytes": 347640,
+      "sha256": "db3236a8c3eeba1659fd7f687653b583f547a4da2e0aff6965506de505a89229",
+      "fetched_at": "2026-09-25T20:23:56.731268+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5+%D0%93%D0%B0%D0%B7%D0%B0&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B3%D1%80%D0%B0%D0%B6%D0%B4%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5+%D0%93%D0%B0%D0%B7%D0%B0&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 40368,
+      "sha256": "addac0bdde8df7a8b7b4a20710de537526067ccb76ca848a88db240477ea1602",
+      "fetched_at": "2026-09-25T20:23:57.551231+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/snegopady-v-gretsii.htm",
+      "final_url": "https://exler.es/blog/snegopady-v-gretsii.htm",
+      "status": 200,
+      "bytes": 345620,
+      "sha256": "73d23256e48a0e07319d2eee8f08db934ade31d125e74135f2e2c3e78ae3f1fc",
+      "fetched_at": "2026-09-25T20:26:09.812863+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%A1%D0%BE%D0%B1%D1%8F%D0%BD%D0%B8%D0%BD+%D0%B4%D0%BE%D0%B6%D0%B4%D1%8C&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%A1%D0%BE%D0%B1%D1%8F%D0%BD%D0%B8%D0%BD+%D0%B4%D0%BE%D0%B6%D0%B4%D1%8C&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 34236,
+      "sha256": "9b8acfc8fe82caa468f0c465144b8c997f9212a43cfdf2d109f3aa15e3cf780a",
+      "fetched_at": "2026-09-25T20:19:48.542923+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%93%D0%BE%D0%BB%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5+%D0%B2%D1%8B%D1%81%D0%BE%D1%82%D1%8B&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%93%D0%BE%D0%BB%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5+%D0%B2%D1%8B%D1%81%D0%BE%D1%82%D1%8B&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 28218,
+      "sha256": "51021f9a474bd94086efa2bbea8e5431289479ada3e86249abc9889ef67dc930",
+      "fetched_at": "2026-09-25T20:23:49.115087+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/izrail-pod-shumok-zakhyvatyvayet-siriyskiye-territorii.htm",
+      "final_url": "https://exler.es/blog/izrail-pod-shumok-zakhyvatyvayet-siriyskiye-territorii.htm",
+      "status": 200,
+      "bytes": 681199,
+      "sha256": "e9c3fc5ff1ac29a72353f8464b415f517a64e56c020e94f588190e7e3e08ca5d",
+      "fetched_at": "2026-09-25T20:10:40.222183+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/sb-oon-ne-prinyal-rezolyutsiyu.htm",
+      "final_url": "https://exler.es/blog/sb-oon-ne-prinyal-rezolyutsiyu.htm",
+      "status": 200,
+      "bytes": 867296,
+      "sha256": "94bf14472fee33efc75447c0fda125aa339b9fad0ae66100f18303414c943f23",
+      "fetched_at": "2026-09-25T20:13:22.367016+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/pozhar-v-emporde.htm",
+      "final_url": "https://exler.es/blog/pozhar-v-emporde.htm",
+      "status": 200,
+      "bytes": 311515,
+      "sha256": "22209f02ba23c155c1acc4355f3d9dcdd44f770bb4ad75e602e40330c499cdfd",
+      "fetched_at": "2026-09-25T20:22:31.852059+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/sortirovka-musora.htm",
+      "final_url": "https://exler.es/blog/sortirovka-musora.htm",
+      "status": 200,
+      "bytes": 294079,
+      "sha256": "e30672bb19a942aa7493599f7b39d302c324bac12147adab87e978cab270483e",
+      "fetched_at": "2026-09-25T20:22:49.100081+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/kemerovo.htm",
+      "final_url": "https://exler.es/blog/kemerovo.htm",
+      "status": 200,
+      "bytes": 358308,
+      "sha256": "8a5756bd6db44e287ace49807fcb4666fe6a004ca682a8b70dbb74afe4320c2b",
+      "fetched_at": "2026-09-25T20:26:47.540243+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/ispantsy-takiye-ispantsy-2.htm",
+      "final_url": "https://exler.es/blog/ispantsy-takiye-ispantsy-2.htm",
+      "status": 200,
+      "bytes": 132718,
+      "sha256": "6a6d3b9a296f3f6f4c803b4ba5c634a06e2777b1ba5436fc5c65d726d1a7fad1",
+      "fetched_at": "2026-09-25T20:23:49.238478+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/istoriya-s-linor-goralik-i-tartusskim-universitetom.htm",
+      "final_url": "https://exler.es/blog/istoriya-s-linor-goralik-i-tartusskim-universitetom.htm",
+      "status": 200,
+      "bytes": 1143637,
+      "sha256": "aff6c2ceadfa16adefb82dc5b539e41e4c3a65406b68411311cc549f1e2d0f86",
+      "fetched_at": "2026-09-25T20:11:17.642223+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B2%D0%BC%D0%B5%D1%88%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE+%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%D1%8B&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B2%D0%BC%D0%B5%D1%88%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE+%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%D1%8B&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 39914,
+      "sha256": "a9f7a09428628aedaa4113873e63bea98da70145f64275c7f9cfb146e7bddda8",
+      "fetched_at": "2026-09-25T20:10:43.326036+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/stati-v-wsj-po-povodu-ordera-myc.htm",
+      "final_url": "https://exler.es/blog/stati-v-wsj-po-povodu-ordera-myc.htm",
+      "status": 200,
+      "bytes": 481867,
+      "sha256": "5aec0c9787598c1c7d1c3f2d7b6f6eddee549e7eb89e05dfce2f712945fe51a5",
+      "fetched_at": "2026-09-25T20:12:21.373902+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/chto-v-sochi-to-tvoritsya.htm",
+      "final_url": "https://exler.es/blog/chto-v-sochi-to-tvoritsya.htm",
+      "status": 200,
+      "bytes": 287009,
+      "sha256": "718f50e27c1a3d531a4c6c9571f201840c47ac24f3b7653e24f27fb7dd33a2b9",
+      "fetched_at": "2026-09-25T20:23:05.132989+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/podrobnosti-o-vcherashnem-osvobozhdenii-zalozhnikov.htm",
+      "final_url": "https://exler.es/blog/podrobnosti-o-vcherashnem-osvobozhdenii-zalozhnikov.htm",
+      "status": 200,
+      "bytes": 992078,
+      "sha256": "bad5dcf59bf510fe49d4695b80309eaf88e1a09b41477468232583a628d2925c",
+      "fetched_at": "2026-09-25T20:22:44.386524+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/mordor-i-v-ispanii-uspel-nagadit.htm",
+      "final_url": "https://exler.es/blog/mordor-i-v-ispanii-uspel-nagadit.htm",
+      "status": 200,
+      "bytes": 452290,
+      "sha256": "e52688d9f6d8a17557788646910c896dbc86f0bf60b05abb5953abc459d02c6e",
+      "fetched_at": "2026-09-25T20:20:59.796078+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/voditelyam-v-katalonii-dobavilos-golovnoy-boli.htm",
+      "final_url": "https://exler.es/blog/voditelyam-v-katalonii-dobavilos-golovnoy-boli.htm",
+      "status": 200,
+      "bytes": 861365,
+      "sha256": "5b5d138882d9b8e7aa4f04088347c24dcdc2cae0dc970ab5058e9228e1cf3529",
+      "fetched_at": "2026-09-25T20:28:56.844939+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/priznali-sponsorom-terrorizma.htm",
+      "final_url": "https://exler.es/blog/priznali-sponsorom-terrorizma.htm",
+      "status": 200,
+      "bytes": 270404,
+      "sha256": "c0073a7b3d6a70c5ee33e13b88353b30e19c4892e1b3e308dc54aee9100e86a2",
+      "fetched_at": "2026-09-25T20:13:21.918545+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D1%83%D0%B1%D0%BE%D1%80%D0%BA%D0%B0+%D1%81%D0%BD%D0%B5%D0%B3%D0%B0&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D1%83%D0%B1%D0%BE%D1%80%D0%BA%D0%B0+%D1%81%D0%BD%D0%B5%D0%B3%D0%B0&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 37905,
+      "sha256": "69e35442aee173cb0e94a2547c70800825962a0de4b5218e3062b032e3dda9d8",
+      "fetched_at": "2026-09-25T20:23:20.166786+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BD%D0%B0%D0%B2%D0%BE%D0%B4%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5+%D0%92%D0%B0%D0%BB%D0%B5%D0%BD%D1%81%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BD%D0%B0%D0%B2%D0%BE%D0%B4%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5+%D0%92%D0%B0%D0%BB%D0%B5%D0%BD%D1%81%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 31547,
+      "sha256": "67f531b8eee6d03e7ecdd7b5d866508092f01e3534ca9bcc53735424e1040fc0",
+      "fetched_at": "2026-09-25T20:19:17.841781+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%93%D1%83%D0%B0%D0%BD%D1%82%D0%B0%D0%BD%D0%B0%D0%BC%D0%BE&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%93%D1%83%D0%B0%D0%BD%D1%82%D0%B0%D0%BD%D0%B0%D0%BC%D0%BE&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 30147,
+      "sha256": "a600139d22b34c9c5fded9ae60ddbaffbf0d87841f48f78a84b9d832b240781b",
+      "fetched_at": "2026-09-25T20:10:49.448824+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/ispaniya-v-snegu.htm",
+      "final_url": "https://exler.es/blog/ispaniya-v-snegu.htm",
+      "status": 200,
+      "bytes": 326803,
+      "sha256": "cfc6ffd38cff4f66fbdc701a5bc4f35d29497b8611390d6ea9e6af3900e3bb68",
+      "fetched_at": "2026-09-25T20:21:17.799944+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B0+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D0%B0+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 40314,
+      "sha256": "e857dd2b62d0d264c6d7a5dc4cc4574dd1773ab82de246bd0ea60011edc0a0f6",
+      "fetched_at": "2026-09-25T20:23:28.145581+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/livnevaya-kanalizatsiya.htm",
+      "final_url": "https://exler.es/blog/livnevaya-kanalizatsiya.htm",
+      "status": 200,
+      "bytes": 290616,
+      "sha256": "15b1523209b86d23b3aef9ac79ec1fc4f5b1118159bb1df2127005260add0cf4",
+      "fetched_at": "2026-09-25T20:21:08.805352+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F+%D0%B2%D0%B8%D0%BD%D0%B0&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F+%D0%B2%D0%B8%D0%BD%D0%B0&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 38541,
+      "sha256": "fa040495f6ac6431f0d205c499b50c2c17232fa85b2dfba1ff03af6895f1f3c0",
+      "fetched_at": "2026-09-25T20:12:13.312882+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/sobyanin-bredit.htm",
+      "final_url": "https://exler.es/blog/sobyanin-bredit.htm",
+      "status": 200,
+      "bytes": 256049,
+      "sha256": "36c990c57b4dc5dc5fb48ab160f3cd5c7d810512940409149a3ef20f5e1c3824",
+      "fetched_at": "2026-09-25T20:22:11.814601+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/novosti-o-peydzherakh.htm",
+      "final_url": "https://exler.es/blog/novosti-o-peydzherakh.htm",
+      "status": 200,
+      "bytes": 520309,
+      "sha256": "aeed7dc4a5daa97b77abe51e0a3f128131004c4118487c1aa575c25263951c41",
+      "fetched_at": "2026-09-25T20:10:49.091592+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/po-povodu-sammita-vo-vladivostoke.htm",
+      "final_url": "https://exler.es/blog/po-povodu-sammita-vo-vladivostoke.htm",
+      "status": 200,
+      "bytes": 346658,
+      "sha256": "bea494c3eccec37d46c6f7f56b11aba48bce0fe01eb84e0f78248c79b112e128",
+      "fetched_at": "2026-09-25T20:22:12.146232+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/v-ispanii-s-genotsidom-mozhet-poluchitsya-ochen-neudobno.htm",
+      "final_url": "https://exler.es/blog/v-ispanii-s-genotsidom-mozhet-poluchitsya-ochen-neudobno.htm",
+      "status": 200,
+      "bytes": 751467,
+      "sha256": "216aa1bcc93c9ae19f74ab2b614b19cee0781b3eb71748f0494cdb2c4a913235",
+      "fetched_at": "2026-09-25T20:13:22.509143+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B5+%D0%BB%D1%83%D0%B6%D0%B8&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B5+%D0%BB%D1%83%D0%B6%D0%B8&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 40712,
+      "sha256": "8423662ed7b75f81453aef396cb158d5f38d12ea8e10b8773316341feb009578",
+      "fetched_at": "2026-09-25T20:30:48.586406+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/a-sneg-idet-a-sneg-idet.htm",
+      "final_url": "https://exler.es/blog/a-sneg-idet-a-sneg-idet.htm",
+      "status": 200,
+      "bytes": 182014,
+      "sha256": "789b26ec5cd58aa3989318e42a10e06f4cfb459f375e074df942c29be9f4cef1",
+      "fetched_at": "2026-09-25T20:21:38.648025+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/pechaltes-ukrainskiye-natsionalizatory.htm",
+      "final_url": "https://exler.es/blog/pechaltes-ukrainskiye-natsionalizatory.htm",
+      "status": 200,
+      "bytes": 1115757,
+      "sha256": "fe206bed62ee35edf148b3e39beca0f1a159ca32d79fc260b1d8aef232451b8b",
+      "fetched_at": "2026-09-25T20:13:32.048143+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/valensiya-sady-turii.htm",
+      "final_url": "https://exler.es/blog/valensiya-sady-turii.htm",
+      "status": 200,
+      "bytes": 118184,
+      "sha256": "2b974c91275570e8dbc7ce785398ead62676a83944fe70227048ad6cdae65890",
+      "fetched_at": "2026-09-25T20:23:56.637677+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/chto-smotret-vesnoy.htm",
+      "final_url": "https://exler.es/blog/chto-smotret-vesnoy.htm",
+      "status": 200,
+      "bytes": 202740,
+      "sha256": "42b6f9d3894df4d7c38b1d05618ecce3c44ee541ae90af7cfb0c8f5b6d9e0350",
+      "fetched_at": "2026-09-25T20:23:49.038713+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/antiizrailskaya-isteriya-pedro-sanchesa.htm",
+      "final_url": "https://exler.es/blog/antiizrailskaya-isteriya-pedro-sanchesa.htm",
+      "status": 200,
+      "bytes": 173988,
+      "sha256": "396006792c0fbe0727d49909cfd4143667dc99bb95f10bb003b048ea86cb8c5e",
+      "fetched_at": "2026-09-25T20:29:05.812680+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%9E%D0%9E%D0%9D+%D1%80%D0%B5%D0%B7%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%9E%D0%9E%D0%9D+%D1%80%D0%B5%D0%B7%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 39509,
+      "sha256": "9a278aab33c04a7b4d2baffeaef1c076e14f28cea1cc36d3aa2ed5b134a70133",
+      "fetched_at": "2026-09-25T20:12:05.869446+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/navstrechu-yevrovideniyu.htm",
+      "final_url": "https://exler.es/blog/navstrechu-yevrovideniyu.htm",
+      "status": 200,
+      "bytes": 136701,
+      "sha256": "9c86a53ebb5f7771ad642f3568da89ff3b5594d6a22c8e4298e2fbba384046d4",
+      "fetched_at": "2026-09-25T20:30:32.281200+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BF%D0%BE%D0%B6%D0%B0%D1%80+%D0%9A%D0%B5%D0%BC%D0%B5%D1%80%D0%BE%D0%B2%D0%BE&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BF%D0%BE%D0%B6%D0%B0%D1%80+%D0%9A%D0%B5%D0%BC%D0%B5%D1%80%D0%BE%D0%B2%D0%BE&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 29118,
+      "sha256": "770fb2fa82aa361d5f5955f1a85f2c2dd912f551f396fbb34fa164f7526d3b53",
+      "fetched_at": "2026-09-25T20:23:36.516479+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/mer-orska-i-semya-v-dubaye.htm",
+      "final_url": "https://exler.es/blog/mer-orska-i-semya-v-dubaye.htm",
+      "status": 200,
+      "bytes": 1097693,
+      "sha256": "7b7494c5e9c6816ef5431d4ea7d77b39cdeeade4737e84d9a901746d7e5b910a",
+      "fetched_at": "2026-09-25T20:20:04.029211+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BC%D1%83%D1%81%D0%BE%D1%80+%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BC%D1%83%D1%81%D0%BE%D1%80+%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 39609,
+      "sha256": "567b8e5724551e53fd4a94b1f9d162852460b149c17d7ca5c3cb936a513a0d7d",
+      "fetched_at": "2026-09-25T20:19:48.620738+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BD%D0%B0%D0%B2%D0%BE%D0%B4%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5+%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BD%D0%B0%D0%B2%D0%BE%D0%B4%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5+%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 32661,
+      "sha256": "2b72a4fccf81e9a818a8121cb76e0de339557224516eaca15cd5ce42d3e9df8b",
+      "fetched_at": "2026-09-25T20:19:17.789045+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/oon-vse-prinimayet-rezolyutsii.htm",
+      "final_url": "https://exler.es/blog/oon-vse-prinimayet-rezolyutsii.htm",
+      "status": 200,
+      "bytes": 1080954,
+      "sha256": "db0e6138e998587777b24accfcaea7e28eda34a6b79053cbabec1ffbc1d7c9f0",
+      "fetched_at": "2026-09-25T20:23:05.463949+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/poyezda-ne-vlezli-v-tunnel.htm",
+      "final_url": "https://exler.es/blog/poyezda-ne-vlezli-v-tunnel.htm",
+      "status": 200,
+      "bytes": 583647,
+      "sha256": "03f29630e8346e68a0ba6c66f985937a53986bc3a3913c05515983af8a820155",
+      "fetched_at": "2026-09-25T20:33:27.628348+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/dodavit-tramp-maduro.htm",
+      "final_url": "https://exler.es/blog/dodavit-tramp-maduro.htm",
+      "status": 200,
+      "bytes": 740710,
+      "sha256": "686dd50fde85d97bd690a3d4cf4ea49dff591bc173784cd9a1895da92d76bb31",
+      "fetched_at": "2026-09-25T20:10:57.957044+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/sneg-bashka-upadet.htm",
+      "final_url": "https://exler.es/blog/sneg-bashka-upadet.htm",
+      "status": 200,
+      "bytes": 152133,
+      "sha256": "c9fa95bfbefdfd11f95ceebfcf2bfade658e0cdb63f30c6b34ad9dbb663d3b59",
+      "fetched_at": "2026-09-25T20:21:50.312824+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/problemy-s-otopleniyem.htm",
+      "final_url": "https://exler.es/blog/problemy-s-otopleniyem.htm",
+      "status": 200,
+      "bytes": 709019,
+      "sha256": "6760a73e00698d7f6cebb4f28fe70e89054c211a3daa45beffae8a7ca12310b4",
+      "fetched_at": "2026-09-25T20:22:54.083226+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/sanktsii-za-narusheniye-karantinnogo-rezhima-v-ispanii.htm",
+      "final_url": "https://exler.es/blog/sanktsii-za-narusheniye-karantinnogo-rezhima-v-ispanii.htm",
+      "status": 200,
+      "bytes": 1025390,
+      "sha256": "c56f2e7b99c3dfe00368430989aa8a754ddf8a44e22d88a09e9ffce6f42233b8",
+      "fetched_at": "2026-09-25T20:22:49.497746+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/golod-v-gaze.htm",
+      "final_url": "https://exler.es/blog/golod-v-gaze.htm",
+      "status": 200,
+      "bytes": 1879127,
+      "sha256": "fb5c060e66193e5ee844e6a7802e83bedcd58ca1127ed9cfe2b8bb390e9cdefd",
+      "fetched_at": "2026-09-25T20:26:57.838026+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%98%D1%80%D0%B0%D0%BD+%D0%A1%D0%A8%D0%90&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%98%D1%80%D0%B0%D0%BD+%D0%A1%D0%A8%D0%90&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 40671,
+      "sha256": "377ac118d436fa7edd1c92dcf0c5256d648b621282402ba2b9204bc287837b14",
+      "fetched_at": "2026-09-25T20:10:08.224589+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/navodneniye-v-badalone.htm",
+      "final_url": "https://exler.es/blog/navodneniye-v-badalone.htm",
+      "status": 200,
+      "bytes": 156863,
+      "sha256": "5a1280d2c874a473c33ffdf9a7b834352e12c799400d3141db0ff8c521bc4827",
+      "fetched_at": "2026-09-25T20:19:44.770571+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/no-yest-i-plokhiye-novosti.htm",
+      "final_url": "https://exler.es/blog/no-yest-i-plokhiye-novosti.htm",
+      "status": 200,
+      "bytes": 751579,
+      "sha256": "35ce98abcba3a1a72b8c17301e6c862111ecce7e3b271924bcf31925935b549b",
+      "fetched_at": "2026-09-25T20:21:08.962076+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/yevrovideniye-kto-pobedil.htm",
+      "final_url": "https://exler.es/blog/yevrovideniye-kto-pobedil.htm",
+      "status": 200,
+      "bytes": 774885,
+      "sha256": "d0ae5c89f6cb878199b59e36682ef3e13dafe6cda414163ed5e79ef9877e3c51",
+      "fetched_at": "2026-09-25T20:29:06.455623+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/gulyay-rvanina-2.htm",
+      "final_url": "https://exler.es/blog/gulyay-rvanina-2.htm",
+      "status": 200,
+      "bytes": 491896,
+      "sha256": "8cd493d5e16d1604513322ad2fe4d8fcedcea7e1e27b0c80009ff3ea3a0e3df6",
+      "fetched_at": "2026-09-25T20:11:17.495046+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/chudesnaya-istoriya-s-ispanskim-gossluzhashchim.htm",
+      "final_url": "https://exler.es/blog/chudesnaya-istoriya-s-ispanskim-gossluzhashchim.htm",
+      "status": 200,
+      "bytes": 377184,
+      "sha256": "0123bbca01c2074047d6d3855c3a69edb3abdb7c757d30871be52da893338d9c",
+      "fetched_at": "2026-09-25T20:25:59.697881+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9+%D0%BF%D0%B0%D1%80%D0%B0%D0%B4+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9+%D0%BF%D0%B0%D1%80%D0%B0%D0%B4+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 40907,
+      "sha256": "30a7bc4ea37ed0f2ec44384ae3ad45ef68560b214b96170150cf1f2f537c5085",
+      "fetched_at": "2026-09-25T20:26:02.638814+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BB%D1%83%D0%B6%D0%B8+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BB%D1%83%D0%B6%D0%B8+%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 40761,
+      "sha256": "c760d45ab556e8ed31645b530005d048b4437ba5362137174eae8597d1f34c91",
+      "fetched_at": "2026-09-25T20:19:26.882726+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/zachem-trampu-grenlandiya.htm",
+      "final_url": "https://exler.es/blog/zachem-trampu-grenlandiya.htm",
+      "status": 200,
+      "bytes": 930127,
+      "sha256": "41e6a5d2fa127c83d41230268efaaf960780cc88d26a802e8e8b4cd08e5b12b8",
+      "fetched_at": "2026-09-25T20:10:58.471917+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%98%D1%80%D0%B0%D0%BA+2003&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%98%D1%80%D0%B0%D0%BA+2003&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 38443,
+      "sha256": "789845baae42c321261ed9b3078ca4ac94367efe235ec5fb9b13daf611b6a41a",
+      "fetched_at": "2026-09-25T20:23:57.420350+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%95%D0%B2%D1%80%D0%BE%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F+%D0%B8%D1%81%D0%BA%D0%BB%D1%8E%D1%87%D0%B8%D0%BB%D0%B8&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%95%D0%B2%D1%80%D0%BE%D0%B2%D0%B8%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F+%D0%B8%D1%81%D0%BA%D0%BB%D1%8E%D1%87%D0%B8%D0%BB%D0%B8&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 26425,
+      "sha256": "511d6b51c4b99d323b0b5ea3341b5b381ac459d365890f1eb2d170e982da5330",
+      "fetched_at": "2026-09-25T20:30:48.225068+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/temnaya-storona-ispanii.htm",
+      "final_url": "https://exler.es/blog/temnaya-storona-ispanii.htm",
+      "status": 200,
+      "bytes": 516740,
+      "sha256": "770a17d0710c4f365f41cf614a4f09583c9868af2b7b4169c7bcf5ca8385ee64",
+      "fetched_at": "2026-09-25T20:21:29.278820+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/dom-balo-eto-nado-videt.htm",
+      "final_url": "https://exler.es/blog/dom-balo-eto-nado-videt.htm",
+      "status": 200,
+      "bytes": 216440,
+      "sha256": "d095ffd64615b5e6fce6a8f259d36cbbfee11f50fd7d0b93094d4fbd9ad1345c",
+      "fetched_at": "2026-09-25T20:22:02.548999+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/krestnomu-khodu-koronavirus-ne-strashen.htm",
+      "final_url": "https://exler.es/blog/krestnomu-khodu-koronavirus-ne-strashen.htm",
+      "status": 200,
+      "bytes": 315443,
+      "sha256": "27b9c3f45077a189d3fd4359836a5e4bba3a28a04b18ce70a2c2e0504f3d58fb",
+      "fetched_at": "2026-09-25T20:28:30.490606+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/uotersa-otmenili-v-izraile.htm",
+      "final_url": "https://exler.es/blog/uotersa-otmenili-v-izraile.htm",
+      "status": 200,
+      "bytes": 653683,
+      "sha256": "0b8c9f3e7ad5b29a9cea1c3be6e765cbf77333df28cebe18a43ef47388312f86",
+      "fetched_at": "2026-09-25T20:11:07.557763+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/opyat-ogromnyy-pozhar-v-katalonii-iz-za-vybroshennogo-okurka.htm",
+      "final_url": "https://exler.es/blog/opyat-ogromnyy-pozhar-v-katalonii-iz-za-vybroshennogo-okurka.htm",
+      "status": 200,
+      "bytes": 358508,
+      "sha256": "ed311c5255d34e24accc3381f648626623890c8eb5053c5e3e9a91bd13d2fde3",
+      "fetched_at": "2026-09-25T20:20:19.389595+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/ombudsmen-potrebovala.htm",
+      "final_url": "https://exler.es/blog/ombudsmen-potrebovala.htm",
+      "status": 200,
+      "bytes": 520841,
+      "sha256": "bb1ab66313d3701b472fa6f128acce913d87977e9d5bf5e0179fe5c3042e1c88",
+      "fetched_at": "2026-09-25T20:22:44.686766+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/proshedshiy-v-moskve-krestnyy-khod.htm",
+      "final_url": "https://exler.es/blog/proshedshiy-v-moskve-krestnyy-khod.htm",
+      "status": 200,
+      "bytes": 870398,
+      "sha256": "ca23dacf9fa6e71d62074ad01f061a917089fbff396a02cffb9077829b5a2eca",
+      "fetched_at": "2026-09-25T20:28:20.415074+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9+%D1%85%D0%BE%D0%B4&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BA%D1%80%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9+%D1%85%D0%BE%D0%B4&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 40758,
+      "sha256": "4c351bea5f17e411bcfbc65bedf4b486af10d82b7f0c8cd2b8012e370db60da8",
+      "fetched_at": "2026-09-25T20:26:02.273910+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%9A%D1%80%D1%8B%D0%BC%D1%81%D0%BA&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 39996,
+      "sha256": "59992f4a2ba2ad1f6a549c42cc330b63acd364b83d7bf0b987974fbdb2ecca71",
+      "fetched_at": "2026-09-25T20:23:05.875106+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/ocherednoye-prestupleniye-izrailskoy-voyenshchiny.htm",
+      "final_url": "https://exler.es/blog/ocherednoye-prestupleniye-izrailskoy-voyenshchiny.htm",
+      "status": 200,
+      "bytes": 972725,
+      "sha256": "01ae83b33dbde363b5a4c430886cd239d009d8070713a1afdc3ba0656cd67681",
+      "fetched_at": "2026-09-25T20:22:54.908177+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/ispaniya-otgulyala-prazdnik-san-khuan.htm",
+      "final_url": "https://exler.es/blog/ispaniya-otgulyala-prazdnik-san-khuan.htm",
+      "status": 200,
+      "bytes": 186365,
+      "sha256": "2f218fd1dd4c7ba90912f6d4f40bd5fb22d65de07fac6d55cf315713cb677c30",
+      "fetched_at": "2026-09-25T20:22:40.416827+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/hujbers-kovcheg.htm",
+      "final_url": "https://exler.es/blog/hujbers-kovcheg.htm",
+      "status": 200,
+      "bytes": 182302,
+      "sha256": "a9ef5160a902b603c288d7dd0ef42e7eb91536720ea57459f4e862cde10aef8d",
+      "fetched_at": "2026-09-25T20:23:48.859758+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/kak-sverlit-plitku-spasibo-internetu.htm",
+      "final_url": "https://exler.es/blog/kak-sverlit-plitku-spasibo-internetu.htm",
+      "status": 200,
+      "bytes": 210963,
+      "sha256": "5a689248f45b00db1f005882fe9d72de489e9ad7d18984cdcfd5ebb45414ac80",
+      "fetched_at": "2026-09-25T20:21:50.482336+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/comments/general-kellog-o-ramkakh-prilichiy.htm",
+      "final_url": "https://exler.es/blog/general-kellog-o-ramkakh-prilichiy.htm",
+      "status": 200,
+      "bytes": 906678,
+      "sha256": "ed5d4b9ef7860a9b52d40ba807b65821d640ea1d854e501860a2d42944f8ebd0",
+      "fetched_at": "2026-09-25T20:44:25.930907+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/gorod-geroj-mataro.htm",
+      "final_url": "https://exler.es/blog/gorod-geroj-mataro.htm",
+      "status": 200,
+      "bytes": 158834,
+      "sha256": "8dc0565a3332d0dd177a75bc63165d29ab02fd3464130653e890e13eb03154cd",
+      "fetched_at": "2026-09-25T20:22:11.879379+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/chto-vchera-bylo.htm",
+      "final_url": "https://exler.es/blog/chto-vchera-bylo.htm",
+      "status": 200,
+      "bytes": 335573,
+      "sha256": "531ba8aeb44ed387297b3c41a8ed742719acc096e5578c2c91f2824aca0de2b2",
+      "fetched_at": "2026-09-25T20:19:52.776883+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B4%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D1%8B%D0%B5+%D1%88%D1%82%D1%80%D0%B0%D1%84%D1%8B&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B4%D0%BE%D1%80%D0%BE%D0%B6%D0%BD%D1%8B%D0%B5+%D1%88%D1%82%D1%80%D0%B0%D1%84%D1%8B&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 39403,
+      "sha256": "2a5131d929ebf8a1c93596d1a36ab0b8e69f33105b97f8337a8916aaedd41c0d",
+      "fetched_at": "2026-09-25T20:30:56.828860+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/den-ispanogovoryashchikh-stran-2.htm",
+      "final_url": "https://exler.es/blog/den-ispanogovoryashchikh-stran-2.htm",
+      "status": 200,
+      "bytes": 792804,
+      "sha256": "ef02fc1fdacfd494519e3fe4bebac7b908b8d02cbe1838ac01042c2161e425bf",
+      "fetched_at": "2026-09-25T20:12:05.323475+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/manyana-dnej-moih-surovyh.htm",
+      "final_url": "https://exler.es/blog/manyana-dnej-moih-surovyh.htm",
+      "status": 200,
+      "bytes": 173050,
+      "sha256": "4538d7dc45c8bd818b4875127d0017320d5adc43a9bc34722128e6b4a8ded05c",
+      "fetched_at": "2026-09-25T20:26:27.021960+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/36-stran-prisoyedinilis-k-spetstribunalu-dlya-putina.htm",
+      "final_url": "https://exler.es/blog/36-stran-prisoyedinilis-k-spetstribunalu-dlya-putina.htm",
+      "status": 200,
+      "bytes": 454240,
+      "sha256": "baee09090c625b218d96a65500377fbbab1b731dca99b63456e9532773204643",
+      "fetched_at": "2026-09-25T20:13:12.755507+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/manyana-vozvrashaetsya.htm",
+      "final_url": "https://exler.es/blog/manyana-vozvrashaetsya.htm",
+      "status": 200,
+      "bytes": 226210,
+      "sha256": "c23156967e1c458adb128cbb7a3aaa6764314998450cb9e0c80af94b38ec4a24",
+      "fetched_at": "2026-09-25T20:26:19.453233+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/blekaut-v-ispanii.htm",
+      "final_url": "https://exler.es/blog/blekaut-v-ispanii.htm",
+      "status": 200,
+      "bytes": 317735,
+      "sha256": "122f7695164096adbf20432c4bc0c21c84817091ee21e17cc6091525266c4b44",
+      "fetched_at": "2026-09-25T20:19:52.574170+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/otvetim-zhestkim-krestnym-begom.htm",
+      "final_url": "https://exler.es/blog/otvetim-zhestkim-krestnym-begom.htm",
+      "status": 200,
+      "bytes": 250472,
+      "sha256": "092b37af19b2d532c393d7d0f308b3ce17ba848b808effb8f5cb61308cebc72f",
+      "fetched_at": "2026-09-25T20:28:38.475187+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9+%D0%BF%D0%B0%D1%80%D0%B0%D0%B4+%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9+%D0%BF%D0%B0%D1%80%D0%B0%D0%B4+%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 34743,
+      "sha256": "f2a2ea33222c88122731e23bc7f30f85eed51c2ad353a0cf81ec0f31d60e2f94",
+      "fetched_at": "2026-09-25T20:26:02.480521+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/chisto-dlya-ponimaniya.htm",
+      "final_url": "https://exler.es/blog/chisto-dlya-ponimaniya.htm",
+      "status": 200,
+      "bytes": 1198139,
+      "sha256": "cfdde6ab87530b727d9a87fc0a017a878c6edcc47b42da0e3d6dc9147903e2c2",
+      "fetched_at": "2026-09-25T20:22:13.815949+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/oni-mimikriruyut.htm",
+      "final_url": "https://exler.es/blog/oni-mimikriruyut.htm",
+      "status": 200,
+      "bytes": 340214,
+      "sha256": "dd49c4b435ee5705c1616d08817f4820f5f2bf0d73740f8fda1b953b649406e9",
+      "fetched_at": "2026-09-25T20:22:34.801979+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/razrusheniye-gigantskogo-akvariuma-v-berline.htm",
+      "final_url": "https://exler.es/blog/razrusheniye-gigantskogo-akvariuma-v-berline.htm",
+      "status": 200,
+      "bytes": 326997,
+      "sha256": "303473553e2d33d0e437ea083f2ef96456604e07dae29e7d8f175dbbcfe151cd",
+      "fetched_at": "2026-09-25T20:23:56.715435+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D1%81%D0%BD%D0%B5%D0%B3%D0%BE%D0%BF%D0%B0%D0%B4&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D1%81%D0%BD%D0%B5%D0%B3%D0%BE%D0%BF%D0%B0%D0%B4&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 38442,
+      "sha256": "23c4137063a02fa24cb116b6e85ec3cd2bd4ea1eb230f8ae4e0a344f513802cc",
+      "fetched_at": "2026-09-25T20:23:19.848460+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/dva-vzglyada.htm",
+      "final_url": "https://exler.es/blog/dva-vzglyada.htm",
+      "status": 200,
+      "bytes": 1082302,
+      "sha256": "96cb8d7d5af685badf4f5036691446babec4d61a768bf3c703728c41d743672e",
+      "fetched_at": "2026-09-25T20:13:40.158076+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BB%D0%B8%D0%B2%D0%B5%D0%BD%D1%8C&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BB%D0%B8%D0%B2%D0%B5%D0%BD%D1%8C&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 38471,
+      "sha256": "1521b43b905efaad214ffb83ddab1b3902e7559192e07aabd00bc82cd4d91dd1",
+      "fetched_at": "2026-09-25T20:23:05.980168+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/odnazhdy-vo-frantsii.htm",
+      "final_url": "https://exler.es/blog/odnazhdy-vo-frantsii.htm",
+      "status": 200,
+      "bytes": 501327,
+      "sha256": "2ae1d562ded12565eb82bca3468ac102e0574049de12efe0256c4eb540087555",
+      "fetched_at": "2026-09-25T20:28:47.901750+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/v-ispanii-pokhozhe-poneslos.htm",
+      "final_url": "https://exler.es/blog/v-ispanii-pokhozhe-poneslos.htm",
+      "status": 200,
+      "bytes": 883441,
+      "sha256": "620c0bec4cc176ae1cef45a092fab4443878e093af38563a4f0383cd168746c1",
+      "fetched_at": "2026-09-25T20:24:21.279826+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/chto-sluchilos-v-valensiyskoy-avtonomii.htm",
+      "final_url": "https://exler.es/blog/chto-sluchilos-v-valensiyskoy-avtonomii.htm",
+      "status": 200,
+      "bytes": 519741,
+      "sha256": "fdd09f92d01b1c8459278dcfcda3ac86be2e32089dd12a9af125569b9e804b43",
+      "fetched_at": "2026-09-25T20:20:03.049406+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/nashla-svoyu-luzhicu.htm",
+      "final_url": "https://exler.es/blog/nashla-svoyu-luzhicu.htm",
+      "status": 200,
+      "bytes": 284442,
+      "sha256": "75bef5ec7b2535e15031bfa41c48b1d8d5b072553b5ea8d2cdf8616512788c22",
+      "fetched_at": "2026-09-25T20:21:17.419327+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BF%D0%BB%D0%B8%D1%82%D0%BA%D0%B0&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BF%D0%BB%D0%B8%D1%82%D0%BA%D0%B0&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 40585,
+      "sha256": "1ec90659959e9bd2b8ed21d970aa5c8a63f3d838af21fb2e2a918643dbeb828e",
+      "fetched_at": "2026-09-25T20:19:26.665472+00:00"
+    },
+    {
+      "url": "https://exler.es/search/?Search%5Bquery%5D=%D1%8F%D0%B4%D0%B5%D1%80%D0%BD%D1%8B%D0%B5+%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D1%8B&Search%5BcontentType%5D=all",
+      "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D1%8F%D0%B4%D0%B5%D1%80%D0%BD%D1%8B%D0%B5+%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D1%8B&Search%5BcontentType%5D=all",
+      "status": 200,
+      "bytes": 39595,
+      "sha256": "3eb78ccee658337fb461cb663a7df9cc4e4c667a289f3e39aebf7f804d929a10",
+      "fetched_at": "2026-09-25T20:12:22.103547+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/ocherednaya-manyana.htm",
+      "final_url": "https://exler.es/blog/ocherednaya-manyana.htm",
+      "status": 200,
+      "bytes": 352454,
+      "sha256": "05093b47cf03fa8d49c447294f2155b7a33c82501f6b3c282dd86fbb0468f086",
+      "fetched_at": "2026-09-25T20:26:27.283606+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/bilbao.htm",
+      "final_url": "https://exler.es/blog/bilbao.htm",
+      "status": 200,
+      "bytes": 140747,
+      "sha256": "7c82ac6e39b106e4043dbde3821d314c62c4d85be24d9589c3037995f7b30789",
+      "fetched_at": "2026-09-25T20:22:03.631920+00:00"
+    },
+    {
+      "url": "https://exler.es/blog/centralnaya-stanciya-monitoringa-quot-golfstrim-ohrannye-sistemy-quot.htm",
+      "final_url": "https://exler.es/blog/centralnaya-stanciya-monitoringa-quot-golfstrim-ohrannye-sistemy-quot.htm",
+      "status": 200,
+      "bytes": 127076,
+      "sha256": "1aa79b42382bce342867b12f4047fba5d39e87e8806e1133ada64a27dde3056c",
+      "fetched_at": "2026-09-25T20:22:23.164321+00:00"
+    }
+  ],
+  "failed": [
+    {
+      "url": "https://exler.es/blog/budni-manyany-dushevaya-kabinka.htm",
+      "error": "HTTP Error 404: Not Found"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "schema_version": 1,
+  "research_date": "2026-09-25",
+  "title": "Вы не понимаете, это другое: суд, война и ливнёвка",
+  "counts": {
+    "case_count": 11,
+    "source_count": 58,
+    "author_comment_count": 10,
+    "retrieved_unique_urls": 334,
+    "native_search_pages": 101,
+    "retrieved_non_search_urls": 233,
+    "failed_unique_urls": 1,
+    "source_fetch_range": [
+      "2026-09-25T20:10:40.222183+00:00",
+      "2026-09-25T20:33:19.393641+00:00"
+    ],
+    "public_source_year_range": [
+      2006,
+      2026
+    ]
+  },
+  "cases": [
+    {
+      "id": "GEO-016",
+      "title": "Суд с правом на правильный ордер",
+      "file": "INTERNATIONAL.md",
+      "anchor": "geo-016",
+      "status": "институциональная асимметрия",
+      "source_ids": [
+        "XG-S001",
+        "XG-S002",
+        "XG-S003",
+        "XG-S004",
+        "XG-S005",
+        "XG-S006"
+      ],
+      "counting_unit": "сопоставление источников"
+    },
+    {
+      "id": "GEO-017",
+      "title": "Один суд, два уровня авторитетности",
+      "file": "INTERNATIONAL.md",
+      "anchor": "geo-017",
+      "status": "институциональная асимметрия",
+      "source_ids": [
+        "XG-S007",
+        "XG-S008"
+      ],
+      "counting_unit": "сопоставление источников"
+    },
+    {
+      "id": "GEO-018",
+      "title": "Резолюция то показывает мир, то сотрясает воздух",
+      "file": "INTERNATIONAL.md",
+      "anchor": "geo-018",
+      "status": "асимметрия аргументации с ограничивающим продолжением",
+      "source_ids": [
+        "XG-S009",
+        "XG-S010",
+        "XG-S011",
+        "XG-S012",
+        "XG-S013"
+      ],
+      "counting_unit": "сопоставление источников"
+    },
+    {
+      "id": "GEO-019",
+      "title": "Условие при слове «мирный»",
+      "file": "INTERNATIONAL.md",
+      "anchor": "geo-019",
+      "status": "асимметрия языка и обращения с возражением",
+      "source_ids": [
+        "XG-S014",
+        "XG-S015",
+        "XG-S016"
+      ],
+      "counting_unit": "сопоставление источников"
+    },
+    {
+      "id": "GEO-020",
+      "title": "Армия как проверяющий собственных действий",
+      "file": "INTERNATIONAL.md",
+      "anchor": "geo-020",
+      "status": "асимметрия доверия к источнику",
+      "source_ids": [
+        "XG-S017",
+        "XG-S018"
+      ],
+      "counting_unit": "сопоставление источников"
+    },
+    {
+      "id": "GEO-021",
+      "title": "Войти, чтобы защитить",
+      "file": "INTERNATIONAL.md",
+      "anchor": "geo-021",
+      "status": "асимметрия порога доверия к обоснованию",
+      "source_ids": [
+        "XG-S007",
+        "XG-S019"
+      ],
+      "counting_unit": "сопоставление источников"
+    },
+    {
+      "id": "GEO-022",
+      "title": "Напасть можно, но провести надо иначе",
+      "file": "INTERNATIONAL.md",
+      "anchor": "geo-022",
+      "status": "открытый политический критерий",
+      "source_ids": [
+        "XG-S020"
+      ],
+      "counting_unit": "сопоставление источников"
+    },
+    {
+      "id": "GEO-023",
+      "title": "Две американские силовые истории",
+      "file": "INTERNATIONAL.md",
+      "anchor": "geo-023",
+      "status": "открытый политический критерий",
+      "source_ids": [
+        "XG-S021",
+        "XG-S022",
+        "XG-S023",
+        "XG-S024"
+      ],
+      "counting_unit": "сопоставление источников"
+    },
+    {
+      "id": "GEO-024",
+      "title": "Ливнёвка с адресной книгой",
+      "file": "EVERYDAY.md",
+      "anchor": "geo-024",
+      "status": "различие масштаба бытового обобщения",
+      "source_ids": [
+        "XG-S031",
+        "XG-S032",
+        "XG-S033",
+        "XG-S034"
+      ],
+      "counting_unit": "сопоставление источников"
+    },
+    {
+      "id": "GEO-025",
+      "title": "Кто имеет право жаловаться на Испанию",
+      "file": "EVERYDAY.md",
+      "anchor": "geo-025",
+      "status": "различие адресата критики и права на обобщение",
+      "source_ids": [
+        "XG-S035",
+        "XG-S036",
+        "XG-S037",
+        "XG-S038",
+        "XG-S039",
+        "XG-S040"
+      ],
+      "counting_unit": "сопоставление источников"
+    },
+    {
+      "id": "GEO-026",
+      "title": "Радиус обобщения после пожара",
+      "file": "EVERYDAY.md",
+      "anchor": "geo-026",
+      "status": "различие масштаба бытового обобщения",
+      "source_ids": [
+        "XG-S041",
+        "XG-S042",
+        "XG-S043"
+      ],
+      "counting_unit": "сопоставление источников"
+    }
+  ],
+  "note": "Карточки — единицы разбора, а не число независимых доказанных двойных стандартов. Внутри цепочек и со старыми реестрами есть общие источники."
+}

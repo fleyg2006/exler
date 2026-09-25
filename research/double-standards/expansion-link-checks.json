@@ -1,0 +1,46 @@
+{
+  "checked_at": "2026-09-25T20:49:32.385737+00:00",
+  "method": "Отдельно открыты пять страниц /blog/comments/; десять авторских реплик сопоставлены с HTML статьи по имени и SHA-256 собственного текста.",
+  "checks": [
+    {
+      "url": "https://exler.es/blog/comments/general-kellog-o-ramkakh-prilichiy.htm#1hk2l",
+      "same_author_and_text": true
+    },
+    {
+      "url": "https://exler.es/blog/comments/shtab-khamas-pod-zdaniyem-oon-v-gaze.htm#1aoor",
+      "same_author_and_text": true
+    },
+    {
+      "url": "https://exler.es/blog/comments/shtab-khamas-pod-zdaniyem-oon-v-gaze.htm#1ap0t",
+      "same_author_and_text": true
+    },
+    {
+      "url": "https://exler.es/blog/comments/shtab-khamas-pod-zdaniyem-oon-v-gaze.htm#1ap18",
+      "same_author_and_text": true
+    },
+    {
+      "url": "https://exler.es/blog/comments/vystupleniye-senatora-kloda-malyure.htm#1mqgu",
+      "same_author_and_text": true
+    },
+    {
+      "url": "https://exler.es/blog/comments/vystupleniye-senatora-kloda-malyure.htm#1mqhy",
+      "same_author_and_text": true
+    },
+    {
+      "url": "https://exler.es/blog/comments/vystupleniye-senatora-kloda-malyure.htm#1mqsg",
+      "same_author_and_text": true
+    },
+    {
+      "url": "https://exler.es/blog/comments/vystupleniye-senatora-kloda-malyure.htm#1mqt7",
+      "same_author_and_text": true
+    },
+    {
+      "url": "https://exler.es/blog/comments/istoriya-s-linor-goralik-i-tartusskim-universitetom.htm#1651u",
+      "same_author_and_text": true
+    },
+    {
+      "url": "https://exler.es/blog/comments/chto-v-sochi-to-tvoritsya.htm#112ps",
+      "same_author_and_text": true
+    }
+  ]
+}
