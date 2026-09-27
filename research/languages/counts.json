@@ -1,0 +1,33 @@
+{
+  "checked_at": "2026-09-27",
+  "main_cases": 30,
+  "status_counts": {
+    "verified_error": 4,
+    "acknowledged_correction": 20,
+    "argumentation": 3,
+    "policy_change": 1,
+    "selective_rule": 2
+  },
+  "category_counts": {
+    "spanish": 6,
+    "english": 8,
+    "cinema": 9,
+    "terminology": 2,
+    "names": 5
+  },
+  "primary_pages_in_main_cases": 31,
+  "author_reply_links_checked": 52,
+  "cult_checks": 17,
+  "learning_timeline_points": 9,
+  "satirical_scenarios": 12,
+  "finished_parodies": 2,
+  "search_corpus_rows": {
+    "posts": 14443,
+    "alex_comments": 19662,
+    "cult": 3175
+  },
+  "distinct_requested_urls": 376,
+  "parsed_requested_urls": 259,
+  "unique_final_urls": 255,
+  "manifest_cited_entries": 69
+}

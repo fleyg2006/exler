@@ -1,0 +1,37 @@
+[
+  {
+    "url": "https://i1368.photobucket.com/albums/ag195/Stern11/Exler_AmazingRabbis_zps00dc492a.png",
+    "sha256": "e40cee81ea1993b03afe425cb4b853c3470f331b1fcec82e709d3fc76eaaa86a",
+    "bytes": 229917,
+    "checked_at": "2026-09-27",
+    "note": "Изображение старого заголовка; C-02."
+  },
+  {
+    "url": "https://ic.pics.livejournal.com/sapiens17/53800983/217867/217867_original.jpg",
+    "sha256": "c6dea8c81a7f3e6b783f6b8ad1d52140d38cc4cf78e6a475c4765a937343fab0",
+    "bytes": 37046,
+    "checked_at": "2026-09-27",
+    "note": "Цитата из гостевого юмористического текста; C-01."
+  },
+  {
+    "url": "https://ic.pics.livejournal.com/never_max/33377204/858/858_original.png",
+    "sha256": "f3e869a8fd2883dc7f0b15f7ca15ef72ced386a28dff07f691f090e40906a2b1",
+    "bytes": 11019,
+    "checked_at": "2026-09-27",
+    "note": "Архивный самоироничный рассказ; C-04."
+  },
+  {
+    "url": "https://ic.pics.livejournal.com/pan_ili_propan/74952458/6085/6085_original.jpg",
+    "sha256": "872a434e5e7baaae8d99dd22870eb7d670ffddb3fd6ffb77b3e2fee7974b40cc",
+    "bytes": 20039,
+    "checked_at": "2026-09-27",
+    "note": "Различение слов, не свидетельство неудачной покупки; C-05."
+  },
+  {
+    "url": "https://ic.pics.livejournal.com/trocepins/23799940/343110/343110_original.png",
+    "sha256": "4d6e738adf250113b94c12cc237b08d8fe3e21cf21f7dff54143cbc265e908af",
+    "bytes": 25489,
+    "checked_at": "2026-09-27",
+    "note": "Поправка к русскому выражению; LANG-027."
+  }
+]

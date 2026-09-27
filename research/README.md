@@ -1,5 +1,9 @@
 # Исследование для сатиры
 
+## Полиглот по целесообразности — 27.09.2026
+
+**[Языки, переводы и фамилии](languages/README.md)**: [30 разборов](languages/CASES.md), [хронология обучения](languages/LEARNING.md), [17 проверок Культа](languages/CULT.md), [12 сцен и две пародии](languages/SATIRE.md). Признанные поправки отделены от споров о транскрипции; [источники](languages/SOURCES.md), [охват](languages/COVERAGE.md), [пересечения](languages/CROSSWALK.md).
+
 ## Суды, войны и быт — продолжение 25.09.2026
 
 **[Суд, война и ливнёвка](double-standards/EXPANSION.md)**: GEO-016–026, 58 первичных страниц, 10 авторских ответов с проверенными ссылками. [Международные сравнения](double-standards/INTERNATIONAL.md), [бытовые сравнения](double-standards/EVERYDAY.md), [восемь сцен и две пародии](double-standards/EXPANSION-SATIRE.md). Отдельные таблицы сохраняют 14 проверок, которые не следует автоматически объявлять новыми двойными стандартами.
@@ -77,3 +81,4 @@
 Статусы материала: `draft`, `evidence_checked`, `satire_ready`, `needs_review`. Проверка источника и качество шутки — две отдельные задачи.
 
 Готовые пародии по исследованию: [бритва](../works/parodies/durable-verdict.md), [аккумуляторы](../works/parodies/socket-independence.md), [декантер](../works/parodies/decanter-retirement.md).
+
