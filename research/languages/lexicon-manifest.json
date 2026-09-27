@@ -1,0 +1,362 @@
+[
+  {
+    "url": "https://exler-cult.livejournal.com/1008610.html",
+    "final_url": "https://exler-cult.livejournal.com/1008610.html",
+    "status": 200,
+    "sha256": "95a4a3d317f5b43b5d0eec7516bba9d7c52a10a2676f9d4da6f86789ed81c12a",
+    "fetched_at": "2026-09-27T21:05:38.211448+00:00",
+    "used_in_new_case": false
+  },
+  {
+    "url": "https://exler-cult.livejournal.com/1145669.html",
+    "final_url": "https://exler-cult.livejournal.com/1145669.html",
+    "status": 200,
+    "sha256": "ee3b17e13e7aecf4230e4aaf0b8963db6300d19d5db90705392c1faa5e3d725f",
+    "fetched_at": "2026-09-27T21:05:38.423385+00:00",
+    "used_in_new_case": false
+  },
+  {
+    "url": "https://exler-cult.livejournal.com/1251547.html",
+    "final_url": "https://exler-cult.livejournal.com/1251547.html",
+    "status": 200,
+    "sha256": "a841de02ebc34a14b67dd643770a8ef30c8f7a850b90ac02379621d699bc60cc",
+    "fetched_at": "2026-09-27T21:05:29.805329+00:00",
+    "used_in_new_case": false
+  },
+  {
+    "url": "https://exler-cult.livejournal.com/1254644.html",
+    "final_url": "https://exler-cult.livejournal.com/1254644.html",
+    "status": 200,
+    "sha256": "810e982e7e3cb671adb476fd1acb62b7c372bb62c77faf258cf8c184d1e997d9",
+    "fetched_at": "2026-09-27T21:01:09.594647+00:00",
+    "used_in_new_case": false
+  },
+  {
+    "url": "https://exler-cult.livejournal.com/1258324.html",
+    "final_url": "https://exler-cult.livejournal.com/1258324.html",
+    "status": 200,
+    "sha256": "e5c2029ceebe4bbc23e6129a86c0a70ce4eb77d248a70f806d5c0218e4798b94",
+    "fetched_at": "2026-09-27T21:05:29.542750+00:00",
+    "used_in_new_case": false
+  },
+  {
+    "url": "https://exler-cult.livejournal.com/937555.html",
+    "final_url": "https://exler-cult.livejournal.com/937555.html",
+    "status": 200,
+    "sha256": "340eca09df90f29217c2a0cb3676c1ce175c8ac2a15a9837f64c4b03017286dd",
+    "fetched_at": "2026-09-27T21:01:21.151916+00:00",
+    "used_in_new_case": false
+  },
+  {
+    "url": "https://exler-cult.livejournal.com/940762.html",
+    "final_url": "https://exler-cult.livejournal.com/940762.html",
+    "status": 200,
+    "sha256": "fb95cffebb9fd5bf3ba28c7ed1104aafe03f14369cc193069276d529f9bf28bb",
+    "fetched_at": "2026-09-27T21:46:35.289230+00:00",
+    "used_in_new_case": false
+  },
+  {
+    "url": "https://exler-cult.livejournal.com/941301.html",
+    "final_url": "https://exler-cult.livejournal.com/941301.html",
+    "status": 200,
+    "sha256": "4a8825e6d5b3e5415177f81f3dea8c2864d990ac34d2fb8c18ec976840f21be1",
+    "fetched_at": "2026-09-27T21:46:34.352848+00:00",
+    "used_in_new_case": false
+  },
+  {
+    "url": "https://exler.es/blog/a-vot-komu-pentkhaus-s-vidom-na-tsentralnyy-park.htm",
+    "final_url": "https://exler.es/blog/a-vot-komu-pentkhaus-s-vidom-na-tsentralnyy-park.htm",
+    "status": 200,
+    "sha256": "57c00a63e2f118578781b603f8e0a35835a0fe04bf7ef08c0ddac218d2213c43",
+    "fetched_at": "2026-09-27T21:46:25.946373+00:00",
+    "used_in_new_case": true
+  },
+  {
+    "url": "https://exler.es/blog/blekaut-v-ispanii.htm",
+    "final_url": "https://exler.es/blog/blekaut-v-ispanii.htm",
+    "status": 200,
+    "sha256": "80084e04eb50002576f6af715f761f2dbe076da006ee064a42d02eb54f6e5136",
+    "fetched_at": "2026-09-27T21:46:25.876141+00:00",
+    "used_in_new_case": false
+  },
+  {
+    "url": "https://exler.es/blog/druzheskoye-suare-3.htm",
+    "final_url": "https://exler.es/blog/druzheskoye-suare-3.htm",
+    "status": 200,
+    "sha256": "d66f20ffa7477f02080022950c85043ce96245333dca0b18718220d0ff1f2140",
+    "fetched_at": "2026-09-27T21:47:50.008772+00:00",
+    "used_in_new_case": true
+  },
+  {
+    "url": "https://exler.es/blog/ikea-i-chem-eto-vse-zakanchivayetsya.htm",
+    "final_url": "https://exler.es/blog/ikea-i-chem-eto-vse-zakanchivayetsya.htm",
+    "status": 200,
+    "sha256": "43a53a526ccd7496182346553ce643e8d11451dbc82f8c7d7253d6d765bcb9e0",
+    "fetched_at": "2026-09-27T21:47:42.068251+00:00",
+    "used_in_new_case": true
+  },
+  {
+    "url": "https://exler.es/blog/ispanskiye-nazvaniya-produktov-i-vin.htm",
+    "final_url": "https://exler.es/blog/ispanskiye-nazvaniya-produktov-i-vin.htm",
+    "status": 200,
+    "sha256": "c652a43fad979a601dd4f60339160290e0e13a368fefec13f98ab0e4b2ebd793",
+    "fetched_at": "2026-09-27T20:57:49.139229+00:00",
+    "used_in_new_case": true
+  },
+  {
+    "url": "https://exler.es/blog/ispanskoye-igristoye.htm",
+    "final_url": "https://exler.es/blog/ispanskoye-igristoye.htm",
+    "status": 200,
+    "sha256": "a0dbb8ebae277d5da9046fdcd44c635d7888d7bbb590da606fe65ed36ecd8f16",
+    "fetched_at": "2026-09-27T21:46:18.476538+00:00",
+    "used_in_new_case": true
+  },
+  {
+    "url": "https://exler.es/blog/khvala-allakhu-oshibka-byla-ustranena.htm",
+    "final_url": "https://exler.es/blog/khvala-allakhu-oshibka-byla-ustranena.htm",
+    "status": 200,
+    "sha256": "d4ac71d6fbf0bf5ad8b8dca0d7fc5b0e7c23d2340941ab7db3eab281e780872e",
+    "fetched_at": "2026-09-27T21:49:38.013915+00:00",
+    "used_in_new_case": false
+  },
+  {
+    "url": "https://exler.es/blog/lesnoy-pazhar-v-malage.htm",
+    "final_url": "https://exler.es/blog/lesnoy-pazhar-v-malage.htm",
+    "status": 200,
+    "sha256": "ad6e8b79e8efd7bce4f476beabf33081ec345c1c40ff6a1c8d9cd10145ba6f0f",
+    "fetched_at": "2026-09-27T21:46:25.521495+00:00",
+    "used_in_new_case": true
+  },
+  {
+    "url": "https://exler.es/blog/london-prodolzhayet-platit-za-nedvizhimost.htm",
+    "final_url": "https://exler.es/blog/london-prodolzhayet-platit-za-nedvizhimost.htm",
+    "status": 200,
+    "sha256": "7f0f0876fa871b7697272c2ebe948e8a6fc63ecfdeacbda32d2a863f570f5755",
+    "fetched_at": "2026-09-27T21:47:41.712855+00:00",
+    "used_in_new_case": true
+  },
+  {
+    "url": "https://exler.es/blog/ne-khotela-stoyat-v-probke.htm",
+    "final_url": "https://exler.es/blog/ne-khotela-stoyat-v-probke.htm",
+    "status": 200,
+    "sha256": "cd7d286228e3bbc9cb0e1acef34de861a3f7c03885734370b1e9dc33f0a92786",
+    "fetched_at": "2026-09-27T21:47:50.257745+00:00",
+    "used_in_new_case": false
+  },
+  {
+    "url": "https://exler.es/blog/obedennoye-5.htm",
+    "final_url": "https://exler.es/blog/obedennoye-5.htm",
+    "status": 200,
+    "sha256": "7147d6b5a586756c2361f04d854317fb053a92adf96de1e9744dcf4c8e53bb8d",
+    "fetched_at": "2026-09-27T21:46:18.158252+00:00",
+    "used_in_new_case": true
+  },
+  {
+    "url": "https://exler.es/blog/oshibka-pri-perevode.htm",
+    "final_url": "https://exler.es/blog/oshibka-pri-perevode.htm",
+    "status": 200,
+    "sha256": "db15e0eeb9d17abbafa2c2dd90531750ef734ec64572935f7fb5acdcd23c69f3",
+    "fetched_at": "2026-09-27T21:49:38.013846+00:00",
+    "used_in_new_case": false
+  },
+  {
+    "url": "https://exler.es/blog/pochemu-vinnyy-tur-imenno-v-pyemonte.htm",
+    "final_url": "https://exler.es/blog/pochemu-vinnyy-tur-imenno-v-pyemonte.htm",
+    "status": 200,
+    "sha256": "d73b66ab3d992ef049a0cc1c8b89c47741615b4a2b051d1f2b72c7abbb9b1745",
+    "fetched_at": "2026-09-27T21:46:18.279295+00:00",
+    "used_in_new_case": true
+  },
+  {
+    "url": "https://exler.es/blog/pokupka-novoj-mashiny-v-ispanii.htm",
+    "final_url": "https://exler.es/blog/pokupka-novoj-mashiny-v-ispanii.htm",
+    "status": 200,
+    "sha256": "d2884512ff916fbc6093a590573a498d5b9235eb52ffa5e8a11a1940d0c195ef",
+    "fetched_at": "2026-09-27T21:49:37.898213+00:00",
+    "used_in_new_case": false
+  },
+  {
+    "url": "https://exler.es/blog/priblizhayetsya-khellouin.htm",
+    "final_url": "https://exler.es/blog/priblizhayetsya-khellouin.htm",
+    "status": 200,
+    "sha256": "81594066a96d69b77fcf0254e3bf56b8877ba94df5c73d2b215cc4b4782538a1",
+    "fetched_at": "2026-09-27T21:03:48.506695+00:00",
+    "used_in_new_case": false
+  },
+  {
+    "url": "https://exler.es/blog/rasprostranennye-oshibki-v-imenah-akterov.htm",
+    "final_url": "https://exler.es/blog/rasprostranennye-oshibki-v-imenah-akterov.htm",
+    "status": 200,
+    "sha256": "bfb04a04d62987a9bd3e0d9a8104b608641d1ae2c95f510d0d878726a47f0786",
+    "fetched_at": "2026-09-27T20:58:22.707933+00:00",
+    "used_in_new_case": false
+  },
+  {
+    "url": "https://exler.es/blog/samsung-galaxy-s21-fe-khaltura.htm",
+    "final_url": "https://exler.es/blog/samsung-galaxy-s21-fe-khaltura.htm",
+    "status": 200,
+    "sha256": "884432b4cffc0313ac4cdf58af92ed54a1e22deedba020d8eab4210e409ab342",
+    "fetched_at": "2026-09-27T21:47:50.089697+00:00",
+    "used_in_new_case": true
+  },
+  {
+    "url": "https://exler.es/blog/seks-pertsy-ched-smit.htm",
+    "final_url": "https://exler.es/blog/seks-pertsy-ched-smit.htm",
+    "status": 200,
+    "sha256": "4e46d8c4e97e48368715d019e264134ede7c920aa9d33343b2a270dc1565fbe4",
+    "fetched_at": "2026-09-27T21:46:32.665425+00:00",
+    "used_in_new_case": true
+  },
+  {
+    "url": "https://exler.es/blog/sovremennye-realii.htm",
+    "final_url": "https://exler.es/blog/sovremennye-realii.htm",
+    "status": 200,
+    "sha256": "d0579b3485d1e8859c794c6d1e57ea50d2620f98e55adaf0acaeef9891475887",
+    "fetched_at": "2026-09-27T21:49:37.978509+00:00",
+    "used_in_new_case": false
+  },
+  {
+    "url": "https://exler.es/blog/spayk-dzhonz-reklamiruyet-airpods-4.htm",
+    "final_url": "https://exler.es/blog/spayk-dzhonz-reklamiruyet-airpods-4.htm",
+    "status": 200,
+    "sha256": "66d09d05bb3a7abf27ddb8f985cb65e524d061375e033b5dc20c1b3c2c4da39d",
+    "fetched_at": "2026-09-27T21:46:25.698466+00:00",
+    "used_in_new_case": false
+  },
+  {
+    "url": "https://exler.es/blog/tusheniye-i-slow-coocking.htm",
+    "final_url": "https://exler.es/blog/tusheniye-i-slow-coocking.htm",
+    "status": 200,
+    "sha256": "626c0e52b759275d6040a229705daef0c3ebf6845323e313ccc6e63f31e5cc4b",
+    "fetched_at": "2026-09-27T21:47:34.208137+00:00",
+    "used_in_new_case": true
+  },
+  {
+    "url": "https://exler.es/blog/vnezapnaya-kalsotada.htm",
+    "final_url": "https://exler.es/blog/vnezapnaya-kalsotada.htm",
+    "status": 200,
+    "sha256": "1bbd523792676d7c240f7d20d216a6e72d3baa10c317699e832ca5dca46fc179",
+    "fetched_at": "2026-09-27T21:47:33.868186+00:00",
+    "used_in_new_case": true
+  },
+  {
+    "url": "https://exler.es/blog/vsemirnyy-den-velosipeda-2.htm",
+    "final_url": "https://exler.es/blog/vsemirnyy-den-velosipeda-2.htm",
+    "status": 200,
+    "sha256": "7d99a994e661fac4281ed48452c20c7d2932a7ceaa92f7fa35e011d9ee3e3478",
+    "fetched_at": "2026-09-27T21:47:33.941461+00:00",
+    "used_in_new_case": true
+  },
+  {
+    "url": "https://exler.es/expromt/obzor-superflagmana-xiaomi-15-ultra.htm",
+    "final_url": "https://exler.es/expromt/obzor-superflagmana-xiaomi-15-ultra.htm",
+    "status": 200,
+    "sha256": "df25dbdff5155d55998d3963d664f9fdab159eff2e7068e8e740817a512aec21",
+    "fetched_at": "2026-09-27T21:03:48.698293+00:00",
+    "used_in_new_case": false
+  },
+  {
+    "url": "https://exler.es/ezhe/istoriya-paeli-recept-prigotovleniya.htm",
+    "final_url": "https://exler.es/ezhe/istoriya-paeli-recept-prigotovleniya.htm",
+    "status": 200,
+    "sha256": "07399313d058128ffc0a6d709bea8bc78a6c3e41c334ecc2e3e287f5452ee367",
+    "fetched_at": "2026-09-27T21:47:42.062998+00:00",
+    "used_in_new_case": true
+  },
+  {
+    "url": "https://exler.es/ezhe/lyubopytnaya-istoriya-gaskonskogo-kadillaka.htm",
+    "final_url": "https://exler.es/ezhe/lyubopytnaya-istoriya-gaskonskogo-kadillaka.htm",
+    "status": 200,
+    "sha256": "cd6c6db7c2745d33541fcd4330607c9e99f78f02d440dc71907166ac2e8a103f",
+    "fetched_at": "2026-09-27T20:56:02.639078+00:00",
+    "used_in_new_case": false
+  },
+  {
+    "url": "https://exler.es/films/chernaya-vdova.htm",
+    "final_url": "https://exler.es/films/chernaya-vdova.htm",
+    "status": 200,
+    "sha256": "facf5a59bd6758675e2368b5fdc4d7d2d5ea382cf37a3dbe3abe1aaff870bcfe",
+    "fetched_at": "2026-09-27T21:47:50.697284+00:00",
+    "used_in_new_case": true
+  },
+  {
+    "url": "https://exler.es/films/istochnik-vechnoj-molodosti.htm",
+    "final_url": "https://exler.es/films/istochnik-vechnoj-molodosti.htm",
+    "status": 200,
+    "sha256": "eb09188a228b763b3f51a29f19bf406e0a5908327ce2f1dc7cd5cea062131a4f",
+    "fetched_at": "2026-09-27T21:47:57.232815+00:00",
+    "used_in_new_case": false
+  },
+  {
+    "url": "https://exler.es/films/odinokie-volki.htm",
+    "final_url": "https://exler.es/films/odinokie-volki.htm",
+    "status": 200,
+    "sha256": "7116a2cab76b44deae4a56d28741660d631f972409c1a2013a033667d4a50d0c",
+    "fetched_at": "2026-09-27T21:47:33.706608+00:00",
+    "used_in_new_case": true
+  },
+  {
+    "url": "https://exler.es/films/ograblenie-v-los-andzhelese.htm",
+    "final_url": "https://exler.es/films/ograblenie-v-los-andzhelese.htm",
+    "status": 200,
+    "sha256": "37c94c42136facab1cdac32c1f6c1ce820827212fa02be96d65c0042858ba8df",
+    "fetched_at": "2026-09-27T21:46:18.326554+00:00",
+    "used_in_new_case": true
+  },
+  {
+    "url": "https://exler.es/films/shramy-parizha.htm",
+    "final_url": "https://exler.es/films/shramy-parizha.htm",
+    "status": 200,
+    "sha256": "8a5d1324eda3488b168008a1d508817b07162de98ad907565cb30619ef2cd2aa",
+    "fetched_at": "2026-09-27T21:47:41.800890+00:00",
+    "used_in_new_case": true
+  },
+  {
+    "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BA%D0%BE%D0%BD%D0%BD%D0%BE%D1%82%D0%B0%D1%86%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+    "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BA%D0%BE%D0%BD%D0%BD%D0%BE%D1%82%D0%B0%D1%86%D0%B8%D1%8F&Search%5BcontentType%5D=all",
+    "status": 200,
+    "sha256": "cff618e66aa5d97185a77d42b9830a21e572e3c4c30d0989adc7a073b3b7679f",
+    "fetched_at": "2026-09-27T21:48:03.582134+00:00",
+    "used_in_new_case": false
+  },
+  {
+    "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BD%D0%B5%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE+%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B5%D0%BB&Search%5BcontentType%5D=all",
+    "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BD%D0%B5%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE+%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B5%D0%BB&Search%5BcontentType%5D=all",
+    "status": 200,
+    "sha256": "f6aef627ad235559c87bc8d05ef98ffee23897ab44235ab11ba97367d695a898",
+    "fetched_at": "2026-09-27T21:47:57.423343+00:00",
+    "used_in_new_case": false
+  },
+  {
+    "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0+%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%B0&Search%5BcontentType%5D=all",
+    "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0+%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D0%B0&Search%5BcontentType%5D=all",
+    "status": 200,
+    "sha256": "8fbf8d54e6bdbb782290db0fa356e74aefb3ca4dc34ecb8b5166d09f07816c7a",
+    "fetched_at": "2026-09-27T21:47:56.840218+00:00",
+    "used_in_new_case": false
+  },
+  {
+    "url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BF%D0%B5%D1%80%D0%B5%D0%BF%D1%83%D1%82%D0%B0%D0%BB+%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4&Search%5BcontentType%5D=all",
+    "final_url": "https://exler.es/search/?Search%5Bquery%5D=%D0%BF%D0%B5%D1%80%D0%B5%D0%BF%D1%83%D1%82%D0%B0%D0%BB+%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4&Search%5BcontentType%5D=all",
+    "status": 200,
+    "sha256": "3bfe836f398597086f61a239c40da63294639c998807ac09ccf37a0864e0afe3",
+    "fetched_at": "2026-09-27T21:47:57.574058+00:00",
+    "used_in_new_case": false
+  },
+  {
+    "url": "https://exler.es/search/?Search%5Bquery%5D=rectangle&Search%5BcontentType%5D=all",
+    "final_url": "https://exler.es/search/?Search%5Bquery%5D=rectangle&Search%5BcontentType%5D=all",
+    "status": 200,
+    "sha256": "33558892431d18bc46a0b60133fcd344b715fdf69dc7125dd4d9dea3c32159a6",
+    "fetched_at": "2026-09-27T21:48:03.626937+00:00",
+    "used_in_new_case": false
+  },
+  {
+    "url": "https://exler.es/search/?Search%5Bquery%5D=rectangular&Search%5BcontentType%5D=all",
+    "final_url": "https://exler.es/search/?Search%5Bquery%5D=rectangular&Search%5BcontentType%5D=all",
+    "status": 200,
+    "sha256": "f00e7f9cded6acb0109fa058ea8eecbd62947bdce08f5aad507f7748d750afe4",
+    "fetched_at": "2026-09-27T21:48:03.486140+00:00",
+    "used_in_new_case": false
+  }
+]

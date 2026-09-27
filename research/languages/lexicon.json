@@ -1,0 +1,668 @@
+{
+  "checked_at": "2026-09-28",
+  "timezone": "Europe/Moscow",
+  "cases": [
+    {
+      "id": "LANG-031",
+      "title": "Лосось вооружился собственным копьём",
+      "date": "2024-05-27",
+      "group": "Перевод и грамматика",
+      "status": "accepted_correction",
+      "before": "Salmon spear передано как «копьё лосося». Читатель спрашивает, где у рыбы копьё.",
+      "after": "Автор прямо признаёт ошибку и объясняет, что это копьё для охоты на лосося. В той же ветке принимает исправление названия billhook; оба замечания оставлены одной карточкой.",
+      "limit": "Это конкретная неверная связь слов в переводе. Подмена смысла установлена без предположений о том, кто делал первый перевод.",
+      "scene": "Рыба приходит на рыбалку со своим оружием. После комментария оружие возвращают рыбаку.",
+      "sources": [
+        {
+          "label": "Публикация",
+          "url": "https://exler.es/blog/london-prodolzhayet-platit-za-nedvizhimost.htm",
+          "role": "primary"
+        },
+        {
+          "label": "Читатель #1c9vr",
+          "url": "https://exler.es/blog/comments/london-prodolzhayet-platit-za-nedvizhimost.htm#1c9vr",
+          "role": "reader",
+          "author": "blackmore"
+        },
+        {
+          "label": "Ответ автора #1c9we",
+          "url": "https://exler.es/blog/comments/london-prodolzhayet-platit-za-nedvizhimost.htm#1c9we",
+          "role": "author_reply",
+          "author": "Alex Exler"
+        },
+        {
+          "label": "Читатель #1c9w0",
+          "url": "https://exler.es/blog/comments/london-prodolzhayet-platit-za-nedvizhimost.htm#1c9w0",
+          "role": "reader",
+          "author": "Kaleva"
+        },
+        {
+          "label": "Ответ автора #1c9wf",
+          "url": "https://exler.es/blog/comments/london-prodolzhayet-platit-za-nedvizhimost.htm#1c9wf",
+          "role": "author_reply",
+          "author": "Alex Exler"
+        }
+      ],
+      "previous_case": null
+    },
+    {
+      "id": "LANG-032",
+      "title": "Велосипед с эффектом farting",
+      "date": "2024-06-05",
+      "group": "Написание слов и имён",
+      "status": "accepted_correction",
+      "before": "В историческом названии велосипеда вместо penny-farthing напечатано penny-farting. Старую форму дословно сохранил читатель.",
+      "after": "Автор подтверждает поправку; текущий текст содержит farthing. Потеря h случайно образовала английское слово, связанное с выпусканием газов.",
+      "limit": "Это смешная орфографическая ошибка, не доказательство, что автор сознательно переводит название велосипеда таким образом.",
+      "scene": "История транспорта получает газовый привод за счёт одной пропавшей буквы.",
+      "sources": [
+        {
+          "label": "Публикация",
+          "url": "https://exler.es/blog/vsemirnyy-den-velosipeda-2.htm",
+          "role": "primary"
+        },
+        {
+          "label": "Читатель #1cevr",
+          "url": "https://exler.es/blog/comments/vsemirnyy-den-velosipeda-2.htm#1cevr",
+          "role": "reader",
+          "author": "BOPOHOK"
+        },
+        {
+          "label": "Ответ автора #1cew8",
+          "url": "https://exler.es/blog/comments/vsemirnyy-den-velosipeda-2.htm#1cew8",
+          "role": "author_reply",
+          "author": "Alex Exler"
+        },
+        {
+          "label": "Cambridge: penny-farthing",
+          "url": "https://dictionary.cambridge.org/us/dictionary/english/penny-farthing?topic=bicycles",
+          "role": "reference"
+        }
+      ],
+      "previous_case": null
+    },
+    {
+      "id": "LANG-033",
+      "title": "Поджаренный хлеб поменял род",
+      "date": "2025-03-10",
+      "group": "Перевод и грамматика",
+      "status": "accepted_correction",
+      "before": "В описании кальсотады читатель поправляет форму прилагательного при pan и передачу слова parrillada.",
+      "after": "Автор соглашается, даёт pan tostado и парильяда. Текущая статья содержит исправленную испанскую форму.",
+      "limit": "Надёжно установлено принятое замечание о согласовании и написании. Читатель в своём латинском варианте parrillada тоже пропускает r; его весь комментарий не становится справочником нормы.",
+      "scene": "Кулинарный экскурсовод уверенно узнаёт хлеб, но его грамматический род уточняют посетители.",
+      "sources": [
+        {
+          "label": "Публикация",
+          "url": "https://exler.es/blog/vnezapnaya-kalsotada.htm",
+          "role": "primary"
+        },
+        {
+          "label": "Читатель #1h1ew",
+          "url": "https://exler.es/blog/comments/vnezapnaya-kalsotada.htm#1h1ew",
+          "role": "reader",
+          "author": "Saladix"
+        },
+        {
+          "label": "Ответ автора #1h1f2",
+          "url": "https://exler.es/blog/comments/vnezapnaya-kalsotada.htm#1h1f2",
+          "role": "author_reply",
+          "author": "Alex Exler"
+        }
+      ],
+      "previous_case": null
+    },
+    {
+      "id": "LANG-034",
+      "title": "Паэлья для неё или из-за неё",
+      "date": "2023-09-04",
+      "group": "Перевод и грамматика",
+      "status": "accepted_correction",
+      "before": "В изложении легенды о происхождении paella использовано por ella там, где подразумевается «для неё». Читатель предлагает para ella.",
+      "after": "Сначала автор ссылается на испанский источник и собственное удивление, затем сообщает, что заменил выражение.",
+      "limit": "Карточка о передаче фразы в легенде. Исправленная народная этимология не объявляется научным происхождением слова; por и para нельзя вообще свести к одному русскому предлогу на все случаи.",
+      "scene": "Романтическое блюдо в переводе становится последствием отношений; предлог возвращает ему назначение.",
+      "sources": [
+        {
+          "label": "Публикация",
+          "url": "https://exler.es/ezhe/istoriya-paeli-recept-prigotovleniya.htm",
+          "role": "primary"
+        },
+        {
+          "label": "Читатель #186r7",
+          "url": "https://exler.es/ezhe/comments/istoriya-paeli-recept-prigotovleniya.htm#186r7",
+          "role": "reader",
+          "author": "Vasilkysk"
+        },
+        {
+          "label": "Ответ автора #186t3",
+          "url": "https://exler.es/ezhe/comments/istoriya-paeli-recept-prigotovleniya.htm#186t3",
+          "role": "author_reply",
+          "author": "Alex Exler"
+        },
+        {
+          "label": "Ответ автора #186tg",
+          "url": "https://exler.es/ezhe/comments/istoriya-paeli-recept-prigotovleniya.htm#186tg",
+          "role": "author_reply",
+          "author": "Alex Exler"
+        }
+      ],
+      "previous_case": null
+    },
+    {
+      "id": "LANG-035",
+      "title": "Crime 101: преступление по номеру вместо вводного курса",
+      "date": "2026-04-09",
+      "group": "Перевод и грамматика",
+      "status": "accepted_correction",
+      "before": "Читатель цитирует первоначальное объяснение Crime 101 как «Преступление 101» и указывает на английский способ обозначить основы предмета.",
+      "after": "Автор принимает поправку, оговаривая игру слов. Теперь рецензия предлагает «Азбуку преступлений», поясняет учебное 101 и связь с номером шоссе.",
+      "limit": "Это исправление объяснения оригинального названия. Не утверждаем, что любой перевод обязан буквально воспроизвести обе части каламбура.",
+      "scene": "Рецензент принимает номер учебного курса за номер уголовного дела, пока читатель не приносит расписание занятий.",
+      "sources": [
+        {
+          "label": "Публикация",
+          "url": "https://exler.es/films/ograblenie-v-los-andzhelese.htm",
+          "role": "primary"
+        },
+        {
+          "label": "Читатель #1mtgp",
+          "url": "https://exler.es/films/comments/ograblenie-v-los-andzhelese.htm#1mtgp",
+          "role": "reader",
+          "author": "BOPOHOK"
+        },
+        {
+          "label": "Ответ автора #1mthn",
+          "url": "https://exler.es/films/comments/ograblenie-v-los-andzhelese.htm#1mthn",
+          "role": "author_reply",
+          "author": "Alex Exler"
+        },
+        {
+          "label": "Cambridge: 101",
+          "url": "https://dictionary.cambridge.org/dictionary/english/101",
+          "role": "reference"
+        }
+      ],
+      "previous_case": null
+    },
+    {
+      "id": "LANG-036",
+      "title": "Wolfs: исправление читателя тоже требует проверки",
+      "date": "2024-10-07",
+      "group": "Перевод и грамматика",
+      "status": "qualified_interpretation",
+      "before": "Читатель замечает, что обычное множественное число wolf — wolves, и связывает название Wolfs с мистером Вульфом из «Криминального чтива». Автор обещает поправить.",
+      "after": "В доступном тексте категорически отрицается связь названия с волками. Но официальная аннотация Apple описывает главных героев именно как двух lone wolves. Поэтому исключение волчьей метафоры чрезмерно категорично.",
+      "limit": "Apple подтверждает метафору в описании фильма, но не даёт полного авторского объяснения названия. Возможная отсылка к персонажу Тарантино этим не опровергнута. Это проверка интерпретации, а не ещё одна бесспорная орфографическая ошибка.",
+      "scene": "Волков исключают из рецензии по грамматическому основанию, а прокатчик снова проводит их через служебный вход.",
+      "sources": [
+        {
+          "label": "Публикация",
+          "url": "https://exler.es/films/odinokie-volki.htm",
+          "role": "primary"
+        },
+        {
+          "label": "Читатель #1eaqm",
+          "url": "https://exler.es/films/comments/odinokie-volki.htm#1eaqm",
+          "role": "reader",
+          "author": "ElMarco"
+        },
+        {
+          "label": "Ответ автора #1eaqt",
+          "url": "https://exler.es/films/comments/odinokie-volki.htm#1eaqt",
+          "role": "author_reply",
+          "author": "Alex Exler"
+        },
+        {
+          "label": "Официальная аннотация Apple",
+          "url": "https://www.apple.com/tv-pr/originals/wolfs/",
+          "role": "reference"
+        }
+      ],
+      "previous_case": null
+    },
+    {
+      "id": "LANG-037",
+      "title": "Fun Edition вместо Fan Edition",
+      "date": "2022-01-06",
+      "group": "Написание слов и имён",
+      "status": "accepted_correction",
+      "before": "В объяснении приставки FE у Samsung появилось Fun Edition. Исходное написание сохранено в комментарии #x19j.",
+      "after": "В цепочке с ещё одним ответом читателя автор сообщает об исправлении. Теперь в статье Fan Edition.",
+      "limit": "Промах подтверждён, но его причина неизвестна: описка и неверная первоначальная расшифровка не различаются по одной ветке.",
+      "scene": "Телефон для поклонников превращается в телефон для веселья; одна гласная меняет целевую аудиторию.",
+      "sources": [
+        {
+          "label": "Публикация",
+          "url": "https://exler.es/blog/samsung-galaxy-s21-fe-khaltura.htm",
+          "role": "primary"
+        },
+        {
+          "label": "Читатель #x19j",
+          "url": "https://exler.es/blog/comments/samsung-galaxy-s21-fe-khaltura.htm#x19j",
+          "role": "reader",
+          "author": "Ange1"
+        },
+        {
+          "label": "Читатель #x1a7",
+          "url": "https://exler.es/blog/comments/samsung-galaxy-s21-fe-khaltura.htm#x1a7",
+          "role": "reader",
+          "author": "ABVYA"
+        },
+        {
+          "label": "Ответ автора #x1at",
+          "url": "https://exler.es/blog/comments/samsung-galaxy-s21-fe-khaltura.htm#x1at",
+          "role": "author_reply",
+          "author": "Alex Exler"
+        }
+      ],
+      "previous_case": null
+    },
+    {
+      "id": "LANG-038",
+      "title": "Slow Coocking: медленно, зато с лишней буквой",
+      "date": "2025-05-02",
+      "group": "Написание слов и имён",
+      "status": "accepted_correction",
+      "before": "В названии режима приготовления появилось Coocking вместо Cooking. Читатель прямо противопоставляет два написания.",
+      "after": "Автор признаёт ошибку и исправление. Старое coocking осталось в URL страницы.",
+      "limit": "Одна орфографическая ошибка; спор о режимах тушения и медленного приготовления целиком этой карточкой не оценивается.",
+      "scene": "Блюдо готовится долго, но лишнюю согласную приходится извлекать вручную.",
+      "sources": [
+        {
+          "label": "Публикация",
+          "url": "https://exler.es/blog/tusheniye-i-slow-coocking.htm",
+          "role": "primary"
+        },
+        {
+          "label": "Читатель #1hthe",
+          "url": "https://exler.es/blog/comments/tusheniye-i-slow-coocking.htm#1hthe",
+          "role": "reader",
+          "author": "MrBlonde"
+        },
+        {
+          "label": "Ответ автора #1hti4",
+          "url": "https://exler.es/blog/comments/tusheniye-i-slow-coocking.htm#1hti4",
+          "role": "author_reply",
+          "author": "Alex Exler"
+        }
+      ],
+      "previous_case": null
+    },
+    {
+      "id": "LANG-039",
+      "title": "Французский ноябрь переодели в английский",
+      "date": "2023-05-25",
+      "group": "Написание слов и имён",
+      "status": "accepted_correction",
+      "before": "Под рецензией на «Шрамы Парижа» читатель спрашивает, почему в оригинальном названии November вместо французского Novembre.",
+      "after": "Автор подтверждает, что оригинальное название именно Novembre, и сообщает об исправлении.",
+      "limit": "У фильма могут существовать переведённые международные названия. Ошибка касается поля, которое сам автор исправил как оригинальное, а не запрета английского перевода вообще.",
+      "scene": "Фильм получает паспорт соседнего языка; месяц тот же, документы другие.",
+      "sources": [
+        {
+          "label": "Публикация",
+          "url": "https://exler.es/films/shramy-parizha.htm",
+          "role": "primary"
+        },
+        {
+          "label": "Читатель #16ez5",
+          "url": "https://exler.es/films/comments/shramy-parizha.htm#16ez5",
+          "role": "reader",
+          "author": "Zmitrok"
+        },
+        {
+          "label": "Ответ автора #16f1a",
+          "url": "https://exler.es/films/comments/shramy-parizha.htm#16f1a",
+          "role": "author_reply",
+          "author": "Alex Exler"
+        }
+      ],
+      "previous_case": null
+    },
+    {
+      "id": "LANG-040",
+      "title": "Нина Арианда стала Ариадной",
+      "date": "2021-07-22",
+      "group": "Написание слов и имён",
+      "status": "accepted_correction",
+      "before": "В рецензии на «Чёрную вдову» фамилия Нины Арианды превращается в более привычную русскому глазу Ариадну.",
+      "after": "Автор прямо пишет, что знал правильное написание, но всё равно ошибся; благодарит и исправляет.",
+      "limit": "Перестановка букв в фамилии. Она не доказывает незнание английского и не является спором о допустимой транскрипции.",
+      "scene": "В актёрский состав по ассоциации принимают героиню другого культурного справочника.",
+      "sources": [
+        {
+          "label": "Публикация",
+          "url": "https://exler.es/films/chernaya-vdova.htm",
+          "role": "primary"
+        },
+        {
+          "label": "Читатель #u7a5",
+          "url": "https://exler.es/films/comments/chernaya-vdova.htm#u7a5",
+          "role": "reader",
+          "author": "Dmitry Bolkhovityanov"
+        },
+        {
+          "label": "Ответ автора #u7a6",
+          "url": "https://exler.es/films/comments/chernaya-vdova.htm#u7a6",
+          "role": "author_reply",
+          "author": "Alex Exler"
+        }
+      ],
+      "previous_case": null
+    },
+    {
+      "id": "LANG-041",
+      "title": "Vega Sicilia превратилась в Сесилию",
+      "date": "2022-01-30",
+      "group": "Написание слов и имён",
+      "status": "accepted_correction",
+      "before": "В винном обсуждении читатель обнаруживает Вегу Сесилию вместо Vega Sicilia и обыгрывает совпадение с другим именем.",
+      "after": "Автор признаёт собственный промах и даёт исправленное Вега Сисилиа.",
+      "limit": "Наличие одноимённой актрисы — утверждение читателя, отдельно здесь не проверялось. Установлена путаница в названии винного хозяйства.",
+      "scene": "Сомелье открывает бутылку, а читатель приносит результат поиска по совершенно другой рубрике.",
+      "sources": [
+        {
+          "label": "Публикация",
+          "url": "https://exler.es/blog/druzheskoye-suare-3.htm",
+          "role": "primary"
+        },
+        {
+          "label": "Читатель #xhqt",
+          "url": "https://exler.es/blog/comments/druzheskoye-suare-3.htm#xhqt",
+          "role": "reader",
+          "author": "Alonsu"
+        },
+        {
+          "label": "Ответ автора #xhus",
+          "url": "https://exler.es/blog/comments/druzheskoye-suare-3.htm#xhus",
+          "role": "author_reply",
+          "author": "Alex Exler"
+        }
+      ],
+      "previous_case": null
+    },
+    {
+      "id": "LANG-042",
+      "title": "Castillo Clavijo: лишний предлог в названии",
+      "date": "2022-02-12",
+      "group": "Написание слов и имён",
+      "status": "accepted_correction",
+      "before": "В разговоре о вине фигурирует Castillo de Clavijo; читатель пытается найти его под таким названием.",
+      "after": "Автор отдельно сообщает, что ошибся: нужное название — Castillo Clavijo.",
+      "limit": "Это собственное уточнение конкретной марки. Не делаем вывод о том, что сочетание с de нигде не может встретиться как географическое или историческое название.",
+      "scene": "Читатель ищет бутылку по адресу, а адрес отправляет его осматривать замок.",
+      "sources": [
+        {
+          "label": "Публикация",
+          "url": "https://exler.es/blog/ikea-i-chem-eto-vse-zakanchivayetsya.htm",
+          "role": "primary"
+        },
+        {
+          "label": "Читатель #xqbs",
+          "url": "https://exler.es/blog/comments/ikea-i-chem-eto-vse-zakanchivayetsya.htm#xqbs",
+          "role": "reader",
+          "author": "LazyGuy"
+        },
+        {
+          "label": "Ответ автора #xqcj",
+          "url": "https://exler.es/blog/comments/ikea-i-chem-eto-vse-zakanchivayetsya.htm#xqcj",
+          "role": "author_reply",
+          "author": "Alex Exler"
+        }
+      ],
+      "previous_case": null
+    },
+    {
+      "id": "LANG-043",
+      "title": "Монашеская слива записана в виноград",
+      "date": "2025-08-09",
+      "group": "Названия еды и вина",
+      "status": "accepted_correction",
+      "before": "В объяснении испанских названий продуктов Cojon de Fraile первоначально отнесён к винограду.",
+      "after": "Читатель указывает на сливу, автор соглашается и исправляет. В нынешнем тексте это сорт слив.",
+      "limit": "Перепутана категория продукта, а не обязательно буквальный перевод названия. Это повторная проверка прежнего FIX-037. В старом заголовке нашей карточки направление замены было перевёрнуто; заголовок исправлен.",
+      "scene": "Лектор подробно объясняет пикантную часть названия, пока слушатели определяют, что именно выросло на дереве.",
+      "sources": [
+        {
+          "label": "Публикация",
+          "url": "https://exler.es/blog/ispanskiye-nazvaniya-produktov-i-vin.htm",
+          "role": "primary"
+        },
+        {
+          "label": "Читатель #1j93o",
+          "url": "https://exler.es/blog/comments/ispanskiye-nazvaniya-produktov-i-vin.htm#1j93o",
+          "role": "reader",
+          "author": "satyr"
+        },
+        {
+          "label": "Ответ автора #1j94p",
+          "url": "https://exler.es/blog/comments/ispanskiye-nazvaniya-produktov-i-vin.htm#1j94p",
+          "role": "author_reply",
+          "author": "Alex Exler"
+        }
+      ],
+      "previous_case": "FIX-037"
+    },
+    {
+      "id": "LANG-044",
+      "title": "Тартар оказался татаки",
+      "date": "2025-08-24",
+      "group": "Названия еды и вина",
+      "status": "accepted_correction",
+      "before": "Блюдо из тунца названо тартаром. Читатель обращает внимание на способ приготовления и вид блюда.",
+      "after": "Автор принимает поправку и называет татаки. Отдельного исследования японской кухни для установления признанной замены не требуется.",
+      "limit": "Тартар бывает не только мясным: упрощение читателя о рубленом мясе не переносится в нашу норму. Речь о конкретном блюде. Ранее FIX-038.",
+      "scene": "Кулинарный эксперт различает нюансы вкуса, а название блюда возвращают с соседнего столика.",
+      "sources": [
+        {
+          "label": "Публикация",
+          "url": "https://exler.es/blog/obedennoye-5.htm",
+          "role": "primary"
+        },
+        {
+          "label": "Читатель #1ji04",
+          "url": "https://exler.es/blog/comments/obedennoye-5.htm#1ji04",
+          "role": "reader",
+          "author": "Slavva"
+        },
+        {
+          "label": "Ответ автора #1ji0a",
+          "url": "https://exler.es/blog/comments/obedennoye-5.htm#1ji0a",
+          "role": "author_reply",
+          "author": "Alex Exler"
+        }
+      ],
+      "previous_case": "FIX-038"
+    },
+    {
+      "id": "LANG-045",
+      "title": "Gavi: новый сорт из названия вина",
+      "date": "2024-03-31",
+      "group": "Названия еды и вина",
+      "status": "accepted_correction",
+      "before": "В рекламе винного тура Gavi назван отдельным автохтонным сортом. На первую поправку автор отвечает, что это действительно иной сорт, и возвращает читателю требование тщательности.",
+      "after": "После повторного возражения он признаёт ошибку, извиняется и исправляет. Consorzio Tutela del Gavi описывает Gavi как вино из Cortese.",
+      "limit": "Первое замечание читателя само подано с уколом. Сохраняем последующее авторское извинение, а не обрываем историю на споре. Ранее FIX-001.",
+      "scene": "Винный маршрут включает ускоренную селекцию: новый сорт появляется на сайте и исчезает после второго комментария.",
+      "sources": [
+        {
+          "label": "Публикация",
+          "url": "https://exler.es/blog/pochemu-vinnyy-tur-imenno-v-pyemonte.htm",
+          "role": "primary"
+        },
+        {
+          "label": "Читатель #1bh1m",
+          "url": "https://exler.es/blog/comments/pochemu-vinnyy-tur-imenno-v-pyemonte.htm#1bh1m",
+          "role": "reader",
+          "author": "CGHost"
+        },
+        {
+          "label": "Ответ автора #1bh45",
+          "url": "https://exler.es/blog/comments/pochemu-vinnyy-tur-imenno-v-pyemonte.htm#1bh45",
+          "role": "author_reply",
+          "author": "Alex Exler"
+        },
+        {
+          "label": "Читатель #1bh7e",
+          "url": "https://exler.es/blog/comments/pochemu-vinnyy-tur-imenno-v-pyemonte.htm#1bh7e",
+          "role": "reader",
+          "author": "CGHost"
+        },
+        {
+          "label": "Ответ автора #1bh7x",
+          "url": "https://exler.es/blog/comments/pochemu-vinnyy-tur-imenno-v-pyemonte.htm#1bh7x",
+          "role": "author_reply",
+          "author": "Alex Exler"
+        },
+        {
+          "label": "Consorzio Tutela del Gavi",
+          "url": "https://www.consorziogavi.com/en/viticoltura/",
+          "role": "reference"
+        }
+      ],
+      "previous_case": "FIX-001"
+    },
+    {
+      "id": "LANG-046",
+      "title": "CORPINNAT: марка получила статус аппелласьона",
+      "date": "2024-01-02",
+      "group": "Названия еды и вина",
+      "status": "accepted_correction",
+      "before": "Читатель поправляет написание CORPINNAT и отнесение его к аппелласьонам. Автор сначала принимает орфографическую поправку, но защищает термин ссылкой на разговоры с владельцами хозяйств.",
+      "after": "После дальнейшего возражения соглашается, что назвал так некорректно. Официальный сайт описывает CORPINNAT как коллективную марку ЕС.",
+      "limit": "Речь об употреблении термина в посте 2024 года. Не приписываем владельцам точные слова без записи разговора. Ранее FIX-002.",
+      "scene": "За дегустационным столом марке выдают новый статус, а читатель проверяет регистрацию.",
+      "sources": [
+        {
+          "label": "Публикация",
+          "url": "https://exler.es/blog/ispanskoye-igristoye.htm",
+          "role": "primary"
+        },
+        {
+          "label": "Читатель #1a2nf",
+          "url": "https://exler.es/blog/comments/ispanskoye-igristoye.htm#1a2nf",
+          "role": "reader",
+          "author": "Осетр пера"
+        },
+        {
+          "label": "Ответ автора #1a2oi",
+          "url": "https://exler.es/blog/comments/ispanskoye-igristoye.htm#1a2oi",
+          "role": "author_reply",
+          "author": "Alex Exler"
+        },
+        {
+          "label": "Читатель #1a2t7",
+          "url": "https://exler.es/blog/comments/ispanskoye-igristoye.htm#1a2t7",
+          "role": "reader",
+          "author": "Осетр пера"
+        },
+        {
+          "label": "Ответ автора #1a2tp",
+          "url": "https://exler.es/blog/comments/ispanskoye-igristoye.htm#1a2tp",
+          "role": "author_reply",
+          "author": "Alex Exler"
+        },
+        {
+          "label": "Официальный CORPINNAT",
+          "url": "https://www.corpinnat.com/en/",
+          "role": "reference"
+        }
+      ],
+      "previous_case": "FIX-002"
+    },
+    {
+      "id": "LANG-047",
+      "title": "Минуты стали секундами: пожар ускорился в 60 раз",
+      "date": "2022-06-09",
+      "group": "Единицы и количество",
+      "status": "accepted_correction",
+      "before": "Скорость огня из испанской новости — 30 метров в минуту — была передана как 30 метров в секунду.",
+      "after": "Читатель приводит испанскую исходную строку, автор признаёт ошибку и исправляет. Текущее описание содержит минуты.",
+      "limit": "Коэффициент 60 относится к искажению единицы в пересказе, а не к реально измеренному нами пожару. Ранее FIX-035.",
+      "scene": "Для катастрофического эффекта переводчику хватает заменить одно слово, не трогая число.",
+      "sources": [
+        {
+          "label": "Публикация",
+          "url": "https://exler.es/blog/lesnoy-pazhar-v-malage.htm",
+          "role": "primary"
+        },
+        {
+          "label": "Читатель #10acu",
+          "url": "https://exler.es/blog/comments/lesnoy-pazhar-v-malage.htm#10acu",
+          "role": "reader",
+          "author": "Raiker"
+        },
+        {
+          "label": "Ответ автора #10aij",
+          "url": "https://exler.es/blog/comments/lesnoy-pazhar-v-malage.htm#10aij",
+          "role": "author_reply",
+          "author": "Alex Exler"
+        }
+      ],
+      "previous_case": "FIX-035"
+    },
+    {
+      "id": "LANG-048",
+      "title": "Пентхаус разросся из футов в метры",
+      "date": "2025-03-22",
+      "group": "Единицы и количество",
+      "status": "accepted_correction",
+      "before": "Площадь 5500 квадратных футов представлена как 5500 квадратных метров.",
+      "after": "После читательского пересчёта примерно в 511 м² автор сообщает об исправлении. Ошибка увеличивала указанную площадь примерно в 10,76 раза.",
+      "limit": "Это передача единиц площади. По ветке нельзя установить, возник ли сбой непосредственно при переводе или при редактировании пересказа. Ранее FIX-033 и FAIL-047.",
+      "scene": "Риелтор предлагает дворец; корректор за один комментарий возвращает обычный дорогой пентхаус.",
+      "sources": [
+        {
+          "label": "Публикация",
+          "url": "https://exler.es/blog/a-vot-komu-pentkhaus-s-vidom-na-tsentralnyy-park.htm",
+          "role": "primary"
+        },
+        {
+          "label": "Читатель #1h824",
+          "url": "https://exler.es/blog/comments/a-vot-komu-pentkhaus-s-vidom-na-tsentralnyy-park.htm#1h824",
+          "role": "reader",
+          "author": "nikitamur"
+        },
+        {
+          "label": "Ответ автора #1h82h",
+          "url": "https://exler.es/blog/comments/a-vot-komu-pentkhaus-s-vidom-na-tsentralnyy-park.htm#1h82h",
+          "role": "author_reply",
+          "author": "Alex Exler"
+        }
+      ],
+      "previous_case": "FIX-033 / FAIL-047"
+    },
+    {
+      "id": "LANG-049",
+      "title": "Два зубчика выросли до двух головок",
+      "date": "2022-06-11",
+      "group": "Единицы и количество",
+      "status": "accepted_correction",
+      "before": "В одном рецепте сначала указана пара зубчиков чеснока, а дальше уже пара головок.",
+      "after": "Автор подтверждает, что нужны зубчики, и сообщает об исправлении.",
+      "limit": "Никакого английского cloves в доказательстве нет: это внутренняя несогласованность русского рецепта, а не установленный ложный друг переводчика. Ранее FIX-039.",
+      "scene": "Чеснок проходит редактуру и теряет большую часть боевой мощности.",
+      "sources": [
+        {
+          "label": "Публикация",
+          "url": "https://exler.es/blog/seks-pertsy-ched-smit.htm",
+          "role": "primary"
+        },
+        {
+          "label": "Читатель #10bu2",
+          "url": "https://exler.es/blog/comments/seks-pertsy-ched-smit.htm#10bu2",
+          "role": "reader",
+          "author": "algol"
+        },
+        {
+          "label": "Ответ автора #10bur",
+          "url": "https://exler.es/blog/comments/seks-pertsy-ched-smit.htm#10bur",
+          "role": "author_reply",
+          "author": "Alex Exler"
+        }
+      ],
+      "previous_case": "FIX-039"
+    }
+  ]
+}

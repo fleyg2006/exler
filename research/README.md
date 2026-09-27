@@ -1,5 +1,9 @@
 # Исследование для сатиры
 
+## Языковые ляпы — продолжение 28.09.2026
+
+**[Копьё лосося и велосипед с газовым приводом](languages/LEXICON.md)**: LANG-031–049, 19 дополнительных разборов. [Охват](languages/LEXICON-COVERAGE.md) · [Общий вход: 49 разборов](languages/README.md).
+
 ## Полиглот по целесообразности — 27.09.2026
 
 **[Языки, переводы и фамилии](languages/README.md)**: [30 разборов](languages/CASES.md), [хронология обучения](languages/LEARNING.md), [17 проверок Культа](languages/CULT.md), [12 сцен и две пародии](languages/SATIRE.md). Признанные поправки отделены от споров о транскрипции; [источники](languages/SOURCES.md), [охват](languages/COVERAGE.md), [пересечения](languages/CROSSWALK.md).
@@ -81,4 +85,5 @@
 Статусы материала: `draft`, `evidence_checked`, `satire_ready`, `needs_review`. Проверка источника и качество шутки — две отдельные задачи.
 
 Готовые пародии по исследованию: [бритва](../works/parodies/durable-verdict.md), [аккумуляторы](../works/parodies/socket-independence.md), [декантер](../works/parodies/decanter-retirement.md).
+
 

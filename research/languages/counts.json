@@ -29,5 +29,17 @@
   "distinct_requested_urls": 376,
   "parsed_requested_urls": 259,
   "unique_final_urls": 255,
-  "manifest_cited_entries": 69
+  "manifest_cited_entries": 69,
+  "lexicon_expansion": {
+    "checked_at": "2026-09-28",
+    "timezone": "Europe/Moscow",
+    "cases": 19,
+    "direct_corrections": 18,
+    "qualified_interpretation": 1,
+    "primary_pages": 19,
+    "author_reply_links_checked": 23,
+    "previous_fix_cases": 7,
+    "requested_urls": 45
+  },
+  "total_cases_including_expansion": 49
 }
