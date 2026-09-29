@@ -1,5 +1,9 @@
 # Исследование для сатиры
 
+## Книга о похудении — 29.09.2026
+
+**[Доктор Худ: с фактами сложнее](weight-book/README.md)** — [12 проверок](weight-book/CASES.md) по полному официальному EPUB. [Исследования и документы](weight-book/SOURCES.md) · [Контрольные примеры](weight-book/CONTROLS.md) · [Восемь сцен](weight-book/SATIRE.md) · [Охват и воспроизводимость](weight-book/METHOD.md).
+
 ## Языковые ляпы — продолжение 28.09.2026
 
 **[Копьё лосося и велосипед с газовым приводом](languages/LEXICON.md)**: LANG-031–049, 19 дополнительных разборов. [Охват](languages/LEXICON-COVERAGE.md) · [Общий вход: 49 разборов](languages/README.md).
@@ -85,5 +89,6 @@
 Статусы материала: `draft`, `evidence_checked`, `satire_ready`, `needs_review`. Проверка источника и качество шутки — две отдельные задачи.
 
 Готовые пародии по исследованию: [бритва](../works/parodies/durable-verdict.md), [аккумуляторы](../works/parodies/socket-independence.md), [декантер](../works/parodies/decanter-retirement.md).
+
 
 

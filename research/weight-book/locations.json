@@ -1,0 +1,366 @@
+{
+  "checked_at": "2026-09-29",
+  "edition_year": 2018,
+  "source_url": "https://exler.es/books/Exler-Pokhudet.epub",
+  "sha256": "82818ef111f59e3748371ea6e9a48698ce8c4ef1398f00b0eaeb4f9879888da3",
+  "bytes": 3063941,
+  "chapters": 16,
+  "blocks": 978,
+  "cases": [
+    {
+      "id": "WB-001",
+      "status": "term",
+      "science_sources": [
+        "S01",
+        "S02"
+      ],
+      "locations": [
+        {
+          "n": 449,
+          "file": "index_split_001.html",
+          "chapter": 7,
+          "chapter_block": 44,
+          "tag": "p",
+          "sha256": "13b9a7b8189c8b95356b13112720e1247ede51741cc7f72e42b99e91baaa9052"
+        },
+        {
+          "n": 485,
+          "file": "index_split_001.html",
+          "chapter": 8,
+          "chapter_block": 13,
+          "tag": "p",
+          "sha256": "ea07319e17f24780e4cbc0803ae0ff16bb24bb61b5832d39acda315f7423d693"
+        }
+      ]
+    },
+    {
+      "id": "WB-002",
+      "status": "physiology",
+      "science_sources": [
+        "S02"
+      ],
+      "locations": [
+        {
+          "n": 656,
+          "file": "index_split_002.html",
+          "chapter": 11,
+          "chapter_block": 9,
+          "tag": "p",
+          "sha256": "65febc652fb3a45b22b744ab68484f79c128fc9da7493876c8dbd22029a42e4e"
+        },
+        {
+          "n": 485,
+          "file": "index_split_001.html",
+          "chapter": 8,
+          "chapter_block": 13,
+          "tag": "p",
+          "sha256": "ea07319e17f24780e4cbc0803ae0ff16bb24bb61b5832d39acda315f7423d693"
+        }
+      ]
+    },
+    {
+      "id": "WB-003",
+      "status": "physiology",
+      "science_sources": [
+        "S03"
+      ],
+      "locations": [
+        {
+          "n": 480,
+          "file": "index_split_001.html",
+          "chapter": 8,
+          "chapter_block": 8,
+          "tag": "p",
+          "sha256": "00799f2c8e07cec59c0877c84deca7b24d24e9d410d79e728ee4c8f79068cf2c"
+        },
+        {
+          "n": 499,
+          "file": "index_split_001.html",
+          "chapter": 8,
+          "chapter_block": 27,
+          "tag": "li",
+          "sha256": "437d5890ebfbe1af9b22c6d26bdb66024c9b1e31e258694a81d4be653d2f6a97"
+        },
+        {
+          "n": 605,
+          "file": "index_split_002.html",
+          "chapter": 10,
+          "chapter_block": 25,
+          "tag": "p",
+          "sha256": "94706b5f1c5a01b8351aeb0fb19947cee423f9e76aa9334d87c2f3ca73e87d11"
+        },
+        {
+          "n": 609,
+          "file": "index_split_002.html",
+          "chapter": 10,
+          "chapter_block": 29,
+          "tag": "p",
+          "sha256": "0c35b623ead24ad8b492dc8006d9191affbc2907eaae10063298915d951b78bc"
+        },
+        {
+          "n": 513,
+          "file": "index_split_001.html",
+          "chapter": 8,
+          "chapter_block": 41,
+          "tag": "p",
+          "sha256": "268990dfc5bfd6df8153b19c16008c21224b3d9b4d33b5f2a983d4fc4c62585e"
+        },
+        {
+          "n": 515,
+          "file": "index_split_001.html",
+          "chapter": 8,
+          "chapter_block": 43,
+          "tag": "p",
+          "sha256": "5e006323e5c5083182ce6b4da58692696dc73e5193907350f96f2797eb2cc0f1"
+        }
+      ]
+    },
+    {
+      "id": "WB-004",
+      "status": "science_interpretation",
+      "science_sources": [
+        "S04"
+      ],
+      "locations": [
+        {
+          "n": 493,
+          "file": "index_split_001.html",
+          "chapter": 8,
+          "chapter_block": 21,
+          "tag": "p",
+          "sha256": "e7e825646765c6b5b06d4f61cfb89c40407b5d315de8e6b9e9ce60dec4435bf1"
+        },
+        {
+          "n": 500,
+          "file": "index_split_001.html",
+          "chapter": 8,
+          "chapter_block": 28,
+          "tag": "li",
+          "sha256": "70b8272ca99770528ddfbd5e93cc8f7dbe9a081166c5198e1b1edcd6e603a73d"
+        }
+      ]
+    },
+    {
+      "id": "WB-005",
+      "status": "causal_claim",
+      "science_sources": [
+        "S05"
+      ],
+      "locations": [
+        {
+          "n": 494,
+          "file": "index_split_001.html",
+          "chapter": 8,
+          "chapter_block": 22,
+          "tag": "p",
+          "sha256": "f8ed88afd18578cf4007b336331ee1bf5c6d79a347ec2eb2cfa3ebae4319b4eb"
+        }
+      ]
+    },
+    {
+      "id": "WB-006",
+      "status": "categorical_claim",
+      "science_sources": [
+        "S06"
+      ],
+      "locations": [
+        {
+          "n": 517,
+          "file": "index_split_001.html",
+          "chapter": 8,
+          "chapter_block": 45,
+          "tag": "p",
+          "sha256": "4aec8a635b2096c0dfde4c70507cda3cf66037ddbd108804bbaaed1d8a6ad2f1"
+        },
+        {
+          "n": 654,
+          "file": "index_split_002.html",
+          "chapter": 11,
+          "chapter_block": 7,
+          "tag": "p",
+          "sha256": "d8e44dd33e1c6722a7b8e0b034b2a7f5a0a307ec5a0699b9d2001a630e79a833"
+        },
+        {
+          "n": 658,
+          "file": "index_split_002.html",
+          "chapter": 11,
+          "chapter_block": 11,
+          "tag": "p",
+          "sha256": "b39bd7aab9064dc3b55bd69bfd8834f2ea248a544e929112248085fb182e870f"
+        }
+      ]
+    },
+    {
+      "id": "WB-007",
+      "status": "composition",
+      "science_sources": [
+        "S07"
+      ],
+      "locations": [
+        {
+          "n": 679,
+          "file": "index_split_002.html",
+          "chapter": 11,
+          "chapter_block": 32,
+          "tag": "p",
+          "sha256": "c79665ba5887f517c50c2d8e97e6153a1cd1e160d520cbf14839386f1689dfdd"
+        }
+      ]
+    },
+    {
+      "id": "WB-008",
+      "status": "overgeneralization",
+      "science_sources": [
+        "S08"
+      ],
+      "locations": [
+        {
+          "n": 679,
+          "file": "index_split_002.html",
+          "chapter": 11,
+          "chapter_block": 32,
+          "tag": "p",
+          "sha256": "c79665ba5887f517c50c2d8e97e6153a1cd1e160d520cbf14839386f1689dfdd"
+        },
+        {
+          "n": 680,
+          "file": "index_split_002.html",
+          "chapter": 11,
+          "chapter_block": 33,
+          "tag": "p",
+          "sha256": "a84e2f853c7e0a652ec5096255a9fd084d366eb7e6fdf1f7213f08c133f2d22a"
+        },
+        {
+          "n": 683,
+          "file": "index_split_002.html",
+          "chapter": 11,
+          "chapter_block": 36,
+          "tag": "p",
+          "sha256": "d659f2c08c5be6d9dadcbdced393ee5ef819301fdd5da0f494da5789b6d538b6"
+        },
+        {
+          "n": 917,
+          "file": "index_split_002.html",
+          "chapter": 16,
+          "chapter_block": 32,
+          "tag": "p",
+          "sha256": "93a2de897d18db8c4db57b7494b2571506f86b4f5eba0859414a01f1903a82b9"
+        }
+      ]
+    },
+    {
+      "id": "WB-009",
+      "status": "overgeneralization",
+      "science_sources": [
+        "S09"
+      ],
+      "locations": [
+        {
+          "n": 915,
+          "file": "index_split_002.html",
+          "chapter": 16,
+          "chapter_block": 30,
+          "tag": "p",
+          "sha256": "986bc0e4c3facd8acc1a9baf9e611b49c023db56fde7c8cc2ba3e9257e8f1160"
+        },
+        {
+          "n": 946,
+          "file": "index_split_002.html",
+          "chapter": 16,
+          "chapter_block": 61,
+          "tag": "li",
+          "sha256": "986ef9de61fd920d63ec42c6c69713d220da936e4d2089c4791c0df685c02fdf"
+        },
+        {
+          "n": 690,
+          "file": "index_split_002.html",
+          "chapter": 11,
+          "chapter_block": 43,
+          "tag": "p",
+          "sha256": "fd8319090c5297d188928e51d039ca8f0a4ffa11da45f3f32c2eb9c629f58b7f"
+        }
+      ]
+    },
+    {
+      "id": "WB-010",
+      "status": "term",
+      "science_sources": [
+        "S10"
+      ],
+      "locations": [
+        {
+          "n": 497,
+          "file": "index_split_001.html",
+          "chapter": 8,
+          "chapter_block": 25,
+          "tag": "p",
+          "sha256": "e368cdecd0b672897de768f964065ab4293faf90d388652f4941065684ecd3ce"
+        }
+      ]
+    },
+    {
+      "id": "WB-011",
+      "status": "extrapolation",
+      "science_sources": [
+        "S11"
+      ],
+      "locations": [
+        {
+          "n": 798,
+          "file": "index_split_002.html",
+          "chapter": 13,
+          "chapter_block": 49,
+          "tag": "p",
+          "sha256": "071fa442b8bcca36408ed504ef967491b639c40468e9bb261e6477fe80403ae5"
+        },
+        {
+          "n": 800,
+          "file": "index_split_002.html",
+          "chapter": 13,
+          "chapter_block": 51,
+          "tag": "p",
+          "sha256": "0a4cd6c2a1a814c368ff7b7684c718fb367289453479bd00a5a6d0989ff9db86"
+        },
+        {
+          "n": 805,
+          "file": "index_split_002.html",
+          "chapter": 13,
+          "chapter_block": 56,
+          "tag": "p",
+          "sha256": "1e5cbefcedd7094452314403326e57c38e014a62305c32cb7423082d00c28234"
+        }
+      ]
+    },
+    {
+      "id": "WB-012",
+      "status": "editorial",
+      "science_sources": [],
+      "locations": [
+        {
+          "n": 963,
+          "file": "index_split_002.html",
+          "chapter": 16,
+          "chapter_block": 78,
+          "tag": "li",
+          "sha256": "96d4d0fa4b45424a564a9e53fc07ef3ae40bc7bd50e910d567f4e0f4530c66e0"
+        },
+        {
+          "n": 977,
+          "file": "index_split_002.html",
+          "chapter": 16,
+          "chapter_block": 92,
+          "tag": "p",
+          "sha256": "be03f94a0e32614ef08348ed373cc7d8973e4af8cd8d2a32a8ca9c5d3b2d5cc8"
+        },
+        {
+          "n": 978,
+          "file": "index_split_002.html",
+          "chapter": 16,
+          "chapter_block": 93,
+          "tag": "p",
+          "sha256": "375e7e3173f17aedd5ef38da1c4442742a315a32bc6f9ef80f6d69e7b38fcc66"
+        }
+      ]
+    }
+  ]
+}
