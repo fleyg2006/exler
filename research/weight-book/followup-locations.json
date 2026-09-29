@@ -1,0 +1,122 @@
+{
+  "checked_at": "2026-09-29",
+  "book_sha256": "82818ef111f59e3748371ea6e9a48698ce8c4ef1398f00b0eaeb4f9879888da3",
+  "book_cases": [
+    {
+      "id": "WB-013",
+      "status": "overgeneralization",
+      "science_sources": [
+        "S12"
+      ],
+      "locations": [
+        {
+          "n": 723,
+          "file": "index_split_002.html",
+          "chapter": 12,
+          "chapter_block": 7,
+          "tag": "p",
+          "sha256": "7dca857884647596cb3b01e93a7346ce85e01aa0d118b8c6175e314ffa3a3238"
+        },
+        {
+          "n": 724,
+          "file": "index_split_002.html",
+          "chapter": 12,
+          "chapter_block": 8,
+          "tag": "p",
+          "sha256": "a1cc5b8c007a9ec13b10b7c4972bd8dc52f12b85cf0702db060f9b36e298ff8c"
+        },
+        {
+          "n": 725,
+          "file": "index_split_002.html",
+          "chapter": 12,
+          "chapter_block": 9,
+          "tag": "p",
+          "sha256": "671757d827b38150e4e0329de95511736a1b9f9720997680261c189b6cb64bdd"
+        },
+        {
+          "n": 726,
+          "file": "index_split_002.html",
+          "chapter": 12,
+          "chapter_block": 10,
+          "tag": "p",
+          "sha256": "cd56a0a7cdcd692935498d3cf6ea4ad0b7eeb5853fcf8f27051f4b7e20b6ac76"
+        }
+      ]
+    },
+    {
+      "id": "WB-014",
+      "status": "overgeneralization",
+      "science_sources": [
+        "S13"
+      ],
+      "locations": [
+        {
+          "n": 753,
+          "file": "index_split_002.html",
+          "chapter": 13,
+          "chapter_block": 4,
+          "tag": "p",
+          "sha256": "95842cb0fa33919d46e652ea8c9ddee375ac2ebcdb951642b1529ca0f8708cd1"
+        },
+        {
+          "n": 767,
+          "file": "index_split_002.html",
+          "chapter": 13,
+          "chapter_block": 18,
+          "tag": "p",
+          "sha256": "07489e600da71d783510e912efbf14f226df5965e5b774eb1d18239abefc444c"
+        },
+        {
+          "n": 928,
+          "file": "index_split_002.html",
+          "chapter": 16,
+          "chapter_block": 43,
+          "tag": "p",
+          "sha256": "b24594db88f8c00834a7d9966d7c07ad29f39a4be0cbac95f12c8fb9eb40247a"
+        }
+      ]
+    }
+  ],
+  "later_article_cases": [
+    {
+      "id": "POST-001",
+      "source_url": "https://exler.es/dieta/kak-ne-poteryat-myshechnuyu-massu-pri-pohudenii.htm",
+      "published_at": "2023-06-27 09:29:00",
+      "corpus_fetched_at": "2026-01-29 16:37:53",
+      "verified_against_live_page": "2026-09-29",
+      "corpus_block_sha256": "9cf66b26e56a458a84cd02bed819a72ca08e72227d39d1aed64d8e2f6a4b60c1",
+      "corpus_block_characters": 415,
+      "locator": "Кроме того, есть определенная тонкость",
+      "science_sources": [
+        "S14"
+      ]
+    },
+    {
+      "id": "POST-002",
+      "source_url": "https://exler.es/dieta/kak-ne-poteryat-myshechnuyu-massu-pri-pohudenii.htm",
+      "published_at": "2023-06-27 09:29:00",
+      "corpus_fetched_at": "2026-01-29 16:37:53",
+      "verified_against_live_page": "2026-09-29",
+      "corpus_block_sha256": "e6baffb2419550d2ba8d9513d3e4cf5b561a36df2ae044beb0c4d3474a078c68",
+      "corpus_block_characters": 139,
+      "locator": "Для вегетарианцев спасение",
+      "science_sources": [
+        "S15"
+      ]
+    },
+    {
+      "id": "POST-003",
+      "source_url": "https://exler.es/dieta/kak-ne-poteryat-myshechnuyu-massu-pri-pohudenii.htm",
+      "published_at": "2023-06-27 09:29:00",
+      "corpus_fetched_at": "2026-01-29 16:37:53",
+      "verified_against_live_page": "2026-09-29",
+      "corpus_block_sha256": "003fb51cc29856f35b25ef42ba9cb0ed8eecb59c9f251db21fdd56d4f76377c2",
+      "corpus_block_characters": 855,
+      "locator": "Я давно уже собираюсь",
+      "science_sources": [
+        "S16"
+      ]
+    }
+  ],
+  "note": "Block hashes refer to the saved extracted corpus, not to current live HTML. No full author text is reproduced."
+}
