@@ -1,0 +1,863 @@
+{
+  "checked_at": "2026-09-29",
+  "project_title": "ХУ..Й С Экслером (ХУЙСЭКС) — худей с Экслером",
+  "files": [
+    "RESULTS.md",
+    "EXCEPTIONS.md",
+    "SELF-REVIEW.md"
+  ],
+  "scope": {
+    "corpus_posts": 14443,
+    "corpus_author_comment_rows": 19662,
+    "corpus_cult_entries": 3175,
+    "machine_weight_candidates": 450,
+    "machine_cult_candidates": 23,
+    "html_pages_fetched": 16,
+    "used_author_comments_html_verified": 5,
+    "timeline_entries": 11,
+    "rule_comparisons": 6,
+    "review_criteria": 6
+  },
+  "normalization": {
+    "body": "BeautifulSoup selected element get_text(\" \", strip=True)",
+    "blocks": "Selected body descendants p,h2,h3,li, nonempty get_text(\" \",strip=True); indexes start at zero",
+    "comments": "From .comments-item > .comments-text; remove .comments-item-reply before get_text(\" \",strip=True). Name from .owner-link, URL from a.link-comm.",
+    "hashes": "SHA-256 of UTF-8 extracted text; HTML checksums refer to this pass snapshot."
+  },
+  "sources": [
+    {
+      "id": "D01",
+      "url": "https://exler.es/dieta/kompleksnyj-podhod.htm",
+      "title": "Комплексный подход",
+      "publication_date_field": "14.03.2017 68270 Комментарии (110)",
+      "checked_at": "2026-09-29T19:17:26.009348+00:00",
+      "http_status": 200,
+      "html_sha256": "8a56e9f7ba7f7fe4930601068422db70a82404b3ae4bbdc2a445293e91f492b7",
+      "body_selector": ".blog-item-content",
+      "body_sha256": "f66ded0f1d2b132bb9c024d2782dc809ab9d6662a5098580f3c6793f082f5158",
+      "locations": [
+        {
+          "locator": "А я все никак не мог понять",
+          "matches": [
+            {
+              "block_index_zero_based": 1,
+              "sha256_text": "be73e6f26d0160032d7d8cada7c299813000a15cdb7e2acc4bb6804e610c3cec",
+              "characters": 18459
+            },
+            {
+              "block_index_zero_based": 32,
+              "sha256_text": "25f4e76a5195518705002cfb7e88d8381751cd41bd4db2a8708b32c3a2caf4ad",
+              "characters": 177
+            }
+          ]
+        },
+        {
+          "locator": "Но все это совершенно индивидуально",
+          "matches": [
+            {
+              "block_index_zero_based": 1,
+              "sha256_text": "be73e6f26d0160032d7d8cada7c299813000a15cdb7e2acc4bb6804e610c3cec",
+              "characters": 18459
+            },
+            {
+              "block_index_zero_based": 47,
+              "sha256_text": "0b425cc6816f15faa5ad01285dd63ae4f58be82850b66a0892969fb10f2f7243",
+              "characters": 153
+            }
+          ]
+        },
+        {
+          "locator": "Потом выяснил",
+          "matches": [
+            {
+              "block_index_zero_based": 1,
+              "sha256_text": "be73e6f26d0160032d7d8cada7c299813000a15cdb7e2acc4bb6804e610c3cec",
+              "characters": 18459
+            },
+            {
+              "block_index_zero_based": 16,
+              "sha256_text": "6c657ab27ff8661c0d7d4cb1f636a40209e26419bab8e1edc04af205d88e51fa",
+              "characters": 268
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D02",
+      "url": "https://exler.es/dieta/skorost-kontrol-alkogol.htm",
+      "title": "Скорость, контроль, алкоголь",
+      "publication_date_field": "19.04.2017 69543 Комментарии (71)",
+      "checked_at": "2026-09-29T19:17:26.285707+00:00",
+      "http_status": 200,
+      "html_sha256": "526a60dcef713b9ed4bdbb5eecdcc6cf3ab4a369d24dbda0084593fe8e121487",
+      "body_selector": ".blog-item-content",
+      "body_sha256": "1d9c9519e4501e32fbe1f778cf838117fd555fb7a3eef52f1e70e47e7c061a16",
+      "locations": [
+        {
+          "locator": "Лично мне ради",
+          "matches": [
+            {
+              "block_index_zero_based": 60,
+              "sha256_text": "1e5cbefcedd7094452314403326e57c38e014a62305c32cb7423082d00c28234",
+              "characters": 310
+            }
+          ]
+        },
+        {
+          "locator": "Да, без алкоголя",
+          "matches": [
+            {
+              "block_index_zero_based": 47,
+              "sha256_text": "0c5932552aeba50caee535c866a73d64298465aa304fc85b413e51f2932f448d",
+              "characters": 245
+            }
+          ]
+        },
+        {
+          "locator": "на голодный желудок",
+          "matches": [
+            {
+              "block_index_zero_based": 54,
+              "sha256_text": "ef759ae70aa48d8190d8a3674d2f16b96bfcdc6246950dfdd4bba80434e918d4",
+              "characters": 218
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D03",
+      "url": "https://exler.es/dieta/svodim-vse-voedino.htm",
+      "title": "Сводим все воедино",
+      "publication_date_field": "22.08.2017 81403 Комментарии (96)",
+      "checked_at": "2026-09-29T19:17:26.451505+00:00",
+      "http_status": 200,
+      "html_sha256": "7c75fe9e9daf7a62235779eec5958bb37b715716036a137684d17455997f1cdc",
+      "body_selector": ".blog-item-content",
+      "body_sha256": "5e4658cd59564a8064aec070dfb586cf1002eec566719cda056fed89a6dd92b0",
+      "locations": [
+        {
+          "locator": "голодные игры",
+          "matches": [
+            {
+              "block_index_zero_based": 34,
+              "sha256_text": "0c46efe1139807d66150923ede5849831ade5820f97e97337f47dd878099561a",
+              "characters": 57
+            }
+          ]
+        },
+        {
+          "locator": "категорически должны избегать",
+          "matches": [
+            {
+              "block_index_zero_based": 26,
+              "sha256_text": "4a959129657d57d47b300a8ad2c22eabebbd1f37f2a432dc26470d9c922f6183",
+              "characters": 91
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D04",
+      "url": "https://exler.es/blog/moya-kniga-pokhudet-eto-prosto.htm",
+      "title": "Моя книга \"Похудеть - это просто\"",
+      "publication_date_field": "11.09.2018 10:04 48853 Комментарии (54)",
+      "checked_at": "2026-09-29T19:17:25.827897+00:00",
+      "http_status": 200,
+      "html_sha256": "2fe0efc0baa3b7cb5dd6f3be9251f07ee80db6f95c948b36aaab66a89f39a309",
+      "body_selector": ".blog-item-content",
+      "body_sha256": "7a65ccec0b8d99a2c77953f620590d2a1a872c41bbacee9e810c5da0ef48ece1",
+      "locations": []
+    },
+    {
+      "id": "D05",
+      "url": "https://exler.es/blog/diyeta-sergeya-doli.htm",
+      "title": "Диета Сергея Доли",
+      "publication_date_field": "19.12.2020 13:34 25341 Комментарии (206)",
+      "checked_at": "2026-09-29T19:17:14.396118+00:00",
+      "http_status": 200,
+      "html_sha256": "23d428ff4d8c10ef12630121cdb6584f048d1383f26465a19e4ac05512f4bf53",
+      "body_selector": ".blog-item-content",
+      "body_sha256": "e4bd52e34327ba38fe0726a4e1fdd77abe5369674d62258f290f9c06fcabe873",
+      "locations": [
+        {
+          "locator": "78 килограммов",
+          "matches": [
+            {
+              "block_index_zero_based": 8,
+              "sha256_text": "2511769b780fcaddd0844b1eec026fd634b23f30122c7bf1da130d1eed3285b9",
+              "characters": 691
+            }
+          ]
+        },
+        {
+          "locator": "Какие, на фиг, печеньки",
+          "matches": [
+            {
+              "block_index_zero_based": 5,
+              "sha256_text": "b35a271472b8f20885da4b69ed74b772d8f9e0cda36562536acdf9ecff0e55ee",
+              "characters": 233
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D06",
+      "url": "https://exler.es/blog/razdel-pokhudeniye-na-sayte.htm",
+      "title": "Раздел \"Похудение\" на сайте",
+      "publication_date_field": "31.08.2021 09:57 16381 Комментарии (133)",
+      "checked_at": "2026-09-29T19:17:14.183330+00:00",
+      "http_status": 200,
+      "html_sha256": "53816fb43f82cf07cb51b6505bdff25c00bcd32065fb1c98bcbfdde1f6f2f6bd",
+      "body_selector": ".blog-item-content",
+      "body_sha256": "1716c093c8c7edf620d7ad4ffaa047771cccacce9065b1676ba23f56a7b0abe0",
+      "locations": []
+    },
+    {
+      "id": "D07",
+      "url": "https://exler.es/dieta/kak-ne-poteryat-myshechnuyu-massu-pri-pohudenii.htm",
+      "title": "Как не потерять мышечную массу при похудении",
+      "publication_date_field": "27.06.2023 48330 Комментарии (100)",
+      "checked_at": "2026-09-29T19:17:14.183632+00:00",
+      "http_status": 200,
+      "html_sha256": "c50c45bd027e118b21f60849ee6870104736f65574716085b536fb16f2a3c96a",
+      "body_selector": ".blog-item-content",
+      "body_sha256": "c81d4f5b5b2f90f0a8cf16d4cf5bf0bd4e10c36d843a98db41c95f5a57db369b",
+      "locations": [
+        {
+          "locator": "мой вес сейчас",
+          "matches": [
+            {
+              "block_index_zero_based": 26,
+              "sha256_text": "dbcb24918bf1c278b2df58a148c268a6c4778372e41f9f6277cd96289b35f18f",
+              "characters": 208
+            }
+          ]
+        },
+        {
+          "locator": "набрал за полтора года",
+          "matches": [
+            {
+              "block_index_zero_based": 13,
+              "sha256_text": "dffbf5d7a9eed7e1c142c1af3c426a2ab1717030ac53bb64a32c54618fe6a53d",
+              "characters": 586
+            }
+          ]
+        },
+        {
+          "locator": "усвоенного белка",
+          "matches": [
+            {
+              "block_index_zero_based": 38,
+              "sha256_text": "9cf66b26e56a458a84cd02bed819a72ca08e72227d39d1aed64d8e2f6a4b60c1",
+              "characters": 415
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D08",
+      "url": "https://exler.es/dieta/moj-opyt-intervalnogo-golodaniya.htm",
+      "title": "Мой опыт интервального голодания",
+      "publication_date_field": "14.05.2024 91382 Комментарии (138)",
+      "checked_at": "2026-09-29T19:17:14.184578+00:00",
+      "http_status": 200,
+      "html_sha256": "ad693fb41c5a4cae0e5317546a0597195e4556d7e51d6dc65be99f22bdcf9e0d",
+      "body_selector": ".blog-item-content",
+      "body_sha256": "873a3d26824e28af852bc24d961952b9fbede761a0972c5f35b25674118349b2",
+      "locations": [
+        {
+          "locator": "специалисты спорят",
+          "matches": [
+            {
+              "block_index_zero_based": 28,
+              "sha256_text": "3e8571f1518158d06bf9a967e528a72a868fa9319d22f5c01c475af1beccf1f1",
+              "characters": 390
+            }
+          ]
+        },
+        {
+          "locator": "набрал семь кило",
+          "matches": [
+            {
+              "block_index_zero_based": 29,
+              "sha256_text": "65f3d84ff2e564061c502123b3eaa36b3beb985a950f5413ae2e42147115657d",
+              "characters": 293
+            }
+          ]
+        },
+        {
+          "locator": "не расценивайте",
+          "matches": [
+            {
+              "block_index_zero_based": 17,
+              "sha256_text": "8de0d5f32910e1fd38a81aa84da75c2c45816c4384b6ffbc37408ceffd8a388e",
+              "characters": 97
+            }
+          ]
+        },
+        {
+          "locator": "Само по себе интервальное голодание",
+          "matches": [
+            {
+              "block_index_zero_based": 24,
+              "sha256_text": "cd65d98b193c966a3132cd2a76f07ce09367121050f8233a94eb3578228e4cd8",
+              "characters": 682
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D09",
+      "url": "https://exler.es/blog/mozhno-li-sokhranit-myshtsy-vo-vremya-pokhudeniya.htm",
+      "title": "Можно ли сохранить мышцы во время похудения",
+      "publication_date_field": "28.01.2025 16:22 12974 Комментарии (131)",
+      "checked_at": "2026-09-29T19:17:14.185453+00:00",
+      "http_status": 200,
+      "html_sha256": "7cfc4c41e807447f0b3fb2530cf92bb51aa4080fc29f6447129bc098f9294da1",
+      "body_selector": ".blog-item-content",
+      "body_sha256": "f23070a5edba8a30f18ad84c355cbb7131f791b78f753b4d5f6b04808335bca1",
+      "locations": [
+        {
+          "locator": "вернулся к 80",
+          "matches": [
+            {
+              "block_index_zero_based": 3,
+              "sha256_text": "93f54861b8b7d4acb64845b21409568a4e72e37fd2cfd50ae684299e91f34077",
+              "characters": 322
+            }
+          ]
+        },
+        {
+          "locator": "никакие препараты",
+          "matches": [
+            {
+              "block_index_zero_based": 4,
+              "sha256_text": "fe0a957886c863f2d56ba5cf73ebc8805db3f534adb5c9f7267facc832c82e15",
+              "characters": 233
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D10",
+      "url": "https://exler.es/blog/ozempik-i-posleduyushcheye-vosstanovleniye-vesa.htm",
+      "title": "Оземпик и последующее восстановление веса",
+      "publication_date_field": "30.07.2025 13:00 9168 Комментарии (154)",
+      "checked_at": "2026-09-29T19:17:14.186110+00:00",
+      "http_status": 200,
+      "html_sha256": "6137686779432268dfc81e5b5739d0c88353338147ba7f5a10d14ef1dc7041b6",
+      "body_selector": ".blog-item-content",
+      "body_sha256": "0f53fb89459a5423b71fe5f35e78438999d75bfb619921b50a42189653535551",
+      "locations": [
+        {
+          "locator": "92 до 69",
+          "matches": [
+            {
+              "block_index_zero_based": 4,
+              "sha256_text": "87673191e637a8a908c5a72da01d3d194644fe966426122cf66e026bf443f432",
+              "characters": 377
+            }
+          ]
+        },
+        {
+          "locator": "теперь опять",
+          "matches": [
+            {
+              "block_index_zero_based": 4,
+              "sha256_text": "87673191e637a8a908c5a72da01d3d194644fe966426122cf66e026bf443f432",
+              "characters": 377
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "R01",
+      "url": "https://exler.es/films/gosford-park.htm",
+      "title": "Госфорд Парк",
+      "publication_date_field": "07.02.2003 44170 Комментарии\n                    (2)",
+      "checked_at": "2026-09-29T19:17:34.756915+00:00",
+      "http_status": 200,
+      "html_sha256": "096c5d8d1a9438e3ffc4264c6d0ea4659edd8fd818cc9f802302960f18a2bcdb",
+      "body_selector": ".film-item-content",
+      "body_sha256": "87e1790407d85330a054d4c1654d61fadb97a97058e715ac0573fa09ad6cb460",
+      "locations": [
+        {
+          "locator": "консультантов",
+          "matches": [
+            {
+              "block_index_zero_based": 6,
+              "sha256_text": "96a24e713192936d4133c81455196970f7d79e50e19f9ec361a1191f40a58eb5",
+              "characters": 1185
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "R02",
+      "url": "https://exler.es/films/dvadcat-odno.htm",
+      "title": "Двадцать одно",
+      "publication_date_field": "09.07.2012 48236 Комментарии\n                    (49)",
+      "checked_at": "2026-09-29T19:17:35.063214+00:00",
+      "http_status": 200,
+      "html_sha256": "068ad37f1c732e9b6cf4dc4ffaaa5245c3d813ab855e664e858d9d595b31769c",
+      "body_selector": ".film-item-content",
+      "body_sha256": "b88de076630abd737e2333044a88968b057d28f2cf90912d0c3d89faa19619b8",
+      "locations": [
+        {
+          "locator": "нужно сразу принять на веру",
+          "matches": [
+            {
+              "block_index_zero_based": 17,
+              "sha256_text": "a6a7a69cc3b4cfb9452a3b842a078d4be19585ef9b795dadbb22f4a0e8cbd5c4",
+              "characters": 620
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "R03",
+      "url": "https://exler.es/films/gravitaciya.htm",
+      "title": "Гравитация",
+      "publication_date_field": "20.01.2014 61071 Комментарии\n                    (103)",
+      "checked_at": "2026-09-29T19:17:35.185292+00:00",
+      "http_status": 200,
+      "html_sha256": "5eb7c41848b95bf30c50f5fa6c39a01d3538349bec66e18a4d216cf6f189eccc",
+      "body_selector": ".film-item-content",
+      "body_sha256": "188d8f752ee3322e4f550fe6b1bec872e8d4a91e6c0ef5491ae4061e24de2e8e",
+      "locations": [
+        {
+          "locator": "кинематографические",
+          "matches": [
+            {
+              "block_index_zero_based": 34,
+              "sha256_text": "aa1f859ba619367db7674023bb3943a6e367de899a08807992ee2670ce2da34b",
+              "characters": 756
+            }
+          ]
+        },
+        {
+          "locator": "законов физики",
+          "matches": [
+            {
+              "block_index_zero_based": 34,
+              "sha256_text": "aa1f859ba619367db7674023bb3943a6e367de899a08807992ee2670ce2da34b",
+              "characters": 756
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "R04",
+      "url": "https://exler.es/films/prekrasnyj-den-po-sosedstvu.htm",
+      "title": "Прекрасный день по соседству",
+      "publication_date_field": "01.10.2020 65189 Комментарии\n                    (32)",
+      "checked_at": "2026-09-29T19:17:34.882476+00:00",
+      "http_status": 200,
+      "html_sha256": "eb12ff12125a0787ad3bff85760214aa20c3e96cfa2aab110edfa34bae325750",
+      "body_selector": ".film-item-content",
+      "body_sha256": "de116342835247f43d6ad5de465936231e301f5f21912e94246c8398133b0798",
+      "locations": [
+        {
+          "locator": "погрузились в тему",
+          "matches": [
+            {
+              "block_index_zero_based": 26,
+              "sha256_text": "ed068d99d484aedd2bd48ce08e08848157d8baf803f49095d980e7ee2b930720",
+              "characters": 281
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "R05",
+      "url": "https://exler.es/films/proekt-adam.htm",
+      "title": "Проект «Адам»",
+      "publication_date_field": "07.04.2022 63212 Комментарии\n                    (56)",
+      "checked_at": "2026-09-29T19:17:26.691764+00:00",
+      "http_status": 200,
+      "html_sha256": "63ac3fe2ba5653a7d6cdb862d9421a91976cc0cc85950c4ca61c051c07643612",
+      "body_selector": ".film-item-content",
+      "body_sha256": "ac8b7005427fc01b2852a719b8c3bac31b767003fbbf5d2a976ef259925a641a",
+      "locations": [
+        {
+          "locator": "внутренняя логика",
+          "matches": [
+            {
+              "block_index_zero_based": 11,
+              "sha256_text": "3349fd3eeba689fdf57aefc5633a292969ade5b61a99f74fa394ef5679794cc9",
+              "characters": 257
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "NAV",
+      "url": "https://exler.es/dieta/",
+      "title": "Здоровье",
+      "publication_date_field": null,
+      "checked_at": "2026-09-29T19:17:35.185790+00:00",
+      "http_status": 200,
+      "html_sha256": "c80123d0c176bbdd2a23a48e7c2a8b8527dd34b9d7752dbb8e93de0a52b9c3f0",
+      "body_selector": null,
+      "body_sha256": null,
+      "locations": []
+    }
+  ],
+  "author_comments": [
+    {
+      "id": "C01",
+      "author": "Alex Exler",
+      "date_as_displayed": "31.08.21 13:04",
+      "url": "https://exler.es/blog/comments/razdel-pokhudeniye-na-sayte.htm#uxzd",
+      "own_text_sha256": "b6ef2efefa91d2603c8d0bccfefd2a44edb717d168de52ad2bfb77ff5eb6734d",
+      "own_text_characters": 592,
+      "quoted_reader_blocks_excluded": 1
+    },
+    {
+      "id": "C02",
+      "author": "Alex Exler",
+      "date_as_displayed": "27.06.23 17:14",
+      "url": "https://exler.es/dieta/comments/kak-ne-poteryat-myshechnuyu-massu-pri-pohudenii.htm#170jg",
+      "own_text_sha256": "520a9b8bca70b90d05a60ddf08a27390efb23ad8c6863340ccf5beb387c87cad",
+      "own_text_characters": 631,
+      "quoted_reader_blocks_excluded": 1
+    },
+    {
+      "id": "C03",
+      "author": "Alex Exler",
+      "date_as_displayed": "27.06.23 22:16",
+      "url": "https://exler.es/dieta/comments/kak-ne-poteryat-myshechnuyu-massu-pri-pohudenii.htm#170ox",
+      "own_text_sha256": "361f7dc127c5aceacf9a3f6107b2062195fa222cf73bf4810b7d0b48a10f4497",
+      "own_text_characters": 133,
+      "quoted_reader_blocks_excluded": 0
+    },
+    {
+      "id": "C04",
+      "author": "Alex Exler",
+      "date_as_displayed": "28.06.23 09:59",
+      "url": "https://exler.es/dieta/comments/kak-ne-poteryat-myshechnuyu-massu-pri-pohudenii.htm#170wi",
+      "own_text_sha256": "f26cf4e1c0b10116ba66867a1e28dc8d7636498aa50b381a13aee2c36a186a07",
+      "own_text_characters": 306,
+      "quoted_reader_blocks_excluded": 1
+    },
+    {
+      "id": "C05",
+      "author": "Alex Exler",
+      "date_as_displayed": "15.05.24 23:06",
+      "url": "https://exler.es/dieta/comments/moj-opyt-intervalnogo-golodaniya.htm#1c3hm",
+      "own_text_sha256": "0859e620be982383ca72af416bf30433ca9a91441413119fa4d5f1925ffa714d",
+      "own_text_characters": 936,
+      "quoted_reader_blocks_excluded": 3
+    }
+  ],
+  "book": {
+    "url": "https://exler.es/books/Exler-Pokhudet.epub",
+    "sha256": "82818ef111f59e3748371ea6e9a48698ce8c4ef1398f00b0eaeb4f9879888da3",
+    "locations": [
+      {
+        "n": 172,
+        "file": "index_split_000.html",
+        "chapter": 3,
+        "chapter_block": 69,
+        "tag": "p",
+        "sha256": "2a04d738cb4565da7375d79bc00327fecea0ff7279a3e06a5816a1367dc3c68e"
+      },
+      {
+        "n": 679,
+        "file": "index_split_002.html",
+        "chapter": 11,
+        "chapter_block": 32,
+        "tag": "p",
+        "sha256": "c79665ba5887f517c50c2d8e97e6153a1cd1e160d520cbf14839386f1689dfdd"
+      },
+      {
+        "n": 680,
+        "file": "index_split_002.html",
+        "chapter": 11,
+        "chapter_block": 33,
+        "tag": "p",
+        "sha256": "a84e2f853c7e0a652ec5096255a9fd084d366eb7e6fdf1f7213f08c133f2d22a"
+      },
+      {
+        "n": 690,
+        "file": "index_split_002.html",
+        "chapter": 11,
+        "chapter_block": 43,
+        "tag": "p",
+        "sha256": "fd8319090c5297d188928e51d039ca8f0a4ffa11da45f3f32c2eb9c629f58b7f"
+      },
+      {
+        "n": 723,
+        "file": "index_split_002.html",
+        "chapter": 12,
+        "chapter_block": 7,
+        "tag": "p",
+        "sha256": "7dca857884647596cb3b01e93a7346ce85e01aa0d118b8c6175e314ffa3a3238"
+      },
+      {
+        "n": 724,
+        "file": "index_split_002.html",
+        "chapter": 12,
+        "chapter_block": 8,
+        "tag": "p",
+        "sha256": "a1cc5b8c007a9ec13b10b7c4972bd8dc52f12b85cf0702db060f9b36e298ff8c"
+      },
+      {
+        "n": 725,
+        "file": "index_split_002.html",
+        "chapter": 12,
+        "chapter_block": 9,
+        "tag": "p",
+        "sha256": "671757d827b38150e4e0329de95511736a1b9f9720997680261c189b6cb64bdd"
+      },
+      {
+        "n": 726,
+        "file": "index_split_002.html",
+        "chapter": 12,
+        "chapter_block": 10,
+        "tag": "p",
+        "sha256": "cd56a0a7cdcd692935498d3cf6ea4ad0b7eeb5853fcf8f27051f4b7e20b6ac76"
+      },
+      {
+        "n": 772,
+        "file": "index_split_002.html",
+        "chapter": 13,
+        "chapter_block": 23,
+        "tag": "p",
+        "sha256": "4aec6c8534d559fdc3de1a60cdcbcee6d9cf6a4a4ff4ae90244f67e190968905"
+      },
+      {
+        "n": 775,
+        "file": "index_split_002.html",
+        "chapter": 13,
+        "chapter_block": 26,
+        "tag": "p",
+        "sha256": "24670ce73f190a103cd307b883a407d429fc7a2620beab3d16971337f8d1f916"
+      },
+      {
+        "n": 792,
+        "file": "index_split_002.html",
+        "chapter": 13,
+        "chapter_block": 43,
+        "tag": "p",
+        "sha256": "0c5932552aeba50caee535c866a73d64298465aa304fc85b413e51f2932f448d"
+      },
+      {
+        "n": 798,
+        "file": "index_split_002.html",
+        "chapter": 13,
+        "chapter_block": 49,
+        "tag": "p",
+        "sha256": "071fa442b8bcca36408ed504ef967491b639c40468e9bb261e6477fe80403ae5"
+      },
+      {
+        "n": 799,
+        "file": "index_split_002.html",
+        "chapter": 13,
+        "chapter_block": 50,
+        "tag": "p",
+        "sha256": "ef759ae70aa48d8190d8a3674d2f16b96bfcdc6246950dfdd4bba80434e918d4"
+      },
+      {
+        "n": 800,
+        "file": "index_split_002.html",
+        "chapter": 13,
+        "chapter_block": 51,
+        "tag": "p",
+        "sha256": "0a4cd6c2a1a814c368ff7b7684c718fb367289453479bd00a5a6d0989ff9db86"
+      },
+      {
+        "n": 801,
+        "file": "index_split_002.html",
+        "chapter": 13,
+        "chapter_block": 52,
+        "tag": "p",
+        "sha256": "9bfd64789e29a269d3f74cdd87dd1ee52ead6e7bb1f3ba349f025f39c648d291"
+      },
+      {
+        "n": 802,
+        "file": "index_split_002.html",
+        "chapter": 13,
+        "chapter_block": 53,
+        "tag": "p",
+        "sha256": "c4e28a6c560d41350f4483fc58d9dd23248211e23260d390f398a92c0a72ca23"
+      },
+      {
+        "n": 803,
+        "file": "index_split_002.html",
+        "chapter": 13,
+        "chapter_block": 54,
+        "tag": "p",
+        "sha256": "24a2c4d02b02773727ba86986c37d21f0fa2c7ae57e8325d3dee796358330c9e"
+      },
+      {
+        "n": 804,
+        "file": "index_split_002.html",
+        "chapter": 13,
+        "chapter_block": 55,
+        "tag": "p",
+        "sha256": "45d47e3e9f4becd0850840efb40806dabae8b9e326ddcd92bdf8a0564512fb4e"
+      },
+      {
+        "n": 805,
+        "file": "index_split_002.html",
+        "chapter": 13,
+        "chapter_block": 56,
+        "tag": "p",
+        "sha256": "1e5cbefcedd7094452314403326e57c38e014a62305c32cb7423082d00c28234"
+      },
+      {
+        "n": 912,
+        "file": "index_split_002.html",
+        "chapter": 16,
+        "chapter_block": 27,
+        "tag": "p",
+        "sha256": "389abfc892c4bc53947d18a11278a9a5c9d5d0b43ea2e4a9b6c3de4cdd951b74"
+      },
+      {
+        "n": 913,
+        "file": "index_split_002.html",
+        "chapter": 16,
+        "chapter_block": 28,
+        "tag": "p",
+        "sha256": "080fd95a9d2f740fd887d72cc3d385917f00d76ea55c41e05b0b65e355ab3c66"
+      },
+      {
+        "n": 914,
+        "file": "index_split_002.html",
+        "chapter": 16,
+        "chapter_block": 29,
+        "tag": "p",
+        "sha256": "851f2692dbd69ded42f2927f0d3ad70a6899dbc87157e216d89e594055b3f621"
+      },
+      {
+        "n": 915,
+        "file": "index_split_002.html",
+        "chapter": 16,
+        "chapter_block": 30,
+        "tag": "p",
+        "sha256": "986bc0e4c3facd8acc1a9baf9e611b49c023db56fde7c8cc2ba3e9257e8f1160"
+      },
+      {
+        "n": 916,
+        "file": "index_split_002.html",
+        "chapter": 16,
+        "chapter_block": 31,
+        "tag": "p",
+        "sha256": "a10f572717cf30a32154adbaeb504cb3002a897a839fe30a5a3b1ac1c18c0ebe"
+      },
+      {
+        "n": 917,
+        "file": "index_split_002.html",
+        "chapter": 16,
+        "chapter_block": 32,
+        "tag": "p",
+        "sha256": "93a2de897d18db8c4db57b7494b2571506f86b4f5eba0859414a01f1903a82b9"
+      },
+      {
+        "n": 918,
+        "file": "index_split_002.html",
+        "chapter": 16,
+        "chapter_block": 33,
+        "tag": "p",
+        "sha256": "affd0134451371e283b7c67f188ddc298cfd72d02dc4b1bbb7115baff453e7ba"
+      },
+      {
+        "n": 919,
+        "file": "index_split_002.html",
+        "chapter": 16,
+        "chapter_block": 34,
+        "tag": "p",
+        "sha256": "0d19b702f73283875486f42d9489722f8e95e2e1d7a2a3c156ad3ea041858b81"
+      },
+      {
+        "n": 920,
+        "file": "index_split_002.html",
+        "chapter": 16,
+        "chapter_block": 35,
+        "tag": "p",
+        "sha256": "7ca38455f366650c18c7be5542ad10cde60c66567f2f6db69d12f6e6ed29f64d"
+      },
+      {
+        "n": 921,
+        "file": "index_split_002.html",
+        "chapter": 16,
+        "chapter_block": 36,
+        "tag": "p",
+        "sha256": "5504aefad4b885bf8ca029fa41bb0547bbe63e857f1e09defa459d9a5deb4399"
+      }
+    ]
+  },
+  "retrospective_weights": [
+    {
+      "reported_on": "2021-08-31",
+      "kg": 92,
+      "role": "earlier starting mass",
+      "source": "C01",
+      "event_date": null
+    },
+    {
+      "reported_on": "2025-07-30",
+      "kg": 69,
+      "role": "retrospective minimum",
+      "source": "D10",
+      "event_date": null
+    }
+  ],
+  "limits": [
+    "All masses are author self-reports, not independent measurements.",
+    "Publication dates do not establish dates of retrospective events.",
+    "The three studies reuse WB/POST cases and do not increment their count.",
+    "No full source text or HTML is included."
+  ],
+  "reported_weight_points": [
+    {
+      "date": "2020-12-19",
+      "kg": 78,
+      "source": "D05",
+      "date_is": "publication date",
+      "temporal_status": "explicit current self-report"
+    },
+    {
+      "date": "2021-08-31",
+      "kg": 70,
+      "source": "C01",
+      "date_is": "publication date",
+      "temporal_status": "explicit current self-report"
+    },
+    {
+      "date": "2023-06-27",
+      "kg": 72,
+      "source": "D07",
+      "date_is": "publication date",
+      "temporal_status": "explicit current self-report"
+    },
+    {
+      "date": "2025-01-28",
+      "kg": 80,
+      "source": "D09",
+      "date_is": "publication date",
+      "temporal_status": "reported recent return; exact measurement date unknown"
+    },
+    {
+      "date": "2025-07-30",
+      "kg": 82,
+      "source": "D10",
+      "date_is": "publication date",
+      "temporal_status": "retrospective regained mass; exact event date unknown"
+    }
+  ]
+}
