@@ -1,0 +1,1591 @@
+{
+  "checked_at": "2026-10-01",
+  "counts": {
+    "curated_cases": 50,
+    "curated_primary_documents": 54,
+    "cult_posts": 5,
+    "selected_own_comments": 14,
+    "database_film_pages": 468,
+    "database_film_pages_with_strict_bublik_attribution": 467,
+    "database_film_pages_with_attribution_after_manual_typo_check": 468,
+    "database_film_pages_with_body_mention": 228,
+    "database_film_pages_with_epigraph_but_no_body_mention": 240,
+    "strict_attribution_occurrences": 570,
+    "strict_attribution_distinct_wordings": 106,
+    "normalized_attribution_distinct_wordings": 106,
+    "old_catalogue_pages": 15,
+    "downloaded_html_pages": 535,
+    "pdf_documents": 1,
+    "database_film_date_min": "2021-05-20",
+    "database_film_date_max": "2026-06-15"
+  },
+  "sources": [
+    {
+      "url": "https://exler.es/archive/web-obzor-8.htm",
+      "title": "Web-обзор",
+      "date": "09.04.2000 11002 Комментарии (0)",
+      "selector": ".post-section (archive; action/comment elements removed)",
+      "html_sha256": "06baca500ebe2d06e4ddee5f66bcc4ac652b3db0ddd66f56125b2d68a546def4",
+      "body_sha256": "ee1ae6ada328d8333d9a23f5ced4786224690888aef65bbcb1822da2fc0f0f08",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/archive/web-obzor-20.htm",
+      "title": "Web-обзор",
+      "date": "17.12.2000 9882 Комментарии (0)",
+      "selector": ".post-section (archive; action/comment elements removed)",
+      "html_sha256": "c8c34d545401b985ccf33dff0cb25bdc54fd525856c27ddbd00c1fd2ba57d83d",
+      "body_sha256": "986508e005d752eb076f89c927ca1a19182729d7280dde41f161979ccd3811ea",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/archive/rotop-nye-pervoaprelskie-hohmy.htm",
+      "title": "РOTOP'ные первоапрельские хохмы",
+      "date": "01.04.2002 13261 Комментарии (0)",
+      "selector": ".post-section (archive; action/comment elements removed)",
+      "html_sha256": "3aec4d180554670268dad623a26c02937c8be623a706344366e8589a7234d888",
+      "body_sha256": "0decb705d5234e18f85c10f6bdaff0e8b65352022b63ae9c3126b4886eda91bf",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://www.ng.kz/gazeta/236/part_3-web.pdf#page=14",
+      "kind": "interview_reprint_pdf",
+      "title": "Интервью Алекса Экслера в «Нашей газете» № 40 (236)",
+      "publication_date": "2006-10-05",
+      "printed_page": 38,
+      "pdf_page": 14,
+      "checked_at": "2026-10-01",
+      "downloaded_from": "https://archive.ng.kz/gazeta/236/part_3-web.pdf",
+      "file_sha256": "4ec0d4627adf88466af0a3cae224214359a1b287cbc57c3535780cc8ab860575",
+      "verification": "pdftotext and visual inspection of rendered page"
+    },
+    {
+      "url": "https://exler.es/blog/yevrei-yevrei-krugom-odni-yevrei.htm",
+      "title": "Евреи, евреи, кругом одни евреи",
+      "date": "18.11.2018 19:04 35668 Комментарии (158)",
+      "selector": ".blog-item-content",
+      "html_sha256": "e1a3b8c06b8b6bcdfad35f81264aa26d18120bb4365bf246668a4746a22ee084",
+      "body_sha256": "210c1db7d433da798a046b3a1bdc2d6e2ade50679e59886b7a9eb8515c8b649b",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/films/ne-brat-zhivym.htm",
+      "title": "Не брать живым",
+      "date": "02.08.2010 33651 Комментарии\n                    (22)",
+      "selector": ".film-item-content",
+      "html_sha256": "1ec9537555b09cc1951485f325f1a721114376660fc03874d09d80861dcc6fec",
+      "body_sha256": "0bbffb18d754be1b914d991a7be14530074c69137a02ccfe912919dcd485d134",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/films/2-dnya.htm",
+      "title": "2 дня",
+      "date": "14.12.2011 40725 Комментарии\n                    (26)",
+      "selector": ".film-item-content",
+      "html_sha256": "78b56299e60adf1a590669406a843c6b0748aa2c801de6c2588bf4aef6daa270",
+      "body_sha256": "0847523f3aa9c4321ca4102e949e61949f6a683cccca08088aacc1ae7e1a3299",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/films/krasnoe-uvedomlenie.htm",
+      "title": "Красное уведомление",
+      "date": "02.12.2021 136081 Комментарии\n                    (169)",
+      "selector": ".film-item-content",
+      "html_sha256": "06cb4d9fa00c718a858283c84a872fd95b610ed705459784daa57be206696b15",
+      "body_sha256": "d70704bac8aef9bfaa86cdda28ee6f618f587e206804d76d9924878dae1fdd14",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/films/emma.htm",
+      "title": "Эмма.",
+      "date": "11.01.2021 104555 Комментарии\n                    (70)",
+      "selector": ".film-item-content",
+      "html_sha256": "04405fcfd80accec02e6c60b1540bd855a3ff1b48b2d33220180c3eb6d9122ee",
+      "body_sha256": "f5ef9d104d5618555072fcb44a7e9547909eb7074c89aa8adabe8d8b99abc640",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/films/pojman-s-polichnym.htm",
+      "title": "Пойман с поличным",
+      "date": "16.10.2025 32836 Комментарии\n                    (46)",
+      "selector": ".film-item-content",
+      "html_sha256": "c96f9799a6ee0595198bab8a71bce3de0455ff3e12179586cfbf8f62f36b6176",
+      "body_sha256": "b2ccecf6f9cf10066b0ae496ddceaf614da070ec771b8d8f6a51abf873f21e6d",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/expromt/smartfon-nokia-808-pureview-obzor.htm",
+      "title": "Смартфон Nokia 808 PureView - обзор",
+      "date": "26.03.2013 43320 Комментарии (43)",
+      "selector": ".blog-item-content",
+      "html_sha256": "89a97d2d220ab2b530207a69788da75d364b3175334f56a42859db05c0cec3a3",
+      "body_sha256": "a042e9a5434b3757ef6e67c5d6bffbb7d61c87c001c5ce112f9928e600439415",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/expromt/smartfon-sharp-aquos-phone-sh930w-s-fullhd-obzor.htm",
+      "title": "Смартфон Sharp Aquos Phone SH930W с FullHD - обзор",
+      "date": "19.03.2013 30931 Комментарии (40)",
+      "selector": ".blog-item-content",
+      "html_sha256": "41d3930d53bb0639f87136eadd9faff0f52b7ad1e4841b68cded850767209345",
+      "body_sha256": "baad7916c104de81a9fd75123d000a1abf7442c64814dd577c5b363c99fd2a91",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/expromt/smartfon-so-skanerom-raduzhki-homtom-ht10-obzor.htm",
+      "title": "Смартфон со сканером радужки Homtom HT10 - обзор",
+      "date": "12.10.2016 29202 Комментарии (18)",
+      "selector": ".blog-item-content",
+      "html_sha256": "1282d038401cfa88c3901760fb62b239dadc54f8bee20a16901dc06db080d3aa",
+      "body_sha256": "f1853b3df96f564af7da8ae738c90ddf62f6a1acf28c180c1ef5919367272de6",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/expromt/prezentaciya-smartfonov-huawei-mate-10-i-mate-10-pro.htm",
+      "title": "Презентация смартфонов Huawei Mate 10 и Mate 10 Pro",
+      "date": "19.10.2017 31845 Комментарии (45)",
+      "selector": ".blog-item-content",
+      "html_sha256": "8377f541281799278badc6f14f927364b45e0302e0ecb32755ac1e62c0011b2e",
+      "body_sha256": "d0e509fb665b9a70b1b0ff2aa8c3606ad48e6d4190c4738c3a1c41e2a1ccea8c",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/expromt/obzor-avtomaticheskoj-chaevarki-kitfort-kt-630.htm",
+      "title": "Обзор автоматической чаеварки Kitfort KT-630",
+      "date": "05.02.2019 61724 Комментарии (90)",
+      "selector": ".blog-item-content",
+      "html_sha256": "9e4aa09f9f4afb03cc7b528b650207cc754332c03d83a790208a806f9bd4e282",
+      "body_sha256": "d33d0baca2e6398b52e1eb7bd5fa9eca2379e3d3085e8f62d68faee9e5a15c0b",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/expromt/obzor-polnoformatnyh-besprovodnyh-naushnikov-oneodio-fusion-a70.htm",
+      "title": "Обзор полноформатных беспроводных наушников OneOdio Fusion A70",
+      "date": "13.06.2023 54567 Комментарии (29)",
+      "selector": ".blog-item-content",
+      "html_sha256": "08c4adf739c0ebdead011a6748900be39771cd0ac773c364e777e15c814b37d6",
+      "body_sha256": "70c11b71d18f7e7059d76396681b3e3ce53643d9a14d3a13d96fc690ec3d99ac",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/expromt/obzor-tws-naushnikov-nothing-ear-2-tozhe-luchshe-airpods-pro.htm",
+      "title": "Обзор TWS-наушников Nothing Ear (2) - и тоже лучше AirPods Pro",
+      "date": "26.07.2023 58634 Комментарии (61)",
+      "selector": ".blog-item-content",
+      "html_sha256": "8327bbbffc9a3bcebad0c09df00069ea944d194ab49ba96e549beb14bac4e8e2",
+      "body_sha256": "d31058f965b231281238e1eee2b137e79626bd209afefc8af8fdd87b6d7ebac3",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/blog/kak-usilit-zvuk-plansheta-v-samolete.htm",
+      "title": "Как усилить звук планшета  в самолете",
+      "date": "20.02.2014 11:04 19758 Комментарии (50)",
+      "selector": ".blog-item-content",
+      "html_sha256": "67a9eda5c00d18960fe2767835ee555f189e885050bd4ee0413a13d4272a3166",
+      "body_sha256": "84f88e8d21ee4e10b4a6842e3ac4df2f4e5c2100832b9cbb7d7016d44d21e7a8",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/blog/umnoe-musornoe-vedro.htm",
+      "title": "Умное мусорное ведро",
+      "date": "15.02.2013 12:50 15552 Комментарии (35)",
+      "selector": ".blog-item-content",
+      "html_sha256": "de3dcd6741fe8e5511aeab5908e2acd69376370f706b84ce68cf24c1803ac531",
+      "body_sha256": "b79326c05f7ab07fbe7f9fa4268944b32b02b8035b623fa49480f5cbd8cf4564",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/blog/seks-kabachki-kalabasin-fenomenal.htm",
+      "title": "СЭКС - кабачки \"Калабасин феноменаль\"",
+      "date": "05.02.2022 13:04 37913 Комментарии (70)",
+      "selector": ".blog-item-content",
+      "html_sha256": "1ff3570bc3720c9b8d439eb27adfaeceb184ec5288e027de8eed64cda6cc7c23",
+      "body_sha256": "6e4409e7b022fb6cf4dbedea38d68bf12b762e5f338b5039f5bd9937cbafef98",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/blog/seks-kuritsa-po-kornellski.htm",
+      "title": "СЭКС - курица по-корнелльски",
+      "date": "01.01.2026 14:00 7135 Комментарии (61)",
+      "selector": ".blog-item-content",
+      "html_sha256": "ddf99275b9edc08528ab632421bfad853dc44da3b05b62da7517e0420c5c8fa9",
+      "body_sha256": "8f6d7176538dfd9da604911fa2e113e012ed59cac66d52a13a65df682bff83ba",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/blog/govyazhi-rebryshki.htm",
+      "title": "Говяжьи ребрышки",
+      "date": "15.02.2025 15:43 10164 Комментарии (35)",
+      "selector": ".blog-item-content",
+      "html_sha256": "0a6cb8f4c7b514688fc6f4518ca2f7c2e245885aaa3cd717b378b6101ed0f5d8",
+      "body_sha256": "0b8e40901990ae0d774ca17b5268a24b97124fdc4dbd45570ef8d177e8131bab",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/blog/mask-mozhet-zagrabastat-yeshche-i-tiktok.htm",
+      "title": "Маск может заграбастать еще и TikTok?",
+      "date": "14.01.2025 10:00 13284 Комментарии (360)",
+      "selector": ".blog-item-content",
+      "html_sha256": "9c9faf4eeac08eee933360ed4867df3dc6616413b6cfc15f0473e1e3c1f8c836",
+      "body_sha256": "09ae5aac26abb821a59af2c99867edfefc4f6ad654ec3266349fa56d56f0c878",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/blog/papskiy-oon-v-svoyem-repertuare.htm",
+      "title": "Папский ООН в своем репертуаре",
+      "date": "01.08.2023 20:52 17490 Комментарии (203)",
+      "selector": ".blog-item-content",
+      "html_sha256": "dea2c4c4eaa312ded1bc730d223b6f6aafca9af0c813ad19169643e29d26db0a",
+      "body_sha256": "7295d8e42ceee0ae0681e25fea8651696b5bae279811c9d6e3b46a94a143f0d7",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/blog/khitro-pridumano.htm",
+      "title": "Хитро придумано",
+      "date": "30.07.2026 12:00 6038 Комментарии (256)",
+      "selector": ".blog-item-content",
+      "html_sha256": "4705f374d7aaca6befd5e10733052f45455e41b0ae240dd485b6ddb64438e66c",
+      "body_sha256": "df1b44a3359bca2e956c2f094d21e06c596be2b7fdbd9520edb80ccd3cfdd795",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/blog/prinoshu-svoi-izvineniya.htm",
+      "title": "Приношу свои извинения",
+      "date": "08.12.2011 16:17 10142 Комментарии (33)",
+      "selector": ".blog-item-content",
+      "html_sha256": "651c061a4e1cd260492cf10931e05e9c1dc1eb2fef6493e96ae85342ad7e32c0",
+      "body_sha256": "0cba56243d9987fb20ce39f48cc86ab7a3a72f03551f43be362f47d0dceab0e0",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/blog/narusheniya-prav-rossiyan-za-rubezhom.htm",
+      "title": "Нарушения прав россиян за рубежом",
+      "date": "02.06.2022 13:34 18490 Комментарии (109)",
+      "selector": ".blog-item-content",
+      "html_sha256": "28f8a03839f3ff9c849e5bf34425f70fcf829dca92891514f8147ed3b2afebf3",
+      "body_sha256": "a4db65d104d60a28ad233eb0df687bf11c79da31d4bdbe7e2a8e5d8b02f30e79",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/ezhe/vse-chto-nuzhno-znat-o-reuse-stolice-vermuta-ispanii.htm",
+      "title": "Все что нужно знать о Реусе, столице вермута Испании",
+      "date": "11.04.2023 42700 Комментарии (28)",
+      "selector": ".blog-item-content",
+      "html_sha256": "9b6c1567a26035b14790955cac09d9adbb119da8efc7ed09ea0fd79ec4403bbe",
+      "body_sha256": "a3085c68fd8222726e5156cf5ed8386b58ae6cb33cdcb003520b54013b66a6aa",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/bannizm/sosedskie-semi-solyonyh-hristian.htm",
+      "title": "Соседские семьи солёных христиан",
+      "date": "28.08.2026 6787 Комментарии (76)",
+      "selector": ".blog-item-content",
+      "html_sha256": "6e4814fea12c463eb2e9365af11bcc60d95c61c09a831dce85743692bc4de27a",
+      "body_sha256": "35ec628415f37fdb5e350504d81a54e52e97ec02ca2c1ac1a258d93bd76cff09",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/blog/spaseniye-kota-spasatelya.htm",
+      "title": "Спасение кота-спасателя",
+      "date": "14.08.2023 11:00 12207 Комментарии (19)",
+      "selector": ".blog-item-content",
+      "html_sha256": "3939b7ead7cde79c58f75b7169f716ea31bd2616a0de2dca726217e71125647d",
+      "body_sha256": "eb2526512b22abd3d90a70e60d6010e7221b84006305cdd2904c171966a4e9e3",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/blog/mirovoy-rekordsmen.htm",
+      "title": "Мировой рекордсмен",
+      "date": "26.10.2023 09:30 14119 Комментарии (37)",
+      "selector": ".blog-item-content",
+      "html_sha256": "c69ec8490f78c8bf23d9aeaa68dc4ae951c794df3d8123b0d636d1772729b7db",
+      "body_sha256": "67afdc4fea1e760a6142511e18a3807fe5363383dfa9ced1f474a36bb5ba0539",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/blog/sajtu-exler-ru-ispolnilos-19-let.htm",
+      "title": "Сайту Exler.ru исполнилось 19 лет",
+      "date": "14.01.2018 10:04 32578 Комментарии (269)",
+      "selector": ".blog-item-content",
+      "html_sha256": "c6c842d18e40094724c09201cf06728a6d81a9d40ea3414cf13457b540035adb",
+      "body_sha256": "546cb4330f277c7748d544446004fbdb9ddc01f276f31df494b9a56f73efc10c",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/blog/sayt-exlerru-24-goda-v-pryamom-efire.htm",
+      "title": "Сайт Exler.ru - 24 года в прямом эфире!",
+      "date": "14.01.2023 13:01 18397 Комментарии (82)",
+      "selector": ".blog-item-content",
+      "html_sha256": "4eaabb74306420d61d9579cb8b37518ed4fd2ea5c41493901225ce5f1f02b73c",
+      "body_sha256": "5b4d4a586d754831e60eef6ab8c2cdbbe63480ed369a3eb6eadf95284a711e97",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/blog/pokritikuyte-monitorchik.htm",
+      "title": "Покритикуйте мониторчик",
+      "date": "05.01.2022 10:34 18408 Комментарии (160)",
+      "selector": ".blog-item-content",
+      "html_sha256": "91a85ca56c72bdb3eb9625a99993a825b17261b283d2b8d06f71ad0d51d848b1",
+      "body_sha256": "9b9f918d3aef6b46cfd912d673ca7d356d1f21d606703c465c06ae371492c80a",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/blog/mobile-world-congress-2022.htm",
+      "title": "Mobile World Congress 2022",
+      "date": "19.02.2022 10:04 20827 Комментарии (39)",
+      "selector": ".blog-item-content",
+      "html_sha256": "044afa8fde244623779fc697485c45255aee62f738df38cbde736f4919c71084",
+      "body_sha256": "63ff86806ef08bc6ca2a91f7ed65d2dc2997de102d1b6092c99388ceec863a4c",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/blog/sagaro-i-playya-de-aro.htm",
+      "title": "Сагаро и Плайя-де-Аро",
+      "date": "07.05.2023 10:00 15292 Комментарии (33)",
+      "selector": ".blog-item-content",
+      "html_sha256": "5be7a157dfec542fed6ff4f60465b3ed0146af561830af8904d75cde38efa439",
+      "body_sha256": "41e71fe2de0c00592cca4e6dc4a7e1ce1b9407a16a488e9d8bf019fe7e168d45",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/blog/zheleznaya-logika-4.htm",
+      "title": "Железная логика",
+      "date": "17.05.2026 12:00 5572 Комментарии (204)",
+      "selector": ".blog-item-content",
+      "html_sha256": "5db09580bc391c34ad00853e8137421b739c7632c78a690b84c273b57d3b84bb",
+      "body_sha256": "a925f7d5573d2c31e146d89f335aa8e578b471c20a7b6dd89c9992f4aa562e99",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/blog/moy-videokanal-s-retsenziyami-2.htm",
+      "title": "Мой видеоканал с рецензиями",
+      "date": "13.11.2021 11:04 20738 Комментарии (146)",
+      "selector": ".blog-item-content",
+      "html_sha256": "d06a8dec06656cb3bec65aed7914102422aabf0156d27a4bfc248d5907b47ddd",
+      "body_sha256": "3d6284e020847dd0dc00398fa7e57312e5c5614056f0a888e30952a6e2263a16",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/blog/obed-v-portu.htm",
+      "title": "Обед в порту",
+      "date": "11.11.2024 10:00 9838 Комментарии (61)",
+      "selector": ".blog-item-content",
+      "html_sha256": "8c44986db7261271a214b3f8cc532f07095a67809c4a82e7504e9d79a2cee09a",
+      "body_sha256": "528bd7cbc9ff8db1ab1d2fc6d27326a3586fa1b254105a7f8b9afc04480b32e0",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/blog/travyanyye-chai.htm",
+      "title": "Травяные чаи",
+      "date": "27.12.2025 17:10 4649 Комментарии (95)",
+      "selector": ".blog-item-content",
+      "html_sha256": "21daa56f4151fb4eee4f92539739c56ac58016db4a6dd3709544fbd738125c2f",
+      "body_sha256": "2f9e05149bf0907fffe2e39305bb62954edfc35fcdc313e16d98ea80fbe5a56e",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/films/kompanon-1.htm",
+      "title": "Компаньон",
+      "date": "03.07.2025 34491 Комментарии\n                    (118)",
+      "selector": ".film-item-content",
+      "html_sha256": "6ef62ed7418bef1af5c1f753453810335c6f482b061349a12c9e537ca480d842",
+      "body_sha256": "b2d7eefb3df16c91711f2b3f5b6a4d546784b259f7750891a368a5c48f4279d8",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/blog/ocherednoy-el-shkandal-2.htm",
+      "title": "Очередной \"эль шкандаль\"",
+      "date": "15.12.2025 13:00 4592 Комментарии (198)",
+      "selector": ".blog-item-content",
+      "html_sha256": "2431c2b19dcfaf7c418fe8cb3fc50adc8d4642fb5c1578e8333ce37e5d7346ff",
+      "body_sha256": "df44d177585620d52b0c75e512f7b7b7f58333e90595c8f8f8b9e7333e479304",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/blog/zhalobno-professionalnoye.htm",
+      "title": "Жалобно-профессиональное",
+      "date": "04.09.2019 09:04 19950 Комментарии (23)",
+      "selector": ".blog-item-content",
+      "html_sha256": "412e75eb9c403eadcb88e01043d25b667fb3909827134c261eca627fe5d2ef9b",
+      "body_sha256": "59a5705334fd5c03a577bb839f08ae829757c0a97dce9a94b715797a75e5d77c",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/films/skorost-2.htm",
+      "title": "Скорость-2",
+      "date": "11.02.2000 32228 Комментарии\n                    (3)",
+      "selector": ".film-item-content",
+      "html_sha256": "761d1e8ae81cbb590248e8697e05fc60966e298d4edef205cc42bb31c554c3ce",
+      "body_sha256": "3f9c3efc61c571880e5e1577f7b6025b3483538e4fdca58e9153d5f888d02792",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/films/matrica-1.htm",
+      "title": "Матрица",
+      "date": "22.02.2000 48696 Комментарии\n                    (3)",
+      "selector": ".film-item-content",
+      "html_sha256": "99d9299e215d6dd543b35601e0aaa813e4e9124396be0a456fc2048e5daedc06",
+      "body_sha256": "b405839a9dd0ab5529ccf48ad7c5114eaf877cb9b65ae8f891f815a814d1af5b",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/films/moj-lyubimyj-marsianin.htm",
+      "title": "Мой любимый марсианин",
+      "date": "01.03.2000 25560 Комментарии\n                    (0)",
+      "selector": ".film-item-content",
+      "html_sha256": "48c26ab5389a8c607035b2fec7599ef46a08cd7cee866f5e062faea86be8ea40",
+      "body_sha256": "3c81d78ba5d94e8655d9f53c6a56c7ac2194a849a8f5a4f8c933f578def2b759",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/films/po-najmu.htm",
+      "title": "По найму",
+      "date": "02.03.2000 22074 Комментарии\n                    (0)",
+      "selector": ".film-item-content",
+      "html_sha256": "9761ee718b16ad45f116fe2495ee3712034874aaca7061c7b737cfffb6bc054f",
+      "body_sha256": "c3b3371cb8314c4438c80442bc17215a211df2a7578742bc2ae6b0230f37b6cc",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/blog/vopros-1.htm",
+      "title": "Вопрос",
+      "date": "29.05.2013 11:29 17872 Комментарии (141)",
+      "selector": ".blog-item-content",
+      "html_sha256": "a011a0a7a2b51c1dcf61812e5f5dcd03fbf199b4492e835f9758cff1724d557f",
+      "body_sha256": "e904c0b1397e8c466618e1c6bfbbb60c673595c8da18a05bc3caf1b3fa53f906",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/blog/aykyu-kotikov.htm",
+      "title": "Айкью котиков",
+      "date": "07.07.2021 11:18 22573 Комментарии (88)",
+      "selector": ".blog-item-content",
+      "html_sha256": "4521695c4a0fc358b162bce0930e21848f81be4198af6cdb8bf3f14b2f2d2742",
+      "body_sha256": "c4afe87e01822ce63513012131627258925aa6cc03233a030d3b1044f97039f5",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/ezhe/lyubopytnaya-istoriya-gaskonskogo-kadillaka.htm",
+      "title": "Любопытная история гасконского Кадиллака",
+      "date": "25.07.2023 40428 Комментарии (44)",
+      "selector": ".blog-item-content",
+      "html_sha256": "f5ac95e3abd18b0db99789a408ae6645b8825eda37d7e0304209b2a8e96d17ba",
+      "body_sha256": "54e76bb361460d2f4a4e5f6a03756bae6fc511a114285d8ef8983608657a001b",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/films/shugar.htm",
+      "title": "Шугар",
+      "date": "03.06.2024 63716 Комментарии\n                    (69)",
+      "selector": ".film-item-content",
+      "html_sha256": "c9972b89c4c049fb26c7c43a11e87dcfbbeeb064ed0afd480e36383d04169dc2",
+      "body_sha256": "59d13c465bd2edaf67cb986710e972504ea70e4235e7978ddf91e9dc7a158b83",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/blog/genialnoye-resheniye-2.htm",
+      "title": "Гениальное решение!",
+      "date": "02.11.2024 09:58 15241 Комментарии (353)",
+      "selector": ".blog-item-content",
+      "html_sha256": "d3dec60be007527fa79b384c615f222435733fbf0bb0af6b773ba3b70db59b42",
+      "body_sha256": "a326b87439ee8fd073d1123b15288a06f06bffa4674c37d391af5bbc5d2baedd",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/films/proshloj-nochyu-v-soho.htm",
+      "title": "Прошлой ночью в Сохо",
+      "date": "27.01.2022 55127 Комментарии\n                    (35)",
+      "selector": ".film-item-content",
+      "html_sha256": "cacaaaf4dd2fb21d1e48d158d1b099886a342bffb0afe75a39c3ef88e7f1885d",
+      "body_sha256": "f0392f690c3b6640fafae738d4f0a789e2230ef5c20932da622d0266101c7ae9",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler.es/films/master-1.htm",
+      "title": "Мастер",
+      "date": "28.04.2025 42199 Комментарии\n                    (132)",
+      "selector": ".film-item-content",
+      "html_sha256": "aecfac32989e6910d611a4ac59e0a61015c48cef1358881beb99db0e5edf6b6b",
+      "body_sha256": "36e3e6ce16554ccecf289296670640381c513c546f6d1fed48cb6385d88b83e4",
+      "checked_at": "2026-10-01",
+      "kind": "exler_primary_html"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1175182.html",
+      "title": "Nokla 1280 Dual Sim. Обзор.",
+      "date": "September 17 2013, 20:29",
+      "selector": ".aentry-post__text",
+      "html_sha256": "5fe721f1a84106d69f2d5d5b3dff5ff785af48c474bc4881b6418b368825732a",
+      "body_sha256": "49c5ea58edf29deea4b7b2c6bfe785a3da99320a08aef75df56291780faaa516",
+      "checked_at": "2026-10-01",
+      "kind": "cult_reception"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1233386.html",
+      "title": "Человек и пароход!",
+      "date": "March 19 2014, 12:53",
+      "selector": ".aentry-post__text",
+      "html_sha256": "285f2861deb6d594cd75c853e4c05de0839cf6a08834598e42887a5dfa12561d",
+      "body_sha256": "012231d61540e5c621bdc35fc578e806c845a1a03e11410fab6d4efd5062a6b0",
+      "checked_at": "2026-10-01",
+      "kind": "cult_reception"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1359943.html",
+      "title": "Лайфхак дня от Алекса",
+      "date": "November 19 2015, 08:50",
+      "selector": ".aentry-post__text",
+      "html_sha256": "8ecaff2625eacb040332ba0d07655ab41c9faae2944f4d7b575ad67edf70bc20",
+      "body_sha256": "3770e2ea3665bd9e0ed78d7c9a8f9759068373074094fda4918dc874a7e5b9aa",
+      "checked_at": "2026-10-01",
+      "kind": "cult_reception"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1474872.html",
+      "title": "Прогноз криптовалюты Экслеркоин на 14-16 января",
+      "date": "January 11 2019, 12:03",
+      "selector": ".aentry-post__text",
+      "html_sha256": "f018ee0cc29a5315b24b758c4df56f24f01967ad186812c3267774a31de78e8d",
+      "body_sha256": "a213d8e4ef6bf547e8e34072f21bb6f3870adedc60612b93c937664a4f4bb4e6",
+      "checked_at": "2026-10-01",
+      "kind": "cult_reception"
+    },
+    {
+      "url": "https://exler-cult.livejournal.com/1490958.html",
+      "title": "Профессионально-обломное",
+      "date": "September 4 2019, 11:44",
+      "selector": ".aentry-post__text",
+      "html_sha256": "2c4362e644b0aa0f099a59b7e2ae269a710302b76adce2ed0bcc810c899f0149",
+      "body_sha256": "c3a5418ed514e0e8cb21bc4a0bb0a03721529095070d239dda018ad369d3395b",
+      "checked_at": "2026-10-01",
+      "kind": "cult_reception"
+    }
+  ],
+  "own_comments": [
+    {
+      "source_url": "https://exler.es/blog/yevrei-yevrei-krugom-odni-yevrei.htm",
+      "url": "https://exler.es/blog/comments/yevrei-yevrei-krugom-odni-yevrei.htm#h4s0",
+      "date": "19.11.18 00:44",
+      "author": "Alex Exler",
+      "sha256": "826a10239587e0fd8dcfbe9bbe49a4c4a4e0685ee2533973e567687ac74afc03",
+      "quoted_reader_blocks_removed": 0
+    },
+    {
+      "source_url": "https://exler.es/films/krasnoe-uvedomlenie.htm",
+      "url": "https://exler.es/films/comments/krasnoe-uvedomlenie.htm#whcc",
+      "date": "02.12.21 20:55",
+      "author": "Alex Exler",
+      "sha256": "84e7ea29bb2ffc439bdae26e641566e3183de7a18cdf8ecb7f5ebc9bdf8d1cb3",
+      "quoted_reader_blocks_removed": 1
+    },
+    {
+      "source_url": "https://exler.es/blog/govyazhi-rebryshki.htm",
+      "url": "https://exler.es/blog/comments/govyazhi-rebryshki.htm#1gliu",
+      "date": "15.02.25 20:50",
+      "author": "Alex Exler",
+      "sha256": "94adf0b03b9df1162987dc306c01f966425e3abfe0cabcdae11285f29762792a",
+      "quoted_reader_blocks_removed": 1
+    },
+    {
+      "source_url": "https://exler.es/blog/pokritikuyte-monitorchik.htm",
+      "url": "https://exler.es/blog/comments/pokritikuyte-monitorchik.htm#x0ss",
+      "date": "05.01.22 21:01",
+      "author": "Alex Exler",
+      "sha256": "f84f2d5f8c8e415f11ab3a877bc40f267a75d6664681e8820e8ca0cb2307ff0a",
+      "quoted_reader_blocks_removed": 1
+    },
+    {
+      "source_url": "https://exler.es/blog/mobile-world-congress-2022.htm",
+      "url": "https://exler.es/blog/comments/mobile-world-congress-2022.htm#xvjp",
+      "date": "19.02.22 12:46",
+      "author": "Alex Exler",
+      "sha256": "a1d06a2d69f9272d5ff7e77600193745fb04ed98c8f3a2449842cd0a8b10d6d9",
+      "quoted_reader_blocks_removed": 1
+    },
+    {
+      "source_url": "https://exler.es/blog/sagaro-i-playya-de-aro.htm",
+      "url": "https://exler.es/blog/comments/sagaro-i-playya-de-aro.htm#163i8",
+      "date": "07.05.23 22:45",
+      "author": "Alex Exler",
+      "sha256": "a0231525b774bf68f8d41bf1a6b5d8902eaf90755b392458833639ee78046c1e",
+      "quoted_reader_blocks_removed": 1
+    },
+    {
+      "source_url": "https://exler.es/blog/zheleznaya-logika-4.htm",
+      "url": "https://exler.es/blog/comments/zheleznaya-logika-4.htm#1ndbi",
+      "date": "17.05.26 22:19",
+      "author": "Alex Exler",
+      "sha256": "d3631cda5de81189c96b8409e36725b9f2a9e036637e30d904dba06cb5b33e8c",
+      "quoted_reader_blocks_removed": 2
+    },
+    {
+      "source_url": "https://exler.es/blog/moy-videokanal-s-retsenziyami-2.htm",
+      "url": "https://exler.es/blog/comments/moy-videokanal-s-retsenziyami-2.htm#w5du",
+      "date": "13.11.21 11:28",
+      "author": "Alex Exler",
+      "sha256": "7bec654e42d3c563d077e63b8badde2e0718d56cea7dbd984c32e414591b95df",
+      "quoted_reader_blocks_removed": 1
+    },
+    {
+      "source_url": "https://exler.es/blog/moy-videokanal-s-retsenziyami-2.htm",
+      "url": "https://exler.es/blog/comments/moy-videokanal-s-retsenziyami-2.htm#w5f6",
+      "date": "13.11.21 12:14",
+      "author": "Alex Exler",
+      "sha256": "8304f0961323829591a1fbff41d77e2101c095d386dca7bd8b5dc64f1fa962f0",
+      "quoted_reader_blocks_removed": 1
+    },
+    {
+      "source_url": "https://exler.es/blog/obed-v-portu.htm",
+      "url": "https://exler.es/blog/comments/obed-v-portu.htm#1euxb",
+      "date": "11.11.24 10:39",
+      "author": "Alex Exler",
+      "sha256": "d8b4a8e2d2958a377f945c51344c4805580081af220780f752fec93a20a78fe3",
+      "quoted_reader_blocks_removed": 1
+    },
+    {
+      "source_url": "https://exler.es/blog/travyanyye-chai.htm",
+      "url": "https://exler.es/blog/comments/travyanyye-chai.htm#1lbk4",
+      "date": "27.12.25 18:41",
+      "author": "Alex Exler",
+      "sha256": "a46d318f67904722b9f07e7058ac537d2fb56f26f6048a679cc41e5965377405",
+      "quoted_reader_blocks_removed": 1
+    },
+    {
+      "source_url": "https://exler.es/films/kompanon-1.htm",
+      "url": "https://exler.es/films/comments/kompanon-1.htm#1iqbs",
+      "date": "03.07.25 10:40",
+      "author": "Alex Exler",
+      "sha256": "aca02cae895614c5d3da9f598044a716381ce261e1fba7454966ccb9d8dbd0c0",
+      "quoted_reader_blocks_removed": 2
+    },
+    {
+      "source_url": "https://exler.es/films/shugar.htm",
+      "url": "https://exler.es/films/comments/shugar.htm#1cdv8",
+      "date": "03.06.24 09:31",
+      "author": "Alex Exler",
+      "sha256": "f0eadaa0bfd58c91fbd792b8e54600a13817e75a62a07320e7965bed8179eb2f",
+      "quoted_reader_blocks_removed": 1
+    },
+    {
+      "source_url": "https://exler.es/blog/genialnoye-resheniye-2.htm",
+      "url": "https://exler.es/blog/comments/genialnoye-resheniye-2.htm#1epbj",
+      "date": "02.11.24 11:55",
+      "author": "Alex Exler",
+      "sha256": "39e15c2cbb868a575170baf52f60690164bec2e3281e3ed209048e236ec32785",
+      "quoted_reader_blocks_removed": 1
+    }
+  ],
+  "cases": [
+    {
+      "id": "BUB-001",
+      "title": "Соавтор уже в раннем веб-обзоре",
+      "group": "Происхождение",
+      "source_urls": [
+        "https://exler.es/archive/web-obzor-8.htm"
+      ],
+      "comment_urls": [],
+      "excerpt_locators": [
+        {
+          "source_url": "https://exler.es/archive/web-obzor-8.htm",
+          "field": "body",
+          "field_id": null,
+          "normalized_character_offset": 4979,
+          "excerpt_characters": 55,
+          "excerpt_sha256": "b24c66a9dc4a0f9ad16cb6b9c0a78a175b1dc3bd12f1ef36b184ca63560b71e0"
+        }
+      ]
+    },
+    {
+      "id": "BUB-002",
+      "title": "Граница между фотографией кота и литературной игрой",
+      "group": "Происхождение",
+      "source_urls": [
+        "https://exler.es/archive/web-obzor-20.htm"
+      ],
+      "comment_urls": [],
+      "excerpt_locators": [
+        {
+          "source_url": "https://exler.es/archive/web-obzor-20.htm",
+          "field": "body",
+          "field_id": null,
+          "normalized_character_offset": 284,
+          "excerpt_characters": 15,
+          "excerpt_sha256": "1ff769ba21a75a584984916172d61d091f4aa5a14d7c057e646e290d77215e06"
+        }
+      ]
+    },
+    {
+      "id": "BUB-003",
+      "title": "Кот принимает благодарность за рецензии",
+      "group": "Редакция",
+      "source_urls": [
+        "https://exler.es/archive/rotop-nye-pervoaprelskie-hohmy.htm"
+      ],
+      "comment_urls": [],
+      "excerpt_locators": [
+        {
+          "source_url": "https://exler.es/archive/rotop-nye-pervoaprelskie-hohmy.htm",
+          "field": "body",
+          "field_id": null,
+          "normalized_character_offset": 9464,
+          "excerpt_characters": 27,
+          "excerpt_sha256": "5efb46002a146ab54b098160e2c93226d973ef81b8e0ebb4db3de55b6d025d18"
+        }
+      ]
+    },
+    {
+      "id": "BUB-004",
+      "title": "Реальный прототип, виртуальный напарник и радио",
+      "group": "Происхождение",
+      "source_urls": [
+        "https://www.ng.kz/gazeta/236/part_3-web.pdf#page=14"
+      ],
+      "comment_urls": [],
+      "excerpt_locators": []
+    },
+    {
+      "id": "BUB-005",
+      "title": "Автор прямо называет нынешнего Бублика виртуальным",
+      "group": "Происхождение",
+      "source_urls": [
+        "https://exler.es/blog/yevrei-yevrei-krugom-odni-yevrei.htm"
+      ],
+      "comment_urls": [
+        "https://exler.es/blog/comments/yevrei-yevrei-krugom-odni-yevrei.htm#h4s0"
+      ],
+      "excerpt_locators": [
+        {
+          "source_url": "https://exler.es/blog/yevrei-yevrei-krugom-odni-yevrei.htm",
+          "field": "own_comment",
+          "field_id": "https://exler.es/blog/comments/yevrei-yevrei-krugom-odni-yevrei.htm#h4s0",
+          "normalized_character_offset": 79,
+          "excerpt_characters": 38,
+          "excerpt_sha256": "360494bd099f10bb353217e664a7b76e0f45ca5ca693332092a16b005803c8cd"
+        }
+      ]
+    },
+    {
+      "id": "BUB-006",
+      "title": "Краткий вердикт перед рецензией",
+      "group": "Кино",
+      "source_urls": [
+        "https://exler.es/films/ne-brat-zhivym.htm"
+      ],
+      "comment_urls": [],
+      "excerpt_locators": [
+        {
+          "source_url": "https://exler.es/films/ne-brat-zhivym.htm",
+          "field": "epigraph",
+          "field_id": 0,
+          "normalized_character_offset": 45,
+          "excerpt_characters": 28,
+          "excerpt_sha256": "613cad6dbafbb11829e244d2ed4c7e53a1bda4adf2e46e6cdd1e2d6143ab4051"
+        }
+      ]
+    },
+    {
+      "id": "BUB-007",
+      "title": "Кот поправляет первоначальную установку хозяина",
+      "group": "Кино",
+      "source_urls": [
+        "https://exler.es/films/2-dnya.htm"
+      ],
+      "comment_urls": [],
+      "excerpt_locators": [
+        {
+          "source_url": "https://exler.es/films/2-dnya.htm",
+          "field": "epigraph",
+          "field_id": 2,
+          "normalized_character_offset": 0,
+          "excerpt_characters": 27,
+          "excerpt_sha256": "825c894239f3fe080067c6c48932bb3172937dc7a8454dd2123981e11e79f09a"
+        }
+      ]
+    },
+    {
+      "id": "BUB-008",
+      "title": "Парадокс вкуса и право кота на отзыв",
+      "group": "Кино",
+      "source_urls": [
+        "https://exler.es/films/krasnoe-uvedomlenie.htm"
+      ],
+      "comment_urls": [
+        "https://exler.es/films/comments/krasnoe-uvedomlenie.htm#whcc"
+      ],
+      "excerpt_locators": [
+        {
+          "source_url": "https://exler.es/films/krasnoe-uvedomlenie.htm",
+          "field": "epigraph",
+          "field_id": 0,
+          "normalized_character_offset": 0,
+          "excerpt_characters": 29,
+          "excerpt_sha256": "0dcda7e97431fea4143e57860dc70363f64dca34d676d55e66adc2b72d7ff4ec"
+        }
+      ]
+    },
+    {
+      "id": "BUB-009",
+      "title": "Спор о репутации циничного критика",
+      "group": "Кино",
+      "source_urls": [
+        "https://exler.es/films/emma.htm"
+      ],
+      "comment_urls": [],
+      "excerpt_locators": []
+    },
+    {
+      "id": "BUB-010",
+      "title": "Кошачий зритель выделяет кошачьего актера",
+      "group": "Кино",
+      "source_urls": [
+        "https://exler.es/films/pojman-s-polichnym.htm"
+      ],
+      "comment_urls": [],
+      "excerpt_locators": [
+        {
+          "source_url": "https://exler.es/films/pojman-s-polichnym.htm",
+          "field": "epigraph",
+          "field_id": 1,
+          "normalized_character_offset": 0,
+          "excerpt_characters": 29,
+          "excerpt_sha256": "b8dce0205012bb6a4198bafd9fc2641cb1e0f49e3345420bcba7a6c399f84d63"
+        }
+      ]
+    },
+    {
+      "id": "BUB-011",
+      "title": "Подкол словесной избыточности в обзоре телефона",
+      "group": "Техника",
+      "source_urls": [
+        "https://exler.es/expromt/smartfon-nokia-808-pureview-obzor.htm"
+      ],
+      "comment_urls": [],
+      "excerpt_locators": [
+        {
+          "source_url": "https://exler.es/expromt/smartfon-nokia-808-pureview-obzor.htm",
+          "field": "body",
+          "field_id": null,
+          "normalized_character_offset": 3111,
+          "excerpt_characters": 45,
+          "excerpt_sha256": "1bc60e0919f867e1178be78c8bfc04cfa93a61941d250e150a7d926cd2dd82d0"
+        }
+      ]
+    },
+    {
+      "id": "BUB-012",
+      "title": "Бытовое объяснение вместо технологического восторга",
+      "group": "Техника",
+      "source_urls": [
+        "https://exler.es/expromt/smartfon-sharp-aquos-phone-sh930w-s-fullhd-obzor.htm"
+      ],
+      "comment_urls": [],
+      "excerpt_locators": [
+        {
+          "source_url": "https://exler.es/expromt/smartfon-sharp-aquos-phone-sh930w-s-fullhd-obzor.htm",
+          "field": "body",
+          "field_id": null,
+          "normalized_character_offset": 2458,
+          "excerpt_characters": 33,
+          "excerpt_sha256": "aa46f915632c2bac2525cf2bfc58cdf637ed8454950e98765ec70bb4bc83f755"
+        }
+      ]
+    },
+    {
+      "id": "BUB-013",
+      "title": "Интуиция тестировщика и недовольство разъемами",
+      "group": "Техника",
+      "source_urls": [
+        "https://exler.es/expromt/smartfon-so-skanerom-raduzhki-homtom-ht10-obzor.htm"
+      ],
+      "comment_urls": [],
+      "excerpt_locators": [
+        {
+          "source_url": "https://exler.es/expromt/smartfon-so-skanerom-raduzhki-homtom-ht10-obzor.htm",
+          "field": "body",
+          "field_id": null,
+          "normalized_character_offset": 3004,
+          "excerpt_characters": 32,
+          "excerpt_sha256": "f401fa8adc098f0346664aacde5a4cc0b36f19910b4c3287342f62c464b68394"
+        }
+      ]
+    },
+    {
+      "id": "BUB-014",
+      "title": "Аплодисменты собственной всемирной экспертизе",
+      "group": "Техника",
+      "source_urls": [
+        "https://exler.es/expromt/prezentaciya-smartfonov-huawei-mate-10-i-mate-10-pro.htm"
+      ],
+      "comment_urls": [],
+      "excerpt_locators": [
+        {
+          "source_url": "https://exler.es/expromt/prezentaciya-smartfonov-huawei-mate-10-i-mate-10-pro.htm",
+          "field": "body",
+          "field_id": null,
+          "normalized_character_offset": 19676,
+          "excerpt_characters": 37,
+          "excerpt_sha256": "7b0c9fd0ddee259567662e10186e5f24089a0f5606c923b64190dad2b6b80650"
+        }
+      ]
+    },
+    {
+      "id": "BUB-015",
+      "title": "Мечту о приборе встречают домашним оскорблением",
+      "group": "Техника",
+      "source_urls": [
+        "https://exler.es/expromt/obzor-avtomaticheskoj-chaevarki-kitfort-kt-630.htm"
+      ],
+      "comment_urls": [],
+      "excerpt_locators": [
+        {
+          "source_url": "https://exler.es/expromt/obzor-avtomaticheskoj-chaevarki-kitfort-kt-630.htm",
+          "field": "body",
+          "field_id": null,
+          "normalized_character_offset": 0,
+          "excerpt_characters": 21,
+          "excerpt_sha256": "abf9d66b4c85729d85c549e0de93f5c85bf2c9666cdb0332124b0cf2eebec195"
+        }
+      ]
+    },
+    {
+      "id": "BUB-016",
+      "title": "Возражение кота действительно исправляет ход рассуждения",
+      "group": "Техника",
+      "source_urls": [
+        "https://exler.es/expromt/obzor-polnoformatnyh-besprovodnyh-naushnikov-oneodio-fusion-a70.htm"
+      ],
+      "comment_urls": [],
+      "excerpt_locators": [
+        {
+          "source_url": "https://exler.es/expromt/obzor-polnoformatnyh-besprovodnyh-naushnikov-oneodio-fusion-a70.htm",
+          "field": "body",
+          "field_id": null,
+          "normalized_character_offset": 3507,
+          "excerpt_characters": 29,
+          "excerpt_sha256": "f4da90488fa2ca836e5213279bbfb0f9296cd0ccfa21a589267c32d06c8c9e0a"
+        }
+      ]
+    },
+    {
+      "id": "BUB-017",
+      "title": "Пошлость произнесена и тут же наказана",
+      "group": "Техника",
+      "source_urls": [
+        "https://exler.es/expromt/obzor-tws-naushnikov-nothing-ear-2-tozhe-luchshe-airpods-pro.htm"
+      ],
+      "comment_urls": [],
+      "excerpt_locators": [
+        {
+          "source_url": "https://exler.es/expromt/obzor-tws-naushnikov-nothing-ear-2-tozhe-luchshe-airpods-pro.htm",
+          "field": "body",
+          "field_id": null,
+          "normalized_character_offset": 2290,
+          "excerpt_characters": 29,
+          "excerpt_sha256": "967c08f0b552b666466d66220a537f267b6dada09ec7ac7cbcd45ca4cff7569a"
+        }
+      ]
+    },
+    {
+      "id": "BUB-018",
+      "title": "Короткий гедонистический ответ перед полезным советом",
+      "group": "Быт и еда",
+      "source_urls": [
+        "https://exler.es/blog/kak-usilit-zvuk-plansheta-v-samolete.htm"
+      ],
+      "comment_urls": [],
+      "excerpt_locators": [
+        {
+          "source_url": "https://exler.es/blog/kak-usilit-zvuk-plansheta-v-samolete.htm",
+          "field": "body",
+          "field_id": null,
+          "normalized_character_offset": 86,
+          "excerpt_characters": 14,
+          "excerpt_sha256": "67cf24ed0356caba9429c5344def724245a41d3083f7d01e33ecbc8d1c678856"
+        }
+      ]
+    },
+    {
+      "id": "BUB-019",
+      "title": "Пользовательский сценарий против умного устройства",
+      "group": "Быт и еда",
+      "source_urls": [
+        "https://exler.es/blog/umnoe-musornoe-vedro.htm"
+      ],
+      "comment_urls": [],
+      "excerpt_locators": []
+    },
+    {
+      "id": "BUB-020",
+      "title": "Соавтор и название кулинарной рубрики",
+      "group": "Быт и еда",
+      "source_urls": [
+        "https://exler.es/blog/seks-kabachki-kalabasin-fenomenal.htm"
+      ],
+      "comment_urls": [],
+      "excerpt_locators": [
+        {
+          "source_url": "https://exler.es/blog/seks-kabachki-kalabasin-fenomenal.htm",
+          "field": "body",
+          "field_id": null,
+          "normalized_character_offset": 63,
+          "excerpt_characters": 9,
+          "excerpt_sha256": "775af03b3938d94ae72fb061e86ea41c50f40f543796ad047511fc089430cfa4"
+        }
+      ]
+    },
+    {
+      "id": "BUB-021",
+      "title": "Кулинарная серия продолжается спустя несколько лет",
+      "group": "Быт и еда",
+      "source_urls": [
+        "https://exler.es/blog/seks-kuritsa-po-kornellski.htm"
+      ],
+      "comment_urls": [],
+      "excerpt_locators": []
+    },
+    {
+      "id": "BUB-022",
+      "title": "Читатель узнает состав рубрики, автор проводит границу",
+      "group": "Быт и еда",
+      "source_urls": [
+        "https://exler.es/blog/govyazhi-rebryshki.htm"
+      ],
+      "comment_urls": [
+        "https://exler.es/blog/comments/govyazhi-rebryshki.htm#1gliu"
+      ],
+      "excerpt_locators": [
+        {
+          "source_url": "https://exler.es/blog/govyazhi-rebryshki.htm",
+          "field": "own_comment",
+          "field_id": "https://exler.es/blog/comments/govyazhi-rebryshki.htm#1gliu",
+          "normalized_character_offset": 0,
+          "excerpt_characters": 19,
+          "excerpt_sha256": "016019d3b42604616abfe01c431b10a28f02e8b7fa4c1c6cb4dfd196db521470"
+        }
+      ]
+    },
+    {
+      "id": "BUB-023",
+      "title": "Резкую характеристику поручают коту",
+      "group": "Политика и приличия",
+      "source_urls": [
+        "https://exler.es/blog/mask-mozhet-zagrabastat-yeshche-i-tiktok.htm"
+      ],
+      "comment_urls": [],
+      "excerpt_locators": [
+        {
+          "source_url": "https://exler.es/blog/mask-mozhet-zagrabastat-yeshche-i-tiktok.htm",
+          "field": "body",
+          "field_id": null,
+          "normalized_character_offset": 1634,
+          "excerpt_characters": 20,
+          "excerpt_sha256": "4c266f29d96ab5f82d0942d1f5b09824d1151d62575189f4b7f95df154511688"
+        }
+      ]
+    },
+    {
+      "id": "BUB-024",
+      "title": "Кот в обратной роли — запрещает автору мат",
+      "group": "Политика и приличия",
+      "source_urls": [
+        "https://exler.es/blog/papskiy-oon-v-svoyem-repertuare.htm"
+      ],
+      "comment_urls": [],
+      "excerpt_locators": [
+        {
+          "source_url": "https://exler.es/blog/papskiy-oon-v-svoyem-repertuare.htm",
+          "field": "body",
+          "field_id": null,
+          "normalized_character_offset": 3895,
+          "excerpt_characters": 37,
+          "excerpt_sha256": "53d1ed9fb9d50fe9a9f391c59a6669233630fb49b7e00aaf28ce55168cc0c762"
+        }
+      ]
+    },
+    {
+      "id": "BUB-025",
+      "title": "Кот занимает противоположную сторону",
+      "group": "Политика и приличия",
+      "source_urls": [
+        "https://exler.es/blog/khitro-pridumano.htm"
+      ],
+      "comment_urls": [],
+      "excerpt_locators": []
+    },
+    {
+      "id": "BUB-026",
+      "title": "Медиа-менеджер, автор скандала и получатель гонорара",
+      "group": "Редакция",
+      "source_urls": [
+        "https://exler.es/blog/prinoshu-svoi-izvineniya.htm"
+      ],
+      "comment_urls": [],
+      "excerpt_locators": [
+        {
+          "source_url": "https://exler.es/blog/prinoshu-svoi-izvineniya.htm",
+          "field": "body",
+          "field_id": null,
+          "normalized_character_offset": 144,
+          "excerpt_characters": 28,
+          "excerpt_sha256": "8e4258b08aaa5902370c1eadcd117b3eedcf033b760f89d06e3045e37018712b"
+        }
+      ]
+    },
+    {
+      "id": "BUB-027",
+      "title": "Кот как последняя ступень очевидного преувеличения",
+      "group": "Политика и приличия",
+      "source_urls": [
+        "https://exler.es/blog/narusheniya-prav-rossiyan-za-rubezhom.htm"
+      ],
+      "comment_urls": [],
+      "excerpt_locators": [
+        {
+          "source_url": "https://exler.es/blog/narusheniya-prav-rossiyan-za-rubezhom.htm",
+          "field": "body",
+          "field_id": null,
+          "normalized_character_offset": 674,
+          "excerpt_characters": 37,
+          "excerpt_sha256": "37b19a70c41cfa86dcbf42c809b6e25461b9aae6c9bd782d072aa18fd2bf3f8e"
+        }
+      ]
+    },
+    {
+      "id": "BUB-028",
+      "title": "Подкол собственных книг в путевом очерке",
+      "group": "Быт и еда",
+      "source_urls": [
+        "https://exler.es/ezhe/vse-chto-nuzhno-znat-o-reuse-stolice-vermuta-ispanii.htm"
+      ],
+      "comment_urls": [],
+      "excerpt_locators": [
+        {
+          "source_url": "https://exler.es/ezhe/vse-chto-nuzhno-znat-o-reuse-stolice-vermuta-ispanii.htm",
+          "field": "body",
+          "field_id": null,
+          "normalized_character_offset": 9668,
+          "excerpt_characters": 30,
+          "excerpt_sha256": "7c6808052e6e18a378d19eff7942b589697be6ba1d65a34ce615e377d11ce42a"
+        }
+      ]
+    },
+    {
+      "id": "BUB-029",
+      "title": "Соведущий баннизмов и жюри читательских находок",
+      "group": "Редакция",
+      "source_urls": [
+        "https://exler.es/bannizm/sosedskie-semi-solyonyh-hristian.htm"
+      ],
+      "comment_urls": [],
+      "excerpt_locators": []
+    },
+    {
+      "id": "BUB-030",
+      "title": "Представитель кошачьих интересов в новости",
+      "group": "Быт и еда",
+      "source_urls": [
+        "https://exler.es/blog/spaseniye-kota-spasatelya.htm",
+        "https://exler.es/blog/mirovoy-rekordsmen.htm"
+      ],
+      "comment_urls": [],
+      "excerpt_locators": []
+    },
+    {
+      "id": "BUB-031",
+      "title": "Бублик участвует в обращении за поддержкой",
+      "group": "Редакция",
+      "source_urls": [
+        "https://exler.es/blog/sajtu-exler-ru-ispolnilos-19-let.htm",
+        "https://exler.es/blog/sayt-exlerru-24-goda-v-pryamom-efire.htm"
+      ],
+      "comment_urls": [],
+      "excerpt_locators": []
+    },
+    {
+      "id": "BUB-032",
+      "title": "Кот меняет плюсы на деньги",
+      "group": "Редакция",
+      "source_urls": [
+        "https://exler.es/blog/pokritikuyte-monitorchik.htm"
+      ],
+      "comment_urls": [
+        "https://exler.es/blog/comments/pokritikuyte-monitorchik.htm#x0ss"
+      ],
+      "excerpt_locators": [
+        {
+          "source_url": "https://exler.es/blog/pokritikuyte-monitorchik.htm",
+          "field": "own_comment",
+          "field_id": "https://exler.es/blog/comments/pokritikuyte-monitorchik.htm#x0ss",
+          "normalized_character_offset": 157,
+          "excerpt_characters": 33,
+          "excerpt_sha256": "fd45b3b298302095cf562d05fa2ffec64003826e96f0f57a0194836674825ac9"
+        }
+      ]
+    },
+    {
+      "id": "BUB-033",
+      "title": "Воображаемый штат редакции",
+      "group": "Редакция",
+      "source_urls": [
+        "https://exler.es/blog/mobile-world-congress-2022.htm",
+        "https://exler.es/blog/sagaro-i-playya-de-aro.htm"
+      ],
+      "comment_urls": [
+        "https://exler.es/blog/comments/mobile-world-congress-2022.htm#xvjp",
+        "https://exler.es/blog/comments/sagaro-i-playya-de-aro.htm#163i8"
+      ],
+      "excerpt_locators": [
+        {
+          "source_url": "https://exler.es/blog/mobile-world-congress-2022.htm",
+          "field": "own_comment",
+          "field_id": "https://exler.es/blog/comments/mobile-world-congress-2022.htm#xvjp",
+          "normalized_character_offset": 70,
+          "excerpt_characters": 15,
+          "excerpt_sha256": "c436057d636b3d9f9d70bfbd3a85cbc53c29089a56445c80ce9ff85ec0ba3c31"
+        }
+      ]
+    },
+    {
+      "id": "BUB-034",
+      "title": "Прямое объяснение местоимения «мы»",
+      "group": "Читатели",
+      "source_urls": [
+        "https://exler.es/blog/zheleznaya-logika-4.htm"
+      ],
+      "comment_urls": [
+        "https://exler.es/blog/comments/zheleznaya-logika-4.htm#1ndbi"
+      ],
+      "excerpt_locators": [
+        {
+          "source_url": "https://exler.es/blog/zheleznaya-logika-4.htm",
+          "field": "own_comment",
+          "field_id": "https://exler.es/blog/comments/zheleznaya-logika-4.htm#1ndbi",
+          "normalized_character_offset": 265,
+          "excerpt_characters": 42,
+          "excerpt_sha256": "41a39091546b82642821922afb7510ce607e50444133e6949a49ec3569a806af"
+        }
+      ]
+    },
+    {
+      "id": "BUB-035",
+      "title": "Контроль: Бублика можно убрать по совету читателей",
+      "group": "Читатели",
+      "source_urls": [
+        "https://exler.es/blog/moy-videokanal-s-retsenziyami-2.htm"
+      ],
+      "comment_urls": [
+        "https://exler.es/blog/comments/moy-videokanal-s-retsenziyami-2.htm#w5du",
+        "https://exler.es/blog/comments/moy-videokanal-s-retsenziyami-2.htm#w5f6"
+      ],
+      "excerpt_locators": [
+        {
+          "source_url": "https://exler.es/blog/moy-videokanal-s-retsenziyami-2.htm",
+          "field": "body",
+          "field_id": null,
+          "normalized_character_offset": 308,
+          "excerpt_characters": 23,
+          "excerpt_sha256": "bc41177014309062bc28ca3a5627d990014468c59b751d8dbf7f56b133c75699"
+        }
+      ]
+    },
+    {
+      "id": "BUB-036",
+      "title": "Аудитория поддерживает игру: приветы и товарный бренд",
+      "group": "Читатели",
+      "source_urls": [
+        "https://exler.es/blog/obed-v-portu.htm",
+        "https://exler.es/blog/travyanyye-chai.htm"
+      ],
+      "comment_urls": [
+        "https://exler.es/blog/comments/obed-v-portu.htm#1euxb",
+        "https://exler.es/blog/comments/travyanyye-chai.htm#1lbk4"
+      ],
+      "excerpt_locators": []
+    },
+    {
+      "id": "BUB-037",
+      "title": "Раздражение при просьбе убрать кота",
+      "group": "Читатели",
+      "source_urls": [
+        "https://exler.es/films/kompanon-1.htm"
+      ],
+      "comment_urls": [
+        "https://exler.es/films/comments/kompanon-1.htm#1iqbs"
+      ],
+      "excerpt_locators": [
+        {
+          "source_url": "https://exler.es/films/kompanon-1.htm",
+          "field": "own_comment",
+          "field_id": "https://exler.es/films/comments/kompanon-1.htm#1iqbs",
+          "normalized_character_offset": 320,
+          "excerpt_characters": 39,
+          "excerpt_sha256": "c41cece83c9a0d47578d0ab0d0bbbf77f1f8df680bf13c2ef8f2cec7931cc4d1"
+        }
+      ]
+    },
+    {
+      "id": "BUB-038",
+      "title": "Коллективный вкус и политические сплетни",
+      "group": "Политика и приличия",
+      "source_urls": [
+        "https://exler.es/blog/ocherednoy-el-shkandal-2.htm"
+      ],
+      "comment_urls": [],
+      "excerpt_locators": []
+    },
+    {
+      "id": "BUB-039",
+      "title": "Кот как реквизит профессионального огорчения",
+      "group": "Редакция",
+      "source_urls": [
+        "https://exler.es/blog/zhalobno-professionalnoye.htm"
+      ],
+      "comment_urls": [],
+      "excerpt_locators": [
+        {
+          "source_url": "https://exler.es/blog/zhalobno-professionalnoye.htm",
+          "field": "body",
+          "field_id": null,
+          "normalized_character_offset": 1521,
+          "excerpt_characters": 32,
+          "excerpt_sha256": "1266b84dc3a54d37e61960ceab213729f66c7caacc51f3160eb3f9faedebf125"
+        }
+      ]
+    },
+    {
+      "id": "BUB-040",
+      "title": "Ранний Бублик еще царапает повествователя",
+      "group": "Раннее кино",
+      "source_urls": [
+        "https://exler.es/films/skorost-2.htm"
+      ],
+      "comment_urls": [],
+      "excerpt_locators": [
+        {
+          "source_url": "https://exler.es/films/skorost-2.htm",
+          "field": "body",
+          "field_id": null,
+          "normalized_character_offset": 7660,
+          "excerpt_characters": 21,
+          "excerpt_sha256": "aad389ee840a332ebc07e75cf0dcca576be0a0e3936f13d3dad6c98c69ea4508"
+        }
+      ]
+    },
+    {
+      "id": "BUB-041",
+      "title": "Зрительный зал из автора и кота",
+      "group": "Раннее кино",
+      "source_urls": [
+        "https://exler.es/films/matrica-1.htm"
+      ],
+      "comment_urls": [],
+      "excerpt_locators": [
+        {
+          "source_url": "https://exler.es/films/matrica-1.htm",
+          "field": "body",
+          "field_id": null,
+          "normalized_character_offset": 4200,
+          "excerpt_characters": 42,
+          "excerpt_sha256": "217fa798fc8b5814c63fa530a1679d5b680e58ae1b14ef25f5a1971cae7f148b"
+        }
+      ]
+    },
+    {
+      "id": "BUB-042",
+      "title": "Кот соавтор придуманного продолжения сюжета",
+      "group": "Раннее кино",
+      "source_urls": [
+        "https://exler.es/films/moj-lyubimyj-marsianin.htm"
+      ],
+      "comment_urls": [],
+      "excerpt_locators": [
+        {
+          "source_url": "https://exler.es/films/moj-lyubimyj-marsianin.htm",
+          "field": "body",
+          "field_id": null,
+          "normalized_character_offset": 2041,
+          "excerpt_characters": 29,
+          "excerpt_sha256": "8741a4e04f71b179b1c409f63d4307da9a5f70c95b0e7e6fa5beed04052ef621"
+        }
+      ]
+    },
+    {
+      "id": "BUB-043",
+      "title": "Даже кот распознал сюжетную подсказку",
+      "group": "Раннее кино",
+      "source_urls": [
+        "https://exler.es/films/po-najmu.htm"
+      ],
+      "comment_urls": [],
+      "excerpt_locators": []
+    },
+    {
+      "id": "BUB-044",
+      "title": "Вопрос, который мог бы задать забаненный читатель",
+      "group": "Читатели",
+      "source_urls": [
+        "https://exler.es/blog/vopros-1.htm"
+      ],
+      "comment_urls": [],
+      "excerpt_locators": [
+        {
+          "source_url": "https://exler.es/blog/vopros-1.htm",
+          "field": "body",
+          "field_id": null,
+          "normalized_character_offset": 4073,
+          "excerpt_characters": 34,
+          "excerpt_sha256": "768be76d1b1b6b3936c0459a82e06e141007faa52e29f03940a1064d75a9c750"
+        }
+      ]
+    },
+    {
+      "id": "BUB-045",
+      "title": "Лестница интеллекта: автор, кот, стиральная машина",
+      "group": "Быт и еда",
+      "source_urls": [
+        "https://exler.es/blog/aykyu-kotikov.htm"
+      ],
+      "comment_urls": [],
+      "excerpt_locators": []
+    },
+    {
+      "id": "BUB-046",
+      "title": "Литературная сноска в историческом очерке",
+      "group": "Быт и еда",
+      "source_urls": [
+        "https://exler.es/ezhe/lyubopytnaya-istoriya-gaskonskogo-kadillaka.htm"
+      ],
+      "comment_urls": [],
+      "excerpt_locators": []
+    },
+    {
+      "id": "BUB-047",
+      "title": "Цена дорогого виски становится общим зрительским раздражением",
+      "group": "Кино",
+      "source_urls": [
+        "https://exler.es/films/shugar.htm"
+      ],
+      "comment_urls": [
+        "https://exler.es/films/comments/shugar.htm#1cdv8"
+      ],
+      "excerpt_locators": [
+        {
+          "source_url": "https://exler.es/films/shugar.htm",
+          "field": "own_comment",
+          "field_id": "https://exler.es/films/comments/shugar.htm#1cdv8",
+          "normalized_character_offset": 0,
+          "excerpt_characters": 93,
+          "excerpt_sha256": "6251afbc792896cc1dc955f5cfe7aceedcac2d215b5ee08f7264ac4c891ca1c4"
+        }
+      ]
+    },
+    {
+      "id": "BUB-048",
+      "title": "Нецензурное мнение, которое существует даже без цитаты",
+      "group": "Читатели",
+      "source_urls": [
+        "https://exler.es/blog/genialnoye-resheniye-2.htm"
+      ],
+      "comment_urls": [
+        "https://exler.es/blog/comments/genialnoye-resheniye-2.htm#1epbj"
+      ],
+      "excerpt_locators": [
+        {
+          "source_url": "https://exler.es/blog/genialnoye-resheniye-2.htm",
+          "field": "own_comment",
+          "field_id": "https://exler.es/blog/comments/genialnoye-resheniye-2.htm#1epbj",
+          "normalized_character_offset": 0,
+          "excerpt_characters": 38,
+          "excerpt_sha256": "4d4e84246a75745b58aa8f94221b96c1cdbdaf3b91278f3f15be530ac4e26cb4"
+        }
+      ]
+    },
+    {
+      "id": "BUB-049",
+      "title": "Кот отвечает за модную терминологию",
+      "group": "Кино",
+      "source_urls": [
+        "https://exler.es/films/proshloj-nochyu-v-soho.htm"
+      ],
+      "comment_urls": [],
+      "excerpt_locators": []
+    },
+    {
+      "id": "BUB-050",
+      "title": "Автор сам ограничивает свою зрительскую выборку",
+      "group": "Кино",
+      "source_urls": [
+        "https://exler.es/films/master-1.htm"
+      ],
+      "comment_urls": [],
+      "excerpt_locators": [
+        {
+          "source_url": "https://exler.es/films/master-1.htm",
+          "field": "body",
+          "field_id": null,
+          "normalized_character_offset": 4180,
+          "excerpt_characters": 45,
+          "excerpt_sha256": "e017730e1de84a332240139fc40097f445872ca2668472ebbab353916fdb4932"
+        }
+      ]
+    }
+  ],
+  "copyright_note": "Full source HTML, PDF and full quoted texts are not republished; excerpt offsets refer to whitespace-normalized parsed fields.",
+  "limitations": [
+    "Source dates do not authenticate earlier versions of a page.",
+    "Downloaded and parsed is not the same as manually read in full.",
+    "Fictional character dialogue is not an independent witness or a clinical measure."
+  ]
+}
